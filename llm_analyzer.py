@@ -27,27 +27,59 @@ class LLMAnalyzer:
         """Build a text summary of repositories for LLM input"""
         summary_parts = []
         for i, repo in enumerate(repos, 1):
+            topics = ", ".join(repo.get("topics", [])[:5]) if repo.get("topics") else "无"
             summary_parts.append(
                 f"{i}. **{repo.get('full_name', 'Unknown')}** ({repo.get('language', 'Unknown')})\n"
                 f"   - ⭐ Stars: {repo.get('stars', 0):,} (+{repo.get('stars_today', 0):,} today)\n"
                 f"   - 🍴 Forks: {repo.get('forks', 0):,}\n"
                 f"   - 📝 Description: {repo.get('description', 'No description')}\n"
+                f"   - 🏷️ Topics: {topics}\n"
                 f"   - 🔗 URL: {repo.get('url', '')}"
             )
         return "\n\n".join(summary_parts)
 
+    def _build_detailed_repo_info(self, repo: Dict) -> str:
+        """Build detailed repository info including README excerpt"""
+        info_parts = [
+            f"## 项目: {repo.get('full_name', 'Unknown')}",
+            f"- **编程语言**: {repo.get('language', 'Unknown')}",
+            f"- **Star 数**: {repo.get('stars', 0):,} (+{repo.get('stars_today', 0):,} today)",
+            f"- **Fork 数**: {repo.get('forks', 0):,}",
+            f"- **Open Issues**: {repo.get('open_issues', 0):,}",
+            f"- **License**: {repo.get('license', 'Unknown')}",
+            f"- **项目描述**: {repo.get('description', 'No description')}",
+        ]
+        
+        # Topics
+        if repo.get("topics"):
+            info_parts.append(f"- **Topics**: {', '.join(repo['topics'][:10])}")
+        
+        # Languages breakdown
+        if repo.get("languages"):
+            total = sum(repo["languages"].values())
+            lang_breakdown = ", ".join([
+                f"{lang}: {bytes/total*100:.1f}%" 
+                for lang, bytes in list(repo["languages"].items())[:5]
+            ])
+            info_parts.append(f"- **语言分布**: {lang_breakdown}")
+        
+        # Recent commits
+        if repo.get("recent_commits"):
+            info_parts.append("\n**最近提交**:")
+            for commit in repo["recent_commits"][:3]:
+                info_parts.append(f"  - [{commit['sha']}] {commit['message']}")
+        
+        # README excerpt
+        if repo.get("readme_excerpt"):
+            # 截取 README 的前 800 字符
+            readme = repo["readme_excerpt"][:800]
+            info_parts.append(f"\n**README 摘要**:\n```\n{readme}\n```")
+        
+        return "\n".join(info_parts)
+
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
     def analyze_trends(self, repos: List[Dict], analysis_type: str = "comprehensive") -> str:
-        """
-        Analyze trending repositories using LLM
-        
-        Args:
-            repos: List of repository dictionaries
-            analysis_type: Type of analysis - 'comprehensive', 'brief', 'technical'
-        
-        Returns:
-            Analysis text from LLM
-        """
+        """Analyze trending repositories using LLM"""
         repos_summary = self._build_repos_summary(repos)
         
         prompts = {
@@ -135,39 +167,56 @@ class LLMAnalyzer:
         return response.choices[0].message.content
 
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
-    def analyze_single_repo(self, repo: Dict) -> str:
+    def analyze_single_repo_detailed(self, repo: Dict) -> str:
         """
-        Analyze a single repository in detail
+        Analyze a single repository in detail with README context
         
         Args:
-            repo: Repository dictionary
+            repo: Repository dictionary with enriched data
         
         Returns:
             Detailed analysis text
         """
-        prompt = f"""请对以下 GitHub 项目进行详细分析：
+        repo_info = self._build_detailed_repo_info(repo)
+        
+        prompt = f"""请对以下 GitHub 项目进行深度分析和解读：
 
-项目名称: {repo.get('full_name', 'Unknown')}
-编程语言: {repo.get('language', 'Unknown')}
-Star 数: {repo.get('stars', 0):,}
-今日新增 Star: {repo.get('stars_today', 0):,}
-Fork 数: {repo.get('forks', 0):,}
-项目描述: {repo.get('description', 'No description')}
-项目链接: {repo.get('url', '')}
+{repo_info}
 
-请用中文提供以下分析：
-1. 项目定位和主要功能
-2. 技术特点和创新之处
-3. 适用场景和目标用户
-4. 项目优势和潜在不足
-5. 学习和使用建议"""
+请用中文提供详细的项目解读，包括以下内容：
+
+### 🎯 项目定位
+- 这个项目是什么？解决什么问题？
+- 核心功能和特性有哪些？
+
+### 💡 技术亮点
+- 项目采用了哪些技术？有什么创新之处？
+- 架构设计有什么特点？
+
+### 👥 目标用户
+- 这个项目适合谁使用？
+- 有哪些典型的使用场景？
+
+### 📈 发展潜力
+- 基于当前数据，项目的发展趋势如何？
+- 社区活跃度如何？
+
+### 🔧 快速上手
+- 如何快速开始使用这个项目？
+- 有哪些学习资源推荐？
+
+### ⚠️ 注意事项
+- 使用时需要注意什么？
+- 有哪些已知的限制或问题？
+
+请确保分析基于提供的信息，内容专业且对开发者有实际帮助。"""
 
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[
                 {
                     "role": "system",
-                    "content": "你是一位专业的开源项目分析师，擅长深入分析项目的技术特点和应用价值。"
+                    "content": "你是一位资深的开源项目分析师和技术专家。你擅长深入分析项目的技术细节、应用价值和发展潜力。请基于提供的项目信息（包括README内容）进行准确、专业的分析。"
                 },
                 {
                     "role": "user",
@@ -175,25 +224,27 @@ Fork 数: {repo.get('forks', 0):,}
                 }
             ],
             temperature=0.7,
-            max_tokens=2000
+            max_tokens=2500
         )
         
         return response.choices[0].message.content
 
-    def generate_daily_report(self, repos: List[Dict], date_str: str) -> str:
+    def generate_daily_report(self, repos: List[Dict], date_str: str, detailed_analysis: bool = True) -> str:
         """
-        Generate a complete daily report
+        Generate a complete daily report with optional detailed project analysis
         
         Args:
             repos: List of repository dictionaries
-            date_str: Date string for the report (e.g., '2026-01-12')
+            date_str: Date string for the report
+            detailed_analysis: Whether to include detailed analysis for top projects
         
         Returns:
             Complete markdown report with Docusaurus frontmatter
         """
-        analysis = self.analyze_trends(repos, "comprehensive")
+        print("🤖 Generating overall trend analysis...")
+        overall_analysis = self.analyze_trends(repos, "comprehensive")
         
-        # Build the complete report with Docusaurus frontmatter
+        # Build the report
         report_parts = [
             "---",
             f"sidebar_position: 1",
@@ -202,48 +253,67 @@ Fork 数: {repo.get('forks', 0):,}
             "---\n",
             f"# 📈 GitHub Trending 日报 - {date_str}\n",
             f"> 本报告由 AI 自动生成，分析了 GitHub 当日 {len(repos)} 个热门项目\n",
-            "---\n",
+        ]
+        
+        # Table of Contents
+        report_parts.extend([
+            "## 📑 目录\n",
+            "- [今日热门项目列表](#-今日热门项目列表)",
+            "- [AI 趋势分析](#-ai-趋势分析)",
+        ])
+        
+        if detailed_analysis:
+            report_parts.append("- [重点项目深度解读](#-重点项目深度解读)")
+        
+        report_parts.append("\n---\n")
+        
+        # Project List
+        report_parts.extend([
             "## 📋 今日热门项目列表\n",
             self._build_repos_summary(repos),
             "\n---\n",
-            "## 🤖 AI 分析报告\n",
-            analysis,
+        ])
+        
+        # Overall Analysis
+        report_parts.extend([
+            "## 🤖 AI 趋势分析\n",
+            overall_analysis,
             "\n---\n",
-            f"*Generated by GitHub Trending Reporter | Data collected at {date_str}*"
-        ]
+        ])
+        
+        # Detailed Analysis for Top Projects
+        if detailed_analysis:
+            report_parts.append("## 🔬 重点项目深度解读\n")
+            report_parts.append("> 以下是对今日 Top 5 热门项目的详细解读\n\n")
+            
+            # Analyze top 5 projects
+            top_repos = repos[:5]
+            for i, repo in enumerate(top_repos, 1):
+                print(f"🔍 Analyzing project {i}/{len(top_repos)}: {repo.get('full_name')}...")
+                
+                report_parts.append(f"### {i}. {repo.get('full_name', 'Unknown')}\n")
+                report_parts.append(f"![{repo.get('name')}](https://opengraph.githubassets.com/1/{repo.get('full_name')})\n")
+                
+                try:
+                    detailed = self.analyze_single_repo_detailed(repo)
+                    report_parts.append(detailed)
+                except Exception as e:
+                    print(f"  ⚠️ Error analyzing {repo.get('full_name')}: {e}")
+                    report_parts.append(f"*分析生成失败: {str(e)}*")
+                
+                report_parts.append("\n---\n")
+        
+        # Footer
+        report_parts.append(f"\n*Generated by GitHub Trending Reporter | Data collected at {date_str}*")
         
         return "\n".join(report_parts)
 
 
 def analyze_trending(repos: List[Dict], analysis_type: str = "comprehensive") -> str:
-    """
-    Convenience function to analyze trending repositories
-    
-    Args:
-        repos: List of repository dictionaries
-        analysis_type: Type of analysis
-    
-    Returns:
-        Analysis text
-    """
+    """Convenience function to analyze trending repositories"""
     analyzer = LLMAnalyzer()
     return analyzer.analyze_trends(repos, analysis_type)
 
 
 if __name__ == "__main__":
-    # Test with sample data
-    sample_repos = [
-        {
-            "full_name": "test/repo",
-            "language": "Python",
-            "stars": 1000,
-            "stars_today": 100,
-            "forks": 50,
-            "description": "A test repository",
-            "url": "https://github.com/test/repo"
-        }
-    ]
-    
-    analyzer = LLMAnalyzer()
-    print("Testing LLM Analyzer...")
-    # Note: Will fail without valid API key
+    print("LLM Analyzer module - requires valid API key to test")

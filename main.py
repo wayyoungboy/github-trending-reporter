@@ -22,7 +22,8 @@ def run_report(
     analysis_type: str = "comprehensive",
     push_to_repo: bool = True,
     output_local: bool = False,
-    date_str: Optional[str] = None
+    date_str: Optional[str] = None,
+    detailed_analysis: bool = True
 ) -> bool:
     """
     Run the complete trending report workflow
@@ -34,6 +35,7 @@ def run_report(
         push_to_repo: Whether to push results to GitHub repository
         output_local: Whether to save results locally
         date_str: Override date string (for testing)
+        detailed_analysis: Whether to include detailed analysis for top projects
     
     Returns:
         True if successful
@@ -45,6 +47,7 @@ def run_report(
     print(f"   Language filter: {language or 'All'}")
     print(f"   Time range: {since}")
     print(f"   Analysis type: {analysis_type}")
+    print(f"   Detailed analysis: {'Yes (Top 5 projects)' if detailed_analysis else 'No'}")
     print()
     
     # Step 1: Fetch trending repositories
@@ -64,7 +67,7 @@ def run_report(
     print("🤖 Analyzing with LLM...")
     try:
         analyzer = LLMAnalyzer()
-        report = analyzer.generate_daily_report(repos, date_str)
+        report = analyzer.generate_daily_report(repos, date_str, detailed_analysis=detailed_analysis)
         print("   Analysis complete")
     except Exception as e:
         print(f"❌ Error during LLM analysis: {e}")
@@ -220,6 +223,12 @@ def main():
         help="Override date string (format: YYYY-MM-DD)"
     )
     
+    parser.add_argument(
+        "--no-detailed",
+        action="store_true",
+        help="Skip detailed analysis for individual projects"
+    )
+    
     args = parser.parse_args()
     
     success = run_report(
@@ -228,7 +237,8 @@ def main():
         analysis_type=args.analysis,
         push_to_repo=not args.no_push,
         output_local=args.local,
-        date_str=args.date
+        date_str=args.date,
+        detailed_analysis=not args.no_detailed
     )
     
     sys.exit(0 if success else 1)

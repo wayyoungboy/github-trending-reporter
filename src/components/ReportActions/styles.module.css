@@ -1,0 +1,206 @@
+/* 容器 */
+.container {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 100;
+}
+
+/* Toast 提示 */
+.toast {
+  position: absolute;
+  bottom: calc(100% + 1rem);
+  right: 0;
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  color: white;
+  padding: 0.75rem 1.25rem;
+  border-radius: 12px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  box-shadow: 0 10px 40px rgba(16, 185, 129, 0.4);
+  animation: slideIn 0.3s ease-out;
+  white-space: nowrap;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 操作按钮容器 */
+.actions {
+  display: flex;
+  gap: 0.75rem;
+  background: rgba(15, 15, 35, 0.95);
+  backdrop-filter: blur(20px);
+  padding: 0.75rem;
+  border-radius: 16px;
+  border: 1px solid rgba(99, 102, 241, 0.3);
+  box-shadow: 
+    0 20px 60px rgba(0, 0, 0, 0.5),
+    0 0 40px rgba(99, 102, 241, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+/* 按钮组 */
+.actionGroup {
+  position: relative;
+}
+
+/* 主按钮 */
+.actionButton {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.625rem 1rem;
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.2) 0%, rgba(139, 92, 246, 0.2) 100%);
+  border: 1px solid rgba(99, 102, 241, 0.4);
+  border-radius: 10px;
+  color: #e4e4e7;
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.actionButton:hover {
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.4) 0%, rgba(139, 92, 246, 0.4) 100%);
+  border-color: rgba(99, 102, 241, 0.6);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(99, 102, 241, 0.3);
+}
+
+.actionButton:active {
+  transform: translateY(0);
+}
+
+.actionButton svg {
+  flex-shrink: 0;
+}
+
+.chevron {
+  margin-left: 0.25rem;
+  transition: transform 0.2s ease;
+}
+
+.actionGroup:hover .chevron {
+  transform: translateY(2px);
+}
+
+/* 下拉菜单 */
+.dropdown {
+  position: absolute;
+  bottom: calc(100% + 0.5rem);
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(15, 15, 35, 0.98);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(99, 102, 241, 0.3);
+  border-radius: 12px;
+  padding: 0.5rem;
+  min-width: 200px;
+  box-shadow: 
+    0 20px 60px rgba(0, 0, 0, 0.6),
+    0 0 30px rgba(99, 102, 241, 0.1);
+  animation: dropdownIn 0.2s ease-out;
+}
+
+@keyframes dropdownIn {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+/* 下拉菜单项 */
+.dropdownItem {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  background: transparent;
+  border: none;
+  border-radius: 8px;
+  color: #e4e4e7;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  text-align: left;
+}
+
+.dropdownItem:hover {
+  background: rgba(99, 102, 241, 0.15);
+}
+
+.dropdownItem svg {
+  flex-shrink: 0;
+  color: #a5b4fc;
+}
+
+.dropdownItem span:first-of-type {
+  flex: 1;
+}
+
+.hint {
+  font-size: 0.75rem;
+  color: #71717a;
+  margin-left: auto;
+}
+
+/* 响应式 */
+@media (max-width: 768px) {
+  .container {
+    bottom: 1rem;
+    right: 1rem;
+    left: 1rem;
+  }
+
+  .actions {
+    justify-content: center;
+    width: 100%;
+  }
+
+  .actionButton span:not(.chevron) {
+    display: none;
+  }
+
+  .dropdown {
+    left: auto;
+    right: 0;
+    transform: none;
+  }
+
+  @keyframes dropdownIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* 深色主题优化 */
+[data-theme='dark'] .container {
+  /* 已经是深色主题优化的样式 */
+}
+
+/* 打印时隐藏 */
+@media print {
+  .container {
+    display: none;
+  }
+}

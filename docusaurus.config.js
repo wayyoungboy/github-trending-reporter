@@ -23,6 +23,43 @@ const config = {
     locales: ['zh-Hans'],
   },
 
+  // 插件配置 - 复制 markdown 源文件到静态目录
+  plugins: [
+    async function copyMarkdownPlugin(context, options) {
+      return {
+        name: 'copy-markdown-plugin',
+        async postBuild({ outDir }) {
+          const fs = require('fs');
+          const path = require('path');
+          
+          // 复制 reports 目录到 build 目录
+          const copyDir = (src, dest) => {
+            if (!fs.existsSync(dest)) {
+              fs.mkdirSync(dest, { recursive: true });
+            }
+            const files = fs.readdirSync(src);
+            for (const file of files) {
+              const srcPath = path.join(src, file);
+              const destPath = path.join(dest, file);
+              const stat = fs.statSync(srcPath);
+              if (stat.isDirectory()) {
+                copyDir(srcPath, destPath);
+              } else if (file.endsWith('.md')) {
+                fs.copyFileSync(srcPath, destPath);
+              }
+            }
+          };
+          
+          const reportsDir = path.join(context.siteDir, 'reports');
+          const outReportsDir = path.join(outDir, 'reports');
+          if (fs.existsSync(reportsDir)) {
+            copyDir(reportsDir, outReportsDir);
+          }
+        },
+      };
+    },
+  ],
+
   presets: [
     [
       'classic',

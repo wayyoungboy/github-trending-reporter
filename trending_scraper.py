@@ -175,7 +175,6 @@ class TrendingScraper:
             if response.status_code == 200:
                 return response.json()
             elif response.status_code == 403:
-                # Rate limit exceeded
                 print(f"GitHub API rate limit exceeded for {full_name}")
                 return None
             else:
@@ -184,28 +183,83 @@ class TrendingScraper:
             print(f"Error fetching API data for {full_name}: {e}")
             return None
 
-    def _enrich_with_api(self, repositories: List[Dict]) -> List[Dict]:
+    def _fetch_readme(self, full_name: str) -> Optional[str]:
+        """Fetch repository README content"""
+        try:
+            url = f"{self.github_api_url}/repos/{full_name}/readme"
+            response = requests.get(url, headers=self.api_headers, timeout=self.timeout)
+            
+            if response.status_code == 200:
+                import base64
+                data = response.json()
+                content = base64.b64decode(data.get("content", "")).decode("utf-8")
+                # 截取前 2000 字符，避免太长
+                return content[:2000] if len(content) > 2000 else content
+            return None
+        except Exception as e:
+            print(f"Error fetching README for {full_name}: {e}")
+            return None
+
+    def _fetch_recent_commits(self, full_name: str, count: int = 5) -> List[Dict]:
+        """Fetch recent commits"""
+        try:
+            url = f"{self.github_api_url}/repos/{full_name}/commits?per_page={count}"
+            response = requests.get(url, headers=self.api_headers, timeout=self.timeout)
+            
+            if response.status_code == 200:
+                commits = response.json()
+                return [
+                    {
+                        "sha": c.get("sha", "")[:7],
+                        "message": c.get("commit", {}).get("message", "").split("\n")[0][:100],
+                        "date": c.get("commit", {}).get("committer", {}).get("date"),
+                        "author": c.get("commit", {}).get("author", {}).get("name")
+                    }
+                    for c in commits
+                ]
+            return []
+        except Exception as e:
+            print(f"Error fetching commits for {full_name}: {e}")
+            return []
+
+    def _fetch_languages(self, full_name: str) -> Dict[str, int]:
+        """Fetch repository languages breakdown"""
+        try:
+            url = f"{self.github_api_url}/repos/{full_name}/languages"
+            response = requests.get(url, headers=self.api_headers, timeout=self.timeout)
+            
+            if response.status_code == 200:
+                return response.json()
+            return {}
+        except Exception as e:
+            print(f"Error fetching languages for {full_name}: {e}")
+            return {}
+
+    def _enrich_with_api(self, repositories: List[Dict], fetch_details: bool = True) -> List[Dict]:
         """
         Enrich repository data with GitHub API information
         
         Args:
             repositories: List of repository dictionaries from scraping
+            fetch_details: Whether to fetch README, commits, languages (more API calls)
         
         Returns:
             Enriched list of repository dictionaries
         """
         enriched = []
         
-        for repo in repositories:
+        for i, repo in enumerate(repositories):
             full_name = repo.get("full_name")
             if not full_name:
                 enriched.append(repo)
                 continue
             
+            print(f"  [{i+1}/{len(repositories)}] Enriching {full_name}...")
+            
             api_data = self._fetch_repo_api(full_name)
             
             if api_data:
-                # Merge API data with scraped data
+                # Basic API data
                 repo["stars"] = api_data.get("stargazers_count", repo.get("stars", 0))
                 repo["forks"] = api_data.get("forks_count", repo.get("forks", 0))
                 repo["watchers"] = api_data.get("watchers_count", 0)
@@ -218,10 +272,31 @@ class TrendingScraper:
                 repo["homepage"] = api_data.get("homepage")
                 repo["default_branch"] = api_data.get("default_branch")
                 repo["archived"] = api_data.get("archived", False)
+                repo["size"] = api_data.get("size", 0)  # KB
+                repo["has_wiki"] = api_data.get("has_wiki", False)
+                repo["has_pages"] = api_data.get("has_pages", False)
+                repo["has_discussions"] = api_data.get("has_discussions", False)
                 
                 # Use API description if scraped one is empty
                 if not repo.get("description") and api_data.get("description"):
                     repo["description"] = api_data.get("description")
+                
+                # Fetch additional details for top projects (limit API calls)
+                if fetch_details and i < 10:  # Only top 10 projects
+                    # README
+                    readme = self._fetch_readme(full_name)
+                    if readme:
+                        repo["readme_excerpt"] = readme
+                    
+                    # Recent commits
+                    commits = self._fetch_recent_commits(full_name, 5)
+                    if commits:
+                        repo["recent_commits"] = commits
+                    
+                    # Languages breakdown
+                    languages = self._fetch_languages(full_name)
+                    if languages:
+                        repo["languages"] = languages
             
             enriched.append(repo)
         

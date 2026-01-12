@@ -354,3 +354,56 @@ body {
 .DocSearch-Button:hover {
   border-color: #667eea !important;
 }
+
+/* ============================================
+   Print Styles
+   ============================================ */
+@media print {
+  .navbar,
+  .footer,
+  .docSidebarContainer,
+  .theme-doc-toc-desktop,
+  .pagination-nav {
+    display: none !important;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  .markdown {
+    color: black !important;
+  }
+
+  .markdown h1 {
+    background: none !important;
+    -webkit-text-fill-color: black !important;
+    color: black !important;
+  }
+
+  .markdown h2,
+  .markdown h3 {
+    color: black !important;
+  }
+
+  .markdown a {
+    color: #0066cc !important;
+  }
+
+  .markdown code {
+    background: #f5f5f5 !important;
+    color: #333 !important;
+  }
+
+  .markdown pre {
+    background: #f5f5f5 !important;
+    border: 1px solid #ddd !important;
+  }
+
+  .markdown blockquote {
+    background: #f9f9f9 !important;
+    border-left-color: #0066cc !important;
+    color: #666 !important;
+  }
+}
