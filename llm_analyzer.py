@@ -421,8 +421,8 @@ graph LR
         if detailed_analysis:
             report_parts.append("## ✨ 重点项目深度解读\n")
             
-            # 按今日star数排序取前5
-            top_repos = sorted(repos, key=lambda x: x.get('stars_today', 0), reverse=True)[:5]
+            # 按今日star数排序，全部项目都进行深度解读
+            top_repos = sorted(repos, key=lambda x: x.get('stars_today', 0), reverse=True)
             
             for i, repo in enumerate(top_repos, 1):
                 print(f"🔍 Analyzing project {i}/{len(top_repos)}: {repo.get('full_name')}...")
