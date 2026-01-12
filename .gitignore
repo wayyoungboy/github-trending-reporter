@@ -3,50 +3,32 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual Environment
 venv/
-ENV/
-env/
 .venv/
+*.egg-info/
+
+# Node.js
+node_modules/
+build/
+.docusaurus/
+.cache-loader/
+
+# Environment
+.env
+.env.local
+
+# Output
+output/
 
 # IDE
 .idea/
 .vscode/
 *.swp
-*.swo
-*~
-
-# Environment variables
-.env
-.env.local
-.env.*.local
-
-# Output files
-output/
-*.log
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Test
-.pytest_cache/
-.coverage
-htmlcov/
+# Logs
+*.log
+npm-debug.log*

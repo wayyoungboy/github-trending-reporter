@@ -1,0 +1,71 @@
+/**
+ * GitHub Trending Reporter - Custom Styles
+ */
+
+:root {
+  --ifm-color-primary: #238636;
+  --ifm-color-primary-dark: #1f7a30;
+  --ifm-color-primary-darker: #1c722d;
+  --ifm-color-primary-darkest: #175e25;
+  --ifm-color-primary-light: #2a9d3c;
+  --ifm-color-primary-lighter: #2ea641;
+  --ifm-color-primary-lightest: #3ab54d;
+  
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #f6f8fa;
+  --ifm-navbar-background-color: #24292f;
+  --ifm-footer-background-color: #24292f;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #3fb950;
+  --ifm-color-primary-dark: #38a748;
+  --ifm-color-primary-darker: #359e44;
+  --ifm-color-primary-darkest: #2c8438;
+  --ifm-color-primary-light: #4cc258;
+  --ifm-color-primary-lighter: #52c65d;
+  --ifm-color-primary-lightest: #63cd6c;
+  
+  --ifm-background-color: #0d1117;
+  --ifm-background-surface-color: #161b22;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --ifm-font-family-base: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.hero {
+  background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #21262d 100%);
+  padding: 4rem 0;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(circle at 30% 20%, rgba(63, 185, 80, 0.15) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.markdown h1 {
+  border-bottom: 2px solid var(--ifm-color-primary);
+  padding-bottom: 0.5rem;
+}
+
+.markdown h2 {
+  color: var(--ifm-color-primary);
+}
+
+blockquote {
+  background: linear-gradient(90deg, rgba(35, 134, 54, 0.1) 0%, transparent 100%);
+  border-left: 4px solid var(--ifm-color-primary);
+  border-radius: 0 8px 8px 0;
+}

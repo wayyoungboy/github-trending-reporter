@@ -1,133 +1,110 @@
-name: Daily GitHub Trending Report
+name: Daily Report & Deploy
 
 on:
-  # Run daily at 00:00 UTC (08:00 Beijing Time)
   schedule:
-    - cron: '0 0 * * *'
-  
-  # Allow manual trigger
+    - cron: '0 0 * * *'  # 每天 UTC 00:00
   workflow_dispatch:
-    inputs:
-      language:
-        description: 'Programming language filter (leave empty for all)'
-        required: false
-        default: ''
-      since:
-        description: 'Time range (daily, weekly, monthly)'
-        required: false
-        default: 'daily'
-      analysis_type:
-        description: 'Analysis type (comprehensive, brief, technical)'
-        required: false
-        default: 'comprehensive'
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 env:
   PYTHON_VERSION: '3.11'
+  NODE_VERSION: '20'
 
 jobs:
+  # Job 1: 生成报告（仅定时或手动触发）
   generate-report:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
-    
     steps:
-      - name: 📥 Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
       
-      - name: 🐍 Set up Python
+      - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
-          cache: 'pip'
       
-      - name: 📦 Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+      - name: 📦 Install Python dependencies
+        run: pip install -r requirements.txt
       
-      - name: 🚀 Generate trending report
+      - name: 🚀 Generate report
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
           LLM_MODEL: ${{ secrets.LLM_MODEL }}
           GITHUB_API_TOKEN: ${{ secrets.GITHUB_API_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.DATA_REPO_TOKEN }}
-          DATA_REPO_OWNER: ${{ github.repository_owner }}
-          DATA_REPO_NAME: github-trending-reporter-data
-        run: |
-          # Set language filter if provided
-          LANGUAGE_ARG=""
-          if [ -n "${{ github.event.inputs.language }}" ]; then
-            LANGUAGE_ARG="-l ${{ github.event.inputs.language }}"
-          fi
-          
-          # Set since filter (use input or default)
-          SINCE_ARG="-s ${{ github.event.inputs.since || 'daily' }}"
-          
-          # Set analysis type (use input or default)
-          ANALYSIS_ARG="-a ${{ github.event.inputs.analysis_type || 'comprehensive' }}"
-          
-          # Run the report generator
-          python main.py $LANGUAGE_ARG $SINCE_ARG $ANALYSIS_ARG --local
+        run: python main.py --local --no-push
       
-      - name: 📤 Upload artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: trending-report-${{ github.run_id }}
-          path: output/
-          retention-days: 30
-      
-      - name: 📊 Report summary
+      - name: 📁 Move output to reports
         run: |
-          echo "## 📈 GitHub Trending Report" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "Report generated successfully!" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          if [ -f "output/*.md" ]; then
-            echo "### Report Preview" >> $GITHUB_STEP_SUMMARY
-            head -50 output/*.md >> $GITHUB_STEP_SUMMARY
+          DATE=$(date +%Y-%m-%d)
+          YEAR=$(date +%Y)
+          MONTH=$(date +%m)
+          mkdir -p reports/$YEAR/$MONTH data/$YEAR/$MONTH
+          if [ -f output/$DATE.md ]; then
+            cp output/$DATE.md reports/$YEAR/$MONTH/
           fi
+          if [ -f output/$DATE.json ]; then
+            cp output/$DATE.json data/$YEAR/$MONTH/
+          fi
+      
+      - name: 📤 Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/ data/
+          git diff --staged --quiet || git commit -m "📈 Add report for $(date +%Y-%m-%d)"
+          git push
 
-  # Optional: Generate reports for specific languages
-  generate-language-reports:
+  # Job 2: 构建部署网站
+  build-deploy:
     runs-on: ubuntu-latest
-    if: github.event_name == 'schedule'
-    needs: generate-report
-    
-    strategy:
-      matrix:
-        language: [python, javascript, typescript, go, rust]
-      fail-fast: false
-    
+    needs: [generate-report]
+    if: always() && (needs.generate-report.result == 'success' || needs.generate-report.result == 'skipped')
     steps:
-      - name: 📥 Checkout repository
-        uses: actions/checkout@v4
-      
-      - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
         with:
-          python-version: ${{ env.PYTHON_VERSION }}
-          cache: 'pip'
+          ref: main
+          fetch-depth: 0
+      
+      - name: 🔄 Pull latest changes
+        run: git pull origin main
+      
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
       
       - name: 📦 Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+        run: npm install
       
-      - name: 🚀 Generate ${{ matrix.language }} trending report
-        env:
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
-          LLM_MODEL: ${{ secrets.LLM_MODEL }}
-          GITHUB_API_TOKEN: ${{ secrets.GITHUB_API_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.DATA_REPO_TOKEN }}
-          DATA_REPO_OWNER: ${{ github.repository_owner }}
-          DATA_REPO_NAME: github-trending-reporter-data
-        run: |
-          python main.py -l ${{ matrix.language }} -a brief --local
-        continue-on-error: true
+      - name: 🔧 Generate sidebar
+        run: npm run generate-sidebar
       
-      - name: 📤 Upload artifacts
-        uses: actions/upload-artifact@v4
+      - name: 🏗️ Build
+        run: npm run build
+      
+      - name: 📤 Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: trending-report-${{ matrix.language }}-${{ github.run_id }}
-          path: output/
-          retention-days: 30
+          path: build
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build-deploy
+    steps:
+      - name: 🚀 Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

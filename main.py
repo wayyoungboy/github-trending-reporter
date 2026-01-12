@@ -112,9 +112,14 @@ def generate_basic_report(repos: list, date_str: str) -> str:
         date_str: Date string
     
     Returns:
-        Basic markdown report
+        Basic markdown report with Docusaurus frontmatter
     """
     report_parts = [
+        "---",
+        f"sidebar_position: 1",
+        f"title: {date_str} 日报",
+        f"description: GitHub Trending 每日热门项目报告 - {date_str}",
+        "---\n",
         f"# 📈 GitHub Trending 日报 - {date_str}\n",
         f"> 本报告包含 GitHub 当日 {len(repos)} 个热门项目\n",
         "---\n",

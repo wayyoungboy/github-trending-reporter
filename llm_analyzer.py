@@ -189,12 +189,17 @@ Fork 数: {repo.get('forks', 0):,}
             date_str: Date string for the report (e.g., '2026-01-12')
         
         Returns:
-            Complete markdown report
+            Complete markdown report with Docusaurus frontmatter
         """
         analysis = self.analyze_trends(repos, "comprehensive")
         
-        # Build the complete report
+        # Build the complete report with Docusaurus frontmatter
         report_parts = [
+            "---",
+            f"sidebar_position: 1",
+            f"title: {date_str} 日报",
+            f"description: GitHub Trending 每日热门项目报告 - {date_str}",
+            "---\n",
             f"# 📈 GitHub Trending 日报 - {date_str}\n",
             f"> 本报告由 AI 自动生成，分析了 GitHub 当日 {len(repos)} 个热门项目\n",
             "---\n",
