@@ -9,13 +9,13 @@
       "url": "https://github.com/DioxusLabs/dioxus",
       "description": "Fullstack app framework for web, desktop, and mobile.",
       "language": "Rust",
-      "stars": 33427,
+      "stars": 33434,
       "forks": 1462,
       "stars_today": 190,
       "built_by": [
-        "mrxiaozhuox",
-        "rMazeiks",
         "DogeDark",
+        "rMazeiks",
+        "mrxiaozhuox",
         "jkelleyrtp",
         "ealmloff"
       ]
@@ -27,14 +27,14 @@
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
-      "stars": 42068,
-      "forks": 9346,
+      "stars": 42076,
+      "forks": 9347,
       "stars_today": 139,
       "built_by": [
-        "2513502304",
-        "gaoxiaobei",
+        "persist-1",
         "BaoZhuhan",
-        "persist-1"
+        "gaoxiaobei",
+        "2513502304"
       ]
     },
     {
@@ -44,14 +44,14 @@
       "url": "https://github.com/frankbria/ralph-claude-code",
       "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
       "language": "Shell",
-      "stars": 2019,
+      "stars": 2034,
       "forks": 140,
       "stars_today": 667,
       "built_by": [
-        "macroscopeapp",
-        "epan",
+        "ikanc",
         "claude",
-        "ikanc"
+        "macroscopeapp",
+        "epan"
       ]
     },
     {
@@ -61,15 +61,15 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars": 109253,
-      "forks": 5324,
+      "stars": 109259,
+      "forks": 5325,
       "stars_today": 163,
       "built_by": [
         "UltraHDR",
-        "BellezaEmporium",
-        "iptv-bot",
         "freearhey",
-        "Dum4G"
+        "iptv-bot",
+        "Dum4G",
+        "BellezaEmporium"
       ]
     },
     {
@@ -79,14 +79,14 @@
       "url": "https://github.com/hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 77377,
+      "stars": 77386,
       "forks": 11304,
       "stars_today": 110,
       "built_by": [
-        "vic4key",
+        "kier007",
         "KRSHH",
-        "pereiraroland26",
-        "kier007"
+        "vic4key",
+        "pereiraroland26"
       ]
     },
     {
@@ -96,15 +96,15 @@
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
-      "stars": 23096,
+      "stars": 23105,
       "forks": 2238,
       "stars_today": 492,
       "built_by": [
         "skychx",
-        "ZhaoHeh",
+        "ycjcl868",
         "ulivz",
-        "cjraft",
-        "ycjcl868"
+        "ZhaoHeh",
+        "cjraft"
       ]
     },
     {
@@ -114,14 +114,14 @@
       "url": "https://github.com/obra/superpowers",
       "description": "Claude Code superpowers: core skills library",
       "language": "Shell",
-      "stars": 18273,
+      "stars": 18322,
       "forks": 1419,
       "stars_today": 1547,
       "built_by": [
-        "jjshanks",
         "claude",
+        "sotte",
         "rhuss",
-        "sotte"
+        "jjshanks"
       ]
     },
     {
@@ -131,14 +131,14 @@
       "url": "https://github.com/ruvnet/claude-flow",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
       "language": "JavaScript",
-      "stars": 11535,
+      "stars": 11546,
       "forks": 1481,
       "stars_today": 80,
       "built_by": [
-        "alexx-ftw",
         "claude",
-        "tommy-ca",
-        "lanemc"
+        "alexx-ftw",
+        "lanemc",
+        "tommy-ca"
       ]
     },
     {
@@ -148,15 +148,15 @@
       "url": "https://github.com/home-assistant/home-assistant.io",
       "description": "📘 Home Assistant User documentation",
       "language": "HTML",
-      "stars": 8065,
+      "stars": 8069,
       "forks": 8094,
       "stars_today": 268,
       "built_by": [
-        "frenck",
-        "balloob",
+        "fabaff",
         "c0ffeeca7",
         "dependabot",
-        "fabaff"
+        "balloob",
+        "frenck"
       ]
     },
     {
@@ -166,15 +166,15 @@
       "url": "https://github.com/mpv-player/mpv",
       "description": "🎥 Command line media player",
       "language": "C",
-      "stars": 33427,
+      "stars": 33428,
       "forks": 3191,
       "stars_today": 11,
       "built_by": [
-        "Dudemanguy",
-        "pigoz",
         "guidocella",
+        "Dudemanguy",
         "haasn",
-        "kasper93"
+        "kasper93",
+        "pigoz"
       ]
     },
     {
@@ -184,14 +184,14 @@
       "url": "https://github.com/OpenBMB/ChatDev",
       "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "language": "Python",
-      "stars": 28272,
+      "stars": 28275,
       "forks": 3578,
       "stars_today": 57,
       "built_by": [
-        "Alphamasterliu",
-        "NA-Wen",
         "eltociear",
         "thinkwee",
+        "NA-Wen",
+        "Alphamasterliu",
         "qianc62"
       ]
     },
@@ -202,15 +202,15 @@
       "url": "https://github.com/opf/openproject",
       "description": "OpenProject is the leading open source project management software.",
       "language": "Ruby",
-      "stars": 13851,
-      "forks": 3029,
+      "stars": 13857,
+      "forks": 3030,
       "stars_today": 175,
       "built_by": [
-        "openprojectci",
-        "ulferts",
         "HDinger",
-        "myabc",
-        "oliverguenther"
+        "openprojectci",
+        "oliverguenther",
+        "ulferts",
+        "myabc"
       ]
     }
   ]
