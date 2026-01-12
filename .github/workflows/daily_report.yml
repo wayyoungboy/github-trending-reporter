@@ -1,0 +1,133 @@
+name: Daily GitHub Trending Report
+
+on:
+  # Run daily at 00:00 UTC (08:00 Beijing Time)
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      language:
+        description: 'Programming language filter (leave empty for all)'
+        required: false
+        default: ''
+      since:
+        description: 'Time range (daily, weekly, monthly)'
+        required: false
+        default: 'daily'
+      analysis_type:
+        description: 'Analysis type (comprehensive, brief, technical)'
+        required: false
+        default: 'comprehensive'
+
+env:
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: 🚀 Generate trending report
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          GITHUB_API_TOKEN: ${{ secrets.GITHUB_API_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.DATA_REPO_TOKEN }}
+          DATA_REPO_OWNER: ${{ github.repository_owner }}
+          DATA_REPO_NAME: github-trending-reporter-data
+        run: |
+          # Set language filter if provided
+          LANGUAGE_ARG=""
+          if [ -n "${{ github.event.inputs.language }}" ]; then
+            LANGUAGE_ARG="-l ${{ github.event.inputs.language }}"
+          fi
+          
+          # Set since filter (use input or default)
+          SINCE_ARG="-s ${{ github.event.inputs.since || 'daily' }}"
+          
+          # Set analysis type (use input or default)
+          ANALYSIS_ARG="-a ${{ github.event.inputs.analysis_type || 'comprehensive' }}"
+          
+          # Run the report generator
+          python main.py $LANGUAGE_ARG $SINCE_ARG $ANALYSIS_ARG --local
+      
+      - name: 📤 Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: trending-report-${{ github.run_id }}
+          path: output/
+          retention-days: 30
+      
+      - name: 📊 Report summary
+        run: |
+          echo "## 📈 GitHub Trending Report" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Report generated successfully!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -f "output/*.md" ]; then
+            echo "### Report Preview" >> $GITHUB_STEP_SUMMARY
+            head -50 output/*.md >> $GITHUB_STEP_SUMMARY
+          fi
+
+  # Optional: Generate reports for specific languages
+  generate-language-reports:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule'
+    needs: generate-report
+    
+    strategy:
+      matrix:
+        language: [python, javascript, typescript, go, rust]
+      fail-fast: false
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: 🚀 Generate ${{ matrix.language }} trending report
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          GITHUB_API_TOKEN: ${{ secrets.GITHUB_API_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.DATA_REPO_TOKEN }}
+          DATA_REPO_OWNER: ${{ github.repository_owner }}
+          DATA_REPO_NAME: github-trending-reporter-data
+        run: |
+          python main.py -l ${{ matrix.language }} -a brief --local
+        continue-on-error: true
+      
+      - name: 📤 Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: trending-report-${{ matrix.language }}-${{ github.run_id }}
+          path: output/
+          retention-days: 30
