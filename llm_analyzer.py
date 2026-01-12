@@ -439,11 +439,16 @@ graph LR
         # 今日推荐
         report_parts.append("## 今日推荐\n")
         try:
-            print("📝 Generating recommendations...")
+            print("Generating recommendations...")
             recommendations = self.generate_recommendations(repos)
-            report_parts.append(recommendations)
+            # 检查是否为空，如果为空则使用 fallback
+            if recommendations and recommendations.strip():
+                report_parts.append(recommendations)
+            else:
+                print("  Recommendations empty, using fallback...")
+                report_parts.append(self._generate_fallback_recommendations(repos))
         except Exception as e:
-            print(f"  ⚠️ Error generating recommendations: {e}")
+            print(f"  Error generating recommendations: {e}")
             report_parts.append(self._generate_fallback_recommendations(repos))
         
         # Footer
