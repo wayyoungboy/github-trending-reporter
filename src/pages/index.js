@@ -1,54 +1,294 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import styles from './index.module.css';
 
+// 打字机效果
+function TypeWriter({ texts, speed = 100 }) {
+  const [displayText, setDisplayText] = useState('');
+  const [textIndex, setTextIndex] = useState(0);
+  const [charIndex, setCharIndex] = useState(0);
+  const [isDeleting, setIsDeleting] = useState(false);
+
+  useEffect(() => {
+    const currentText = texts[textIndex];
+    
+    const timeout = setTimeout(() => {
+      if (!isDeleting) {
+        setDisplayText(currentText.substring(0, charIndex + 1));
+        setCharIndex(charIndex + 1);
+        
+        if (charIndex === currentText.length) {
+          setTimeout(() => setIsDeleting(true), 2000);
+        }
+      } else {
+        setDisplayText(currentText.substring(0, charIndex - 1));
+        setCharIndex(charIndex - 1);
+        
+        if (charIndex === 0) {
+          setIsDeleting(false);
+          setTextIndex((textIndex + 1) % texts.length);
+        }
+      }
+    }, isDeleting ? speed / 2 : speed);
+
+    return () => clearTimeout(timeout);
+  }, [charIndex, isDeleting, textIndex, texts, speed]);
+
+  return <span className={styles.typewriter}>{displayText}<span className={styles.cursor}>|</span></span>;
+}
+
+// 统计数字动画
+function AnimatedNumber({ end, duration = 2000, suffix = '' }) {
+  const [count, setCount] = useState(0);
+
+  useEffect(() => {
+    let startTime;
+    const animate = (currentTime) => {
+      if (!startTime) startTime = currentTime;
+      const progress = Math.min((currentTime - startTime) / duration, 1);
+      setCount(Math.floor(progress * end));
+      if (progress < 1) requestAnimationFrame(animate);
+    };
+    requestAnimationFrame(animate);
+  }, [end, duration]);
+
+  return <span>{count.toLocaleString()}{suffix}</span>;
+}
+
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+  
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">📈 {siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/reports/2026/01/2026-01-12">
-            🚀 查看最新报告
+    <header className={styles.heroBanner}>
+      <div className={styles.heroBackground}>
+        <div className={styles.gridLines}></div>
+        <div className={styles.glowOrb1}></div>
+        <div className={styles.glowOrb2}></div>
+        <div className={styles.glowOrb3}></div>
+      </div>
+      
+      <div className={styles.heroContent}>
+        <div className={styles.badge}>
+          <span className={styles.badgeDot}></span>
+          每日自动更新
+        </div>
+        
+        <h1 className={styles.heroTitle}>
+          追踪 GitHub 热门项目
+          <br />
+          <span className={styles.gradient}>
+            <TypeWriter texts={['AI 智能分析', '趋势洞察', '技术前沿', '开源动态']} />
+          </span>
+        </h1>
+        
+        <p className={styles.heroSubtitle}>
+          自动爬取 GitHub Trending，通过 LLM 深度分析，<br />
+          每日为你呈现最具价值的开源项目报告
+        </p>
+        
+        <div className={styles.heroButtons}>
+          <Link className={styles.primaryButton} to="/reports/2026/01/2026-01-12">
+            <span>📊 查看最新报告</span>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M5 12h14M12 5l7 7-7 7"/>
+            </svg>
           </Link>
+          <a className={styles.secondaryButton} href="https://github.com/wayyoungboy/github-trending-reporter" target="_blank">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+            </svg>
+            <span>GitHub</span>
+          </a>
+        </div>
+
+        {/* 代码预览 */}
+        <div className={styles.codePreview}>
+          <div className={styles.codeHeader}>
+            <div className={styles.codeDots}>
+              <span></span><span></span><span></span>
+            </div>
+            <span className={styles.codeTitle}>trending_example.py</span>
+          </div>
+          <pre className={styles.codeBlock}>
+            <code>
+              <span className={styles.keyword}>from</span> github_trending <span className={styles.keyword}>import</span> fetch_trending{'\n'}
+              <span className={styles.keyword}>from</span> llm_analyzer <span className={styles.keyword}>import</span> analyze{'\n'}
+              {'\n'}
+              <span className={styles.comment}># 获取今日热门项目</span>{'\n'}
+              repos = fetch_trending(language=<span className={styles.string}>"python"</span>){'\n'}
+              {'\n'}
+              <span className={styles.comment}># AI 智能分析</span>{'\n'}
+              report = analyze(repos, type=<span className={styles.string}>"comprehensive"</span>){'\n'}
+              {'\n'}
+              <span className={styles.keyword}>print</span>(f<span className={styles.string}>"发现 </span>{'{'}len(repos){'}'}<span className={styles.string}> 个热门项目 🚀"</span>)
+            </code>
+          </pre>
         </div>
       </div>
     </header>
   );
 }
 
-function Feature({emoji, title, description}) {
+function StatsSection() {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center padding-horiz--md">
-        <div style={{fontSize: '3rem'}}>{emoji}</div>
-        <h3>{title}</h3>
-        <p>{description}</p>
+    <section className={styles.statsSection}>
+      <div className={styles.statsGrid}>
+        <div className={styles.statCard}>
+          <div className={styles.statNumber}>
+            <AnimatedNumber end={25} suffix="+" />
+          </div>
+          <div className={styles.statLabel}>每日追踪项目</div>
+        </div>
+        <div className={styles.statCard}>
+          <div className={styles.statNumber}>
+            <AnimatedNumber end={365} />
+          </div>
+          <div className={styles.statLabel}>天 × 24小时</div>
+        </div>
+        <div className={styles.statCard}>
+          <div className={styles.statNumber}>
+            <AnimatedNumber end={100} suffix="%" />
+          </div>
+          <div className={styles.statLabel}>自动化运行</div>
+        </div>
+        <div className={styles.statCard}>
+          <div className={styles.statNumber}>∞</div>
+          <div className={styles.statLabel}>历史数据保存</div>
+        </div>
       </div>
-    </div>
+    </section>
+  );
+}
+
+function FeaturesSection() {
+  const features = [
+    {
+      icon: '🔍',
+      title: '实时数据采集',
+      description: '每日自动爬取 GitHub Trending 页面，获取最新热门项目数据，包括 Star、Fork、语言等详细信息',
+      gradient: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+    },
+    {
+      icon: '🤖',
+      title: 'AI 智能分析',
+      description: '利用大语言模型对项目进行深度分析，提供技术洞察、趋势预测和学习建议',
+      gradient: 'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)',
+    },
+    {
+      icon: '📊',
+      title: '可视化报告',
+      description: '生成精美的 Markdown 报告，支持在线浏览，数据清晰直观',
+      gradient: 'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)',
+    },
+    {
+      icon: '📧',
+      title: '邮件推送',
+      description: '支持邮件订阅，每日报告自动推送到你的邮箱，不错过任何热门项目',
+      gradient: 'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)',
+    },
+    {
+      icon: '💾',
+      title: '数据持久化',
+      description: '所有历史报告永久保存，支持回顾和数据分析，构建你的技术知识库',
+      gradient: 'linear-gradient(135deg, #fa709a 0%, #fee140 100%)',
+    },
+    {
+      icon: '⚡',
+      title: '全自动化',
+      description: '基于 GitHub Actions 实现全流程自动化，零人工干预，稳定可靠',
+      gradient: 'linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)',
+    },
+  ];
+
+  return (
+    <section className={styles.featuresSection}>
+      <div className={styles.sectionHeader}>
+        <span className={styles.sectionBadge}>核心功能</span>
+        <h2 className={styles.sectionTitle}>为什么选择我们？</h2>
+        <p className={styles.sectionSubtitle}>
+          全方位的 GitHub 热门项目追踪解决方案
+        </p>
+      </div>
+      
+      <div className={styles.featuresGrid}>
+        {features.map((feature, idx) => (
+          <div key={idx} className={styles.featureCard}>
+            <div className={styles.featureIcon} style={{background: feature.gradient}}>
+              {feature.icon}
+            </div>
+            <h3 className={styles.featureTitle}>{feature.title}</h3>
+            <p className={styles.featureDescription}>{feature.description}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function WorkflowSection() {
+  const steps = [
+    { num: '01', title: '数据采集', desc: '爬取 GitHub Trending' },
+    { num: '02', title: 'API 增强', desc: '获取详细项目信息' },
+    { num: '03', title: 'AI 分析', desc: 'LLM 深度分析' },
+    { num: '04', title: '生成报告', desc: 'Markdown 格式化' },
+    { num: '05', title: '自动部署', desc: '网站实时更新' },
+    { num: '06', title: '邮件推送', desc: '通知订阅用户' },
+  ];
+
+  return (
+    <section className={styles.workflowSection}>
+      <div className={styles.sectionHeader}>
+        <span className={styles.sectionBadge}>工作流程</span>
+        <h2 className={styles.sectionTitle}>自动化流水线</h2>
+        <p className={styles.sectionSubtitle}>
+          从数据采集到报告推送，全程自动化
+        </p>
+      </div>
+      
+      <div className={styles.workflowGrid}>
+        {steps.map((step, idx) => (
+          <div key={idx} className={styles.workflowStep}>
+            <div className={styles.stepNumber}>{step.num}</div>
+            <div className={styles.stepContent}>
+              <h4>{step.title}</h4>
+              <p>{step.desc}</p>
+            </div>
+            {idx < steps.length - 1 && <div className={styles.stepArrow}>→</div>}
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function CTASection() {
+  return (
+    <section className={styles.ctaSection}>
+      <div className={styles.ctaContent}>
+        <h2>开始探索 GitHub 热门项目</h2>
+        <p>每日更新，AI 分析，永不错过技术趋势</p>
+        <div className={styles.ctaButtons}>
+          <Link className={styles.ctaPrimary} to="/reports/2026/01/2026-01-12">
+            立即查看报告 →
+          </Link>
+        </div>
+      </div>
+    </section>
   );
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout title="首页" description="每日 GitHub 热门项目追踪与 AI 分析报告">
       <HomepageHeader />
       <main>
-        <section className={styles.features}>
-          <div className="container">
-            <div className="row">
-              <Feature emoji="🔍" title="实时追踪" description="每日自动抓取 GitHub Trending 热门项目" />
-              <Feature emoji="🤖" title="AI 分析" description="利用大语言模型对项目进行深度分析" />
-              <Feature emoji="📊" title="数据持久化" description="历史数据完整保存，支持趋势回顾" />
-            </div>
-          </div>
-        </section>
+        <StatsSection />
+        <FeaturesSection />
+        <WorkflowSection />
+        <CTASection />
       </main>
     </Layout>
   );

@@ -28,6 +28,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
+      - name: 📅 Get date
+        id: date
+        run: |
+          echo "date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+          echo "year=$(date +%Y)" >> $GITHUB_OUTPUT
+          echo "month=$(date +%m)" >> $GITHUB_OUTPUT
+      
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
@@ -46,24 +53,39 @@ jobs:
       
       - name: 📁 Move output to reports
         run: |
-          DATE=$(date +%Y-%m-%d)
-          YEAR=$(date +%Y)
-          MONTH=$(date +%m)
+          DATE=${{ steps.date.outputs.date }}
+          YEAR=${{ steps.date.outputs.year }}
+          MONTH=${{ steps.date.outputs.month }}
           mkdir -p reports/$YEAR/$MONTH data/$YEAR/$MONTH
-          if [ -f output/$DATE.md ]; then
-            cp output/$DATE.md reports/$YEAR/$MONTH/
-          fi
-          if [ -f output/$DATE.json ]; then
-            cp output/$DATE.json data/$YEAR/$MONTH/
-          fi
+          cp output/$DATE.md reports/$YEAR/$MONTH/ 2>/dev/null || true
+          cp output/$DATE.json data/$YEAR/$MONTH/ 2>/dev/null || true
       
       - name: 📤 Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add reports/ data/
-          git diff --staged --quiet || git commit -m "📈 Add report for $(date +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "📈 Add report for ${{ steps.date.outputs.date }}"
           git push
+      
+      - name: 📧 Send email notification
+        if: success()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.MAIL_SERVER }}
+          server_port: ${{ secrets.MAIL_PORT }}
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "📈 GitHub Trending 日报 - ${{ steps.date.outputs.date }}"
+          to: ${{ secrets.MAIL_TO }}
+          from: GitHub Trending Reporter
+          html_body: |
+            <h1>📈 GitHub Trending 日报 - ${{ steps.date.outputs.date }}</h1>
+            <p>今日报告已生成，点击下方链接查看完整内容：</p>
+            <p><a href="https://wayyoungboy.github.io/github-trending-reporter/reports/${{ steps.date.outputs.year }}/${{ steps.date.outputs.month }}/${{ steps.date.outputs.date }}">📊 查看在线报告</a></p>
+            <hr>
+            <p><small>此邮件由 GitHub Trending Reporter 自动发送</small></p>
+          attachments: output/${{ steps.date.outputs.date }}.md
 
   # Job 2: 构建部署网站
   build-deploy:
@@ -98,6 +120,7 @@ jobs:
         with:
           path: build
 
+  # Job 3: 部署到 GitHub Pages
   deploy:
     environment:
       name: github-pages
