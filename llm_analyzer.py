@@ -29,14 +29,12 @@ class LLMAnalyzer:
         sorted_repos = sorted(repos, key=lambda x: x.get('stars_today', 0), reverse=True)
         
         table_parts = [
-            "| 排名 | 项目 | 语言 | 今日⭐ | 总⭐ | 简介 |",
+            "| 排名 | 项目 | 语言 | 今日 | 总计 | 简介 |",
             "|:---:|------|:----:|------:|-----:|------|"
         ]
         
-        rank_icons = ["🥇", "🥈", "🥉"] + [str(i) for i in range(4, len(sorted_repos) + 1)]
-        
         for i, repo in enumerate(sorted_repos[:12]):  # 最多显示12个
-            icon = rank_icons[i] if i < len(rank_icons) else str(i + 1)
+            rank = i + 1
             name = repo.get('full_name', 'Unknown')
             url = repo.get('url', f"https://github.com/{name}")
             language = repo.get('language', 'Unknown') or 'Unknown'
@@ -48,7 +46,7 @@ class LLMAnalyzer:
                 desc = desc[:27] + "..."
             
             table_parts.append(
-                f"| {icon} | [{name}]({url}) | {language} | **+{stars_today:,}** | {stars:,} | {desc} |"
+                f"| {rank} | [{name}]({url}) | {language} | +{stars_today:,} | {stars:,} | {desc} |"
             )
         
         return "\n".join(table_parts)
@@ -111,19 +109,19 @@ class LLMAnalyzer:
     def _categorize_repos(self, repos: List[Dict]) -> Dict[str, int]:
         """Categorize repositories by domain/type"""
         categories = {
-            "🤖 AI/ML 工具": 0,
-            "🖥️ 开发框架": 0,
-            "🎬 多媒体应用": 0,
-            "🏠 智能家居": 0,
-            "📺 媒体资源": 0,
-            "📋 项目管理": 0,
-            "🔧 开发工具": 0,
-            "📱 移动开发": 0,
-            "🌐 Web 应用": 0,
-            "🎮 游戏相关": 0,
-            "📊 数据分析": 0,
-            "🔒 安全工具": 0,
-            "📚 其他": 0,
+            "AI/ML 工具": 0,
+            "开发框架": 0,
+            "多媒体应用": 0,
+            "智能家居": 0,
+            "媒体资源": 0,
+            "项目管理": 0,
+            "开发工具": 0,
+            "移动开发": 0,
+            "Web 应用": 0,
+            "游戏相关": 0,
+            "数据分析": 0,
+            "安全工具": 0,
+            "其他": 0,
         }
         
         # 简单的关键词分类
@@ -134,25 +132,25 @@ class LLMAnalyzer:
             combined = f"{desc} {name} {' '.join(topics)}"
             
             if any(kw in combined for kw in ['ai', 'ml', 'machine learning', 'llm', 'gpt', 'claude', 'agent', 'neural', 'deep learning']):
-                categories["🤖 AI/ML 工具"] += 1
+                categories["AI/ML 工具"] += 1
             elif any(kw in combined for kw in ['framework', 'fullstack', 'react', 'vue', 'angular', 'dioxus', 'flutter']):
-                categories["🖥️ 开发框架"] += 1
+                categories["开发框架"] += 1
             elif any(kw in combined for kw in ['video', 'audio', 'media', 'cam', 'face', 'image', 'deepfake']):
-                categories["🎬 多媒体应用"] += 1
+                categories["多媒体应用"] += 1
             elif any(kw in combined for kw in ['home', 'assistant', 'smart', 'iot', 'automation']):
-                categories["🏠 智能家居"] += 1
+                categories["智能家居"] += 1
             elif any(kw in combined for kw in ['iptv', 'streaming', 'tv', 'channel']):
-                categories["📺 媒体资源"] += 1
+                categories["媒体资源"] += 1
             elif any(kw in combined for kw in ['project', 'management', 'kanban', 'task']):
-                categories["📋 项目管理"] += 1
+                categories["项目管理"] += 1
             elif any(kw in combined for kw in ['cli', 'tool', 'utility', 'terminal', 'shell']):
-                categories["🔧 开发工具"] += 1
+                categories["开发工具"] += 1
             elif any(kw in combined for kw in ['crawler', 'scraper', 'data', 'analysis', 'analytics']):
-                categories["📊 数据分析"] += 1
+                categories["数据分析"] += 1
             elif any(kw in combined for kw in ['security', 'crypto', 'encryption', 'auth']):
-                categories["🔒 安全工具"] += 1
+                categories["安全工具"] += 1
             else:
-                categories["📚 其他"] += 1
+                categories["其他"] += 1
         
         # 过滤掉数量为0的分类
         return {k: v for k, v in categories.items() if v > 0}
@@ -246,7 +244,7 @@ class LLMAnalyzer:
 
 > **一句话总结**：[用一句话概括项目的核心价值和特点，30-50字]
 
-#### 🎯 价值主张
+#### 价值主张
 
 | 维度 | 说明 |
 |------|------|
@@ -254,7 +252,7 @@ class LLMAnalyzer:
 | **目标用户** | [主要使用人群，15-30字] |
 | **核心亮点** | [3-5个关键特性，用 + 连接] |
 
-#### 💡 技术架构
+#### 技术架构
 
 [如果项目有明确的技术流程，用mermaid图展示，格式如下：]
 ```mermaid
@@ -268,20 +266,20 @@ graph LR
 - [技术亮点2，15-30字]
 - [技术亮点3，15-30字]
 
-#### 📈 热度分析
+#### 热度分析
 
 - [基于Star/Fork数据的增长分析，20-40字]
 - [社区活跃度或生态位置分析，20-40字]
 
-#### 🛠️ 快速上手
+#### 快速上手
 
 ```bash
 # 简洁的上手命令示例（2-4行）
 ```
 
-#### ⚠️ 注意事项
+#### 注意事项
 
-- [注意事项1，使用emoji标注重要程度：🔴严重 🟡注意 🟢建议]
+- [注意事项1]
 - [注意事项2]
 
 ---
@@ -291,7 +289,8 @@ graph LR
 2. 技术分析要有深度和洞察
 3. mermaid图要简洁清晰，节点不超过6个
 4. 代码示例要实用可运行
-5. 如果项目信息不足以生成mermaid图，可以省略该部分"""
+5. 如果项目信息不足以生成mermaid图，可以省略该部分
+6. 不要使用emoji"""
 
         response = self.client.chat.completions.create(
             model=self.model,
@@ -398,13 +397,13 @@ graph LR
             f"title: {date_str} 日报",
             f"description: GitHub Trending 每日热门项目报告 - {date_str}",
             "---\n",
-            f"## 🔥 今日热点：{hot_topic[:50]}{'...' if len(hot_topic) > 50 else ''}\n",
+            f"## 今日热点\n",
             f"{hot_topic}\n",
             "---\n",
-            "## 📊 热门项目一览\n",
+            "## 热门项目一览\n",
             self._build_repos_table(repos),
             "\n---\n",
-            "## 🔭 趋势洞察\n",
+            "## 趋势洞察\n",
             category_chart,
         ]
         
@@ -419,7 +418,7 @@ graph LR
         
         # 深度解读
         if detailed_analysis:
-            report_parts.append("## ✨ 重点项目深度解读\n")
+            report_parts.append("## 项目深度解读\n")
             
             # 按今日star数排序，全部项目都进行深度解读
             top_repos = sorted(repos, key=lambda x: x.get('stars_today', 0), reverse=True)
@@ -438,7 +437,7 @@ graph LR
                     report_parts.append("\n---\n")
         
         # 今日推荐
-        report_parts.append("## 📌 今日推荐阅读\n")
+        report_parts.append("## 今日推荐\n")
         try:
             print("📝 Generating recommendations...")
             recommendations = self.generate_recommendations(repos)
@@ -451,7 +450,7 @@ graph LR
         report_parts.extend([
             "\n---\n",
             '<div align="center">\n',
-            f"*📅 Generated on {date_str} | 🤖 Powered by GitHub Trending Reporter*\n",
+            f"*Generated on {date_str} | Powered by GitHub Trending Reporter*\n",
             "</div>"
         ])
         

@@ -126,18 +126,16 @@ def generate_basic_report(repos: list, date_str: str) -> str:
         f"title: {date_str} 日报",
         f"description: GitHub Trending 每日热门项目报告 - {date_str}",
         "---\n",
-        f"## 🔥 今日热点\n",
+        f"## 今日热点\n",
         f"今日 GitHub 热榜共收录 **{len(repos)}** 个热门项目。\n",
         "---\n",
-        "## 📊 热门项目一览\n",
-        "| 排名 | 项目 | 语言 | 今日⭐ | 总⭐ | 简介 |",
+        "## 热门项目一览\n",
+        "| 排名 | 项目 | 语言 | 今日 | 总计 | 简介 |",
         "|:---:|------|:----:|------:|-----:|------|",
     ]
     
-    rank_icons = ["🥇", "🥈", "🥉"] + [str(i) for i in range(4, len(sorted_repos) + 1)]
-    
     for i, repo in enumerate(sorted_repos[:12]):
-        icon = rank_icons[i] if i < len(rank_icons) else str(i + 1)
+        rank = i + 1
         name = repo.get('full_name', 'Unknown')
         url = repo.get('url', f"https://github.com/{name}")
         language = repo.get('language', 'Unknown') or 'Unknown'
@@ -148,13 +146,13 @@ def generate_basic_report(repos: list, date_str: str) -> str:
             desc = desc[:27] + "..."
         
         report_parts.append(
-            f"| {icon} | [{name}]({url}) | {language} | **+{stars_today:,}** | {stars:,} | {desc} |"
+            f"| {rank} | [{name}]({url}) | {language} | +{stars_today:,} | {stars:,} | {desc} |"
         )
     
     # 简单项目列表
     report_parts.extend([
         "\n---\n",
-        "## 📋 项目详情\n",
+        "## 项目详情\n",
     ])
     
     for i, repo in enumerate(sorted_repos[:5], 1):
@@ -173,18 +171,18 @@ def generate_basic_report(repos: list, date_str: str) -> str:
 | 指标 | 数值 |
 |------|------|
 | 语言 | {language} |
-| 今日⭐ | +{stars_today:,} |
-| 总⭐ | {stars:,} |
+| 今日 | +{stars_today:,} |
+| 总计 | {stars:,} |
 | Forks | {forks:,} |
 
-🔗 [GitHub]({url})
+[GitHub]({url})
 
 ---
 """)
     
     report_parts.extend([
         '<div align="center">\n',
-        f"*📅 Generated on {date_str} | 🤖 Powered by GitHub Trending Reporter*\n",
+        f"*Generated on {date_str} | Powered by GitHub Trending Reporter*\n",
         "</div>"
     ])
     
