@@ -1,19 +1,19 @@
-# 📈 GitHub Trending Reporter
+# GitHub Trending Reporter
 
 自动获取 GitHub Trending 数据，通过 LLM 进行智能分析，并生成可视化报告网站。
 
-## 🌐 在线访问
+## 在线访问
 
 **网站地址**: https://wayyoungboy.github.io/github-trending-reporter/
 
-## ✨ 功能特点
+## 功能特点
 
-- 🔍 **自动爬取** - 每日自动获取 GitHub Trending 热门项目
-- 🤖 **AI 分析** - 使用 LLM 对项目进行深度分析和趋势洞察
-- 📊 **可视化展示** - 使用 Docusaurus 生成美观的报告网站
-- ⏰ **定时运行** - 通过 GitHub Actions 实现全自动化
+- **自动爬取** - 每日自动获取 GitHub Trending 热门项目
+- **AI 分析** - 使用 LLM 对项目进行深度分析和趋势洞察
+- **可视化展示** - 使用 Docusaurus 生成美观的报告网站
+- **定时运行** - 通过 GitHub Actions 实现全自动化
 
-## 📁 项目结构
+## 项目结构
 
 ```
 github-trending-reporter/
@@ -26,13 +26,14 @@ github-trending-reporter/
 ├── main.py                  # 主程序
 ├── trending_scraper.py      # 爬虫模块
 ├── llm_analyzer.py          # LLM 分析模块
+├── data_pusher.py           # 数据推送模块
 ├── config.py                # 配置文件
 ├── docusaurus.config.js     # Docusaurus 配置
 ├── package.json             # Node.js 依赖
 └── requirements.txt         # Python 依赖
 ```
 
-## 🚀 快速开始
+## 快速开始
 
 ### 本地运行（仅生成报告）
 
@@ -58,7 +59,7 @@ npm install
 npm start
 ```
 
-## ⚙️ 配置
+## 配置
 
 ### 环境变量
 
@@ -67,7 +68,8 @@ npm start
 | `LLM_API_KEY` | LLM API 密钥 |
 | `LLM_BASE_URL` | LLM API 地址 |
 | `LLM_MODEL` | 模型名称 |
-| `GITHUB_API_TOKEN` | GitHub API Token |
+| `GITHUB_API_TOKEN` | GitHub API Token（用于爬取详细信息） |
+| `GITHUB_TOKEN` | GitHub Token（用于推送数据） |
 
 ### GitHub Actions Secrets
 
@@ -77,18 +79,34 @@ npm start
 - `LLM_MODEL`
 - `GITHUB_API_TOKEN`
 
-## 🔄 自动化流程
+## 自动化流程
 
-1. **定时触发** - 每天 UTC 00:00 自动运行
-2. **生成报告** - 爬取数据 → LLM 分析 → 生成 Markdown
-3. **提交更新** - 自动提交报告到仓库
-4. **部署网站** - 自动构建并部署到 GitHub Pages
+1. **定时触发** - 每天自动运行
+2. **数据采集** - 爬取 GitHub Trending 页面
+3. **API 增强** - 通过 GitHub API 获取详细信息
+4. **LLM 分析** - AI 深度分析项目
+5. **生成报告** - 输出 Markdown 格式报告
+6. **部署网站** - 自动构建并部署到 GitHub Pages
 
-## 🔗 相关链接
+## 命令行参数
+
+```bash
+python main.py [OPTIONS]
+
+Options:
+  -l, --language TEXT    按编程语言筛选 (如 python, javascript)
+  -s, --since TEXT       时间范围: daily, weekly, monthly (默认: daily)
+  --no-push              不推送到 GitHub 仓库
+  --local                保存到本地文件
+  --date TEXT            指定日期 (格式: YYYY-MM-DD)
+  --no-detailed          跳过项目深度分析
+```
+
+## 相关链接
 
 - [GitHub Trending](https://github.com/trending)
 - [Docusaurus](https://docusaurus.io/)
 
 ---
 
-Built with ❤️ using Python + Docusaurus
+Built with Python + Docusaurus

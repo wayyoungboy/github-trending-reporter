@@ -66,7 +66,7 @@ class DataPusher:
             True if successful
         """
         file_path = self._get_file_path(date_str, "report")
-        commit_message = f"📈 Add trending report for {date_str}"
+        commit_message = f"Add trending report for {date_str}"
         
         return self._create_or_update_file(file_path, content, commit_message)
 
@@ -92,7 +92,7 @@ class DataPusher:
         }
         
         content = json.dumps(data, indent=2, ensure_ascii=False)
-        commit_message = f"📊 Add raw data for {date_str}"
+        commit_message = f"Add raw data for {date_str}"
         
         return self._create_or_update_file(file_path, content, commit_message)
 
@@ -164,15 +164,15 @@ class DataPusher:
         Returns:
             True if successful
         """
-        readme_content = f"""# 📈 GitHub Trending Reporter Data
+        readme_content = f"""# GitHub Trending Reporter Data
 
 This repository stores daily GitHub trending data and AI-generated analysis reports.
 
-## 📅 Latest Report
+## Latest Report
 
-📄 **[{date_str}](reports/{date_str[:4]}/{date_str[5:7]}/{date_str}.md)**
+**[{date_str}](reports/{date_str[:4]}/{date_str[5:7]}/{date_str}.md)**
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── reports/          # Markdown reports with AI analysis
@@ -186,12 +186,12 @@ This repository stores daily GitHub trending data and AI-generated analysis repo
 └── README.md
 ```
 
-## 🔗 Links
+## Links
 
 - [GitHub Trending](https://github.com/trending)
 - [Source Code](https://github.com/{self.repo_owner}/github-trending-reporter)
 
-## 📊 Data Format
+## Data Format
 
 Each JSON file contains:
 - `date`: Report date
@@ -204,7 +204,7 @@ Each JSON file contains:
 *This data is automatically updated daily by GitHub Actions.*
 """
         
-        return self._create_or_update_file("README.md", readme_content, f"📝 Update README for {date_str}")
+        return self._create_or_update_file("README.md", readme_content, f"Update README for {date_str}")
 
 
 def push_data(repos: List[Dict], report: str, date_str: str) -> Dict[str, bool]:

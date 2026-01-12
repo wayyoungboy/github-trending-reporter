@@ -365,7 +365,7 @@ graph LR
             Complete markdown report with Docusaurus frontmatter
         """
         # 获取热点总结
-        print("🤖 Generating trend analysis...")
+        print("Generating trend analysis...")
         trend_analysis = self.analyze_trends(repos)
         
         # 解析热点总结
@@ -424,14 +424,14 @@ graph LR
             top_repos = sorted(repos, key=lambda x: x.get('stars_today', 0), reverse=True)
             
             for i, repo in enumerate(top_repos, 1):
-                print(f"🔍 Analyzing project {i}/{len(top_repos)}: {repo.get('full_name')}...")
+                print(f"  Analyzing project {i}/{len(top_repos)}: {repo.get('full_name')}...")
                 
                 try:
                     detailed = self.analyze_single_repo_detailed(repo, i)
                     report_parts.append(detailed)
                     report_parts.append("\n")
                 except Exception as e:
-                    print(f"  ⚠️ Error analyzing {repo.get('full_name')}: {e}")
+                    print(f"  [WARN] Error analyzing {repo.get('full_name')}: {e}")
                     # 生成简化版本
                     report_parts.append(self._generate_fallback_analysis(repo, i))
                     report_parts.append("\n---\n")

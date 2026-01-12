@@ -19,6 +19,7 @@ build/
 
 # Output
 output/
+github_trending_*.md
 
 # IDE
 .idea/

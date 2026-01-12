@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'GitHub Trending Reporter',
   tagline: '每日 GitHub 热门项目追踪与 AI 分析',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.svg',
 
   url: 'https://wayyoungboy.github.io',
   baseUrl: '/github-trending-reporter/',

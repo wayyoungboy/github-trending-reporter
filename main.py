@@ -43,66 +43,66 @@ def run_report(
     if date_str is None:
         date_str = datetime.now().strftime("%Y-%m-%d")
     
-    print(f"🚀 Starting GitHub Trending Report for {date_str}")
-    print(f"   Language filter: {language or 'All'}")
-    print(f"   Time range: {since}")
-    print(f"   Analysis type: {analysis_type}")
-    print(f"   Detailed analysis: {'Yes (Top 5 projects)' if detailed_analysis else 'No'}")
+    print(f"[START] GitHub Trending Report for {date_str}")
+    print(f"  Language filter: {language or 'All'}")
+    print(f"  Time range: {since}")
+    print(f"  Analysis type: {analysis_type}")
+    print(f"  Detailed analysis: {'Yes' if detailed_analysis else 'No'}")
     print()
     
     # Step 1: Fetch trending repositories
-    print("📥 Fetching trending repositories...")
+    print("[1/4] Fetching trending repositories...")
     try:
         repos = fetch_trending(language=language, since=since)
-        print(f"   Found {len(repos)} repositories")
+        print(f"  Found {len(repos)} repositories")
     except Exception as e:
-        print(f"❌ Error fetching trending data: {e}")
+        print(f"[ERROR] Fetching trending data: {e}")
         return False
     
     if not repos:
-        print("⚠️  No repositories found")
+        print("[WARN] No repositories found")
         return False
     
     # Step 2: Analyze with LLM
-    print("🤖 Analyzing with LLM...")
+    print("[2/4] Analyzing with LLM...")
     try:
         analyzer = LLMAnalyzer()
         report = analyzer.generate_daily_report(repos, date_str, detailed_analysis=detailed_analysis)
-        print("   Analysis complete")
+        print("  Analysis complete")
     except Exception as e:
-        print(f"❌ Error during LLM analysis: {e}")
+        print(f"[ERROR] LLM analysis: {e}")
         # Generate basic report without LLM analysis
         report = generate_basic_report(repos, date_str)
-        print("   Generated basic report without LLM analysis")
+        print("  Generated basic report without LLM analysis")
     
     # Step 3: Save locally if requested
     if output_local:
-        print("💾 Saving locally...")
+        print("[3/4] Saving locally...")
         try:
             save_local(repos, report, date_str)
-            print("   Saved to local files")
+            print("  Saved to local files")
         except Exception as e:
-            print(f"⚠️  Error saving locally: {e}")
+            print(f"[WARN] Saving locally: {e}")
     
     # Step 4: Push to repository if requested
     if push_to_repo:
-        print("📤 Pushing to repository...")
+        print("[4/4] Pushing to repository...")
         try:
             pusher = DataPusher()
             results = pusher.push_all(repos, report, date_str)
             pusher.update_readme(date_str)
             
             if results["raw_data"] and results["report"]:
-                print("   Successfully pushed to repository")
+                print("  Successfully pushed to repository")
             else:
-                print("⚠️  Some files failed to push")
+                print("[WARN] Some files failed to push")
                 return False
         except Exception as e:
-            print(f"❌ Error pushing to repository: {e}")
+            print(f"[ERROR] Pushing to repository: {e}")
             return False
     
     print()
-    print("✅ Report generation complete!")
+    print("[DONE] Report generation complete!")
     return True
 
 
