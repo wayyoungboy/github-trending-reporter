@@ -213,7 +213,6 @@ function StatsSection() {
 function FeaturesSection() {
   const features = [
     {
-<<<<<<< HEAD
       icon: '🔍',
       title: '智能数据采集',
       description: '每日自动爬取 GitHub Trending，获取最新热门项目数据，支持多语言过滤',
@@ -248,7 +247,6 @@ function FeaturesSection() {
       title: '在线预览',
       description: '基于 Docusaurus 构建的文档站点，随时随地在线阅读报告',
       gradient: 'linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)',
-=======
       icon: (
         <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="11" cy="11" r="8"></circle>
