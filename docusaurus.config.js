@@ -98,7 +98,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'reportsSidebar',
             position: 'left',
-            label: '📊 每日报告',
+            label: '每日报告',
           },
           {
             href: 'https://github.com/wayyoungboy/github-trending-reporter',
