@@ -1,6 +1,26 @@
 /* ============================================
    Hero Section - Futuristic Design
    ============================================ */
+
+/* 滚动进度条 */
+.scrollProgress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: rgba(255, 255, 255, 0.05);
+  z-index: 9999;
+  pointer-events: none;
+}
+
+.scrollProgressBar {
+  height: 100%;
+  background: linear-gradient(90deg, #6366f1, #22d3ee, #a855f7);
+  transition: width 0.1s ease-out;
+  box-shadow: 0 0 10px rgba(99, 102, 241, 0.8);
+}
+
 .heroBanner {
   position: relative;
   min-height: 100vh;
@@ -79,6 +99,41 @@
   }
   66% { 
     transform: translateY(20px) scale(0.95) rotate(-3deg); 
+  }
+}
+
+/* Particles animation */
+.particles {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.particle {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  background: rgba(99, 102, 241, 0.6);
+  border-radius: 50%;
+  animation: particleFloat 20s linear infinite;
+  box-shadow: 0 0 10px rgba(99, 102, 241, 0.8);
+}
+
+@keyframes particleFloat {
+  0% {
+    transform: translateY(0) translateX(0) scale(1);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-100vh) translateX(50px) scale(0);
+    opacity: 0;
   }
 }
 
@@ -247,11 +302,25 @@
   transition: opacity 0.4s ease;
 }
 
+.primaryButton::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.3);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s;
+}
+
 .primaryButton:hover {
-  transform: translateY(-4px);
+  transform: translateY(-4px) scale(1.02);
   box-shadow: 
-    0 12px 40px rgba(99, 102, 241, 0.5),
-    inset 0 1px 0 rgba(255, 255, 255, 0.3);
+    0 12px 40px rgba(99, 102, 241, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3),
+    0 0 0 3px rgba(99, 102, 241, 0.2);
   color: white;
 }
 
@@ -259,10 +328,25 @@
   opacity: 1;
 }
 
+.primaryButton:hover::after {
+  width: 300px;
+  height: 300px;
+  opacity: 0;
+}
+
+.primaryButton:active {
+  transform: translateY(-2px) scale(0.98);
+}
+
 .primaryButton span,
 .primaryButton svg {
   position: relative;
   z-index: 1;
+  transition: transform 0.3s ease;
+}
+
+.primaryButton:hover svg {
+  transform: translateX(4px);
 }
 
 /* Secondary button - Glass effect */
@@ -280,13 +364,44 @@
   text-decoration: none;
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   backdrop-filter: blur(20px);
+  position: relative;
+  overflow: hidden;
+}
+
+.secondaryButton::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(139, 92, 246, 0.1));
+  opacity: 0;
+  transition: opacity 0.4s ease;
 }
 
 .secondaryButton:hover {
   background: rgba(255, 255, 255, 0.1);
   border-color: rgba(255, 255, 255, 0.2);
   color: #ffffff;
-  transform: translateY(-4px);
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+}
+
+.secondaryButton:hover::before {
+  opacity: 1;
+}
+
+.secondaryButton span,
+.secondaryButton svg {
+  position: relative;
+  z-index: 1;
+  transition: transform 0.3s ease;
+}
+
+.secondaryButton:hover svg {
+  transform: rotate(360deg) scale(1.1);
+}
+
+.secondaryButton:active {
+  transform: translateY(-2px) scale(0.98);
 }
 
 /* Code Preview - Terminal Style */
@@ -303,6 +418,14 @@
     0 0 0 1px rgba(255, 255, 255, 0.05);
   animation: fadeInUp 0.8s ease-out 0.8s both;
   position: relative;
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.codePreview:hover {
+  transform: translateY(-8px);
+  box-shadow: 
+    0 50px 100px rgba(0, 0, 0, 0.6),
+    0 0 0 1px rgba(99, 102, 241, 0.3);
 }
 
 .codePreview::before {
@@ -311,8 +434,20 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 1px;
+  height: 2px;
   background: linear-gradient(90deg, transparent, rgba(99, 102, 241, 0.5), rgba(34, 211, 238, 0.5), transparent);
+  animation: shimmer 3s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0%, 100% {
+    opacity: 0.5;
+    transform: translateX(-100%);
+  }
+  50% {
+    opacity: 1;
+    transform: translateX(100%);
+  }
 }
 
 .codeHeader {
@@ -405,13 +540,44 @@
   border: 1px solid rgba(255, 255, 255, 0.06);
   border-radius: 20px;
   transition: all 0.4s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.statCard::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, #6366f1, #22d3ee, #6366f1);
+  background-size: 200% 100%;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  animation: gradientSlide 3s linear infinite;
+}
+
+@keyframes gradientSlide {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 200% 50%;
+  }
 }
 
 .statCard:hover {
-  transform: translateY(-8px);
+  transform: translateY(-12px) scale(1.02);
   background: rgba(255, 255, 255, 0.04);
-  border-color: rgba(99, 102, 241, 0.3);
-  box-shadow: 0 20px 60px rgba(99, 102, 241, 0.15);
+  border-color: rgba(99, 102, 241, 0.4);
+  box-shadow: 
+    0 20px 60px rgba(99, 102, 241, 0.2),
+    0 0 0 1px rgba(99, 102, 241, 0.1);
+}
+
+.statCard:hover::before {
+  opacity: 1;
 }
 
 .statNumber {
@@ -528,50 +694,42 @@
 }
 
 .featureIcon {
-<<<<<<< HEAD
-  width: 70px;
-  height: 70px;
-  border-radius: 20px;
+  width: 72px;
+  height: 72px;
+  border-radius: 18px;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 2rem;
   margin-bottom: 1.75rem;
   position: relative;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .featureIcon::after {
   content: '';
   position: absolute;
   inset: 0;
-  border-radius: 20px;
+  border-radius: 18px;
   background: inherit;
-  filter: blur(20px);
-  opacity: 0.4;
+  filter: blur(24px);
+  opacity: 0.5;
   z-index: -1;
-=======
-  width: 64px;
-  height: 64px;
-  border-radius: 16px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 1.5rem;
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  transition: all 0.3s ease;
+  transition: opacity 0.4s ease;
 }
 
 .featureIcon svg {
   color: #ffffff;
-  opacity: 0.9;
+  opacity: 0.95;
+  position: relative;
+  z-index: 1;
 }
 
 .featureCard:hover .featureIcon {
-  background: rgba(255, 255, 255, 0.1);
-  border-color: rgba(255, 255, 255, 0.2);
-  transform: scale(1.05);
->>>>>>> cdbf845 (feat(ui): 替换图标为svg并优化样式)
+  transform: translateY(-4px) scale(1.05);
+}
+
+.featureCard:hover .featureIcon::after {
+  opacity: 0.7;
 }
 
 .featureTitle {
@@ -626,13 +784,30 @@
   padding: 1.75rem 2rem;
   transition: all 0.4s ease;
   min-width: 200px;
+  position: relative;
+  overflow: hidden;
+}
+
+.workflowStep::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(34, 211, 238, 0.05));
+  opacity: 0;
+  transition: opacity 0.4s ease;
 }
 
 .workflowStep:hover {
-  border-color: rgba(99, 102, 241, 0.4);
-  background: linear-gradient(135deg, rgba(99, 102, 241, 0.08), rgba(34, 211, 238, 0.04));
-  transform: translateY(-6px);
-  box-shadow: 0 20px 40px rgba(99, 102, 241, 0.15);
+  border-color: rgba(99, 102, 241, 0.5);
+  background: rgba(255, 255, 255, 0.04);
+  transform: translateY(-8px) scale(1.03);
+  box-shadow: 
+    0 20px 40px rgba(99, 102, 241, 0.2),
+    0 0 0 1px rgba(99, 102, 241, 0.2);
+}
+
+.workflowStep:hover::before {
+  opacity: 1;
 }
 
 .stepNumber {
@@ -696,6 +871,27 @@
   pointer-events: none;
 }
 
+/* 添加动态光效 */
+.ctaSection::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, transparent 70%);
+  animation: rotateGlow 20s linear infinite;
+}
+
+@keyframes rotateGlow {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
 .ctaContent {
   position: relative;
   z-index: 1;
@@ -733,12 +929,52 @@
   text-decoration: none;
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  position: relative;
+  overflow: hidden;
+}
+
+.ctaPrimary::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, #f0f0ff, #ffffff);
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.ctaPrimary::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(99, 102, 241, 0.2);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s;
 }
 
 .ctaPrimary:hover {
-  transform: translateY(-4px) scale(1.02);
-  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  transform: translateY(-6px) scale(1.05);
+  box-shadow: 
+    0 20px 60px rgba(0, 0, 0, 0.3),
+    0 0 0 3px rgba(255, 255, 255, 0.3);
   color: #6366f1;
+}
+
+.ctaPrimary:hover::before {
+  opacity: 1;
+}
+
+.ctaPrimary:hover::after {
+  width: 400px;
+  height: 400px;
+  opacity: 0;
+}
+
+.ctaPrimary:active {
+  transform: translateY(-4px) scale(1.02);
 }
 
 /* ============================================

@@ -5,6 +5,31 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import styles from './index.module.css';
 
+// 滚动进度条组件
+function ScrollProgress() {
+  const [scrollProgress, setScrollProgress] = useState(0);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const totalHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const progress = (window.scrollY / totalHeight) * 100;
+      setScrollProgress(progress);
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  return (
+    <div className={styles.scrollProgress}>
+      <div 
+        className={styles.scrollProgressBar} 
+        style={{ width: `${scrollProgress}%` }}
+      ></div>
+    </div>
+  );
+}
+
 // 打字机效果 - 更流畅的实现
 function TypeWriter({ texts, speed = 80 }) {
   const [displayText, setDisplayText] = useState('');
@@ -96,6 +121,18 @@ function AnimatedNumber({ end, duration = 2000, suffix = '' }) {
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
+  const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
+  
+  useEffect(() => {
+    const handleMouseMove = (e) => {
+      const x = (e.clientX / window.innerWidth - 0.5) * 20;
+      const y = (e.clientY / window.innerHeight - 0.5) * 20;
+      setMousePosition({ x, y });
+    };
+    
+    window.addEventListener('mousemove', handleMouseMove);
+    return () => window.removeEventListener('mousemove', handleMouseMove);
+  }, []);
   
   // 获取最新报告路径 - 基于实际存在的报告
   const getLatestReportPath = () => {
@@ -108,9 +145,39 @@ function HomepageHeader() {
     <header className={styles.heroBanner}>
       <div className={styles.heroBackground}>
         <div className={styles.gridLines}></div>
-        <div className={styles.glowOrb1}></div>
-        <div className={styles.glowOrb2}></div>
-        <div className={styles.glowOrb3}></div>
+        <div 
+          className={styles.glowOrb1}
+          style={{ 
+            transform: `translate(${mousePosition.x}px, ${mousePosition.y}px)` 
+          }}
+        ></div>
+        <div 
+          className={styles.glowOrb2}
+          style={{ 
+            transform: `translate(${-mousePosition.x * 0.8}px, ${-mousePosition.y * 0.8}px)` 
+          }}
+        ></div>
+        <div 
+          className={styles.glowOrb3}
+          style={{ 
+            transform: `translate(${mousePosition.x * 0.6}px, ${-mousePosition.y * 0.6}px)` 
+          }}
+        ></div>
+        {/* 添加粒子效果 */}
+        <div className={styles.particles}>
+          {[...Array(20)].map((_, i) => (
+            <div 
+              key={i} 
+              className={styles.particle}
+              style={{
+                left: `${Math.random() * 100}%`,
+                top: `${Math.random() * 100}%`,
+                animationDelay: `${Math.random() * 10}s`,
+                animationDuration: `${15 + Math.random() * 10}s`
+              }}
+            ></div>
+          ))}
+        </div>
       </div>
       
       <div className={styles.heroContent}>
@@ -213,108 +280,72 @@ function StatsSection() {
 function FeaturesSection() {
   const features = [
     {
-      icon: '🔍',
-      title: '智能数据采集',
-      description: '每日自动爬取 GitHub Trending，获取最新热门项目数据，支持多语言过滤',
-      gradient: 'linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%)',
-    },
-    {
-      icon: '🤖',
-      title: 'LLM 深度分析',
-      description: '利用大语言模型对项目进行深度解读，提供技术洞察、趋势预测和学习建议',
-      gradient: 'linear-gradient(135deg, #f472b6 0%, #fb7185 100%)',
-    },
-    {
-      icon: '📊',
-      title: '精美可视化',
-      description: '生成结构化的 Markdown 报告，表格、图表、代码示例一应俱全',
-      gradient: 'linear-gradient(135deg, #22d3ee 0%, #06b6d4 100%)',
-    },
-    {
-      icon: '⚡',
-      title: '全自动流水线',
-      description: '基于 GitHub Actions 实现全流程自动化，每日定时触发，零人工干预',
-      gradient: 'linear-gradient(135deg, #fb923c 0%, #f97316 100%)',
-    },
-    {
-      icon: '💾',
-      title: '历史数据归档',
-      description: '所有报告永久保存，支持按日期浏览，构建你的技术知识库',
-      gradient: 'linear-gradient(135deg, #34d399 0%, #10b981 100%)',
-    },
-    {
-      icon: '🌐',
-      title: '在线预览',
-      description: '基于 Docusaurus 构建的文档站点，随时随地在线阅读报告',
-      gradient: 'linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)',
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="11" cy="11" r="8"></circle>
           <path d="m21 21-4.35-4.35"></path>
-          <path d="M16 11h-6"></path>
-          <path d="M11 16v-6"></path>
         </svg>
       ),
-      title: '实时数据采集',
+      title: '智能数据采集',
       description: '每日自动爬取 GitHub Trending 页面，获取最新热门项目数据，包括 Star、Fork、语言等详细信息',
       gradient: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
     },
     {
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <path d="M12 2a10 10 0 1 0 10 10 4 4 0 0 1-5-5 4 4 0 0 1-5-5"></path>
           <path d="M8.5 8.5a2.5 2.5 0 0 1 3.5-2.3"></path>
           <path d="M12 6V2"></path>
         </svg>
       ),
-      title: 'AI 智能分析',
+      title: 'LLM 深度分析',
       description: '利用大语言模型对项目进行深度分析，提供技术洞察、趋势预测和学习建议',
       gradient: 'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)',
     },
     {
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <path d="M3 3v18h18"></path>
           <path d="M18.7 8l-5.1 5.2-2.8-2.7L7 14.3"></path>
         </svg>
       ),
-      title: '可视化报告',
-      description: '生成精美的 Markdown 报告，支持在线浏览，数据清晰直观',
+      title: '精美可视化',
+      description: '生成结构化的 Markdown 报告，表格、图表、代码示例一应俱全，数据清晰直观',
       gradient: 'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)',
     },
     {
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
-          <polyline points="22,6 12,13 2,6"></polyline>
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
         </svg>
       ),
-      title: '邮件推送',
-      description: '支持邮件订阅，每日报告自动推送到你的邮箱，不错过任何热门项目',
-      gradient: 'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)',
+      title: '全自动流水线',
+      description: '基于 GitHub Actions 实现全流程自动化，每日定时触发，零人工干预，稳定可靠',
+      gradient: 'linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)',
     },
     {
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
           <polyline points="3.27,6.96 12,12.01 20.73,6.96"></polyline>
           <line x1="12" y1="22.08" x2="12" y2="12"></line>
         </svg>
       ),
-      title: '数据持久化',
-      description: '所有历史报告永久保存，支持回顾和数据分析，构建你的技术知识库',
+      title: '历史数据归档',
+      description: '所有报告永久保存，支持按日期浏览和数据分析，构建你的技术知识库',
       gradient: 'linear-gradient(135deg, #fa709a 0%, #fee140 100%)',
     },
     {
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-          <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+          <path d="M2 12h20"></path>
+          <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
         </svg>
       ),
-      title: '全自动化',
-      description: '基于 GitHub Actions 实现全流程自动化，零人工干预，稳定可靠',
-      gradient: 'linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)',
->>>>>>> cdbf845 (feat(ui): 替换图标为svg并优化样式)
+      title: '在线预览',
+      description: '基于 Docusaurus 构建的文档站点，随时随地在线阅读报告，响应式设计',
+      gradient: 'linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)',
     },
   ];
 
@@ -401,6 +432,7 @@ function CTASection() {
 export default function Home() {
   return (
     <Layout title="首页" description="每日 GitHub 热门项目追踪与 AI 分析报告">
+      <ScrollProgress />
       <HomepageHeader />
       <main>
         <StatsSection />
