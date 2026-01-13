@@ -528,6 +528,7 @@
 }
 
 .featureIcon {
+<<<<<<< HEAD
   width: 70px;
   height: 70px;
   border-radius: 20px;
@@ -548,6 +549,29 @@
   filter: blur(20px);
   opacity: 0.4;
   z-index: -1;
+=======
+  width: 64px;
+  height: 64px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+}
+
+.featureIcon svg {
+  color: #ffffff;
+  opacity: 0.9;
+}
+
+.featureCard:hover .featureIcon {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.2);
+  transform: scale(1.05);
+>>>>>>> cdbf845 (feat(ui): 替换图标为svg并优化样式)
 }
 
 .featureTitle {
