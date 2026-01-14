@@ -1,0 +1,161 @@
+{
+  "date": "2026-01-14",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "Claude Code superpowers: core skills library",
+      "language": "Shell",
+      "stars": 20415,
+      "forks": 1545,
+      "stars_today": 1576,
+      "built_by": [
+        "claude",
+        "sotte",
+        "jjshanks",
+        "rhuss"
+      ]
+    },
+    {
+      "owner": "icloud-photos-downloader",
+      "name": "icloud_photos_downloader",
+      "full_name": "icloud-photos-downloader/icloud_photos_downloader",
+      "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+      "description": "A command-line tool to download photos from iCloud",
+      "language": "Python",
+      "stars": 10992,
+      "forks": 731,
+      "stars_today": 413,
+      "built_by": [
+        "claude",
+        "menkej",
+        "AndreyNikiforov",
+        "dependabot",
+        "ndbroadbent"
+      ]
+    },
+    {
+      "owner": "blakeblackshear",
+      "name": "frigate",
+      "full_name": "blakeblackshear/frigate",
+      "url": "https://github.com/blakeblackshear/frigate",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "language": "TypeScript",
+      "stars": 28960,
+      "forks": 2706,
+      "stars_today": 51,
+      "built_by": [
+        "NickM-27",
+        "weblate",
+        "paularmstrong",
+        "hawkeye217"
+      ]
+    },
+    {
+      "owner": "twitter",
+      "name": "the-algorithm",
+      "full_name": "twitter/the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": 69537,
+      "forks": 12856,
+      "stars_today": 73,
+      "built_by": [
+        "anqueue",
+        "pouriya",
+        "dzhao"
+      ]
+    },
+    {
+      "owner": "home-assistant",
+      "name": "home-assistant.io",
+      "full_name": "home-assistant/home-assistant.io",
+      "url": "https://github.com/home-assistant/home-assistant.io",
+      "description": "📘 Home Assistant User documentation",
+      "language": "HTML",
+      "stars": 8323,
+      "forks": 8115,
+      "stars_today": 185,
+      "built_by": [
+        "frenck",
+        "balloob",
+        "dependabot",
+        "fabaff",
+        "c0ffeeca7"
+      ]
+    },
+    {
+      "owner": "chidiwilliams",
+      "name": "buzz",
+      "full_name": "chidiwilliams/buzz",
+      "url": "https://github.com/chidiwilliams/buzz",
+      "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+      "language": "Python",
+      "stars": 16767,
+      "forks": 1248,
+      "stars_today": 280,
+      "built_by": [
+        "albanobattistella",
+        "raivisdejus",
+        "faveoled",
+        "Chenghao999"
+      ]
+    },
+    {
+      "owner": "adam-maj",
+      "name": "tiny-gpu",
+      "full_name": "adam-maj/tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "stars": 9830,
+      "forks": 773,
+      "stars_today": 107,
+      "built_by": [
+        "ashaltu",
+        "xianbaoqian",
+        "eltociear"
+      ]
+    },
+    {
+      "owner": "Free-TV",
+      "name": "IPTV",
+      "full_name": "Free-TV/IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "stars": 10597,
+      "forks": 1728,
+      "stars_today": 319,
+      "built_by": [
+        "NezbednikSK",
+        "KAMI911",
+        "freetv332",
+        "infid0",
+        "TVKaista"
+      ]
+    },
+    {
+      "owner": "onlook-dev",
+      "name": "onlook",
+      "full_name": "onlook-dev/onlook",
+      "url": "https://github.com/onlook-dev/onlook",
+      "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+      "language": "TypeScript",
+      "stars": 24099,
+      "forks": 1779,
+      "stars_today": 54,
+      "built_by": [
+        "iNerdStack",
+        "Kitenite",
+        "devin-ai-integration",
+        "spartan-vutrannguyen",
+        "drfarrell"
+      ]
+    }
+  ]
+}
