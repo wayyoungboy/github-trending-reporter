@@ -1,0 +1,126 @@
+{
+  "date": "2026-01-15",
+  "total_repos": 7,
+  "repositories": [
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "Claude Code superpowers: core skills library",
+      "language": "Shell",
+      "stars": 22267,
+      "forks": 1677,
+      "stars_today": 1863,
+      "built_by": [
+        "rhuss",
+        "claude",
+        "sotte",
+        "jjshanks"
+      ]
+    },
+    {
+      "owner": "twitter",
+      "name": "the-algorithm",
+      "full_name": "twitter/the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": 69873,
+      "forks": 12899,
+      "stars_today": 366,
+      "built_by": [
+        "anqueue",
+        "pouriya",
+        "dzhao"
+      ]
+    },
+    {
+      "owner": "dev-sec",
+      "name": "ansible-collection-hardening",
+      "full_name": "dev-sec/ansible-collection-hardening",
+      "url": "https://github.com/dev-sec/ansible-collection-hardening",
+      "description": "This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL",
+      "language": "Jinja",
+      "stars": 5009,
+      "forks": 798,
+      "stars_today": 23,
+      "built_by": [
+        "schurzi",
+        "rndmh3ro",
+        "renovate",
+        "chris-rock",
+        "fitz123"
+      ]
+    },
+    {
+      "owner": "mudler",
+      "name": "LocalAI",
+      "full_name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+      "language": "Go",
+      "stars": 41564,
+      "forks": 3404,
+      "stars_today": 64,
+      "built_by": [
+        "dependabot",
+        "renovate",
+        "localai-bot",
+        "dave-gray101"
+      ]
+    },
+    {
+      "owner": "grab",
+      "name": "cursor-talk-to-figma-mcp",
+      "full_name": "grab/cursor-talk-to-figma-mcp",
+      "url": "https://github.com/grab/cursor-talk-to-figma-mcp",
+      "description": "TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.",
+      "language": "JavaScript",
+      "stars": 5990,
+      "forks": 635,
+      "stars_today": 14,
+      "built_by": [
+        "gregce",
+        "sonnylazuardi",
+        "Kenrick-Zhou",
+        "saleiva",
+        "dusskapark"
+      ]
+    },
+    {
+      "owner": "zoicware",
+      "name": "RemoveWindowsAI",
+      "full_name": "zoicware/RemoveWindowsAI",
+      "url": "https://github.com/zoicware/RemoveWindowsAI",
+      "description": "Force Remove Copilot, Recall and More in Windows 11",
+      "language": "PowerShell",
+      "stars": 8425,
+      "forks": 262,
+      "stars_today": 339,
+      "built_by": [
+        "Daviid-P",
+        "csmit195",
+        "adeel26in"
+      ]
+    },
+    {
+      "owner": "rancher",
+      "name": "rancher",
+      "full_name": "rancher/rancher",
+      "url": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 25140,
+      "forks": 3142,
+      "stars_today": 6,
+      "built_by": [
+        "jakefhyde",
+        "dramich",
+        "rmweir",
+        "ibuildthecloud",
+        "kinarashah"
+      ]
+    }
+  ]
+}
