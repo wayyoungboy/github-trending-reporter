@@ -1,0 +1,166 @@
+{
+  "date": "2026-01-17",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 26069,
+      "forks": 1940,
+      "stars_today": 1961,
+      "built_by": [
+        "jjshanks",
+        "rhuss",
+        "claude",
+        "sotte"
+      ]
+    },
+    {
+      "owner": "Gentleman-Programming",
+      "name": "Gentleman.Dots",
+      "full_name": "Gentleman-Programming/Gentleman.Dots",
+      "url": "https://github.com/Gentleman-Programming/Gentleman.Dots",
+      "description": "My personal configuration for LazyVim !",
+      "language": "Shell",
+      "stars": 1156,
+      "forks": 182,
+      "stars_today": 15,
+      "built_by": [
+        "boterop",
+        "usarral",
+        "AlanBuscagliaGFT",
+        "Alan-TheGentleman",
+        "dbonne"
+      ]
+    },
+    {
+      "owner": "google",
+      "name": "langextract",
+      "full_name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": 21185,
+      "forks": 1472,
+      "stars_today": 336,
+      "built_by": [
+        "aksg87",
+        "tonebeta",
+        "kleeena",
+        "mariano",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "cjpais",
+      "name": "Handy",
+      "full_name": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "TypeScript",
+      "stars": 11824,
+      "forks": 780,
+      "stars_today": 405,
+      "built_by": [
+        "vladstudio",
+        "jacksongoode",
+        "VirenMohindra",
+        "Maicon-Moreira"
+      ]
+    },
+    {
+      "owner": "puckeditor",
+      "name": "puck",
+      "full_name": "puckeditor/puck",
+      "url": "https://github.com/puckeditor/puck",
+      "description": "The visual editor for React",
+      "language": "TypeScript",
+      "stars": 11049,
+      "forks": 771,
+      "stars_today": 504,
+      "built_by": [
+        "xaviemirmon",
+        "monospaced",
+        "FedericoBonel",
+        "dependabot",
+        "chrisvxd"
+      ]
+    },
+    {
+      "owner": "ultralytics",
+      "name": "ultralytics",
+      "full_name": "ultralytics/ultralytics",
+      "url": "https://github.com/ultralytics/ultralytics",
+      "description": "Ultralytics YOLO 🚀",
+      "language": "Python",
+      "stars": 51768,
+      "forks": 9919,
+      "stars_today": 379,
+      "built_by": [
+        "pre-commit-ci",
+        "Laughing-q",
+        "RizwanMunawar",
+        "glenn-jocher",
+        "UltralyticsAssistant"
+      ]
+    },
+    {
+      "owner": "eigent-ai",
+      "name": "eigent",
+      "full_name": "eigent-ai/eigent",
+      "url": "https://github.com/eigent-ai/eigent",
+      "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
+      "language": "TypeScript",
+      "stars": 7517,
+      "forks": 809,
+      "stars_today": 2179,
+      "built_by": [
+        "a7m-1st",
+        "fengju0213",
+        "nitpicker55555",
+        "Wendong-Fan",
+        "FooFindBar"
+      ]
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "AionUi",
+      "full_name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": 4293,
+      "forks": 354,
+      "stars_today": 174,
+      "built_by": [
+        "claude",
+        "kuishou68",
+        "goworm",
+        "halvee-tech",
+        "IceyLiu"
+      ]
+    },
+    {
+      "owner": "agentsmd",
+      "name": "agents.md",
+      "full_name": "agentsmd/agents.md",
+      "url": "https://github.com/agentsmd/agents.md",
+      "description": "AGENTS.md — a simple, open format for guiding coding agents",
+      "language": "TypeScript",
+      "stars": 15365,
+      "forks": 1068,
+      "stars_today": 97,
+      "built_by": [
+        "dkundel-openai",
+        "andrewgcodes",
+        "digitarald",
+        "radu-mocanu",
+        "romainhuet"
+      ]
+    }
+  ]
+}
