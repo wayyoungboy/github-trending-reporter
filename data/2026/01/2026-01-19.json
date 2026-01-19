@@ -1,0 +1,164 @@
+{
+  "date": "2026-01-19",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "iOfficeAI",
+      "name": "AionUi",
+      "full_name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": 5621,
+      "forks": 436,
+      "stars_today": 651,
+      "built_by": [
+        "kuishou68",
+        "halvee-tech",
+        "IceyLiu",
+        "claude",
+        "goworm"
+      ]
+    },
+    {
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "full_name": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "stars": 142480,
+      "forks": 11507,
+      "stars_today": 149,
+      "built_by": [
+        "dstftw",
+        "jaimeMF",
+        "pukkandan",
+        "phihag",
+        "remitamine"
+      ]
+    },
+    {
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": 17587,
+      "forks": 2096,
+      "stars_today": 46,
+      "built_by": [
+        "davidsblom",
+        "cjdsellers",
+        "faysou",
+        "limx0",
+        "filipmacek"
+      ]
+    },
+    {
+      "owner": "google",
+      "name": "langextract",
+      "full_name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": 22058,
+      "forks": 1527,
+      "stars_today": 395,
+      "built_by": [
+        "dependabot",
+        "tonebeta",
+        "mariano",
+        "aksg87",
+        "kleeena"
+      ]
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "full_name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+      "language": "Python",
+      "stars": 4233,
+      "forks": 512,
+      "stars_today": 238,
+      "built_by": [
+        "a710128",
+        "VoxInstruct",
+        "vytskalt",
+        "liuxin99",
+        "AbrahamSanders"
+      ]
+    },
+    {
+      "owner": "yichuan-w",
+      "name": "LEANN",
+      "full_name": "yichuan-w/LEANN",
+      "url": "https://github.com/yichuan-w/LEANN",
+      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "language": "Python",
+      "stars": 8976,
+      "forks": 784,
+      "stars_today": 144,
+      "built_by": [
+        "andylizf",
+        "ASuresh0524",
+        "actions-user",
+        "claude"
+      ]
+    },
+    {
+      "owner": "Flowseal",
+      "name": "zapret-discord-youtube",
+      "full_name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 21236,
+      "forks": 1774,
+      "stars_today": 55,
+      "built_by": [
+        "ekungurov",
+        "V3nilla",
+        "fridorin",
+        "amozebus"
+      ]
+    },
+    {
+      "owner": "tobi",
+      "name": "try",
+      "full_name": "tobi/try",
+      "url": "https://github.com/tobi/try",
+      "description": "fresh directories for every vibe",
+      "language": "Shell",
+      "stars": 2698,
+      "forks": 98,
+      "stars_today": 29,
+      "built_by": [
+        "burke",
+        "claude",
+        "pcasaretto",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "Mebus",
+      "name": "cupp",
+      "full_name": "Mebus/cupp",
+      "url": "https://github.com/Mebus/cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "language": "Python",
+      "stars": 5554,
+      "forks": 1758,
+      "stars_today": 31,
+      "built_by": [
+        "plex3r",
+        "herrBez",
+        "EdwardBetts",
+        "quantumcore"
+      ]
+    }
+  ]
+}
