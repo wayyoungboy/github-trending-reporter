@@ -9,15 +9,15 @@
       "url": "https://github.com/microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
-      "stars": 10606,
-      "forks": 868,
+      "stars": 10615,
+      "forks": 869,
       "stars_today": 43,
       "built_by": [
-        "wizardlancet",
-        "acured",
         "actions-user",
+        "Copilot",
         "ultmaster",
-        "Copilot"
+        "wizardlancet",
+        "acured"
       ]
     },
     {
@@ -27,15 +27,15 @@
       "url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
-      "stars": 7490,
-      "forks": 571,
+      "stars": 7515,
+      "forks": 572,
       "stars_today": 961,
       "built_by": [
         "claude",
+        "halvee-tech",
         "IceyLiu",
-        "kuishou68",
         "goworm",
-        "halvee-tech"
+        "kuishou68"
       ]
     },
     {
@@ -45,15 +45,15 @@
       "url": "https://github.com/google/langextract",
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
-      "stars": 23041,
-      "forks": 1584,
+      "stars": 23050,
+      "forks": 1585,
       "stars_today": 566,
       "built_by": [
         "dependabot",
+        "kleeena",
         "mariano",
         "tonebeta",
-        "aksg87",
-        "kleeena"
+        "aksg87"
       ]
     },
     {
@@ -63,14 +63,14 @@
       "url": "https://github.com/AlexxIT/go2rtc",
       "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
       "language": "Go",
-      "stars": 11368,
+      "stars": 11381,
       "forks": 864,
       "stars_today": 25,
       "built_by": [
-        "seydx",
-        "robvanoostenrijk",
         "felipecrs",
-        "skrashevich"
+        "robvanoostenrijk",
+        "skrashevich",
+        "seydx"
       ]
     },
     {
@@ -80,14 +80,14 @@
       "url": "https://github.com/lukasz-madon/awesome-remote-job",
       "description": "A curated list of awesome remote jobs and resources. Inspired byhttps://github.com/vinta/awesome-python",
       "language": "Unknown",
-      "stars": 42365,
+      "stars": 42378,
       "forks": 4413,
       "stars_today": 244,
       "built_by": [
-        "eahefnawy",
+        "scottconnerly",
         "waldyrious",
         "RichardLitt",
-        "scottconnerly"
+        "eahefnawy"
       ]
     },
     {
@@ -97,8 +97,8 @@
       "url": "https://github.com/tobi/try",
       "description": "fresh directories for every vibe",
       "language": "Shell",
-      "stars": 2869,
-      "forks": 105,
+      "stars": 2872,
+      "forks": 106,
       "stars_today": 168,
       "built_by": [
         "claude",
@@ -114,14 +114,14 @@
       "url": "https://github.com/DavidXanatos/TaskExplorer",
       "description": "Power full Task Manager",
       "language": "C",
-      "stars": 2671,
+      "stars": 2674,
       "forks": 222,
       "stars_today": 326,
       "built_by": [
-        "bovirus",
-        "coolvitto",
         "offhub",
-        "love-code-yeyixiao"
+        "love-code-yeyixiao",
+        "bovirus",
+        "coolvitto"
       ]
     }
   ]
