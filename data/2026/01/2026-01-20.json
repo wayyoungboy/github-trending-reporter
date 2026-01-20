@@ -1,0 +1,146 @@
+{
+  "date": "2026-01-20",
+  "total_repos": 8,
+  "repositories": [
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "full_name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+      "language": "Python",
+      "stars": 4883,
+      "forks": 570,
+      "stars_today": 673,
+      "built_by": [
+        "vytskalt",
+        "a710128",
+        "liuxin99",
+        "AbrahamSanders",
+        "VoxInstruct"
+      ]
+    },
+    {
+      "owner": "google",
+      "name": "langextract",
+      "full_name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": 22687,
+      "forks": 1563,
+      "stars_today": 652,
+      "built_by": [
+        "mariano",
+        "tonebeta",
+        "kleeena",
+        "dependabot",
+        "aksg87"
+      ]
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "AionUi",
+      "full_name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": 6821,
+      "forks": 523,
+      "stars_today": 1192,
+      "built_by": [
+        "halvee-tech",
+        "claude",
+        "IceyLiu",
+        "kuishou68",
+        "goworm"
+      ]
+    },
+    {
+      "owner": "czlonkowski",
+      "name": "n8n-mcp",
+      "full_name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars": 12171,
+      "forks": 2218,
+      "stars_today": 95,
+      "built_by": [
+        "thesved",
+        "claude",
+        "kimbo128",
+        "naXa777"
+      ]
+    },
+    {
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": 18050,
+      "forks": 2123,
+      "stars_today": 518,
+      "built_by": [
+        "davidsblom",
+        "filipmacek",
+        "limx0",
+        "faysou",
+        "cjdsellers"
+      ]
+    },
+    {
+      "owner": "ahujasid",
+      "name": "blender-mcp",
+      "full_name": "ahujasid/blender-mcp",
+      "url": "https://github.com/ahujasid/blender-mcp",
+      "description": "",
+      "language": "Python",
+      "stars": 15915,
+      "forks": 1517,
+      "stars_today": 188,
+      "built_by": [
+        "satishgoda",
+        "ElgoogUdiab",
+        "harrywang",
+        "siddikisahil47"
+      ]
+    },
+    {
+      "owner": "yichuan-w",
+      "name": "LEANN",
+      "full_name": "yichuan-w/LEANN",
+      "url": "https://github.com/yichuan-w/LEANN",
+      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "language": "Python",
+      "stars": 9310,
+      "forks": 806,
+      "stars_today": 374,
+      "built_by": [
+        "andylizf",
+        "claude",
+        "actions-user",
+        "ASuresh0524"
+      ]
+    },
+    {
+      "owner": "DavidXanatos",
+      "name": "TaskExplorer",
+      "full_name": "DavidXanatos/TaskExplorer",
+      "url": "https://github.com/DavidXanatos/TaskExplorer",
+      "description": "Power full Task Manager",
+      "language": "C",
+      "stars": 2452,
+      "forks": 212,
+      "stars_today": 236,
+      "built_by": [
+        "love-code-yeyixiao",
+        "bovirus",
+        "offhub",
+        "coolvitto"
+      ]
+    }
+  ]
+}
