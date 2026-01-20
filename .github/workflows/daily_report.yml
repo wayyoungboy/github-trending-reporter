@@ -80,7 +80,15 @@ jobs:
           fetch-depth: 0
       
       - name: 🔄 Pull latest changes
-        run: git pull origin main
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git pull origin main --rebase
+          echo "✅ Latest changes pulled"
+          echo ""
+          echo "Latest 5 commits:"
+          git log --oneline -5
       
       - name: 🟢 Setup Node.js
         uses: actions/setup-node@v4
