@@ -92,7 +92,28 @@ jobs:
       
       - name: 🔧 Generate sidebar
         run: npm run generate-sidebar
-      
+
+      - name: 📅 Find latest report date
+        id: latest-report
+        run: |
+          # 查找 reports 目录下最新的报告日期
+          LATEST_YEAR=$(ls -t reports/ | head -1)
+          LATEST_MONTH=$(ls -t reports/$LATEST_YEAR/ | head -1)
+          LATEST_DATE=$(ls -t reports/$LATEST_YEAR/$LATEST_MONTH/ | head -1 | sed 's/.md$//')
+          echo "year=$LATEST_YEAR" >> $GITHUB_OUTPUT
+          echo "month=$LATEST_MONTH" >> $GITHUB_OUTPUT
+          echo "date=$LATEST_DATE" >> $GITHUB_OUTPUT
+          echo "Latest report: $LATEST_YEAR/$LATEST_MONTH/$LATEST_DATE"
+
+      - name: 🔧 Update index.js with latest report link
+        run: |
+          LATEST_REPORT_PATH="/reports/${{ steps.latest-report.outputs.year }}/${{ steps.latest-report.outputs.month }}/${{ steps.latest-report.outputs.date }}"
+          echo "Updating link to: $LATEST_REPORT_PATH"
+          # 替换 index.js 中的链接
+          sed -i "s|to=\"/reports/[^\"]*\"|to=\"$LATEST_REPORT_PATH\"|g" src/pages/index.js
+          # 验证修改
+          grep -A 1 "primaryButton" src/pages/index.js | grep "to="
+
       - name: 🏗️ Build
         run: npm run build
       
