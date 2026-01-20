@@ -107,27 +107,28 @@ jobs:
           echo "🔍 Searching for latest report..."
           echo ""
           echo "Available years:"
-          ls -t reports/
+          ls reports/
           echo ""
           
-          # 查找 reports 目录下最新的报告日期
-          LATEST_YEAR=$(ls -t reports/ | head -1)
+          # 查找 reports 目录下最新的报告日期（按文件名排序，因为文件名就是日期）
+          LATEST_YEAR=$(ls reports/ | sort -r | head -1)
           echo "Latest year: $LATEST_YEAR"
           echo ""
           
           echo "Available months in $LATEST_YEAR:"
-          ls -t reports/$LATEST_YEAR/
+          ls reports/$LATEST_YEAR/
           echo ""
           
-          LATEST_MONTH=$(ls -t reports/$LATEST_YEAR/ | head -1)
+          LATEST_MONTH=$(ls reports/$LATEST_YEAR/ | sort -r | head -1)
           echo "Latest month: $LATEST_MONTH"
           echo ""
           
           echo "Available reports in $LATEST_YEAR/$LATEST_MONTH:"
-          ls -t reports/$LATEST_YEAR/$LATEST_MONTH/
+          ls reports/$LATEST_YEAR/$LATEST_MONTH/
           echo ""
           
-          LATEST_DATE=$(ls -t reports/$LATEST_YEAR/$LATEST_MONTH/ | head -1 | sed 's/.md$//')
+          # 按文件名（日期）降序排序，取第一个
+          LATEST_DATE=$(ls reports/$LATEST_YEAR/$LATEST_MONTH/ | sort -r | head -1 | sed 's/.md$//')
           echo "Latest date: $LATEST_DATE"
           echo ""
           
