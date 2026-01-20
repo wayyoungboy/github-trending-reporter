@@ -1,41 +1,23 @@
 {
   "date": "2026-01-20",
-  "total_repos": 8,
+  "total_repos": 7,
   "repositories": [
     {
-      "owner": "OpenBMB",
-      "name": "VoxCPM",
-      "full_name": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+      "owner": "microsoft",
+      "name": "agent-lightning",
+      "full_name": "microsoft/agent-lightning",
+      "url": "https://github.com/microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
-      "stars": 4883,
-      "forks": 570,
-      "stars_today": 673,
+      "stars": 10606,
+      "forks": 868,
+      "stars_today": 43,
       "built_by": [
-        "vytskalt",
-        "a710128",
-        "liuxin99",
-        "AbrahamSanders",
-        "VoxInstruct"
-      ]
-    },
-    {
-      "owner": "google",
-      "name": "langextract",
-      "full_name": "google/langextract",
-      "url": "https://github.com/google/langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "language": "Python",
-      "stars": 22687,
-      "forks": 1563,
-      "stars_today": 652,
-      "built_by": [
-        "mariano",
-        "tonebeta",
-        "kleeena",
-        "dependabot",
-        "aksg87"
+        "wizardlancet",
+        "acured",
+        "actions-user",
+        "ultmaster",
+        "Copilot"
       ]
     },
     {
@@ -45,84 +27,84 @@
       "url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
-      "stars": 6821,
-      "forks": 523,
-      "stars_today": 1192,
+      "stars": 7490,
+      "forks": 571,
+      "stars_today": 961,
       "built_by": [
-        "halvee-tech",
         "claude",
         "IceyLiu",
         "kuishou68",
-        "goworm"
+        "goworm",
+        "halvee-tech"
       ]
     },
     {
-      "owner": "czlonkowski",
-      "name": "n8n-mcp",
-      "full_name": "czlonkowski/n8n-mcp",
-      "url": "https://github.com/czlonkowski/n8n-mcp",
-      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-      "language": "TypeScript",
-      "stars": 12171,
-      "forks": 2218,
-      "stars_today": 95,
-      "built_by": [
-        "thesved",
-        "claude",
-        "kimbo128",
-        "naXa777"
-      ]
-    },
-    {
-      "owner": "nautechsystems",
-      "name": "nautilus_trader",
-      "full_name": "nautechsystems/nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "language": "Rust",
-      "stars": 18050,
-      "forks": 2123,
-      "stars_today": 518,
-      "built_by": [
-        "davidsblom",
-        "filipmacek",
-        "limx0",
-        "faysou",
-        "cjdsellers"
-      ]
-    },
-    {
-      "owner": "ahujasid",
-      "name": "blender-mcp",
-      "full_name": "ahujasid/blender-mcp",
-      "url": "https://github.com/ahujasid/blender-mcp",
-      "description": "",
+      "owner": "google",
+      "name": "langextract",
+      "full_name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
-      "stars": 15915,
-      "forks": 1517,
-      "stars_today": 188,
+      "stars": 23041,
+      "forks": 1584,
+      "stars_today": 566,
       "built_by": [
-        "satishgoda",
-        "ElgoogUdiab",
-        "harrywang",
-        "siddikisahil47"
+        "dependabot",
+        "mariano",
+        "tonebeta",
+        "aksg87",
+        "kleeena"
       ]
     },
     {
-      "owner": "yichuan-w",
-      "name": "LEANN",
-      "full_name": "yichuan-w/LEANN",
-      "url": "https://github.com/yichuan-w/LEANN",
-      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-      "language": "Python",
-      "stars": 9310,
-      "forks": 806,
-      "stars_today": 374,
+      "owner": "AlexxIT",
+      "name": "go2rtc",
+      "full_name": "AlexxIT/go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+      "language": "Go",
+      "stars": 11368,
+      "forks": 864,
+      "stars_today": 25,
       "built_by": [
-        "andylizf",
+        "seydx",
+        "robvanoostenrijk",
+        "felipecrs",
+        "skrashevich"
+      ]
+    },
+    {
+      "owner": "lukasz-madon",
+      "name": "awesome-remote-job",
+      "full_name": "lukasz-madon/awesome-remote-job",
+      "url": "https://github.com/lukasz-madon/awesome-remote-job",
+      "description": "A curated list of awesome remote jobs and resources. Inspired byhttps://github.com/vinta/awesome-python",
+      "language": "Unknown",
+      "stars": 42365,
+      "forks": 4413,
+      "stars_today": 244,
+      "built_by": [
+        "eahefnawy",
+        "waldyrious",
+        "RichardLitt",
+        "scottconnerly"
+      ]
+    },
+    {
+      "owner": "tobi",
+      "name": "try",
+      "full_name": "tobi/try",
+      "url": "https://github.com/tobi/try",
+      "description": "fresh directories for every vibe",
+      "language": "Shell",
+      "stars": 2869,
+      "forks": 105,
+      "stars_today": 168,
+      "built_by": [
         "claude",
-        "actions-user",
-        "ASuresh0524"
+        "pcasaretto",
+        "burke",
+        "Copilot"
       ]
     },
     {
@@ -132,14 +114,14 @@
       "url": "https://github.com/DavidXanatos/TaskExplorer",
       "description": "Power full Task Manager",
       "language": "C",
-      "stars": 2452,
-      "forks": 212,
-      "stars_today": 236,
+      "stars": 2671,
+      "forks": 222,
+      "stars_today": 326,
       "built_by": [
-        "love-code-yeyixiao",
         "bovirus",
+        "coolvitto",
         "offhub",
-        "coolvitto"
+        "love-code-yeyixiao"
       ]
     }
   ]
