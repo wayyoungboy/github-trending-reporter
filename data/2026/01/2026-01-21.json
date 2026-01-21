@@ -1,0 +1,128 @@
+{
+  "date": "2026-01-21",
+  "total_repos": 7,
+  "repositories": [
+    {
+      "owner": "microsoft",
+      "name": "agent-lightning",
+      "full_name": "microsoft/agent-lightning",
+      "url": "https://github.com/microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "language": "Python",
+      "stars": 10751,
+      "forks": 882,
+      "stars_today": 98,
+      "built_by": [
+        "ultmaster",
+        "Copilot",
+        "acured",
+        "actions-user",
+        "wizardlancet"
+      ]
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "AionUi",
+      "full_name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": 7796,
+      "forks": 590,
+      "stars_today": 970,
+      "built_by": [
+        "kuishou68",
+        "IceyLiu",
+        "goworm",
+        "claude",
+        "halvee-tech"
+      ]
+    },
+    {
+      "owner": "google",
+      "name": "langextract",
+      "full_name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": 23184,
+      "forks": 1591,
+      "stars_today": 552,
+      "built_by": [
+        "tonebeta",
+        "aksg87",
+        "mariano",
+        "kleeena",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "AlexxIT",
+      "name": "go2rtc",
+      "full_name": "AlexxIT/go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+      "language": "Go",
+      "stars": 11523,
+      "forks": 874,
+      "stars_today": 69,
+      "built_by": [
+        "seydx",
+        "robvanoostenrijk",
+        "felipecrs",
+        "skrashevich"
+      ]
+    },
+    {
+      "owner": "lukasz-madon",
+      "name": "awesome-remote-job",
+      "full_name": "lukasz-madon/awesome-remote-job",
+      "url": "https://github.com/lukasz-madon/awesome-remote-job",
+      "description": "A curated list of awesome remote jobs and resources. Inspired byhttps://github.com/vinta/awesome-python",
+      "language": "Unknown",
+      "stars": 42565,
+      "forks": 4420,
+      "stars_today": 262,
+      "built_by": [
+        "scottconnerly",
+        "eahefnawy",
+        "waldyrious",
+        "RichardLitt"
+      ]
+    },
+    {
+      "owner": "tobi",
+      "name": "try",
+      "full_name": "tobi/try",
+      "url": "https://github.com/tobi/try",
+      "description": "fresh directories for every vibe",
+      "language": "Shell",
+      "stars": 2941,
+      "forks": 110,
+      "stars_today": 43,
+      "built_by": [
+        "burke",
+        "claude",
+        "pcasaretto",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "DavidXanatos",
+      "name": "TaskExplorer",
+      "full_name": "DavidXanatos/TaskExplorer",
+      "url": "https://github.com/DavidXanatos/TaskExplorer",
+      "description": "Power full Task Manager",
+      "language": "C",
+      "stars": 2754,
+      "forks": 226,
+      "stars_today": 328,
+      "built_by": [
+        "love-code-yeyixiao",
+        "coolvitto",
+        "offhub",
+        "bovirus"
+      ]
+    }
+  ]
+}
