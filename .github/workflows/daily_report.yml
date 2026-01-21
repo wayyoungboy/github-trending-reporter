@@ -62,8 +62,9 @@ jobs:
       
       - name: 📤 Commit and push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "wayyoungboy"
+          # git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "1017761807@qq.com"
           git add reports/ data/
           git diff --staged --quiet || git commit -m "📈 Add report for ${{ steps.date.outputs.date }}"
           git push
