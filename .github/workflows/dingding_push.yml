@@ -96,6 +96,7 @@ jobs:
                 }
             }
             print(json.dumps(message))
+            open('dingtalk_message.json', 'w', encoding='utf-8').write(json.dumps(message, ensure_ascii=False))
 
 
         PY
