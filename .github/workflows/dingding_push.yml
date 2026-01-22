@@ -27,15 +27,15 @@ jobs:
         YEAR=${{ steps.date.outputs.year }}
         MONTH=${{ steps.date.outputs.month }}
 
-        # 从 data 目录查找今天的 JSON 报告
-        report_file="data/$YEAR/$MONTH/$DATE.json"
+        # 根据 daily_report.yml 的目录结构查找今天的报告
+        report_file="reports/$YEAR/$MONTH/$DATE.md"
 
         if [ -f "$report_file" ]; then
           echo "report_file=$report_file" >> $GITHUB_OUTPUT
           echo "找到今日报告: $report_file"
         else
           # 如果没有今天的报告，查找最新的报告
-          latest_file=$(find data -type f -name "*.json" | sort -r | head -n 1)
+          latest_file=$(find reports -type f -name "*.md" | sort -r | head -n 1)
           if [ -z "$latest_file" ]; then
             echo "未找到报告文件"
             exit 1
@@ -66,35 +66,30 @@ jobs:
         site_url = os.environ['SITE_URL']
         repo_url = os.environ['REPO_URL']
 
-        # 读取 JSON 数据
         with open(report_file, 'r', encoding='utf-8') as f:
-            data = json.load(f)
+            content = f.read()
 
-            # 构建简洁的 Markdown 消息
-            content = ""
-            for i, repo in enumerate(data['repositories'], 1):
-                emoji = ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣", "8️⃣"][i-1]
-                content += f"### {emoji} **{repo['full_name']}**\n"
-                content += f"- **语言**: {repo['language']}\n"
-                content += f"- **增长**: +{repo['stars_today']} ⭐ (今日)\n"
-                content += f"- **总计**: {repo['stars']} ⭐\n"
-                content += f"- **简介**: {repo['description']}\n\n"
-
-            # 构建消息（Markdown）
-            message = {
-                'msgtype': 'markdown',
-                'markdown': {
-                    'title': f'每日GitHub趋势报告 - {date}',
-                    'text': (
-                        f'### 📈 GitHub趋势每日报告\n\n'
-                        f'**📅 日期**: {date}\n'
-                        f'**📊 项目总数**: {data["total_repos"]}个\n'
-                        f'**🔥 最热门**: {data["repositories"][0]["full_name"]} (+{data["repositories"][0]["stars_today"]}⭐)\n\n'
-                        f'**📱 今日热门项目**: \n{content}\n'
-                        f'**[查看完整报告]({site_url})** | **[项目仓库]({repo_url})**'
-                    )
-                }
+        # 构建消息（Markdown）
+        message = {
+            'msgtype': 'markdown',
+            'markdown': {
+                'title': f'每日GitHub趋势报告 - {date}',
+                'text': (
+                    f'### **GitHub趋势每日报告** 🚀\n\n'
+                    f'#### **报告日期**: {date}\n'
+                    f'#### **在线查看**: [查看完整报告]({site_url})\n\n'
+                    '---\n\n'
+                    '**报告内容**:\n\n'
+                    f'{content}\n\n'
+                    '---\n\n'
+                    f'[仓库]({repo_url})'
+                )
             }
+        }
+
+        with open('dingtalk_message.json', 'w', encoding='utf-8') as f:
+            json.dump(message, f, ensure_ascii=False)
+        PY
 
         curl "https://oapi.dingtalk.com/robot/send?access_token=$DINGDING_TOKEN" \
           -H 'Content-Type: application/json' \
