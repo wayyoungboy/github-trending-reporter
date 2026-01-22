@@ -27,15 +27,15 @@ jobs:
         YEAR=${{ steps.date.outputs.year }}
         MONTH=${{ steps.date.outputs.month }}
 
-        # 根据 daily_report.yml 的目录结构查找今天的报告
-        report_file="reports/$YEAR/$MONTH/$DATE.md"
+        # 从 data 目录查找今天的 JSON 报告
+        report_file="data/$YEAR/$MONTH/$DATE.json"
 
         if [ -f "$report_file" ]; then
           echo "report_file=$report_file" >> $GITHUB_OUTPUT
           echo "找到今日报告: $report_file"
         else
           # 如果没有今天的报告，查找最新的报告
-          latest_file=$(find reports -type f -name "*.md" | sort -r | head -n 1)
+          latest_file=$(find data -type f -name "*.json" | sort -r | head -n 1)
           if [ -z "$latest_file" ]; then
             echo "未找到报告文件"
             exit 1
@@ -58,7 +58,7 @@ jobs:
           exit 0
         fi
 
-       python3 - <<'PY'
+        python3 - <<'PY'
         import json, os
 
         report_file = os.environ['REPORT_FILE']
@@ -95,13 +95,10 @@ jobs:
                     )
                 }
             }
-        print("发送消息内容:")
-        print(json.dumps(message, ensure_ascii=False, indent=2))
+            print(json.dumps(message))
 
-        with open('dingtalk_message.json', 'w', encoding='utf-8') as f:
-            json.dump(message, f, ensure_ascii=False)
+
         PY
-
 #        curl "https://oapi.dingtalk.com/robot/send?access_token=$DINGDING_TOKEN" \
 #          -H 'Content-Type: application/json' \
 #          -d @dingtalk_message.json
