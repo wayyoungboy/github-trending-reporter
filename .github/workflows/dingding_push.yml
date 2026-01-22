@@ -1,0 +1,103 @@
+name: Daily Report Upload
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天 UTC 02:00，对应北京时间 10:00
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  upload-latest-report:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: 📅 Get date
+      id: date
+      run: |
+        echo "date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+        echo "year=$(date +%Y)" >> $GITHUB_OUTPUT
+        echo "month=$(date +%m)" >> $GITHUB_OUTPUT
+
+    - name: Find latest report
+      id: find_report
+      run: |
+        DATE=${{ steps.date.outputs.date }}
+        YEAR=${{ steps.date.outputs.year }}
+        MONTH=${{ steps.date.outputs.month }}
+
+        # 从 data 目录查找今天的 JSON 报告
+        report_file="data/$YEAR/$MONTH/$DATE.json"
+
+        if [ -f "$report_file" ]; then
+          echo "report_file=$report_file" >> $GITHUB_OUTPUT
+          echo "找到今日报告: $report_file"
+        else
+          # 如果没有今天的报告，查找最新的报告
+          latest_file=$(find data -type f -name "*.json" | sort -r | head -n 1)
+          if [ -z "$latest_file" ]; then
+            echo "未找到报告文件"
+            exit 1
+          fi
+          echo "report_file=$latest_file" >> $GITHUB_OUTPUT
+          echo "使用最新报告: $latest_file"
+        fi
+
+    - name: Send to DingTalk
+      env:
+        DINGDING_TOKEN: ${{ secrets.DINGDING_TOKEN }}
+        REPORT_FILE: ${{ steps.find_report.outputs.report_file }}
+        DATE: ${{ steps.date.outputs.date }}
+        SITE_URL: "https://wayyoungboy.github.io/github-trending-reporter/"
+        REPO_URL: "https://github.com/${{ github.repository }}"
+      run: |
+        # 如果没有配置 token 就安全地跳过（避免在 workflow 校验阶段引用 secrets 导致错误）
+        if [ -z "$DINGDING_TOKEN" ]; then
+          echo "DINGDING_TOKEN 未配置，跳过发送"
+          exit 0
+        fi
+
+        python3 - <<'PY'
+        import json, os
+
+        report_file = os.environ['REPORT_FILE']
+        date = os.environ['DATE']
+        site_url = os.environ['SITE_URL']
+        repo_url = os.environ['REPO_URL']
+
+        # 读取 JSON 数据
+        with open(report_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+
+            # 构建简洁的 Markdown 消息
+            content = ""
+            for i, repo in enumerate(data['repositories'], 1):
+                emoji = ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣", "8️⃣"][i-1]
+                content += f"### {emoji} **{repo['full_name']}**\n"
+                content += f"- **语言**: {repo['language']}\n"
+                content += f"- **增长**: +{repo['stars_today']} ⭐ (今日)\n"
+                content += f"- **总计**: {repo['stars']} ⭐\n"
+                content += f"- **简介**: {repo['description']}\n\n"
+
+            # 构建消息（Markdown）
+            message = {
+                'msgtype': 'markdown',
+                'markdown': {
+                    'title': f'每日GitHub趋势报告 - {date}',
+                    'text': (
+                        f'### 📈 GitHub趋势每日报告\n\n'
+                        f'**📅 日期**: {date}\n'
+                        f'**📊 项目总数**: {data["total_repos"]}个\n'
+                        f'**🔥 最热门**: {data["repositories"][0]["full_name"]} (+{data["repositories"][0]["stars_today"]}⭐)\n\n'
+                        f'**📱 今日热门项目**: \n{content}\n'
+                        f'**[查看完整报告]({site_url})** | **[项目仓库]({repo_url})**'
+                    )
+                }
+            }
+            print(json.dumps(message, ensure_ascii=False))
+
+
+        curl "https://oapi.dingtalk.com/robot/send?access_token=$DINGDING_TOKEN" \
+          -H 'Content-Type: application/json' \
+          -d @dingtalk_message.json
