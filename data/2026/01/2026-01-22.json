@@ -9,14 +9,14 @@
       "url": "https://github.com/tambo-ai/tambo",
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
-      "stars": 3291,
-      "forks": 202,
+      "stars": 3520,
+      "forks": 214,
       "stars_today": 222,
       "built_by": [
-        "dependabot",
-        "tambo-bot",
         "alecf",
+        "tambo-bot",
         "akhileshrangani4",
+        "dependabot",
         "MichaelMilstead"
       ]
     },
@@ -27,15 +27,15 @@
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
-      "stars": 5672,
-      "forks": 457,
+      "stars": 5881,
+      "forks": 467,
       "stars_today": 190,
       "built_by": [
-        "dshipper",
-        "julik",
-        "tmchow",
         "kieranklaassen",
-        "claude"
+        "julik",
+        "claude",
+        "tmchow",
+        "dshipper"
       ]
     },
     {
@@ -45,13 +45,13 @@
       "url": "https://github.com/twitter/the-algorithm",
       "description": "Source code for the X Recommendation Algorithm",
       "language": "Scala",
-      "stars": 71358,
-      "forks": 13091,
+      "stars": 71528,
+      "forks": 13103,
       "stars_today": 391,
       "built_by": [
+        "pouriya",
         "dzhao",
-        "anqueue",
-        "pouriya"
+        "anqueue"
       ]
     },
     {
@@ -61,15 +61,15 @@
       "url": "https://github.com/xai-org/grok-1",
       "description": "Grok open release",
       "language": "Python",
-      "stars": 50950,
-      "forks": 8425,
+      "stars": 51075,
+      "forks": 8438,
       "stars_today": 141,
       "built_by": [
+        "TobyPDE",
         "syzymon",
         "garethpaul",
-        "TobyPDE",
-        "ibab",
-        "mane"
+        "mane",
+        "ibab"
       ]
     },
     {
@@ -79,15 +79,15 @@
       "url": "https://github.com/microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
-      "stars": 11190,
-      "forks": 918,
+      "stars": 11307,
+      "forks": 924,
       "stars_today": 527,
       "built_by": [
-        "wizardlancet",
-        "actions-user",
-        "acured",
+        "ultmaster",
         "Copilot",
-        "ultmaster"
+        "acured",
+        "wizardlancet",
+        "actions-user"
       ]
     },
     {
@@ -97,13 +97,13 @@
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
-      "stars": 6084,
-      "forks": 486,
+      "stars": 6238,
+      "forks": 493,
       "stars_today": 100,
       "built_by": [
-        "zmtomorrow",
+        "clarenceluo78",
         "rejojer",
-        "clarenceluo78"
+        "zmtomorrow"
       ]
     },
     {
@@ -113,14 +113,14 @@
       "url": "https://github.com/microsoft/Data-Science-For-Beginners",
       "description": "10 Weeks, 20 Lessons, Data Science for All!",
       "language": "Jupyter Notebook",
-      "stars": 32248,
-      "forks": 6795,
+      "stars": 32479,
+      "forks": 6816,
       "stars_today": 99,
       "built_by": [
-        "dependabot",
         "jlooper",
-        "paladique",
+        "dependabot",
         "skytin1004",
+        "paladique",
         "leestott"
       ]
     },
@@ -131,14 +131,14 @@
       "url": "https://github.com/tobi/try",
       "description": "fresh directories for every vibe",
       "language": "Shell",
-      "stars": 3138,
-      "forks": 116,
+      "stars": 3205,
+      "forks": 118,
       "stars_today": 189,
       "built_by": [
-        "pcasaretto",
-        "claude",
         "Copilot",
-        "burke"
+        "claude",
+        "burke",
+        "pcasaretto"
       ]
     }
   ]
