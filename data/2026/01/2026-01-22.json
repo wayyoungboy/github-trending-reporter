@@ -1,0 +1,145 @@
+{
+  "date": "2026-01-22",
+  "total_repos": 8,
+  "repositories": [
+    {
+      "owner": "tambo-ai",
+      "name": "tambo",
+      "full_name": "tambo-ai/tambo",
+      "url": "https://github.com/tambo-ai/tambo",
+      "description": "Generative UI SDK for React",
+      "language": "TypeScript",
+      "stars": 3291,
+      "forks": 202,
+      "stars_today": 222,
+      "built_by": [
+        "dependabot",
+        "tambo-bot",
+        "alecf",
+        "akhileshrangani4",
+        "MichaelMilstead"
+      ]
+    },
+    {
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "full_name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Claude Code compound engineering plugin",
+      "language": "TypeScript",
+      "stars": 5672,
+      "forks": 457,
+      "stars_today": 190,
+      "built_by": [
+        "dshipper",
+        "julik",
+        "tmchow",
+        "kieranklaassen",
+        "claude"
+      ]
+    },
+    {
+      "owner": "twitter",
+      "name": "the-algorithm",
+      "full_name": "twitter/the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": 71358,
+      "forks": 13091,
+      "stars_today": 391,
+      "built_by": [
+        "dzhao",
+        "anqueue",
+        "pouriya"
+      ]
+    },
+    {
+      "owner": "xai-org",
+      "name": "grok-1",
+      "full_name": "xai-org/grok-1",
+      "url": "https://github.com/xai-org/grok-1",
+      "description": "Grok open release",
+      "language": "Python",
+      "stars": 50950,
+      "forks": 8425,
+      "stars_today": 141,
+      "built_by": [
+        "syzymon",
+        "garethpaul",
+        "TobyPDE",
+        "ibab",
+        "mane"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "agent-lightning",
+      "full_name": "microsoft/agent-lightning",
+      "url": "https://github.com/microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "language": "Python",
+      "stars": 11190,
+      "forks": 918,
+      "stars_today": 527,
+      "built_by": [
+        "wizardlancet",
+        "actions-user",
+        "acured",
+        "Copilot",
+        "ultmaster"
+      ]
+    },
+    {
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": 6084,
+      "forks": 486,
+      "stars_today": 100,
+      "built_by": [
+        "zmtomorrow",
+        "rejojer",
+        "clarenceluo78"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "Data-Science-For-Beginners",
+      "full_name": "microsoft/Data-Science-For-Beginners",
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "language": "Jupyter Notebook",
+      "stars": 32248,
+      "forks": 6795,
+      "stars_today": 99,
+      "built_by": [
+        "dependabot",
+        "jlooper",
+        "paladique",
+        "skytin1004",
+        "leestott"
+      ]
+    },
+    {
+      "owner": "tobi",
+      "name": "try",
+      "full_name": "tobi/try",
+      "url": "https://github.com/tobi/try",
+      "description": "fresh directories for every vibe",
+      "language": "Shell",
+      "stars": 3138,
+      "forks": 116,
+      "stars_today": 189,
+      "built_by": [
+        "pcasaretto",
+        "claude",
+        "Copilot",
+        "burke"
+      ]
+    }
+  ]
+}
