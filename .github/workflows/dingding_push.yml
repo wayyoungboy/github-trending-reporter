@@ -86,6 +86,8 @@ jobs:
                 )
             }
         }
+        print("发送消息内容:")
+        print(json.dumps(message, ensure_ascii=False, indent=2))
 
         with open('dingtalk_message.json', 'w', encoding='utf-8') as f:
             json.dump(message, f, ensure_ascii=False)
