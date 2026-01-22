@@ -95,8 +95,6 @@ jobs:
                     )
                 }
             }
-            print(json.dumps(message, ensure_ascii=False))
-
 
         curl "https://oapi.dingtalk.com/robot/send?access_token=$DINGDING_TOKEN" \
           -H 'Content-Type: application/json' \
