@@ -99,6 +99,6 @@ jobs:
 
 
         PY
-#        curl "https://oapi.dingtalk.com/robot/send?access_token=$DINGDING_TOKEN" \
-#          -H 'Content-Type: application/json' \
-#          -d @dingtalk_message.json
+        curl "https://oapi.dingtalk.com/robot/send?access_token=$DINGDING_TOKEN" \
+          -H 'Content-Type: application/json' \
+          -d @dingtalk_message.json
