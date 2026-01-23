@@ -1,0 +1,197 @@
+{
+  "date": "2026-01-23",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "remotion-dev",
+      "name": "remotion",
+      "full_name": "remotion-dev/remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "language": "TypeScript",
+      "stars": 26988,
+      "forks": 1588,
+      "stars_today": 537,
+      "built_by": [
+        "patsalv",
+        "JonnyBurger",
+        "samohovets",
+        "alexfernandez803",
+        "UmungoBungo"
+      ]
+    },
+    {
+      "owner": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 27151,
+      "forks": 2468,
+      "stars_today": 347,
+      "built_by": [
+        "blackgirlbytes",
+        "EbonyLouis",
+        "michaelneale",
+        "angiejones",
+        "dianed-square"
+      ]
+    },
+    {
+      "owner": "twitter",
+      "name": "the-algorithm",
+      "full_name": "twitter/the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": 71761,
+      "forks": 13140,
+      "stars_today": 473,
+      "built_by": [
+        "anqueue",
+        "dzhao",
+        "pouriya"
+      ]
+    },
+    {
+      "owner": "xai-org",
+      "name": "grok-1",
+      "full_name": "xai-org/grok-1",
+      "url": "https://github.com/xai-org/grok-1",
+      "description": "Grok open release",
+      "language": "Python",
+      "stars": 51227,
+      "forks": 8456,
+      "stars_today": 348,
+      "built_by": [
+        "syzymon",
+        "mane",
+        "ibab",
+        "garethpaul",
+        "TobyPDE"
+      ]
+    },
+    {
+      "owner": "deepseek-ai",
+      "name": "FlashMLA",
+      "full_name": "deepseek-ai/FlashMLA",
+      "url": "https://github.com/deepseek-ai/FlashMLA",
+      "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
+      "language": "C++",
+      "stars": 12148,
+      "forks": 951,
+      "stars_today": 30,
+      "built_by": [
+        "uchihatmtkinu",
+        "interestingLSY",
+        "beginlner",
+        "dianzhangchen",
+        "sijiac"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "agent-lightning",
+      "full_name": "microsoft/agent-lightning",
+      "url": "https://github.com/microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "language": "Python",
+      "stars": 11465,
+      "forks": 932,
+      "stars_today": 327,
+      "built_by": [
+        "wizardlancet",
+        "actions-user",
+        "acured",
+        "ultmaster",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "AionUi",
+      "full_name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": 9229,
+      "forks": 718,
+      "stars_today": 554,
+      "built_by": [
+        "goworm",
+        "kuishou68",
+        "IceyLiu",
+        "claude",
+        "halvee-tech"
+      ]
+    },
+    {
+      "owner": "mastra-ai",
+      "name": "mastra",
+      "full_name": "mastra-ai/mastra",
+      "url": "https://github.com/mastra-ai/mastra",
+      "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
+      "language": "TypeScript",
+      "stars": 20158,
+      "forks": 1448,
+      "stars_today": 227,
+      "built_by": [
+        "adeleke5140",
+        "dane-ai-mastra",
+        "TheIsrael1",
+        "wardpeet",
+        "abhiaiyer91"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "Data-Science-For-Beginners",
+      "full_name": "microsoft/Data-Science-For-Beginners",
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "language": "Jupyter Notebook",
+      "stars": 32857,
+      "forks": 6846,
+      "stars_today": 651,
+      "built_by": [
+        "skytin1004",
+        "jlooper",
+        "leestott",
+        "dependabot",
+        "paladique"
+      ]
+    },
+    {
+      "owner": "nexmoe",
+      "name": "VidBee",
+      "full_name": "nexmoe/VidBee",
+      "url": "https://github.com/nexmoe/VidBee",
+      "description": "Download videos from almost any website worldwide",
+      "language": "TypeScript",
+      "stars": 4618,
+      "forks": 329,
+      "stars_today": 267,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "dexter",
+      "full_name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 8400,
+      "forks": 1047,
+      "stars_today": 248,
+      "built_by": [
+        "bittoby",
+        "gupta-8",
+        "dimaland1",
+        "axyr"
+      ]
+    }
+  ]
+}
