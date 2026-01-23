@@ -69,6 +69,7 @@ jobs:
         # 读取 JSON 数据
         with open(report_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
+            print(data)
 
             # 构建简洁的 Markdown 消息
             content = ""
