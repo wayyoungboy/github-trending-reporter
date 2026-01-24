@@ -1,0 +1,237 @@
+{
+  "date": "2026-01-24",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "remotion-dev",
+      "name": "remotion",
+      "full_name": "remotion-dev/remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "language": "TypeScript",
+      "stars": 28442,
+      "forks": 1684,
+      "stars_today": 1618,
+      "built_by": [
+        "samohovets",
+        "alexfernandez803",
+        "patsalv",
+        "JonnyBurger",
+        "UmungoBungo"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 21264,
+      "forks": 2338,
+      "stars_today": 261,
+      "built_by": [
+        "wenhui0924",
+        "MSLDCherryPick",
+        "hydropix",
+        "YaoyaoChang",
+        "pengzhiliang"
+      ]
+    },
+    {
+      "owner": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 27600,
+      "forks": 2492,
+      "stars_today": 491,
+      "built_by": [
+        "angiejones",
+        "blackgirlbytes",
+        "dianed-square",
+        "michaelneale",
+        "EbonyLouis"
+      ]
+    },
+    {
+      "owner": "ai-dynamo",
+      "name": "dynamo",
+      "full_name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": 5911,
+      "forks": 807,
+      "stars_today": 33,
+      "built_by": [
+        "tedzhouhk",
+        "nv-anants",
+        "grahamking",
+        "rmccorm4",
+        "PeaBrane"
+      ]
+    },
+    {
+      "owner": "browser-use",
+      "name": "browser-use",
+      "full_name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "language": "Python",
+      "stars": 76375,
+      "forks": 9102,
+      "stars_today": 205,
+      "built_by": [
+        "mertunsall",
+        "sauravpanda",
+        "gregpr07",
+        "MagMueller",
+        "pirate"
+      ]
+    },
+    {
+      "owner": "github",
+      "name": "copilot-cli",
+      "full_name": "github/copilot-cli",
+      "url": "https://github.com/github/copilot-cli",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+      "language": "Shell",
+      "stars": 7234,
+      "forks": 954,
+      "stars_today": 125,
+      "built_by": [
+        "Copilot",
+        "RyanHecht",
+        "github-actions",
+        "devm33",
+        "tidy-dev"
+      ]
+    },
+    {
+      "owner": "Asabeneh",
+      "name": "30-Days-Of-Python",
+      "full_name": "Asabeneh/30-Days-Of-Python",
+      "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+      "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "Python",
+      "stars": 56337,
+      "forks": 10787,
+      "stars_today": 91,
+      "built_by": [
+        "kjs1019",
+        "jshyun1",
+        "pkiczko",
+        "thebigcicca"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "stars": 59955,
+      "forks": 4461,
+      "stars_today": 393,
+      "built_by": [
+        "ashwin-ant",
+        "ant-kurt",
+        "actions-user",
+        "claude",
+        "bcherny"
+      ]
+    },
+    {
+      "owner": "deepseek-ai",
+      "name": "FlashMLA",
+      "full_name": "deepseek-ai/FlashMLA",
+      "url": "https://github.com/deepseek-ai/FlashMLA",
+      "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
+      "language": "C++",
+      "stars": 12317,
+      "forks": 961,
+      "stars_today": 184,
+      "built_by": [
+        "sijiac",
+        "dianzhangchen",
+        "beginlner",
+        "uchihatmtkinu",
+        "interestingLSY"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "Data-Science-For-Beginners",
+      "full_name": "microsoft/Data-Science-For-Beginners",
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "language": "Jupyter Notebook",
+      "stars": 33366,
+      "forks": 6874,
+      "stars_today": 555,
+      "built_by": [
+        "jlooper",
+        "dependabot",
+        "leestott",
+        "skytin1004",
+        "paladique"
+      ]
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "UltraRAG",
+      "full_name": "OpenBMB/UltraRAG",
+      "url": "https://github.com/OpenBMB/UltraRAG",
+      "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+      "language": "Python",
+      "stars": 2949,
+      "forks": 237,
+      "stars_today": 130,
+      "built_by": [
+        "mssssss123",
+        "gdw439",
+        "Kaguya-19",
+        "ChenYX24",
+        "xhd0728"
+      ]
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 8636,
+      "forks": 786,
+      "stars_today": 493,
+      "built_by": [
+        "NavodPeiris",
+        "Razikus",
+        "hiemal",
+        "eltociear"
+      ]
+    },
+    {
+      "owner": "KellerJordan",
+      "name": "modded-nanogpt",
+      "full_name": "KellerJordan/modded-nanogpt",
+      "url": "https://github.com/KellerJordan/modded-nanogpt",
+      "description": "NanoGPT (124M) in 2 minutes",
+      "language": "Python",
+      "stars": 4382,
+      "forks": 582,
+      "stars_today": 54,
+      "built_by": [
+        "ClassicLarry",
+        "varunneal",
+        "YouJiacheng",
+        "leloykun"
+      ]
+    }
+  ]
+}
