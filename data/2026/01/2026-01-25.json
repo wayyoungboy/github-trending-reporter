@@ -1,23 +1,22 @@
 {
   "date": "2026-01-25",
-  "total_repos": 10,
+  "total_repos": 8,
   "repositories": [
     {
-      "owner": "remotion-dev",
-      "name": "remotion",
-      "full_name": "remotion-dev/remotion",
-      "url": "https://github.com/remotion-dev/remotion",
-      "description": "🎥 Make videos programmatically with React",
-      "language": "TypeScript",
-      "stars": 29544,
-      "forks": 1776,
-      "stars_today": 1171,
+      "owner": "Blaizzy",
+      "name": "mlx-audio",
+      "full_name": "Blaizzy/mlx-audio",
+      "url": "https://github.com/Blaizzy/mlx-audio",
+      "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+      "language": "Python",
+      "stars": 3795,
+      "forks": 310,
+      "stars_today": 263,
       "built_by": [
-        "UmungoBungo",
-        "patsalv",
-        "JonnyBurger",
-        "alexfernandez803",
-        "samohovets"
+        "ivanfioravanti",
+        "rudrankriyam",
+        "beshkenadze",
+        "lucasnewman"
       ]
     },
     {
@@ -27,13 +26,48 @@
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
-      "stars": 8377,
-      "forks": 623,
-      "stars_today": 1374,
+      "stars": 8826,
+      "forks": 652,
+      "stars_today": 1007,
       "built_by": [
-        "clarenceluo78",
         "rejojer",
+        "clarenceluo78",
         "zmtomorrow"
+      ]
+    },
+    {
+      "owner": "remotion-dev",
+      "name": "remotion",
+      "full_name": "remotion-dev/remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "language": "TypeScript",
+      "stars": 30182,
+      "forks": 1823,
+      "stars_today": 1118,
+      "built_by": [
+        "patsalv",
+        "UmungoBungo",
+        "alexfernandez803",
+        "JonnyBurger",
+        "samohovets"
+      ]
+    },
+    {
+      "owner": "qarmin",
+      "name": "czkawka",
+      "full_name": "qarmin/czkawka",
+      "url": "https://github.com/qarmin/czkawka",
+      "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+      "language": "Rust",
+      "stars": 28384,
+      "forks": 926,
+      "stars_today": 60,
+      "built_by": [
+        "pczarn",
+        "blob79",
+        "alexislefebvre",
+        "TheEvilSkeleton"
       ]
     },
     {
@@ -43,86 +77,15 @@
       "url": "https://github.com/OpenBMB/UltraRAG",
       "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
       "language": "Python",
-      "stars": 3460,
-      "forks": 261,
-      "stars_today": 585,
+      "stars": 3759,
+      "forks": 273,
+      "stars_today": 437,
       "built_by": [
-        "Kaguya-19",
-        "ChenYX24",
-        "mssssss123",
         "gdw439",
-        "xhd0728"
-      ]
-    },
-    {
-      "owner": "browser-use",
-      "name": "browser-use",
-      "full_name": "browser-use/browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "language": "Python",
-      "stars": 76785,
-      "forks": 9130,
-      "stars_today": 380,
-      "built_by": [
-        "MagMueller",
-        "pirate",
-        "gregpr07",
-        "mertunsall",
-        "sauravpanda"
-      ]
-    },
-    {
-      "owner": "block",
-      "name": "goose",
-      "full_name": "block/goose",
-      "url": "https://github.com/block/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "language": "Rust",
-      "stars": 28363,
-      "forks": 2550,
-      "stars_today": 407,
-      "built_by": [
-        "dianed-square",
-        "michaelneale",
-        "angiejones",
-        "EbonyLouis",
-        "blackgirlbytes"
-      ]
-    },
-    {
-      "owner": "Blaizzy",
-      "name": "mlx-audio",
-      "full_name": "Blaizzy/mlx-audio",
-      "url": "https://github.com/Blaizzy/mlx-audio",
-      "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
-      "language": "Python",
-      "stars": 3521,
-      "forks": 293,
-      "stars_today": 65,
-      "built_by": [
-        "rudrankriyam",
-        "lucasnewman",
-        "ivanfioravanti",
-        "beshkenadze"
-      ]
-    },
-    {
-      "owner": "simstudioai",
-      "name": "sim",
-      "full_name": "simstudioai/sim",
-      "url": "https://github.com/simstudioai/sim",
-      "description": "Open-source platform to build and deploy AI agent workflows.",
-      "language": "TypeScript",
-      "stars": 26154,
-      "forks": 3262,
-      "stars_today": 65,
-      "built_by": [
-        "emir-karabeg",
-        "waleedlatif1",
-        "aadamgough",
-        "icecrasher321",
-        "Sg312"
+        "xhd0728",
+        "ChenYX24",
+        "Kaguya-19",
+        "mssssss123"
       ]
     },
     {
@@ -132,49 +95,51 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars": 21650,
-      "forks": 2361,
-      "stars_today": 454,
+      "stars": 21854,
+      "forks": 2379,
+      "stars_today": 362,
       "built_by": [
-        "Damon-Salvetore",
         "MSLDCherryPick",
-        "YaoyaoChang",
+        "wenhui0924",
         "pengzhiliang",
-        "wenhui0924"
+        "YaoyaoChang",
+        "Damon-Salvetore"
       ]
     },
     {
-      "owner": "putyy",
-      "name": "res-downloader",
-      "full_name": "putyy/res-downloader",
-      "url": "https://github.com/putyy/res-downloader",
-      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
-      "language": "Go",
-      "stars": 14368,
-      "forks": 1786,
-      "stars_today": 211,
+      "owner": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 57293,
+      "forks": 7427,
+      "stars_today": 193,
       "built_by": [
-        "qiuzhiqian",
-        "claviering",
-        "taotieren"
+        "bolinfest",
+        "nornagon-openai",
+        "aibrahim-oai",
+        "jif-oai",
+        "pakrym-oai"
       ]
     },
     {
-      "owner": "AI4Finance-Foundation",
-      "name": "FinRobot",
-      "full_name": "AI4Finance-Foundation/FinRobot",
-      "url": "https://github.com/AI4Finance-Foundation/FinRobot",
-      "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
-      "language": "Jupyter Notebook",
-      "stars": 5226,
-      "forks": 930,
-      "stars_today": 34,
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "full_name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 14531,
+      "forks": 1539,
+      "stars_today": 159,
       "built_by": [
-        "Noir97",
-        "yilinwu123",
-        "PinqiaoWang",
-        "Athe-kunal",
-        "BruceYanghy"
+        "Kinfe123",
+        "CodeTorso",
+        "Dhravya",
+        "MaheshtheDev",
+        "yxshv"
       ]
     }
   ]
