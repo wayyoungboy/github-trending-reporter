@@ -9,13 +9,13 @@
       "url": "https://github.com/Blaizzy/mlx-audio",
       "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
       "language": "Python",
-      "stars": 3795,
+      "stars": 3811,
       "forks": 310,
       "stars_today": 263,
       "built_by": [
-        "ivanfioravanti",
         "rudrankriyam",
         "beshkenadze",
+        "ivanfioravanti",
         "lucasnewman"
       ]
     },
@@ -26,12 +26,12 @@
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
-      "stars": 8826,
+      "stars": 8835,
       "forks": 652,
       "stars_today": 1007,
       "built_by": [
-        "rejojer",
         "clarenceluo78",
+        "rejojer",
         "zmtomorrow"
       ]
     },
@@ -42,15 +42,15 @@
       "url": "https://github.com/remotion-dev/remotion",
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
-      "stars": 30182,
+      "stars": 30203,
       "forks": 1823,
       "stars_today": 1118,
       "built_by": [
-        "patsalv",
         "UmungoBungo",
+        "samohovets",
         "alexfernandez803",
         "JonnyBurger",
-        "samohovets"
+        "patsalv"
       ]
     },
     {
@@ -60,14 +60,14 @@
       "url": "https://github.com/qarmin/czkawka",
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Rust",
-      "stars": 28384,
+      "stars": 28389,
       "forks": 926,
       "stars_today": 60,
       "built_by": [
+        "TheEvilSkeleton",
         "pczarn",
         "blob79",
-        "alexislefebvre",
-        "TheEvilSkeleton"
+        "alexislefebvre"
       ]
     },
     {
@@ -77,15 +77,15 @@
       "url": "https://github.com/OpenBMB/UltraRAG",
       "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
       "language": "Python",
-      "stars": 3759,
+      "stars": 3771,
       "forks": 273,
       "stars_today": 437,
       "built_by": [
         "gdw439",
-        "xhd0728",
-        "ChenYX24",
+        "mssssss123",
         "Kaguya-19",
-        "mssssss123"
+        "ChenYX24",
+        "xhd0728"
       ]
     },
     {
@@ -95,15 +95,15 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars": 21854,
+      "stars": 21858,
       "forks": 2379,
       "stars_today": 362,
       "built_by": [
-        "MSLDCherryPick",
+        "YaoyaoChang",
         "wenhui0924",
         "pengzhiliang",
-        "YaoyaoChang",
-        "Damon-Salvetore"
+        "Damon-Salvetore",
+        "MSLDCherryPick"
       ]
     },
     {
@@ -113,14 +113,14 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars": 57293,
-      "forks": 7427,
+      "stars": 57295,
+      "forks": 7428,
       "stars_today": 193,
       "built_by": [
-        "bolinfest",
-        "nornagon-openai",
-        "aibrahim-oai",
         "jif-oai",
+        "nornagon-openai",
+        "bolinfest",
+        "aibrahim-oai",
         "pakrym-oai"
       ]
     },
@@ -131,15 +131,15 @@
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars": 14531,
+      "stars": 14536,
       "forks": 1539,
       "stars_today": 159,
       "built_by": [
-        "Kinfe123",
         "CodeTorso",
         "Dhravya",
         "MaheshtheDev",
-        "yxshv"
+        "yxshv",
+        "Kinfe123"
       ]
     }
   ]
