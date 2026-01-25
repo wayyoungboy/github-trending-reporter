@@ -184,7 +184,7 @@ jobs:
   # Job 4: 发送钉钉通知
   send-dingtalk:
     runs-on: ubuntu-latest
-    needs: [generate-report]
+    needs: [deploy]
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
