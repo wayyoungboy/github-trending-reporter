@@ -2,6 +2,8 @@
 
 Automatically fetch GitHub Trending data, perform intelligent analysis using LLM, and generate a visualized report website.
 
+[中文文档](README.zh-CN.md) | [English](README.md)
+
 ## Online Access
 
 **Website**: https://wayyoungboy.github.io/github-trending-reporter/
