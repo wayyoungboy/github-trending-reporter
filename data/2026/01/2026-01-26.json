@@ -1,0 +1,164 @@
+{
+  "date": "2026-01-26",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "Blaizzy",
+      "name": "mlx-audio",
+      "full_name": "Blaizzy/mlx-audio",
+      "url": "https://github.com/Blaizzy/mlx-audio",
+      "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+      "language": "Python",
+      "stars": 4247,
+      "forks": 337,
+      "stars_today": 272,
+      "built_by": [
+        "rudrankriyam",
+        "ivanfioravanti",
+        "lucasnewman",
+        "beshkenadze"
+      ]
+    },
+    {
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": 9054,
+      "forks": 665,
+      "stars_today": 1004,
+      "built_by": [
+        "rejojer",
+        "zmtomorrow",
+        "clarenceluo78"
+      ]
+    },
+    {
+      "owner": "remotion-dev",
+      "name": "remotion",
+      "full_name": "remotion-dev/remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "language": "TypeScript",
+      "stars": 30629,
+      "forks": 1854,
+      "stars_today": 1114,
+      "built_by": [
+        "JonnyBurger",
+        "alexfernandez803",
+        "samohovets",
+        "patsalv",
+        "UmungoBungo"
+      ]
+    },
+    {
+      "owner": "qarmin",
+      "name": "czkawka",
+      "full_name": "qarmin/czkawka",
+      "url": "https://github.com/qarmin/czkawka",
+      "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+      "language": "Rust",
+      "stars": 28563,
+      "forks": 933,
+      "stars_today": 65,
+      "built_by": [
+        "blob79",
+        "alexislefebvre",
+        "pczarn",
+        "TheEvilSkeleton"
+      ]
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "UltraRAG",
+      "full_name": "OpenBMB/UltraRAG",
+      "url": "https://github.com/OpenBMB/UltraRAG",
+      "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+      "language": "Python",
+      "stars": 4046,
+      "forks": 285,
+      "stars_today": 437,
+      "built_by": [
+        "mssssss123",
+        "Kaguya-19",
+        "xhd0728",
+        "gdw439",
+        "ChenYX24"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 22034,
+      "forks": 2394,
+      "stars_today": 362,
+      "built_by": [
+        "wenhui0924",
+        "Damon-Salvetore",
+        "YaoyaoChang",
+        "pengzhiliang",
+        "MSLDCherryPick"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 57434,
+      "forks": 7444,
+      "stars_today": 170,
+      "built_by": [
+        "nornagon-openai",
+        "pakrym-oai",
+        "aibrahim-oai",
+        "bolinfest",
+        "jif-oai"
+      ]
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "full_name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 14694,
+      "forks": 1543,
+      "stars_today": 157,
+      "built_by": [
+        "CodeTorso",
+        "MaheshtheDev",
+        "yxshv",
+        "Kinfe123",
+        "Dhravya"
+      ]
+    },
+    {
+      "owner": "Psiphon-Inc",
+      "name": "conduit",
+      "full_name": "Psiphon-Inc/conduit",
+      "url": "https://github.com/Psiphon-Inc/conduit",
+      "description": "Conduit React Native app",
+      "language": "TypeScript",
+      "stars": 86,
+      "forks": 39,
+      "stars_today": 17,
+      "built_by": [
+        "adamkruger",
+        "adotkhan",
+        "efryntov",
+        "Enda-O",
+        "tmgrask"
+      ]
+    }
+  ]
+}
