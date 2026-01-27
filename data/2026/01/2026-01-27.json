@@ -1,0 +1,143 @@
+{
+  "date": "2026-01-27",
+  "total_repos": 8,
+  "repositories": [
+    {
+      "owner": "Blaizzy",
+      "name": "mlx-audio",
+      "full_name": "Blaizzy/mlx-audio",
+      "url": "https://github.com/Blaizzy/mlx-audio",
+      "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+      "language": "Python",
+      "stars": 5097,
+      "forks": 379,
+      "stars_today": 1233,
+      "built_by": [
+        "beshkenadze",
+        "lucasnewman",
+        "ivanfioravanti",
+        "rudrankriyam"
+      ]
+    },
+    {
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": 9770,
+      "forks": 714,
+      "stars_today": 726,
+      "built_by": [
+        "rejojer",
+        "zmtomorrow",
+        "clarenceluo78"
+      ]
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "full_name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 15095,
+      "forks": 1569,
+      "stars_today": 420,
+      "built_by": [
+        "CodeTorso",
+        "Kinfe123",
+        "MaheshtheDev",
+        "yxshv",
+        "Dhravya"
+      ]
+    },
+    {
+      "owner": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 29151,
+      "forks": 2622,
+      "stars_today": 332,
+      "built_by": [
+        "michaelneale",
+        "angiejones",
+        "EbonyLouis",
+        "blackgirlbytes",
+        "dianed-square"
+      ]
+    },
+    {
+      "owner": "remotion-dev",
+      "name": "remotion",
+      "full_name": "remotion-dev/remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "language": "TypeScript",
+      "stars": 31969,
+      "forks": 1926,
+      "stars_today": 1374,
+      "built_by": [
+        "patsalv",
+        "JonnyBurger",
+        "samohovets",
+        "UmungoBungo",
+        "alexfernandez803"
+      ]
+    },
+    {
+      "owner": "AI4Finance-Foundation",
+      "name": "FinRobot",
+      "full_name": "AI4Finance-Foundation/FinRobot",
+      "url": "https://github.com/AI4Finance-Foundation/FinRobot",
+      "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
+      "language": "Jupyter Notebook",
+      "stars": 5687,
+      "forks": 974,
+      "stars_today": 68,
+      "built_by": [
+        "Athe-kunal",
+        "yilinwu123",
+        "PinqiaoWang",
+        "BruceYanghy",
+        "Noir97"
+      ]
+    },
+    {
+      "owner": "k4yt3x",
+      "name": "video2x",
+      "full_name": "k4yt3x/video2x",
+      "url": "https://github.com/k4yt3x/video2x",
+      "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
+      "language": "C++",
+      "stars": 18030,
+      "forks": 1604,
+      "stars_today": 468,
+      "built_by": [
+        "Integral-Tech",
+        "snixon",
+        "sat3ll",
+        "BrianPetkovsek"
+      ]
+    },
+    {
+      "owner": "business-science",
+      "name": "ai-data-science-team",
+      "full_name": "business-science/ai-data-science-team",
+      "url": "https://github.com/business-science/ai-data-science-team",
+      "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
+      "language": "Python",
+      "stars": 4171,
+      "forks": 771,
+      "stars_today": 80,
+      "built_by": [
+        "mdancho84",
+        "Ehsaan08-ai"
+      ]
+    }
+  ]
+}
