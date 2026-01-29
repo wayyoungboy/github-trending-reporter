@@ -1,0 +1,234 @@
+{
+  "date": "2026-01-29",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "moltbot",
+      "name": "moltbot",
+      "full_name": "moltbot/moltbot",
+      "url": "https://github.com/moltbot/moltbot",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": 88907,
+      "forks": 12101,
+      "stars_today": 17830,
+      "built_by": [
+        "tyler6204",
+        "vignesh07",
+        "thewilloftheshadow",
+        "steipete",
+        "claude"
+      ]
+    },
+    {
+      "owner": "badlogic",
+      "name": "pi-mono",
+      "full_name": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "stars": 3138,
+      "forks": 383,
+      "stars_today": 467,
+      "built_by": [
+        "markusylisiurunen",
+        "nicobailon",
+        "aliou",
+        "hjanuschka"
+      ]
+    },
+    {
+      "owner": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 34380,
+      "forks": 4540,
+      "stars_today": 352,
+      "built_by": [
+        "armon",
+        "ncabatoff",
+        "hc-github-team-secure-vault-core",
+        "vishalnayak",
+        "jefferai"
+      ]
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+      "language": "JavaScript",
+      "stars": 26594,
+      "forks": 4241,
+      "stars_today": 216,
+      "built_by": [
+        "bgauryy",
+        "awrreny",
+        "MaloneFreak",
+        "xu-chris"
+      ]
+    },
+    {
+      "owner": "NevaMind-AI",
+      "name": "memU",
+      "full_name": "NevaMind-AI/memU",
+      "url": "https://github.com/NevaMind-AI/memU",
+      "description": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
+      "language": "Python",
+      "stars": 5533,
+      "forks": 389,
+      "stars_today": 239,
+      "built_by": [
+        "sairin1202",
+        "evan-ak",
+        "arnav-terex",
+        "ankaisen",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "modelcontextprotocol",
+      "name": "ext-apps",
+      "full_name": "modelcontextprotocol/ext-apps",
+      "url": "https://github.com/modelcontextprotocol/ext-apps",
+      "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
+      "language": "TypeScript",
+      "stars": 663,
+      "forks": 94,
+      "stars_today": 73,
+      "built_by": [
+        "antonpk1",
+        "jonathanhefner",
+        "ochafik",
+        "martinalong",
+        "claude"
+      ]
+    },
+    {
+      "owner": "MoonshotAI",
+      "name": "kimi-cli",
+      "full_name": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": 4557,
+      "forks": 445,
+      "stars_today": 298,
+      "built_by": [
+        "stdrc",
+        "xxchan",
+        "yihong0618",
+        "Epsirom",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "kubernetes",
+      "name": "ingress-nginx",
+      "full_name": "kubernetes/ingress-nginx",
+      "url": "https://github.com/kubernetes/ingress-nginx",
+      "description": "Ingress NGINX Controller for Kubernetes",
+      "language": "Go",
+      "stars": 19353,
+      "forks": 8512,
+      "stars_today": 29,
+      "built_by": [
+        "Gacko",
+        "aledbf",
+        "k8s-ci-robot",
+        "dependabot",
+        "ElvinEfendi"
+      ]
+    },
+    {
+      "owner": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 70449,
+      "forks": 16018,
+      "stars_today": 16,
+      "built_by": [
+        "xfxyjwf",
+        "mkruskal-google",
+        "protobuf-github-bot",
+        "haberman",
+        "protobuf-team-bot"
+      ]
+    },
+    {
+      "owner": "lobehub",
+      "name": "lobehub",
+      "full_name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "language": "TypeScript",
+      "stars": 70899,
+      "forks": 14495,
+      "stars_today": 144,
+      "built_by": [
+        "semantic-release-bot",
+        "tjx666",
+        "lobehubbot",
+        "arvinxx",
+        "canisminor1990"
+      ]
+    },
+    {
+      "owner": "ran-j",
+      "name": "PS2Recomp",
+      "full_name": "ran-j/PS2Recomp",
+      "url": "https://github.com/ran-j/PS2Recomp",
+      "description": "Playstation 2 Static Recompiler & Runtime Tool to make native PC ports",
+      "language": "C++",
+      "stars": 1464,
+      "forks": 28,
+      "stars_today": 458,
+      "built_by": [
+        "playmer"
+      ]
+    },
+    {
+      "owner": "bambulab",
+      "name": "BambuStudio",
+      "full_name": "bambulab/BambuStudio",
+      "url": "https://github.com/bambulab/BambuStudio",
+      "description": "PC Software for BambuLab and other 3D printers",
+      "language": "C++",
+      "stars": 3831,
+      "forks": 585,
+      "stars_today": 33,
+      "built_by": [
+        "zhimin-zeng-bambulab",
+        "bambu123",
+        "Haidiye00",
+        "XunZhangBambu",
+        "walterwongbbl"
+      ]
+    },
+    {
+      "owner": "GetStream",
+      "name": "Vision-Agents",
+      "full_name": "GetStream/Vision-Agents",
+      "url": "https://github.com/GetStream/Vision-Agents",
+      "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
+      "language": "Python",
+      "stars": 4191,
+      "forks": 363,
+      "stars_today": 109,
+      "built_by": [
+        "Nash0x7E2",
+        "yarikdevcom",
+        "d3xvn",
+        "tschellenbach",
+        "maxkahan"
+      ]
+    }
+  ]
+}
