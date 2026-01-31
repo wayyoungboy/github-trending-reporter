@@ -1,0 +1,252 @@
+{
+  "date": "2026-01-31",
+  "total_repos": 14,
+  "repositories": [
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": 119686,
+      "forks": 16916,
+      "stars_today": 14228,
+      "built_by": [
+        "vignesh07",
+        "thewilloftheshadow",
+        "claude",
+        "tyler6204",
+        "steipete"
+      ]
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+      "language": "JavaScript",
+      "stars": 28575,
+      "forks": 4615,
+      "stars_today": 1083,
+      "built_by": [
+        "xu-chris",
+        "MaloneFreak",
+        "awrreny",
+        "bgauryy"
+      ]
+    },
+    {
+      "owner": "MoonshotAI",
+      "name": "kimi-cli",
+      "full_name": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": 5300,
+      "forks": 496,
+      "stars_today": 377,
+      "built_by": [
+        "dependabot",
+        "yihong0618",
+        "Epsirom",
+        "stdrc",
+        "xxchan"
+      ]
+    },
+    {
+      "owner": "modelcontextprotocol",
+      "name": "ext-apps",
+      "full_name": "modelcontextprotocol/ext-apps",
+      "url": "https://github.com/modelcontextprotocol/ext-apps",
+      "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
+      "language": "TypeScript",
+      "stars": 1015,
+      "forks": 126,
+      "stars_today": 195,
+      "built_by": [
+        "ochafik",
+        "antonpk1",
+        "martinalong",
+        "claude",
+        "jonathanhefner"
+      ]
+    },
+    {
+      "owner": "NevaMind-AI",
+      "name": "memU",
+      "full_name": "NevaMind-AI/memU",
+      "url": "https://github.com/NevaMind-AI/memU",
+      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+      "language": "Python",
+      "stars": 6469,
+      "forks": 443,
+      "stars_today": 465,
+      "built_by": [
+        "evan-ak",
+        "Koimiao-zz",
+        "sairin1202",
+        "github-actions",
+        "ankaisen"
+      ]
+    },
+    {
+      "owner": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 34820,
+      "forks": 4571,
+      "stars_today": 227,
+      "built_by": [
+        "hc-github-team-secure-vault-core",
+        "armon",
+        "vishalnayak",
+        "jefferai",
+        "ncabatoff"
+      ]
+    },
+    {
+      "owner": "badlogic",
+      "name": "pi-mono",
+      "full_name": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "stars": 3755,
+      "forks": 436,
+      "stars_today": 285,
+      "built_by": [
+        "markusylisiurunen",
+        "Perlence",
+        "nicobailon",
+        "hjanuschka"
+      ]
+    },
+    {
+      "owner": "anomalyco",
+      "name": "opencode-anthropic-auth",
+      "full_name": "anomalyco/opencode-anthropic-auth",
+      "url": "https://github.com/anomalyco/opencode-anthropic-auth",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 350,
+      "forks": 55,
+      "stars_today": 79,
+      "built_by": [
+        "joachim-isaksson",
+        "rekram1-node",
+        "claude",
+        "remorses",
+        "thdxr"
+      ]
+    },
+    {
+      "owner": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 70576,
+      "forks": 16026,
+      "stars_today": 66,
+      "built_by": [
+        "xfxyjwf",
+        "haberman",
+        "protobuf-github-bot",
+        "mkruskal-google",
+        "protobuf-team-bot"
+      ]
+    },
+    {
+      "owner": "pedroslopez",
+      "name": "whatsapp-web.js",
+      "full_name": "pedroslopez/whatsapp-web.js",
+      "url": "https://github.com/pedroslopez/whatsapp-web.js",
+      "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+      "language": "JavaScript",
+      "stars": 20848,
+      "forks": 4819,
+      "stars_today": 113,
+      "built_by": [
+        "alechkos",
+        "wwebjs-bot",
+        "shirser121",
+        "purpshell"
+      ]
+    },
+    {
+      "owner": "TeamNewPipe",
+      "name": "NewPipe",
+      "full_name": "TeamNewPipe/NewPipe",
+      "url": "https://github.com/TeamNewPipe/NewPipe",
+      "description": "A libre lightweight streaming front-end for Android.",
+      "language": "Java",
+      "stars": 36874,
+      "forks": 3423,
+      "stars_today": 122,
+      "built_by": [
+        "weblate",
+        "TobiGr",
+        "Stypox",
+        "theScrabi",
+        "litetex"
+      ]
+    },
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": 91219,
+      "forks": 13163,
+      "stars_today": 365,
+      "built_by": [
+        "AndrewHoh",
+        "libw0430",
+        "Madhuvod",
+        "ArkVex"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "playwright-cli",
+      "full_name": "microsoft/playwright-cli",
+      "url": "https://github.com/microsoft/playwright-cli",
+      "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
+      "language": "Unknown",
+      "stars": 1926,
+      "forks": 74,
+      "stars_today": 207,
+      "built_by": [
+        "pavelfeldman",
+        "salmanmkc",
+        "Skn0tt"
+      ]
+    },
+    {
+      "owner": "lobehub",
+      "name": "lobehub",
+      "full_name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "language": "TypeScript",
+      "stars": 71561,
+      "forks": 14565,
+      "stars_today": 376,
+      "built_by": [
+        "semantic-release-bot",
+        "lobehubbot",
+        "arvinxx",
+        "tjx666",
+        "canisminor1990"
+      ]
+    }
+  ]
+}
