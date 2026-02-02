@@ -1,0 +1,194 @@
+{
+  "date": "2026-02-02",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": 141993,
+      "forks": 21185,
+      "stars_today": 10794,
+      "built_by": [
+        "steipete",
+        "claude",
+        "tyler6204",
+        "thewilloftheshadow",
+        "vignesh07"
+      ]
+    },
+    {
+      "owner": "ThePrimeagen",
+      "name": "99",
+      "full_name": "ThePrimeagen/99",
+      "url": "https://github.com/ThePrimeagen/99",
+      "description": "Neovim AI agent done right",
+      "language": "Lua",
+      "stars": 2745,
+      "forks": 122,
+      "stars_today": 781,
+      "built_by": [
+        "SearidangPa",
+        "ramonasuncion",
+        "aleDsz",
+        "codegirl-007"
+      ]
+    },
+    {
+      "owner": "pedramamini",
+      "name": "Maestro",
+      "full_name": "pedramamini/Maestro",
+      "url": "https://github.com/pedramamini/Maestro",
+      "description": "Agent Orchestration Command Center",
+      "language": "TypeScript",
+      "stars": 963,
+      "forks": 121,
+      "stars_today": 49,
+      "built_by": [
+        "reachraza",
+        "denniswebb",
+        "claude",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "kovidgoyal",
+      "name": "calibre",
+      "full_name": "kovidgoyal/calibre",
+      "url": "https://github.com/kovidgoyal/calibre",
+      "description": "The official source code repository for the calibre ebook manager",
+      "language": "Python",
+      "stars": 23626,
+      "forks": 2534,
+      "stars_today": 37,
+      "built_by": [
+        "cbhaley",
+        "GRiker",
+        "unkn0w7n",
+        "user-none"
+      ]
+    },
+    {
+      "owner": "badlogic",
+      "name": "pi-mono",
+      "full_name": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "stars": 4933,
+      "forks": 533,
+      "stars_today": 613,
+      "built_by": [
+        "aliou",
+        "markusylisiurunen",
+        "hjanuschka",
+        "nicobailon"
+      ]
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 16394,
+      "forks": 1147,
+      "stars_today": 196,
+      "built_by": [
+        "dreamiurg",
+        "claude",
+        "github-actions",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "agent-lightning",
+      "full_name": "microsoft/agent-lightning",
+      "url": "https://github.com/microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "language": "Python",
+      "stars": 12959,
+      "forks": 1068,
+      "stars_today": 406,
+      "built_by": [
+        "ultmaster",
+        "acured",
+        "Copilot",
+        "wizardlancet",
+        "actions-user"
+      ]
+    },
+    {
+      "owner": "amantus-ai",
+      "name": "vibetunnel",
+      "full_name": "amantus-ai/vibetunnel",
+      "url": "https://github.com/amantus-ai/vibetunnel",
+      "description": "Turn any browser into your terminal & command your agents on the go.",
+      "language": "TypeScript",
+      "stars": 3527,
+      "forks": 229,
+      "stars_today": 43,
+      "built_by": [
+        "hjanuschka",
+        "steipete",
+        "badlogic",
+        "claude",
+        "mitsuhiko"
+      ]
+    },
+    {
+      "owner": "steipete",
+      "name": "CodexBar",
+      "full_name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars": 3910,
+      "forks": 260,
+      "stars_today": 99,
+      "built_by": [
+        "bcharleson",
+        "claude",
+        "bahag-chaurasiak",
+        "ibehnam"
+      ]
+    },
+    {
+      "owner": "j178",
+      "name": "prek",
+      "full_name": "j178/prek",
+      "url": "https://github.com/j178/prek",
+      "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+      "language": "Rust",
+      "stars": 4248,
+      "forks": 126,
+      "stars_today": 61,
+      "built_by": [
+        "renovate",
+        "Copilot",
+        "shaanmajid",
+        "lmmx"
+      ]
+    },
+    {
+      "owner": "vita-epfl",
+      "name": "Stable-Video-Infinity",
+      "full_name": "vita-epfl/Stable-Video-Infinity",
+      "url": "https://github.com/vita-epfl/Stable-Video-Infinity",
+      "description": "[ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
+      "language": "Python",
+      "stars": 1721,
+      "forks": 135,
+      "stars_today": 45,
+      "built_by": [
+        "WinterPan2017",
+        "wymanCV"
+      ]
+    }
+  ]
+}
