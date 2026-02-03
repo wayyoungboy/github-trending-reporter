@@ -1,0 +1,213 @@
+{
+  "date": "2026-02-03",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 18121,
+      "forks": 1251,
+      "stars_today": 1474,
+      "built_by": [
+        "dreamiurg",
+        "github-actions",
+        "Copilot",
+        "claude"
+      ]
+    },
+    {
+      "owner": "ThePrimeagen",
+      "name": "99",
+      "full_name": "ThePrimeagen/99",
+      "url": "https://github.com/ThePrimeagen/99",
+      "description": "Neovim AI agent done right",
+      "language": "Lua",
+      "stars": 3042,
+      "forks": 131,
+      "stars_today": 300,
+      "built_by": [
+        "ramonasuncion",
+        "SearidangPa",
+        "codegirl-007",
+        "aleDsz"
+      ]
+    },
+    {
+      "owner": "termux",
+      "name": "termux-app",
+      "full_name": "termux/termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "language": "Java",
+      "stars": 49932,
+      "forks": 5943,
+      "stars_today": 80,
+      "built_by": [
+        "agnostic-apollo",
+        "dependabot",
+        "Grimler91",
+        "maoabc",
+        "fornwall"
+      ]
+    },
+    {
+      "owner": "pedramamini",
+      "name": "Maestro",
+      "full_name": "pedramamini/Maestro",
+      "url": "https://github.com/pedramamini/Maestro",
+      "description": "Agent Orchestration Command Center",
+      "language": "TypeScript",
+      "stars": 1281,
+      "forks": 141,
+      "stars_today": 336,
+      "built_by": [
+        "github-actions",
+        "reachraza",
+        "claude",
+        "denniswebb"
+      ]
+    },
+    {
+      "owner": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": 21978,
+      "forks": 1071,
+      "stars_today": 347,
+      "built_by": [
+        "mlsmaycon",
+        "braginini",
+        "pappz",
+        "lixmal",
+        "pascal-fischer"
+      ]
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "ChatDev",
+      "full_name": "OpenBMB/ChatDev",
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "language": "Python",
+      "stars": 29400,
+      "forks": 3665,
+      "stars_today": 93,
+      "built_by": [
+        "thinkwee",
+        "NA-Wen",
+        "Alphamasterliu",
+        "qianc62",
+        "zxrys"
+      ]
+    },
+    {
+      "owner": "autobrr",
+      "name": "qui",
+      "full_name": "autobrr/qui",
+      "url": "https://github.com/autobrr/qui",
+      "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+      "language": "Go",
+      "stars": 2839,
+      "forks": 77,
+      "stars_today": 77,
+      "built_by": [
+        "nuxencs",
+        "Audionut",
+        "jabloink",
+        "KyleSanderson",
+        "s0up4200"
+      ]
+    },
+    {
+      "owner": "badlogic",
+      "name": "pi-mono",
+      "full_name": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "stars": 5585,
+      "forks": 581,
+      "stars_today": 878,
+      "built_by": [
+        "nicobailon",
+        "aliou",
+        "hjanuschka",
+        "markusylisiurunen"
+      ]
+    },
+    {
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": 12504,
+      "forks": 894,
+      "stars_today": 793,
+      "built_by": [
+        "clarenceluo78",
+        "zmtomorrow",
+        "rejojer"
+      ]
+    },
+    {
+      "owner": "karpathy",
+      "name": "nanochat",
+      "full_name": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "language": "Python",
+      "stars": 41646,
+      "forks": 5390,
+      "stars_today": 254,
+      "built_by": [
+        "svlandeg",
+        "lukestanley",
+        "ericsilberstein",
+        "claude"
+      ]
+    },
+    {
+      "owner": "kovidgoyal",
+      "name": "calibre",
+      "full_name": "kovidgoyal/calibre",
+      "url": "https://github.com/kovidgoyal/calibre",
+      "description": "The official source code repository for the calibre ebook manager",
+      "language": "Python",
+      "stars": 23799,
+      "forks": 2542,
+      "stars_today": 183,
+      "built_by": [
+        "user-none",
+        "GRiker",
+        "unkn0w7n",
+        "cbhaley"
+      ]
+    },
+    {
+      "owner": "langchain-ai",
+      "name": "rag-from-scratch",
+      "full_name": "langchain-ai/rag-from-scratch",
+      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "stars": 6970,
+      "forks": 1788,
+      "stars_today": 105,
+      "built_by": [
+        "rlancemartin",
+        "Thawab",
+        "svilupp",
+        "mdrxy"
+      ]
+    }
+  ]
+}
