@@ -1,0 +1,197 @@
+{
+  "date": "2026-02-04",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 20307,
+      "forks": 1369,
+      "stars_today": 1730,
+      "built_by": [
+        "claude",
+        "Copilot",
+        "github-actions",
+        "dreamiurg"
+      ]
+    },
+    {
+      "owner": "masoncl",
+      "name": "review-prompts",
+      "full_name": "masoncl/review-prompts",
+      "url": "https://github.com/masoncl/review-prompts",
+      "description": "AI review prompts",
+      "language": "Python",
+      "stars": 350,
+      "forks": 34,
+      "stars_today": 54,
+      "built_by": [
+        "jlelli",
+        "brauner",
+        "yghannam",
+        "chucklever"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "skills",
+      "full_name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 3022,
+      "forks": 179,
+      "stars_today": 377,
+      "built_by": [
+        "gverma-openai",
+        "vb-openai",
+        "lukeqin-oai",
+        "ae-openai",
+        "dkundel-openai"
+      ]
+    },
+    {
+      "owner": "automazeio",
+      "name": "ccpm",
+      "full_name": "automazeio/ccpm",
+      "url": "https://github.com/automazeio/ccpm",
+      "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+      "language": "Shell",
+      "stars": 6710,
+      "forks": 699,
+      "stars_today": 123,
+      "built_by": [
+        "tseven",
+        "claude",
+        "flyingrobots",
+        "ranaroussi",
+        "stefanlegg"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 43528,
+      "forks": 3300,
+      "stars_today": 817,
+      "built_by": [
+        "oribarilan",
+        "claude",
+        "clkao",
+        "jjshanks"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "dexter",
+      "full_name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 10086,
+      "forks": 1228,
+      "stars_today": 222,
+      "built_by": [
+        "sjhddh",
+        "bittoby",
+        "axyr",
+        "gupta-8"
+      ]
+    },
+    {
+      "owner": "karpathy",
+      "name": "nanochat",
+      "full_name": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "language": "Python",
+      "stars": 42020,
+      "forks": 5429,
+      "stars_today": 447,
+      "built_by": [
+        "svlandeg",
+        "claude",
+        "ericsilberstein",
+        "lukestanley"
+      ]
+    },
+    {
+      "owner": "kovidgoyal",
+      "name": "calibre",
+      "full_name": "kovidgoyal/calibre",
+      "url": "https://github.com/kovidgoyal/calibre",
+      "description": "The official source code repository for the calibre ebook manager",
+      "language": "Python",
+      "stars": 23929,
+      "forks": 2549,
+      "stars_today": 141,
+      "built_by": [
+        "user-none",
+        "unkn0w7n",
+        "GRiker",
+        "cbhaley"
+      ]
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "ChatDev",
+      "full_name": "OpenBMB/ChatDev",
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "language": "Python",
+      "stars": 29784,
+      "forks": 3687,
+      "stars_today": 476,
+      "built_by": [
+        "qianc62",
+        "zxrys",
+        "Alphamasterliu",
+        "thinkwee",
+        "NA-Wen"
+      ]
+    },
+    {
+      "owner": "pedramamini",
+      "name": "Maestro",
+      "full_name": "pedramamini/Maestro",
+      "url": "https://github.com/pedramamini/Maestro",
+      "description": "Agent Orchestration Command Center",
+      "language": "TypeScript",
+      "stars": 1501,
+      "forks": 157,
+      "stars_today": 269,
+      "built_by": [
+        "denniswebb",
+        "claude",
+        "reachraza",
+        "chr1syy"
+      ]
+    },
+    {
+      "owner": "vm0-ai",
+      "name": "vm0",
+      "full_name": "vm0-ai/vm0",
+      "url": "https://github.com/vm0-ai/vm0",
+      "description": "the easiest way to run natural language-described workflows automatically",
+      "language": "TypeScript",
+      "stars": 703,
+      "forks": 25,
+      "stars_today": 62,
+      "built_by": [
+        "github-actions",
+        "seven332",
+        "e7h4n",
+        "claude",
+        "lancy"
+      ]
+    }
+  ]
+}
