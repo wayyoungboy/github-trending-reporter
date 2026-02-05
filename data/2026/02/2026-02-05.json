@@ -1,0 +1,216 @@
+{
+  "date": "2026-02-05",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 22524,
+      "forks": 1493,
+      "stars_today": 2638,
+      "built_by": [
+        "dreamiurg",
+        "claude",
+        "github-actions",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "skills",
+      "full_name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 3687,
+      "forks": 212,
+      "stars_today": 746,
+      "built_by": [
+        "lukeqin-oai",
+        "dkundel-openai",
+        "gverma-openai",
+        "ae-openai",
+        "vb-openai"
+      ]
+    },
+    {
+      "owner": "disler",
+      "name": "claude-code-hooks-mastery",
+      "full_name": "disler/claude-code-hooks-mastery",
+      "url": "https://github.com/disler/claude-code-hooks-mastery",
+      "description": "Master Claude Code Hooks",
+      "language": "Python",
+      "stars": 2365,
+      "forks": 504,
+      "stars_today": 47,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "ChatDev",
+      "full_name": "OpenBMB/ChatDev",
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "language": "Python",
+      "stars": 29971,
+      "forks": 3705,
+      "stars_today": 227,
+      "built_by": [
+        "thinkwee",
+        "zxrys",
+        "qianc62",
+        "NA-Wen",
+        "Alphamasterliu"
+      ]
+    },
+    {
+      "owner": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": 26161,
+      "forks": 2785,
+      "stars_today": 28,
+      "built_by": [
+        "RumovZ",
+        "hgiesel",
+        "Arthur-Milchior",
+        "dae",
+        "abdnh"
+      ]
+    },
+    {
+      "owner": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": 4349,
+      "forks": 3299,
+      "stars_today": 3,
+      "built_by": [
+        "opentelemetrybot",
+        "renovate",
+        "dependabot",
+        "bogdandrutu",
+        "atoulme"
+      ]
+    },
+    {
+      "owner": "Canner",
+      "name": "WrenAI",
+      "full_name": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
+      "language": "TypeScript",
+      "stars": 13918,
+      "forks": 1507,
+      "stars_today": 89,
+      "built_by": [
+        "andreashimin",
+        "wwwy3y3",
+        "cyyeh",
+        "onlyjackfrost",
+        "paopa"
+      ]
+    },
+    {
+      "owner": "pedramamini",
+      "name": "Maestro",
+      "full_name": "pedramamini/Maestro",
+      "url": "https://github.com/pedramamini/Maestro",
+      "description": "Agent Orchestration Command Center",
+      "language": "TypeScript",
+      "stars": 1657,
+      "forks": 165,
+      "stars_today": 187,
+      "built_by": [
+        "chr1syy",
+        "denniswebb",
+        "claude",
+        "reachraza"
+      ]
+    },
+    {
+      "owner": "nvm-sh",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": 91250,
+      "forks": 9820,
+      "stars_today": 35,
+      "built_by": [
+        "koenpunt",
+        "ljharb",
+        "PeterDaveHello",
+        "creationix",
+        "lukechilds"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "qlib",
+      "full_name": "microsoft/qlib",
+      "url": "https://github.com/microsoft/qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
+      "language": "Python",
+      "stars": 36534,
+      "forks": 5687,
+      "stars_today": 83,
+      "built_by": [
+        "SunsetWolf",
+        "Derek-Wds",
+        "you-n-g",
+        "zhupr",
+        "bxdd"
+      ]
+    },
+    {
+      "owner": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": 58272,
+      "forks": 2644,
+      "stars_today": 68,
+      "built_by": [
+        "alimpfard",
+        "AtkinsSJ",
+        "linusg",
+        "trflynn89",
+        "awesomekling"
+      ]
+    },
+    {
+      "owner": "likec4",
+      "name": "likec4",
+      "full_name": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": 1437,
+      "forks": 119,
+      "stars_today": 29,
+      "built_by": [
+        "pavelpykhtin",
+        "renovate",
+        "dependabot",
+        "davydkov",
+        "likec4-ci"
+      ]
+    }
+  ]
+}
