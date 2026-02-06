@@ -1,0 +1,196 @@
+{
+  "date": "2026-02-06",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "bytedance",
+      "name": "UI-TARS-desktop",
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 26707,
+      "forks": 2615,
+      "stars_today": 566,
+      "built_by": [
+        "ycjcl868",
+        "skychx",
+        "ZhaoHeh",
+        "cjraft",
+        "ulivz"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "skills",
+      "full_name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 4278,
+      "forks": 245,
+      "stars_today": 621,
+      "built_by": [
+        "gverma-openai",
+        "ae-openai",
+        "quuu",
+        "vb-openai",
+        "dkundel-openai"
+      ]
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 23718,
+      "forks": 1569,
+      "stars_today": 1930,
+      "built_by": [
+        "github-actions",
+        "Copilot",
+        "bigph00t",
+        "claude"
+      ]
+    },
+    {
+      "owner": "j178",
+      "name": "prek",
+      "full_name": "j178/prek",
+      "url": "https://github.com/j178/prek",
+      "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+      "language": "Rust",
+      "stars": 5516,
+      "forks": 146,
+      "stars_today": 258,
+      "built_by": [
+        "shaanmajid",
+        "lmmx",
+        "renovate",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "topoteretes",
+      "name": "cognee",
+      "full_name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Memory for AI Agents in 6 lines of code",
+      "language": "Python",
+      "stars": 11839,
+      "forks": 1158,
+      "stars_today": 74,
+      "built_by": [
+        "Vasilije1990",
+        "dexters1",
+        "hajdul88",
+        "daukadolt",
+        "borisarzentar"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 45367,
+      "forks": 3431,
+      "stars_today": 887,
+      "built_by": [
+        "oribarilan",
+        "jjshanks",
+        "claude",
+        "clkao"
+      ]
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 31368,
+      "forks": 2910,
+      "stars_today": 25,
+      "built_by": [
+        "DmitriyLewen",
+        "simar7",
+        "dependabot",
+        "knqyf263",
+        "nikpivkin"
+      ]
+    },
+    {
+      "owner": "fish-shell",
+      "name": "fish-shell",
+      "full_name": "fish-shell/fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
+      "language": "Rust",
+      "stars": 32386,
+      "forks": 2214,
+      "stars_today": 28,
+      "built_by": [
+        "krobelus",
+        "ridiculousfish",
+        "faho",
+        "mqudsi",
+        "liljencrantz"
+      ]
+    },
+    {
+      "owner": "nvm-sh",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": 91374,
+      "forks": 9828,
+      "stars_today": 101,
+      "built_by": [
+        "lukechilds",
+        "koenpunt",
+        "ljharb",
+        "PeterDaveHello",
+        "creationix"
+      ]
+    },
+    {
+      "owner": "linshenkx",
+      "name": "prompt-optimizer",
+      "full_name": "linshenkx/prompt-optimizer",
+      "url": "https://github.com/linshenkx/prompt-optimizer",
+      "description": "一款提示词优化器，助力于编写高质量的提示词",
+      "language": "TypeScript",
+      "stars": 19356,
+      "forks": 2397,
+      "stars_today": 51,
+      "built_by": [
+        "lanyuanxiaoyao",
+        "claude",
+        "prazjain",
+        "hexart"
+      ]
+    },
+    {
+      "owner": "ZeroTworu",
+      "name": "anet",
+      "full_name": "ZeroTworu/anet",
+      "url": "https://github.com/ZeroTworu/anet",
+      "description": "Simple Rust VPN Client / Server",
+      "language": "Rust",
+      "stars": 360,
+      "forks": 29,
+      "stars_today": 81,
+      "built_by": [
+        "Fitna"
+      ]
+    }
+  ]
+}
