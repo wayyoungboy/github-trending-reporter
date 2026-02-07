@@ -1,0 +1,145 @@
+{
+  "date": "2026-02-07",
+  "total_repos": 8,
+  "repositories": [
+    {
+      "owner": "openai",
+      "name": "skills",
+      "full_name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 4871,
+      "forks": 279,
+      "stars_today": 583,
+      "built_by": [
+        "gverma-openai",
+        "dkundel-openai",
+        "ae-openai",
+        "vb-openai",
+        "quuu"
+      ]
+    },
+    {
+      "owner": "bytedance",
+      "name": "UI-TARS-desktop",
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 27114,
+      "forks": 2642,
+      "stars_today": 573,
+      "built_by": [
+        "cjraft",
+        "ulivz",
+        "skychx",
+        "ZhaoHeh",
+        "ycjcl868"
+      ]
+    },
+    {
+      "owner": "nvm-sh",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": 91502,
+      "forks": 9834,
+      "stars_today": 131,
+      "built_by": [
+        "ljharb",
+        "creationix",
+        "lukechilds",
+        "koenpunt",
+        "PeterDaveHello"
+      ]
+    },
+    {
+      "owner": "likec4",
+      "name": "likec4",
+      "full_name": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": 1814,
+      "forks": 136,
+      "stars_today": 40,
+      "built_by": [
+        "likec4-ci",
+        "davydkov",
+        "renovate",
+        "dependabot",
+        "pavelpykhtin"
+      ]
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 31542,
+      "forks": 2921,
+      "stars_today": 165,
+      "built_by": [
+        "nikpivkin",
+        "DmitriyLewen",
+        "dependabot",
+        "knqyf263",
+        "simar7"
+      ]
+    },
+    {
+      "owner": "ZeroTworu",
+      "name": "anet",
+      "full_name": "ZeroTworu/anet",
+      "url": "https://github.com/ZeroTworu/anet",
+      "description": "Simple Rust VPN Client / Server",
+      "language": "Rust",
+      "stars": 533,
+      "forks": 47,
+      "stars_today": 193,
+      "built_by": [
+        "Fitna"
+      ]
+    },
+    {
+      "owner": "Flowseal",
+      "name": "zapret-discord-youtube",
+      "full_name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 21969,
+      "forks": 1830,
+      "stars_today": 70,
+      "built_by": [
+        "ekungurov",
+        "amozebus",
+        "V3nilla",
+        "fridorin"
+      ]
+    },
+    {
+      "owner": "DataExpert-io",
+      "name": "data-engineer-handbook",
+      "full_name": "DataExpert-io/data-engineer-handbook",
+      "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+      "language": "Jupyter Notebook",
+      "stars": 39873,
+      "forks": 7617,
+      "stars_today": 71,
+      "built_by": [
+        "EcZachly",
+        "isangwanrahul",
+        "ry-v1",
+        "damaradiprabowo",
+        "evil-in"
+      ]
+    }
+  ]
+}
