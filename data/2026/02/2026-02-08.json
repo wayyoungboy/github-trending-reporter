@@ -1,0 +1,220 @@
+{
+  "date": "2026-02-08",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "KeygraphHQ",
+      "name": "shannon",
+      "full_name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "language": "TypeScript",
+      "stars": 10068,
+      "forks": 1273,
+      "stars_today": 3139,
+      "built_by": [
+        "claude",
+        "ajmallesh",
+        "keygraphVarun",
+        "nelliekeygraph",
+        "Khaushik-keygraph"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "skills",
+      "full_name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 6038,
+      "forks": 331,
+      "stars_today": 592,
+      "built_by": [
+        "gverma-openai",
+        "dkundel-openai",
+        "ae-openai",
+        "quuu",
+        "vb-openai"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "litebox",
+      "full_name": "microsoft/litebox",
+      "url": "https://github.com/microsoft/litebox",
+      "description": "A security-focused library OS supporting kernel- and user-mode execution",
+      "language": "Rust",
+      "stars": 1142,
+      "forks": 48,
+      "stars_today": 584,
+      "built_by": [
+        "jstarks",
+        "Icegrave0391",
+        "CvvT",
+        "sangho2",
+        "jaybosamiya-ms"
+      ]
+    },
+    {
+      "owner": "p-e-w",
+      "name": "heretic",
+      "full_name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": 4746,
+      "forks": 453,
+      "stars_today": 69,
+      "built_by": [
+        "red40maxxer",
+        "kldzj",
+        "spikymoth",
+        "anrp"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 46998,
+      "forks": 3568,
+      "stars_today": 686,
+      "built_by": [
+        "arittr",
+        "claude",
+        "clkao",
+        "jjshanks"
+      ]
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "MiniCPM-o",
+      "full_name": "OpenBMB/MiniCPM-o",
+      "url": "https://github.com/OpenBMB/MiniCPM-o",
+      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+      "language": "Python",
+      "stars": 23164,
+      "forks": 1763,
+      "stars_today": 44,
+      "built_by": [
+        "YuzaChongyi",
+        "iceflame89",
+        "yiranyyu",
+        "tc-mb",
+        "yaoyuanTHU"
+      ]
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 31689,
+      "forks": 2928,
+      "stars_today": 168,
+      "built_by": [
+        "nikpivkin",
+        "dependabot",
+        "DmitriyLewen",
+        "simar7",
+        "knqyf263"
+      ]
+    },
+    {
+      "owner": "wavetermdev",
+      "name": "waveterm",
+      "full_name": "wavetermdev/waveterm",
+      "url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, cross-platform terminal for seamless workflows",
+      "language": "Go",
+      "stars": 17149,
+      "forks": 762,
+      "stars_today": 25,
+      "built_by": [
+        "dependabot",
+        "esimkowitz",
+        "sawka",
+        "oneirocosm",
+        "wave-builder"
+      ]
+    },
+    {
+      "owner": "viarotel-org",
+      "name": "escrcpy",
+      "full_name": "viarotel-org/escrcpy",
+      "url": "https://github.com/viarotel-org/escrcpy",
+      "description": "📱 Display and control your Android device graphically with scrcpy.",
+      "language": "JavaScript",
+      "stars": 7845,
+      "forks": 569,
+      "stars_today": 27,
+      "built_by": [
+        "reindex-ot",
+        "PeterDaveHello",
+        "viarotel",
+        "ahmed-0011",
+        "dainamiter"
+      ]
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 32029,
+      "forks": 3064,
+      "stars_today": 443,
+      "built_by": [
+        "sohamganatra",
+        "claude",
+        "Prat011",
+        "mellson",
+        "sanjay3290"
+      ]
+    },
+    {
+      "owner": "likec4",
+      "name": "likec4",
+      "full_name": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": 2083,
+      "forks": 145,
+      "stars_today": 274,
+      "built_by": [
+        "likec4-ci",
+        "dependabot",
+        "pavelpykhtin",
+        "davydkov",
+        "renovate"
+      ]
+    },
+    {
+      "owner": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": 18004,
+      "forks": 774,
+      "stars_today": 85,
+      "built_by": [
+        "mtsgrd",
+        "ngalaiko",
+        "estib-vega",
+        "krlvi",
+        "Caleb-T-Owens"
+      ]
+    }
+  ]
+}
