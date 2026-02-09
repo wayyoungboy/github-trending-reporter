@@ -1,0 +1,220 @@
+{
+  "date": "2026-02-09",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "KeygraphHQ",
+      "name": "shannon",
+      "full_name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "language": "TypeScript",
+      "stars": 13288,
+      "forks": 1545,
+      "stars_today": 3479,
+      "built_by": [
+        "Khaushik-keygraph",
+        "keygraphVarun",
+        "ajmallesh",
+        "nelliekeygraph",
+        "claude"
+      ]
+    },
+    {
+      "owner": "pydantic",
+      "name": "monty",
+      "full_name": "pydantic/monty",
+      "url": "https://github.com/pydantic/monty",
+      "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+      "language": "Rust",
+      "stars": 2773,
+      "forks": 69,
+      "stars_today": 456,
+      "built_by": [
+        "DouweM",
+        "davidhewitt",
+        "samuelcolvin",
+        "petyosi",
+        "claude"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "skills",
+      "full_name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 6986,
+      "forks": 394,
+      "stars_today": 1425,
+      "built_by": [
+        "ae-openai",
+        "vb-openai",
+        "quuu",
+        "gverma-openai",
+        "dkundel-openai"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "dexter",
+      "full_name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 12660,
+      "forks": 1528,
+      "stars_today": 1039,
+      "built_by": [
+        "MkDev11",
+        "gupta-8",
+        "bittoby",
+        "sjhddh"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "litebox",
+      "full_name": "microsoft/litebox",
+      "url": "https://github.com/microsoft/litebox",
+      "description": "A security-focused library OS supporting kernel- and user-mode execution",
+      "language": "Rust",
+      "stars": 1413,
+      "forks": 61,
+      "stars_today": 359,
+      "built_by": [
+        "sangho2",
+        "CvvT",
+        "jstarks",
+        "jaybosamiya-ms",
+        "Icegrave0391"
+      ]
+    },
+    {
+      "owner": "google",
+      "name": "langextract",
+      "full_name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": 24768,
+      "forks": 1712,
+      "stars_today": 438,
+      "built_by": [
+        "mariano",
+        "tonebeta",
+        "aksg87",
+        "kleeena",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 47733,
+      "forks": 3627,
+      "stars_today": 813,
+      "built_by": [
+        "arittr",
+        "jjshanks",
+        "claude",
+        "clkao"
+      ]
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "MiniCPM-o",
+      "full_name": "OpenBMB/MiniCPM-o",
+      "url": "https://github.com/OpenBMB/MiniCPM-o",
+      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+      "language": "Python",
+      "stars": 23403,
+      "forks": 1788,
+      "stars_today": 212,
+      "built_by": [
+        "YuzaChongyi",
+        "yiranyyu",
+        "tc-mb",
+        "yaoyuanTHU",
+        "iceflame89"
+      ]
+    },
+    {
+      "owner": "likec4",
+      "name": "likec4",
+      "full_name": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": 2366,
+      "forks": 159,
+      "stars_today": 271,
+      "built_by": [
+        "likec4-ci",
+        "davydkov",
+        "pavelpykhtin",
+        "dependabot",
+        "renovate"
+      ]
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "AionUi",
+      "full_name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": 13187,
+      "forks": 1014,
+      "stars_today": 335,
+      "built_by": [
+        "goworm",
+        "halvee-tech",
+        "kuishou68",
+        "claude",
+        "IceyLiu"
+      ]
+    },
+    {
+      "owner": "home-assistant",
+      "name": "addons",
+      "full_name": "home-assistant/addons",
+      "url": "https://github.com/home-assistant/addons",
+      "description": "➕ Docker add-ons for Home Assistant",
+      "language": "Shell",
+      "stars": 1998,
+      "forks": 1760,
+      "stars_today": 11,
+      "built_by": [
+        "raman325",
+        "agners",
+        "frenck",
+        "dependabot",
+        "pvizeli"
+      ]
+    },
+    {
+      "owner": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": 18348,
+      "forks": 793,
+      "stars_today": 414,
+      "built_by": [
+        "Caleb-T-Owens",
+        "ngalaiko",
+        "estib-vega",
+        "mtsgrd",
+        "krlvi"
+      ]
+    }
+  ]
+}
