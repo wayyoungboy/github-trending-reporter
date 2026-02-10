@@ -1,0 +1,236 @@
+{
+  "date": "2026-02-10",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "KeygraphHQ",
+      "name": "shannon",
+      "full_name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "language": "TypeScript",
+      "stars": 17390,
+      "forks": 1828,
+      "stars_today": 4144,
+      "built_by": [
+        "claude",
+        "ajmallesh",
+        "keygraphVarun",
+        "Khaushik-keygraph",
+        "nelliekeygraph"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "dexter",
+      "full_name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 13569,
+      "forks": 1625,
+      "stars_today": 1115,
+      "built_by": [
+        "sjhddh",
+        "bittoby",
+        "gupta-8",
+        "MkDev11"
+      ]
+    },
+    {
+      "owner": "pydantic",
+      "name": "monty",
+      "full_name": "pydantic/monty",
+      "url": "https://github.com/pydantic/monty",
+      "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+      "language": "Rust",
+      "stars": 3973,
+      "forks": 145,
+      "stars_today": 1291,
+      "built_by": [
+        "davidhewitt",
+        "claude",
+        "DouweM",
+        "petyosi",
+        "samuelcolvin"
+      ]
+    },
+    {
+      "owner": "hsliuping",
+      "name": "TradingAgents-CN",
+      "full_name": "hsliuping/TradingAgents-CN",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "language": "Python",
+      "stars": 16245,
+      "forks": 3573,
+      "stars_today": 149,
+      "built_by": [
+        "Yijia-Xiao",
+        "ZeroAct",
+        "EdwardoSunny",
+        "BG8CFB"
+      ]
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "AionUi",
+      "full_name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": 13835,
+      "forks": 1063,
+      "stars_today": 673,
+      "built_by": [
+        "halvee-tech",
+        "kuishou68",
+        "IceyLiu",
+        "goworm",
+        "claude"
+      ]
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 397232,
+      "forks": 42494,
+      "stars_today": 410,
+      "built_by": [
+        "jbrooksuk",
+        "davemachado",
+        "matheusfelipeog",
+        "marekdano",
+        "pawelborkar"
+      ]
+    },
+    {
+      "owner": "github",
+      "name": "gh-aw",
+      "full_name": "github/gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "stars": 926,
+      "forks": 79,
+      "stars_today": 260,
+      "built_by": [
+        "dsyme",
+        "github-actions",
+        "pelikhan",
+        "mnkiefer",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": 93166,
+      "forks": 13515,
+      "stars_today": 227,
+      "built_by": [
+        "awesomekoder",
+        "Madhuvod",
+        "libw0430",
+        "AndrewHoh"
+      ]
+    },
+    {
+      "owner": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": 18656,
+      "forks": 806,
+      "stars_today": 376,
+      "built_by": [
+        "mtsgrd",
+        "estib-vega",
+        "krlvi",
+        "Caleb-T-Owens",
+        "ngalaiko"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "litebox",
+      "full_name": "microsoft/litebox",
+      "url": "https://github.com/microsoft/litebox",
+      "description": "A security-focused library OS supporting kernel- and user-mode execution",
+      "language": "Rust",
+      "stars": 1729,
+      "forks": 73,
+      "stars_today": 354,
+      "built_by": [
+        "sangho2",
+        "jstarks",
+        "Icegrave0391",
+        "jaybosamiya-ms",
+        "CvvT"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "skills",
+      "full_name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 7552,
+      "forks": 430,
+      "stars_today": 707,
+      "built_by": [
+        "ae-openai",
+        "edward-bayes",
+        "vb-openai",
+        "gverma-openai",
+        "dkundel-openai"
+      ]
+    },
+    {
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "full_name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Claude Code compound engineering plugin",
+      "language": "TypeScript",
+      "stars": 7870,
+      "forks": 627,
+      "stars_today": 185,
+      "built_by": [
+        "dshipper",
+        "claude",
+        "kieranklaassen",
+        "julik",
+        "tmchow"
+      ]
+    },
+    {
+      "owner": "DrewThomasson",
+      "name": "ebook2audiobook",
+      "full_name": "DrewThomasson/ebook2audiobook",
+      "url": "https://github.com/DrewThomasson/ebook2audiobook",
+      "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
+      "language": "Python",
+      "stars": 17865,
+      "forks": 1440,
+      "stars_today": 147,
+      "built_by": [
+        "mahdi155000",
+        "github-actions",
+        "Wesam-1110111",
+        "ROBERT-MCDOWELL"
+      ]
+    }
+  ]
+}
