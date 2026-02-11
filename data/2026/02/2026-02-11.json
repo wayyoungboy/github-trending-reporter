@@ -1,0 +1,250 @@
+{
+  "date": "2026-02-11",
+  "total_repos": 14,
+  "repositories": [
+    {
+      "owner": "google",
+      "name": "langextract",
+      "full_name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": 28489,
+      "forks": 1922,
+      "stars_today": 1654,
+      "built_by": [
+        "mariano",
+        "kleeena",
+        "tonebeta",
+        "dependabot",
+        "aksg87"
+      ]
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "AionUi",
+      "full_name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": 14451,
+      "forks": 1102,
+      "stars_today": 629,
+      "built_by": [
+        "IceyLiu",
+        "kuishou68",
+        "claude",
+        "goworm",
+        "halvee-tech"
+      ]
+    },
+    {
+      "owner": "KeygraphHQ",
+      "name": "shannon",
+      "full_name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "language": "TypeScript",
+      "stars": 19766,
+      "forks": 2018,
+      "stars_today": 3619,
+      "built_by": [
+        "ajmallesh",
+        "keygraphVarun",
+        "claude",
+        "Khaushik-keygraph",
+        "nelliekeygraph"
+      ]
+    },
+    {
+      "owner": "github",
+      "name": "gh-aw",
+      "full_name": "github/gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "stars": 1347,
+      "forks": 106,
+      "stars_today": 496,
+      "built_by": [
+        "pelikhan",
+        "github-actions",
+        "mnkiefer",
+        "Copilot",
+        "dsyme"
+      ]
+    },
+    {
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "full_name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Claude Code compound engineering plugin",
+      "language": "TypeScript",
+      "stars": 8175,
+      "forks": 642,
+      "stars_today": 406,
+      "built_by": [
+        "kieranklaassen",
+        "claude",
+        "julik",
+        "tmchow",
+        "dshipper"
+      ]
+    },
+    {
+      "owner": "hsliuping",
+      "name": "TradingAgents-CN",
+      "full_name": "hsliuping/TradingAgents-CN",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "language": "Python",
+      "stars": 16677,
+      "forks": 3617,
+      "stars_today": 498,
+      "built_by": [
+        "Yijia-Xiao",
+        "ZeroAct",
+        "EdwardoSunny",
+        "BG8CFB"
+      ]
+    },
+    {
+      "owner": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": 19034,
+      "forks": 820,
+      "stars_today": 260,
+      "built_by": [
+        "mtsgrd",
+        "Caleb-T-Owens",
+        "krlvi",
+        "ngalaiko",
+        "estib-vega"
+      ]
+    },
+    {
+      "owner": "carlvellotti",
+      "name": "claude-code-pm-course",
+      "full_name": "carlvellotti/claude-code-pm-course",
+      "url": "https://github.com/carlvellotti/claude-code-pm-course",
+      "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
+      "language": "MDX",
+      "stars": 821,
+      "forks": 145,
+      "stars_today": 24,
+      "built_by": [
+        "claude",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": 93629,
+      "forks": 13580,
+      "stars_today": 443,
+      "built_by": [
+        "libw0430",
+        "awesomekoder",
+        "Madhuvod",
+        "AndrewHoh"
+      ]
+    },
+    {
+      "owner": "drawdb-io",
+      "name": "drawdb",
+      "full_name": "drawdb-io/drawdb",
+      "url": "https://github.com/drawdb-io/drawdb",
+      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+      "language": "JavaScript",
+      "stars": 36322,
+      "forks": 2838,
+      "stars_today": 95,
+      "built_by": [
+        "picimako",
+        "1ilit",
+        "KARM99",
+        "haecheonlee",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "pydantic",
+      "name": "monty",
+      "full_name": "pydantic/monty",
+      "url": "https://github.com/pydantic/monty",
+      "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+      "language": "Rust",
+      "stars": 4538,
+      "forks": 161,
+      "stars_today": 858,
+      "built_by": [
+        "DouweM",
+        "claude",
+        "samuelcolvin",
+        "davidhewitt",
+        "petyosi"
+      ]
+    },
+    {
+      "owner": "cheahjs",
+      "name": "free-llm-api-resources",
+      "full_name": "cheahjs/free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "language": "Python",
+      "stars": 8702,
+      "forks": 852,
+      "stars_today": 115,
+      "built_by": [
+        "themacexpert",
+        "github-actions",
+        "justmarkham",
+        "k-bose"
+      ]
+    },
+    {
+      "owner": "Jeffallan",
+      "name": "claude-skills",
+      "full_name": "Jeffallan/claude-skills",
+      "url": "https://github.com/Jeffallan/claude-skills",
+      "description": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "language": "Python",
+      "stars": 791,
+      "forks": 69,
+      "stars_today": 45,
+      "built_by": [
+        "thomassamoul",
+        "claude",
+        "liyin2015",
+        "hesreallyhim"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "dexter",
+      "full_name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 14148,
+      "forks": 1699,
+      "stars_today": 757,
+      "built_by": [
+        "MkDev11",
+        "sjhddh",
+        "bittoby",
+        "gupta-8"
+      ]
+    }
+  ]
+}
