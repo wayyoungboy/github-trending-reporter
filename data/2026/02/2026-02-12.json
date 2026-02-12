@@ -1,0 +1,130 @@
+{
+  "date": "2026-02-12",
+  "total_repos": 7,
+  "repositories": [
+    {
+      "owner": "google",
+      "name": "langextract",
+      "full_name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": 30482,
+      "forks": 2035,
+      "stars_today": 3186,
+      "built_by": [
+        "kleeena",
+        "tonebeta",
+        "aksg87",
+        "dependabot",
+        "mariano"
+      ]
+    },
+    {
+      "owner": "github",
+      "name": "gh-aw",
+      "full_name": "github/gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "stars": 1727,
+      "forks": 124,
+      "stars_today": 390,
+      "built_by": [
+        "mnkiefer",
+        "Copilot",
+        "pelikhan",
+        "dsyme",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "full_name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C#",
+      "stars": 129405,
+      "forks": 7695,
+      "stars_today": 67,
+      "built_by": [
+        "jaimecbernardo",
+        "crutkas",
+        "niels9001",
+        "qianlifeng",
+        "bao-qian"
+      ]
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 23986,
+      "forks": 1419,
+      "stars_today": 120,
+      "built_by": [
+        "OrKoN",
+        "Lightning00Blade",
+        "dependabot",
+        "szuend",
+        "browser-automation-bot"
+      ]
+    },
+    {
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "full_name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Claude Code compound engineering plugin",
+      "language": "TypeScript",
+      "stars": 8477,
+      "forks": 661,
+      "stars_today": 272,
+      "built_by": [
+        "julik",
+        "tmchow",
+        "claude",
+        "kieranklaassen",
+        "dshipper"
+      ]
+    },
+    {
+      "owner": "patchy631",
+      "name": "ai-engineering-hub",
+      "full_name": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "language": "Jupyter Notebook",
+      "stars": 28625,
+      "forks": 4676,
+      "stars_today": 154,
+      "built_by": [
+        "nikhil-1e9",
+        "ChawlaAvi",
+        "namanvirk18",
+        "sitammeur"
+      ]
+    },
+    {
+      "owner": "cheahjs",
+      "name": "free-llm-api-resources",
+      "full_name": "cheahjs/free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "language": "Python",
+      "stars": 9514,
+      "forks": 924,
+      "stars_today": 440,
+      "built_by": [
+        "themacexpert",
+        "github-actions",
+        "justmarkham",
+        "k-bose"
+      ]
+    }
+  ]
+}
