@@ -1,0 +1,237 @@
+{
+  "date": "2026-02-13",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "tambo-ai",
+      "name": "tambo",
+      "full_name": "tambo-ai/tambo",
+      "url": "https://github.com/tambo-ai/tambo",
+      "description": "Generative UI SDK for React",
+      "language": "TypeScript",
+      "stars": 9028,
+      "forks": 432,
+      "stars_today": 300,
+      "built_by": [
+        "tambo-bot",
+        "MichaelMilstead",
+        "dependabot",
+        "alecf",
+        "akhileshrangani4"
+      ]
+    },
+    {
+      "owner": "danielmiessler",
+      "name": "Personal_AI_Infrastructure",
+      "full_name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars": 7516,
+      "forks": 1088,
+      "stars_today": 351,
+      "built_by": [
+        "m4nt0de4",
+        "claude",
+        "mvoehringer",
+        "ksylvan"
+      ]
+    },
+    {
+      "owner": "google",
+      "name": "langextract",
+      "full_name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": 31403,
+      "forks": 2092,
+      "stars_today": 1122,
+      "built_by": [
+        "dependabot",
+        "tonebeta",
+        "aksg87",
+        "kleeena",
+        "mariano"
+      ]
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 24400,
+      "forks": 1451,
+      "stars_today": 436,
+      "built_by": [
+        "browser-automation-bot",
+        "dependabot",
+        "szuend",
+        "Lightning00Blade",
+        "OrKoN"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "full_name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C#",
+      "stars": 129652,
+      "forks": 7708,
+      "stars_today": 316,
+      "built_by": [
+        "jaimecbernardo",
+        "crutkas",
+        "qianlifeng",
+        "bao-qian",
+        "niels9001"
+      ]
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "AionUi",
+      "full_name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": 15384,
+      "forks": 1166,
+      "stars_today": 271,
+      "built_by": [
+        "claude",
+        "IceyLiu",
+        "kuishou68",
+        "halvee-tech",
+        "goworm"
+      ]
+    },
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": 94358,
+      "forks": 13683,
+      "stars_today": 287,
+      "built_by": [
+        "awesomekoder",
+        "AndrewHoh",
+        "Madhuvod",
+        "libw0430"
+      ]
+    },
+    {
+      "owner": "rowboatlabs",
+      "name": "rowboat",
+      "full_name": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "stars": 5184,
+      "forks": 411,
+      "stars_today": 191,
+      "built_by": [
+        "arkml",
+        "github-actions",
+        "akhisud3195",
+        "tusharmagar",
+        "ramnique"
+      ]
+    },
+    {
+      "owner": "github",
+      "name": "gh-aw",
+      "full_name": "github/gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "stars": 2018,
+      "forks": 141,
+      "stars_today": 405,
+      "built_by": [
+        "github-actions",
+        "pelikhan",
+        "dsyme",
+        "Copilot",
+        "mnkiefer"
+      ]
+    },
+    {
+      "owner": "unslothai",
+      "name": "unsloth",
+      "full_name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
+      "language": "Python",
+      "stars": 52045,
+      "forks": 4308,
+      "stars_today": 81,
+      "built_by": [
+        "Datta0",
+        "jeromeku",
+        "danielhanchen",
+        "shimmyshimmer",
+        "pre-commit-ci"
+      ]
+    },
+    {
+      "owner": "cinnyapp",
+      "name": "cinny",
+      "full_name": "cinnyapp/cinny",
+      "url": "https://github.com/cinnyapp/cinny",
+      "description": "Yet another matrix client",
+      "language": "TypeScript",
+      "stars": 2875,
+      "forks": 389,
+      "stars_today": 38,
+      "built_by": [
+        "ginnyTheCat",
+        "dependabot",
+        "ajbura",
+        "kfiven",
+        "renovate"
+      ]
+    },
+    {
+      "owner": "Jeffallan",
+      "name": "claude-skills",
+      "full_name": "Jeffallan/claude-skills",
+      "url": "https://github.com/Jeffallan/claude-skills",
+      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "language": "Python",
+      "stars": 1681,
+      "forks": 118,
+      "stars_today": 278,
+      "built_by": [
+        "claude",
+        "salmanmkc",
+        "liyin2015",
+        "thomassamoul"
+      ]
+    },
+    {
+      "owner": "HandsOnLLM",
+      "name": "Hands-On-Large-Language-Models",
+      "full_name": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+      "language": "Jupyter Notebook",
+      "stars": 20908,
+      "forks": 4973,
+      "stars_today": 361,
+      "built_by": [
+        "MaartenGr",
+        "jalammar",
+        "dkapitan",
+        "dcarpintero",
+        "negativenagesh"
+      ]
+    }
+  ]
+}
