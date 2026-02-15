@@ -1,0 +1,200 @@
+{
+  "date": "2026-02-15",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "tambo-ai",
+      "name": "tambo",
+      "full_name": "tambo-ai/tambo",
+      "url": "https://github.com/tambo-ai/tambo",
+      "description": "Generative UI SDK for React",
+      "language": "TypeScript",
+      "stars": 9622,
+      "forks": 464,
+      "stars_today": 127,
+      "built_by": [
+        "MichaelMilstead",
+        "dependabot",
+        "tambo-bot",
+        "akhileshrangani4",
+        "alecf"
+      ]
+    },
+    {
+      "owner": "SynkraAI",
+      "name": "aios-core",
+      "full_name": "SynkraAI/aios-core",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "language": "JavaScript",
+      "stars": 609,
+      "forks": 242,
+      "stars_today": 209,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "Pedrovaleriolopez",
+        "oalanicolas",
+        "semantic-release-bot"
+      ]
+    },
+    {
+      "owner": "rowboatlabs",
+      "name": "rowboat",
+      "full_name": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "stars": 6073,
+      "forks": 498,
+      "stars_today": 217,
+      "built_by": [
+        "tusharmagar",
+        "github-actions",
+        "ramnique",
+        "arkml",
+        "akhisud3195"
+      ]
+    },
+    {
+      "owner": "minio",
+      "name": "minio",
+      "full_name": "minio/minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": 60280,
+      "forks": 7009,
+      "stars_today": 29,
+      "built_by": [
+        "poornas",
+        "harshavardhana",
+        "klauspost",
+        "vadmeste",
+        "minio-trusted"
+      ]
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 25097,
+      "forks": 1479,
+      "stars_today": 331,
+      "built_by": [
+        "dependabot",
+        "Lightning00Blade",
+        "OrKoN",
+        "szuend",
+        "browser-automation-bot"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "zvec",
+      "full_name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 1267,
+      "forks": 68,
+      "stars_today": 172,
+      "built_by": [
+        "iaojnh",
+        "zhourrr",
+        "egolearner",
+        "feihongxu0824",
+        "Cuiyus"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "wifi-densepose",
+      "full_name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "language": "Python",
+      "stars": 6165,
+      "forks": 551,
+      "stars_today": 98,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "Zipstack",
+      "name": "unstract",
+      "full_name": "Zipstack/unstract",
+      "url": "https://github.com/Zipstack/unstract",
+      "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+      "language": "Python",
+      "stars": 6319,
+      "forks": 600,
+      "stars_today": 40,
+      "built_by": [
+        "gaya3-zipstack",
+        "chandrasekharan-zipstack",
+        "pre-commit-ci",
+        "Deepak-Kesavan",
+        "muhammad-ali-e"
+      ]
+    },
+    {
+      "owner": "letta-ai",
+      "name": "letta-code",
+      "full_name": "letta-ai/letta-code",
+      "url": "https://github.com/letta-ai/letta-code",
+      "description": "The memory-first coding agent",
+      "language": "TypeScript",
+      "stars": 1215,
+      "forks": 135,
+      "stars_today": 55,
+      "built_by": [
+        "github-actions",
+        "jnjpng",
+        "kl2806",
+        "cpacker",
+        "letta-code"
+      ]
+    },
+    {
+      "owner": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": 23370,
+      "forks": 5563,
+      "stars_today": 15,
+      "built_by": [
+        "nobu",
+        "akr",
+        "hsbt",
+        "matzbot",
+        "k0kubun"
+      ]
+    },
+    {
+      "owner": "cinnyapp",
+      "name": "cinny",
+      "full_name": "cinnyapp/cinny",
+      "url": "https://github.com/cinnyapp/cinny",
+      "description": "Yet another matrix client",
+      "language": "TypeScript",
+      "stars": 3048,
+      "forks": 410,
+      "stars_today": 41,
+      "built_by": [
+        "renovate",
+        "ginnyTheCat",
+        "dependabot",
+        "kfiven",
+        "ajbura"
+      ]
+    }
+  ]
+}
