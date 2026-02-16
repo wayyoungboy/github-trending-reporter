@@ -1,0 +1,199 @@
+{
+  "date": "2026-02-16",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": 19313,
+      "forks": 2295,
+      "stars_today": 68,
+      "built_by": [
+        "limx0",
+        "filipmacek",
+        "faysou",
+        "cjdsellers",
+        "davidsblom"
+      ]
+    },
+    {
+      "owner": "steipete",
+      "name": "gogcli",
+      "full_name": "steipete/gogcli",
+      "url": "https://github.com/steipete/gogcli",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+      "language": "Go",
+      "stars": 2981,
+      "forks": 258,
+      "stars_today": 630,
+      "built_by": [
+        "jeanregisser",
+        "antons",
+        "salmonumbrella",
+        "claude"
+      ]
+    },
+    {
+      "owner": "rowboatlabs",
+      "name": "rowboat",
+      "full_name": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "stars": 6819,
+      "forks": 577,
+      "stars_today": 803,
+      "built_by": [
+        "ramnique",
+        "github-actions",
+        "tusharmagar",
+        "akhisud3195",
+        "arkml"
+      ]
+    },
+    {
+      "owner": "github",
+      "name": "gh-aw",
+      "full_name": "github/gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "stars": 2712,
+      "forks": 200,
+      "stars_today": 213,
+      "built_by": [
+        "dsyme",
+        "pelikhan",
+        "mnkiefer",
+        "github-actions",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 25427,
+      "forks": 1501,
+      "stars_today": 357,
+      "built_by": [
+        "szuend",
+        "dependabot",
+        "OrKoN",
+        "browser-automation-bot",
+        "Lightning00Blade"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "zvec",
+      "full_name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 2341,
+      "forks": 118,
+      "stars_today": 673,
+      "built_by": [
+        "zhourrr",
+        "egolearner",
+        "feihongxu0824",
+        "Cuiyus",
+        "iaojnh"
+      ]
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": 197332,
+      "forks": 34372,
+      "stars_today": 2380,
+      "built_by": [
+        "claude",
+        "gumadeiras",
+        "vignesh07",
+        "steipete",
+        "thewilloftheshadow"
+      ]
+    },
+    {
+      "owner": "moonshine-ai",
+      "name": "moonshine",
+      "full_name": "moonshine-ai/moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "language": "C",
+      "stars": 3828,
+      "forks": 179,
+      "stars_today": 157,
+      "built_by": [
+        "evmaki",
+        "keveman",
+        "guynich",
+        "petewarden",
+        "andimarafioti"
+      ]
+    },
+    {
+      "owner": "brave",
+      "name": "brave-browser",
+      "full_name": "brave/brave-browser",
+      "url": "https://github.com/brave/brave-browser",
+      "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+      "language": "Unknown",
+      "stars": 21548,
+      "forks": 2973,
+      "stars_today": 27,
+      "built_by": [
+        "LaurenWags",
+        "brave-builds",
+        "mihaiplesa",
+        "brave-browser-releases",
+        "kjozwiak"
+      ]
+    },
+    {
+      "owner": "SynkraAI",
+      "name": "aios-core",
+      "full_name": "SynkraAI/aios-core",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "language": "JavaScript",
+      "stars": 795,
+      "forks": 287,
+      "stars_today": 163,
+      "built_by": [
+        "claude",
+        "oalanicolas",
+        "semantic-release-bot",
+        "Pedrovaleriolopez",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "wifi-densepose",
+      "full_name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "language": "Python",
+      "stars": 6493,
+      "forks": 573,
+      "stars_today": 352,
+      "built_by": [
+        "claude"
+      ]
+    }
+  ]
+}
