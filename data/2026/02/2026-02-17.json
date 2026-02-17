@@ -1,0 +1,181 @@
+{
+  "date": "2026-02-17",
+  "total_repos": 10,
+  "repositories": [
+    {
+      "owner": "alibaba",
+      "name": "zvec",
+      "full_name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 3613,
+      "forks": 189,
+      "stars_today": 1094,
+      "built_by": [
+        "iaojnh",
+        "zhourrr",
+        "Cuiyus",
+        "feihongxu0824",
+        "egolearner"
+      ]
+    },
+    {
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": 19783,
+      "forks": 2322,
+      "stars_today": 546,
+      "built_by": [
+        "filipmacek",
+        "davidsblom",
+        "faysou",
+        "cjdsellers",
+        "limx0"
+      ]
+    },
+    {
+      "owner": "rowboatlabs",
+      "name": "rowboat",
+      "full_name": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "stars": 7329,
+      "forks": 621,
+      "stars_today": 700,
+      "built_by": [
+        "arkml",
+        "ramnique",
+        "github-actions",
+        "tusharmagar",
+        "akhisud3195"
+      ]
+    },
+    {
+      "owner": "steipete",
+      "name": "gogcli",
+      "full_name": "steipete/gogcli",
+      "url": "https://github.com/steipete/gogcli",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+      "language": "Go",
+      "stars": 3502,
+      "forks": 298,
+      "stars_today": 637,
+      "built_by": [
+        "jeanregisser",
+        "antons",
+        "salmonumbrella",
+        "claude"
+      ]
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": 201705,
+      "forks": 36161,
+      "stars_today": 3873,
+      "built_by": [
+        "vignesh07",
+        "thewilloftheshadow",
+        "claude",
+        "steipete",
+        "gumadeiras"
+      ]
+    },
+    {
+      "owner": "SynkraAI",
+      "name": "aios-core",
+      "full_name": "SynkraAI/aios-core",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "language": "JavaScript",
+      "stars": 991,
+      "forks": 353,
+      "stars_today": 205,
+      "built_by": [
+        "semantic-release-bot",
+        "claude",
+        "oalanicolas",
+        "github-actions",
+        "Pedrovaleriolopez"
+      ]
+    },
+    {
+      "owner": "letta-ai",
+      "name": "letta-code",
+      "full_name": "letta-ai/letta-code",
+      "url": "https://github.com/letta-ai/letta-code",
+      "description": "The memory-first coding agent",
+      "language": "TypeScript",
+      "stars": 1452,
+      "forks": 156,
+      "stars_today": 22,
+      "built_by": [
+        "letta-code",
+        "kl2806",
+        "jnjpng",
+        "github-actions",
+        "cpacker"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "wifi-densepose",
+      "full_name": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "language": "Python",
+      "stars": 6803,
+      "forks": 585,
+      "stars_today": 344,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "seerr-team",
+      "name": "seerr",
+      "full_name": "seerr-team/seerr",
+      "url": "https://github.com/seerr-team/seerr",
+      "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+      "language": "TypeScript",
+      "stars": 9072,
+      "forks": 601,
+      "stars_today": 182,
+      "built_by": [
+        "TheCatLady",
+        "sct",
+        "gauthier-th",
+        "fallenbagel",
+        "allcontributors"
+      ]
+    },
+    {
+      "owner": "hummingbot",
+      "name": "hummingbot",
+      "full_name": "hummingbot/hummingbot",
+      "url": "https://github.com/hummingbot/hummingbot",
+      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+      "language": "Python",
+      "stars": 16565,
+      "forks": 4386,
+      "stars_today": 339,
+      "built_by": [
+        "vic-en",
+        "yzhang1994",
+        "Nullably",
+        "cardosofede",
+        "aarmoa"
+      ]
+    }
+  ]
+}
