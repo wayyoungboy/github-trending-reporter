@@ -1,0 +1,198 @@
+{
+  "date": "2026-02-19",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "alibaba",
+      "name": "zvec",
+      "full_name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 4915,
+      "forks": 269,
+      "stars_today": 502,
+      "built_by": [
+        "zhourrr",
+        "feihongxu0824",
+        "egolearner",
+        "Cuiyus",
+        "iaojnh"
+      ]
+    },
+    {
+      "owner": "p-e-w",
+      "name": "heretic",
+      "full_name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": 8039,
+      "forks": 810,
+      "stars_today": 946,
+      "built_by": [
+        "spikymoth",
+        "kldzj",
+        "red40maxxer",
+        "anrp"
+      ]
+    },
+    {
+      "owner": "OpenCTI-Platform",
+      "name": "opencti",
+      "full_name": "OpenCTI-Platform/opencti",
+      "url": "https://github.com/OpenCTI-Platform/opencti",
+      "description": "Open Cyber Threat Intelligence Platform",
+      "language": "TypeScript",
+      "stars": 8698,
+      "forks": 1241,
+      "stars_today": 281,
+      "built_by": [
+        "SamuelHassine",
+        "renovate",
+        "Filigran-Automation",
+        "richard-julien",
+        "Archidoit"
+      ]
+    },
+    {
+      "owner": "QwenLM",
+      "name": "qwen-code",
+      "full_name": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI agent that lives in your terminal.",
+      "language": "TypeScript",
+      "stars": 18845,
+      "forks": 1637,
+      "stars_today": 95,
+      "built_by": [
+        "yiliang114",
+        "Mingholy",
+        "pomelo-nwu",
+        "jacob314",
+        "tanzhenxin"
+      ]
+    },
+    {
+      "owner": "NirDiamant",
+      "name": "RAG_Techniques",
+      "full_name": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+      "language": "Jupyter Notebook",
+      "stars": 25259,
+      "forks": 2968,
+      "stars_today": 292,
+      "built_by": [
+        "tevfikcagridural",
+        "lzytitan494",
+        "Ori226",
+        "zmccormick7"
+      ]
+    },
+    {
+      "owner": "harvard-edge",
+      "name": "cs249r_book",
+      "full_name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Introduction to Machine Learning Systems",
+      "language": "JavaScript",
+      "stars": 19682,
+      "forks": 2297,
+      "stars_today": 690,
+      "built_by": [
+        "profvjreddi",
+        "Mjrovai",
+        "github-actions",
+        "hzeljko",
+        "claude"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 54474,
+      "forks": 4133,
+      "stars_today": 868,
+      "built_by": [
+        "claude",
+        "arittr",
+        "clkao",
+        "jjshanks"
+      ]
+    },
+    {
+      "owner": "HailToDodongo",
+      "name": "pyrite64",
+      "full_name": "HailToDodongo/pyrite64",
+      "url": "https://github.com/HailToDodongo/pyrite64",
+      "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+      "language": "C++",
+      "stars": 1291,
+      "forks": 43,
+      "stars_today": 419,
+      "built_by": [
+        "Byterset",
+        "LauraWebdev",
+        "thekovic"
+      ]
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "composio",
+      "full_name": "ComposioHQ/composio",
+      "url": "https://github.com/ComposioHQ/composio",
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "language": "TypeScript",
+      "stars": 26768,
+      "forks": 4420,
+      "stars_today": 17,
+      "built_by": [
+        "jkomyno",
+        "claude",
+        "Sushmithamallesh",
+        "haxzie",
+        "alt-glitch"
+      ]
+    },
+    {
+      "owner": "p2r3",
+      "name": "convert",
+      "full_name": "p2r3/convert",
+      "url": "https://github.com/p2r3/convert",
+      "description": "Truly universal online file converter",
+      "language": "TypeScript",
+      "stars": 1454,
+      "forks": 131,
+      "stars_today": 391,
+      "built_by": [
+        "millennIumAMbiguity",
+        "mdev34-lab",
+        "matan-h",
+        "BoBkiNN"
+      ]
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": 208875,
+      "forks": 38491,
+      "stars_today": 3805,
+      "built_by": [
+        "sebslight",
+        "vignesh07",
+        "steipete",
+        "claude",
+        "thewilloftheshadow"
+      ]
+    }
+  ]
+}
