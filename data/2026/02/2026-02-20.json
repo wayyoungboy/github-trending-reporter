@@ -1,0 +1,146 @@
+{
+  "date": "2026-02-20",
+  "total_repos": 8,
+  "repositories": [
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 55399,
+      "forks": 4194,
+      "stars_today": 889,
+      "built_by": [
+        "jjshanks",
+        "arittr",
+        "claude",
+        "clkao"
+      ]
+    },
+    {
+      "owner": "RichardAtCT",
+      "name": "claude-code-telegram",
+      "full_name": "RichardAtCT/claude-code-telegram",
+      "url": "https://github.com/RichardAtCT/claude-code-telegram",
+      "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+      "language": "Python",
+      "stars": 965,
+      "forks": 128,
+      "stars_today": 174,
+      "built_by": [
+        "alexx-ftw",
+        "michaelansel",
+        "claude",
+        "drugoi"
+      ]
+    },
+    {
+      "owner": "open-mercato",
+      "name": "open-mercato",
+      "full_name": "open-mercato/open-mercato",
+      "url": "https://github.com/open-mercato/open-mercato",
+      "description": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
+      "language": "TypeScript",
+      "stars": 727,
+      "forks": 113,
+      "stars_today": 56,
+      "built_by": [
+        "pat-lewczuk",
+        "Copilot",
+        "andrzejewsky",
+        "MStaniaszek1998",
+        "pkarw"
+      ]
+    },
+    {
+      "owner": "harvard-edge",
+      "name": "cs249r_book",
+      "full_name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Introduction to Machine Learning Systems",
+      "language": "JavaScript",
+      "stars": 20204,
+      "forks": 2329,
+      "stars_today": 663,
+      "built_by": [
+        "profvjreddi",
+        "hzeljko",
+        "claude",
+        "Mjrovai",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "HailToDodongo",
+      "name": "pyrite64",
+      "full_name": "HailToDodongo/pyrite64",
+      "url": "https://github.com/HailToDodongo/pyrite64",
+      "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+      "language": "C++",
+      "stars": 1755,
+      "forks": 62,
+      "stars_today": 608,
+      "built_by": [
+        "rasky",
+        "Byterset",
+        "thekovic",
+        "LauraWebdev"
+      ]
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": 211913,
+      "forks": 39315,
+      "stars_today": 3390,
+      "built_by": [
+        "gumadeiras",
+        "vignesh07",
+        "sebslight",
+        "steipete",
+        "thewilloftheshadow"
+      ]
+    },
+    {
+      "owner": "freemocap",
+      "name": "freemocap",
+      "full_name": "freemocap/freemocap",
+      "url": "https://github.com/freemocap/freemocap",
+      "description": "Free Motion Capture for Everyone 💀✨",
+      "language": "Python",
+      "stars": 5208,
+      "forks": 418,
+      "stars_today": 141,
+      "built_by": [
+        "jonmatthis",
+        "philipqueen",
+        "aaroncherian",
+        "endurance",
+        "trentwirth"
+      ]
+    },
+    {
+      "owner": "p-e-w",
+      "name": "heretic",
+      "full_name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": 8497,
+      "forks": 850,
+      "stars_today": 652,
+      "built_by": [
+        "kldzj",
+        "spikymoth",
+        "red40maxxer",
+        "anrp"
+      ]
+    }
+  ]
+}
