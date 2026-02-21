@@ -1,0 +1,274 @@
+{
+  "date": "2026-02-21",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "vxcontrol",
+      "name": "pentagi",
+      "full_name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 3915,
+      "forks": 552,
+      "stars_today": 875,
+      "built_by": [
+        "zavgorodnii",
+        "hhktony",
+        "sirozha",
+        "asdek",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "blackboardsh",
+      "name": "electrobun",
+      "full_name": "blackboardsh/electrobun",
+      "url": "https://github.com/blackboardsh/electrobun",
+      "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+      "language": "C++",
+      "stars": 6036,
+      "forks": 103,
+      "stars_today": 419,
+      "built_by": [
+        "NullDev",
+        "YoavCodes",
+        "claude",
+        "AugusDogus",
+        "wish13yt"
+      ]
+    },
+    {
+      "owner": "HailToDodongo",
+      "name": "pyrite64",
+      "full_name": "HailToDodongo/pyrite64",
+      "url": "https://github.com/HailToDodongo/pyrite64",
+      "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+      "language": "C++",
+      "stars": 2129,
+      "forks": 77,
+      "stars_today": 425,
+      "built_by": [
+        "rasky",
+        "salmanmkc",
+        "thekovic",
+        "Byterset"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 56249,
+      "forks": 4259,
+      "stars_today": 980,
+      "built_by": [
+        "claude",
+        "arittr",
+        "jjshanks",
+        "clkao"
+      ]
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 32106,
+      "forks": 2956,
+      "stars_today": 31,
+      "built_by": [
+        "nikpivkin",
+        "DmitriyLewen",
+        "knqyf263",
+        "simar7",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "language": "Python",
+      "stars": 31558,
+      "forks": 2308,
+      "stars_today": 46,
+      "built_by": [
+        "mariusandra",
+        "benjackwhite",
+        "Twixes",
+        "github-actions",
+        "pauldambra"
+      ]
+    },
+    {
+      "owner": "eslint",
+      "name": "eslint",
+      "full_name": "eslint/eslint",
+      "url": "https://github.com/eslint/eslint",
+      "description": "Find and fix problems in your JavaScript code.",
+      "language": "JavaScript",
+      "stars": 27059,
+      "forks": 4920,
+      "stars_today": 30,
+      "built_by": [
+        "nzakas",
+        "mdjermanovic",
+        "ilyavolodin",
+        "mysticatea",
+        "not-an-aardvark"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 7876,
+      "forks": 774,
+      "stars_today": 75,
+      "built_by": [
+        "noahzweben",
+        "claude",
+        "isabella-anthropic",
+        "dhollman",
+        "ThariqS"
+      ]
+    },
+    {
+      "owner": "Effect-TS",
+      "name": "effect-smol",
+      "full_name": "Effect-TS/effect-smol",
+      "url": "https://github.com/Effect-TS/effect-smol",
+      "description": "Core libraries and experimental work for Effect v4",
+      "language": "TypeScript",
+      "stars": 373,
+      "forks": 42,
+      "stars_today": 14,
+      "built_by": [
+        "fubhy",
+        "tim-smart",
+        "IMax153",
+        "gcanti",
+        "mikearnaldi"
+      ]
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 8847,
+      "forks": 731,
+      "stars_today": 404,
+      "built_by": [
+        "rajatsen91",
+        "JustinGuese",
+        "kashif",
+        "siriuz42",
+        "misha-chertushkin"
+      ]
+    },
+    {
+      "owner": "roboflow",
+      "name": "trackers",
+      "full_name": "roboflow/trackers",
+      "url": "https://github.com/roboflow/trackers",
+      "description": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.",
+      "language": "Python",
+      "stars": 2729,
+      "forks": 263,
+      "stars_today": 133,
+      "built_by": [
+        "onuralpszr",
+        "SkalskiP",
+        "soumik12345",
+        "dependabot",
+        "pre-commit-ci"
+      ]
+    },
+    {
+      "owner": "huggingface",
+      "name": "skills",
+      "full_name": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "description": "",
+      "language": "Python",
+      "stars": 1432,
+      "forks": 130,
+      "stars_today": 33,
+      "built_by": [
+        "evalstate",
+        "burtenshaw",
+        "claude",
+        "Madhu3456",
+        "gary149"
+      ]
+    },
+    {
+      "owner": "databricks-solutions",
+      "name": "ai-dev-kit",
+      "full_name": "databricks-solutions/ai-dev-kit",
+      "url": "https://github.com/databricks-solutions/ai-dev-kit",
+      "description": "Databricks Toolkit for Coding Agents provided by Field Engineering",
+      "language": "Python",
+      "stars": 543,
+      "forks": 95,
+      "stars_today": 45,
+      "built_by": [
+        "claude",
+        "malcolndandaro",
+        "calreynolds",
+        "cursoragent",
+        "dustinvannoy-db"
+      ]
+    },
+    {
+      "owner": "freemocap",
+      "name": "freemocap",
+      "full_name": "freemocap/freemocap",
+      "url": "https://github.com/freemocap/freemocap",
+      "description": "Free Motion Capture for Everyone 💀✨",
+      "language": "Python",
+      "stars": 5566,
+      "forks": 441,
+      "stars_today": 497,
+      "built_by": [
+        "aaroncherian",
+        "philipqueen",
+        "trentwirth",
+        "endurance",
+        "jonmatthis"
+      ]
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "composio",
+      "full_name": "ComposioHQ/composio",
+      "url": "https://github.com/ComposioHQ/composio",
+      "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+      "language": "TypeScript",
+      "stars": 27016,
+      "forks": 4437,
+      "stars_today": 45,
+      "built_by": [
+        "claude",
+        "jkomyno",
+        "Sushmithamallesh",
+        "alt-glitch",
+        "haxzie"
+      ]
+    }
+  ]
+}
