@@ -1,0 +1,235 @@
+{
+  "date": "2026-02-22",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "vxcontrol",
+      "name": "pentagi",
+      "full_name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 5580,
+      "forks": 716,
+      "stars_today": 2118,
+      "built_by": [
+        "dependabot",
+        "hhktony",
+        "sirozha",
+        "asdek",
+        "zavgorodnii"
+      ]
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 1044,
+      "forks": 94,
+      "stars_today": 132,
+      "built_by": [
+        "claude",
+        "cursoragent",
+        "abhigyantrumio"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 57010,
+      "forks": 4317,
+      "stars_today": 772,
+      "built_by": [
+        "claude",
+        "clkao",
+        "jjshanks",
+        "arittr"
+      ]
+    },
+    {
+      "owner": "huggingface",
+      "name": "skills",
+      "full_name": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "description": "",
+      "language": "Python",
+      "stars": 1683,
+      "forks": 148,
+      "stars_today": 247,
+      "built_by": [
+        "evalstate",
+        "Madhu3456",
+        "gary149",
+        "claude",
+        "burtenshaw"
+      ]
+    },
+    {
+      "owner": "PowerShell",
+      "name": "PowerShell",
+      "full_name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": 51547,
+      "forks": 8182,
+      "stars_today": 13,
+      "built_by": [
+        "TravisEz13",
+        "xtqqczze",
+        "andyleejordan",
+        "adityapatwardhan",
+        "daxian-dbw"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "stars": 68419,
+      "forks": 5365,
+      "stars_today": 222,
+      "built_by": [
+        "actions-user",
+        "ashwin-ant",
+        "claude",
+        "ant-kurt",
+        "bcherny"
+      ]
+    },
+    {
+      "owner": "stan-smith",
+      "name": "FossFLOW",
+      "full_name": "stan-smith/FossFLOW",
+      "url": "https://github.com/stan-smith/FossFLOW",
+      "description": "Make beautiful isometric infrastructure diagrams",
+      "language": "TypeScript",
+      "stars": 17784,
+      "forks": 1161,
+      "stars_today": 74,
+      "built_by": [
+        "markmanx",
+        "Abrar74774",
+        "abhinav-1305",
+        "semantic-release-bot"
+      ]
+    },
+    {
+      "owner": "ggml-org",
+      "name": "ggml",
+      "full_name": "ggml-org/ggml",
+      "url": "https://github.com/ggml-org/ggml",
+      "description": "Tensor library for machine learning",
+      "language": "C++",
+      "stars": 14064,
+      "forks": 1475,
+      "stars_today": 47,
+      "built_by": [
+        "slaren",
+        "JohannesGaessler",
+        "jeffbolznv",
+        "0cc4m",
+        "ggerganov"
+      ]
+    },
+    {
+      "owner": "Stremio",
+      "name": "stremio-web",
+      "full_name": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "language": "JavaScript",
+      "stars": 9457,
+      "forks": 1053,
+      "stars_today": 301,
+      "built_by": [
+        "swetlasg",
+        "Botsy",
+        "tymmesyde",
+        "nklhtv",
+        "kKaskak"
+      ]
+    },
+    {
+      "owner": "HandsOnLLM",
+      "name": "Hands-On-Large-Language-Models",
+      "full_name": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+      "language": "Jupyter Notebook",
+      "stars": 22562,
+      "forks": 5246,
+      "stars_today": 355,
+      "built_by": [
+        "negativenagesh",
+        "dcarpintero",
+        "dkapitan",
+        "MaartenGr",
+        "jalammar"
+      ]
+    },
+    {
+      "owner": "RichardAtCT",
+      "name": "claude-code-telegram",
+      "full_name": "RichardAtCT/claude-code-telegram",
+      "url": "https://github.com/RichardAtCT/claude-code-telegram",
+      "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+      "language": "Python",
+      "stars": 1388,
+      "forks": 170,
+      "stars_today": 109,
+      "built_by": [
+        "claude",
+        "michaelansel",
+        "alexx-ftw",
+        "drugoi"
+      ]
+    },
+    {
+      "owner": "cloudflare",
+      "name": "agents",
+      "full_name": "cloudflare/agents",
+      "url": "https://github.com/cloudflare/agents",
+      "description": "Build and deploy AI Agents on Cloudflare",
+      "language": "TypeScript",
+      "stars": 3435,
+      "forks": 388,
+      "stars_today": 65,
+      "built_by": [
+        "github-actions",
+        "deathbyknowledge",
+        "threepointone",
+        "whoiskatrin",
+        "mattzcarey"
+      ]
+    },
+    {
+      "owner": "hiddify",
+      "name": "hiddify-app",
+      "full_name": "hiddify/hiddify-app",
+      "url": "https://github.com/hiddify/hiddify-app",
+      "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+      "language": "Dart",
+      "stars": 26407,
+      "forks": 2280,
+      "stars_today": 132,
+      "built_by": [
+        "lymanjre",
+        "HiddifyOfficial",
+        "veto9292",
+        "hiddify-com",
+        "0xConsumer"
+      ]
+    }
+  ]
+}
