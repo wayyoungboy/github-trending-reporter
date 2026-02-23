@@ -1,0 +1,164 @@
+{
+  "date": "2026-02-23",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "huggingface",
+      "name": "skills",
+      "full_name": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "description": "",
+      "language": "Python",
+      "stars": 2638,
+      "forks": 188,
+      "stars_today": 364,
+      "built_by": [
+        "evalstate",
+        "gary149",
+        "burtenshaw",
+        "Madhu3456",
+        "claude"
+      ]
+    },
+    {
+      "owner": "vxcontrol",
+      "name": "pentagi",
+      "full_name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 7025,
+      "forks": 814,
+      "stars_today": 1579,
+      "built_by": [
+        "dependabot",
+        "salmanmkc",
+        "asdek",
+        "zavgorodnii",
+        "sirozha"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "stars": 68970,
+      "forks": 5412,
+      "stars_today": 503,
+      "built_by": [
+        "bcherny",
+        "ashwin-ant",
+        "ant-kurt",
+        "actions-user",
+        "claude"
+      ]
+    },
+    {
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "Unknown",
+      "stars": 117823,
+      "forks": 30572,
+      "stars_today": 1134,
+      "built_by": [
+        "pricisTrail",
+        "paulacavero",
+        "4regab",
+        "benja"
+      ]
+    },
+    {
+      "owner": "Stremio",
+      "name": "stremio-web",
+      "full_name": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "language": "JavaScript",
+      "stars": 9711,
+      "forks": 1068,
+      "stars_today": 247,
+      "built_by": [
+        "nklhtv",
+        "tymmesyde",
+        "kKaskak",
+        "Botsy",
+        "swetlasg"
+      ]
+    },
+    {
+      "owner": "OpenBB-finance",
+      "name": "OpenBB",
+      "full_name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "stars": 60998,
+      "forks": 5947,
+      "stars_today": 188,
+      "built_by": [
+        "colin99d",
+        "DidierRLopes",
+        "deeleeramone",
+        "jmaslek",
+        "montezdesousa"
+      ]
+    },
+    {
+      "owner": "cloudflare",
+      "name": "agents",
+      "full_name": "cloudflare/agents",
+      "url": "https://github.com/cloudflare/agents",
+      "description": "Build and deploy AI Agents on Cloudflare",
+      "language": "TypeScript",
+      "stars": 3748,
+      "forks": 403,
+      "stars_today": 257,
+      "built_by": [
+        "threepointone",
+        "whoiskatrin",
+        "mattzcarey",
+        "deathbyknowledge",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 1521,
+      "forks": 116,
+      "stars_today": 424,
+      "built_by": [
+        "abhigyantrumio",
+        "claude",
+        "cursoragent"
+      ]
+    },
+    {
+      "owner": "stan-smith",
+      "name": "FossFLOW",
+      "full_name": "stan-smith/FossFLOW",
+      "url": "https://github.com/stan-smith/FossFLOW",
+      "description": "Make beautiful isometric infrastructure diagrams",
+      "language": "TypeScript",
+      "stars": 18178,
+      "forks": 1177,
+      "stars_today": 340,
+      "built_by": [
+        "Abrar74774",
+        "semantic-release-bot",
+        "markmanx",
+        "abhinav-1305"
+      ]
+    }
+  ]
+}
