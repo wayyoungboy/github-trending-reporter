@@ -1,0 +1,209 @@
+{
+  "date": "2026-02-25",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "huggingface",
+      "name": "skills",
+      "full_name": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "description": "",
+      "language": "Python",
+      "stars": 5331,
+      "forks": 337,
+      "stars_today": 1206,
+      "built_by": [
+        "evalstate",
+        "claude",
+        "gary149",
+        "burtenshaw",
+        "Madhu3456"
+      ]
+    },
+    {
+      "owner": "muratcankoylan",
+      "name": "Agent-Skills-for-Context-Engineering",
+      "full_name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+      "language": "Python",
+      "stars": 9905,
+      "forks": 781,
+      "stars_today": 722,
+      "built_by": [
+        "xue1213888",
+        "erikpr1994",
+        "stephenthedev",
+        "claude"
+      ]
+    },
+    {
+      "owner": "OpenBB-finance",
+      "name": "OpenBB",
+      "full_name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "stars": 61887,
+      "forks": 6029,
+      "stars_today": 504,
+      "built_by": [
+        "colin99d",
+        "jmaslek",
+        "deeleeramone",
+        "DidierRLopes",
+        "montezdesousa"
+      ]
+    },
+    {
+      "owner": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": 59098,
+      "forks": 2698,
+      "stars_today": 236,
+      "built_by": [
+        "trflynn89",
+        "linusg",
+        "alimpfard",
+        "AtkinsSJ",
+        "awesomekling"
+      ]
+    },
+    {
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "Unknown",
+      "stars": 123081,
+      "forks": 31730,
+      "stars_today": 3804,
+      "built_by": [
+        "benja",
+        "paulacavero",
+        "4regab",
+        "pricisTrail"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 60478,
+      "forks": 4613,
+      "stars_today": 1195,
+      "built_by": [
+        "clkao",
+        "jjshanks",
+        "claude",
+        "arittr"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruvector",
+      "full_name": "ruvnet/ruvector",
+      "url": "https://github.com/ruvnet/ruvector",
+      "description": "RuVector is a high performance vector and graph database built in Rust for AI, agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval.",
+      "language": "Rust",
+      "stars": 732,
+      "forks": 125,
+      "stars_today": 41,
+      "built_by": [
+        "github-actions",
+        "Wirasm",
+        "claude"
+      ]
+    },
+    {
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "full_name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": 12632,
+      "forks": 854,
+      "stars_today": 1970,
+      "built_by": [
+        "andyfcx",
+        "marksmayo",
+        "AbdullahY36",
+        "ImgBotApp"
+      ]
+    },
+    {
+      "owner": "GVCLab",
+      "name": "PersonaLive",
+      "full_name": "GVCLab/PersonaLive",
+      "url": "https://github.com/GVCLab/PersonaLive",
+      "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
+      "language": "Python",
+      "stars": 1979,
+      "forks": 290,
+      "stars_today": 73,
+      "built_by": [
+        "vinthony",
+        "suruoxi",
+        "huai-chang",
+        "MaraScott"
+      ]
+    },
+    {
+      "owner": "HunxByts",
+      "name": "GhostTrack",
+      "full_name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": 7459,
+      "forks": 985,
+      "stars_today": 145,
+      "built_by": [
+        "bakaemon"
+      ]
+    },
+    {
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": 17249,
+      "forks": 1228,
+      "stars_today": 714,
+      "built_by": [
+        "rejojer",
+        "zmtomorrow",
+        "clarenceluo78"
+      ]
+    },
+    {
+      "owner": "openemr",
+      "name": "openemr",
+      "full_name": "openemr/openemr",
+      "url": "https://github.com/openemr/openemr",
+      "description": "The most popular open source electronic health records and medical practice management solution.",
+      "language": "PHP",
+      "stars": 4849,
+      "forks": 2755,
+      "stars_today": 13,
+      "built_by": [
+        "sjpadgett",
+        "bradymiller",
+        "kojiromike",
+        "adunsulag",
+        "stephenwaite"
+      ]
+    }
+  ]
+}
