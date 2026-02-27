@@ -1,0 +1,179 @@
+{
+  "date": "2026-02-27",
+  "total_repos": 10,
+  "repositories": [
+    {
+      "owner": "clockworklabs",
+      "name": "SpacetimeDB",
+      "full_name": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Development at the speed of light",
+      "language": "Rust",
+      "stars": 20876,
+      "forks": 751,
+      "stars_today": 441,
+      "built_by": [
+        "joshua-spacetime",
+        "Centril",
+        "gefjon",
+        "cloutiertyler",
+        "bfops"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 63374,
+      "forks": 4842,
+      "stars_today": 1532,
+      "built_by": [
+        "arittr",
+        "clkao",
+        "jjshanks",
+        "claude"
+      ]
+    },
+    {
+      "owner": "muratcankoylan",
+      "name": "Agent-Skills-for-Context-Engineering",
+      "full_name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+      "language": "Python",
+      "stars": 11733,
+      "forks": 909,
+      "stars_today": 922,
+      "built_by": [
+        "stephenthedev",
+        "xue1213888",
+        "erikpr1994",
+        "claude"
+      ]
+    },
+    {
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "full_name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "language": "TypeScript",
+      "stars": 21114,
+      "forks": 2602,
+      "stars_today": 617,
+      "built_by": [
+        "WillemJiang",
+        "claude",
+        "MagicCube",
+        "henry-byted",
+        "hetaoBackend"
+      ]
+    },
+    {
+      "owner": "huggingface",
+      "name": "skills",
+      "full_name": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "description": "",
+      "language": "Python",
+      "stars": 6982,
+      "forks": 406,
+      "stars_today": 715,
+      "built_by": [
+        "Madhu3456",
+        "cursoragent",
+        "burtenshaw",
+        "evalstate",
+        "abidlabs"
+      ]
+    },
+    {
+      "owner": "farion1231",
+      "name": "cc-switch",
+      "full_name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
+      "language": "Rust",
+      "stars": 20673,
+      "forks": 1281,
+      "stars_today": 418,
+      "built_by": [
+        "TinsFox",
+        "yovinchen",
+        "claude",
+        "tianrking"
+      ]
+    },
+    {
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "full_name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": 16856,
+      "forks": 1109,
+      "stars_today": 2902,
+      "built_by": [
+        "andyfcx",
+        "ImgBotApp",
+        "AbdullahY36",
+        "marksmayo"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "claude-flow",
+      "full_name": "ruvnet/claude-flow",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars": 14970,
+      "forks": 1742,
+      "stars_today": 215,
+      "built_by": [
+        "alexx-ftw",
+        "tommy-ca",
+        "lanemc",
+        "claude"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruvector",
+      "full_name": "ruvnet/ruvector",
+      "url": "https://github.com/ruvnet/ruvector",
+      "description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.",
+      "language": "Rust",
+      "stars": 1597,
+      "forks": 177,
+      "stars_today": 436,
+      "built_by": [
+        "Wirasm",
+        "github-actions",
+        "claude"
+      ]
+    },
+    {
+      "owner": "moonshine-ai",
+      "name": "moonshine",
+      "full_name": "moonshine-ai/moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "language": "C",
+      "stars": 5264,
+      "forks": 249,
+      "stars_today": 245,
+      "built_by": [
+        "keveman",
+        "evmaki",
+        "guynich",
+        "petewarden",
+        "andimarafioti"
+      ]
+    }
+  ]
+}
