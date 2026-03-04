@@ -1,0 +1,185 @@
+{
+  "date": "2026-03-04",
+  "total_repos": 10,
+  "repositories": [
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 25330,
+      "forks": 3129,
+      "stars_today": 4419,
+      "built_by": [
+        "fr4iser90",
+        "claude",
+        "MaTriXy",
+        "TropicalDog17"
+      ]
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "claude-scientific-skills",
+      "full_name": "K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": 11931,
+      "forks": 1311,
+      "stars_today": 798,
+      "built_by": [
+        "leipzig",
+        "borealBytes",
+        "claude",
+        "TKassis",
+        "fedorov"
+      ]
+    },
+    {
+      "owner": "moeru-ai",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 22170,
+      "forks": 2072,
+      "stars_today": 832,
+      "built_by": [
+        "nekomeowww",
+        "sumimakito",
+        "shinohara-rin",
+        "luoling8192",
+        "LemonNekoGH"
+      ]
+    },
+    {
+      "owner": "CodebuffAI",
+      "name": "codebuff",
+      "full_name": "CodebuffAI/codebuff",
+      "url": "https://github.com/CodebuffAI/codebuff",
+      "description": "Generate code from the terminal!",
+      "language": "TypeScript",
+      "stars": 3278,
+      "forks": 422,
+      "stars_today": 126,
+      "built_by": [
+        "brandonkachen",
+        "venkr",
+        "charleslien",
+        "jahooma",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "agentscope-ai",
+      "name": "agentscope",
+      "full_name": "agentscope-ai/agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "language": "Python",
+      "stars": 17030,
+      "forks": 1526,
+      "stars_today": 112,
+      "built_by": [
+        "DavdGao",
+        "zhijianma",
+        "qbc2016",
+        "Osier-Yi",
+        "pan-x-c"
+      ]
+    },
+    {
+      "owner": "agentscope-ai",
+      "name": "ReMe",
+      "full_name": "agentscope-ai/ReMe",
+      "url": "https://github.com/agentscope-ai/ReMe",
+      "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "language": "Python",
+      "stars": 1285,
+      "forks": 117,
+      "stars_today": 49,
+      "built_by": [
+        "binary-husky",
+        "nitwtog",
+        "jinliyl",
+        "zouyingcao",
+        "Dengjiaji"
+      ]
+    },
+    {
+      "owner": "LMCache",
+      "name": "LMCache",
+      "full_name": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "stars": 7395,
+      "forks": 960,
+      "stars_today": 135,
+      "built_by": [
+        "hickeyma",
+        "ApostaC",
+        "maobaolong",
+        "sammshen",
+        "YaoJiayi"
+      ]
+    },
+    {
+      "owner": "superset-sh",
+      "name": "superset",
+      "full_name": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+      "language": "TypeScript",
+      "stars": 4174,
+      "forks": 270,
+      "stars_today": 632,
+      "built_by": [
+        "saddlepaddle",
+        "Kitenite",
+        "claude",
+        "andreasasprou",
+        "AviPeltz"
+      ]
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 544,
+      "forks": 39,
+      "stars_today": 164,
+      "built_by": [
+        "knqyf263",
+        "DmitriyLewen",
+        "simar7",
+        "dependabot",
+        "nikpivkin"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "OpenSandbox",
+      "full_name": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "language": "Python",
+      "stars": 5396,
+      "forks": 385,
+      "stars_today": 1150,
+      "built_by": [
+        "Spground",
+        "jwx0925",
+        "ninan-nn",
+        "Pangjiping",
+        "hittyt"
+      ]
+    }
+  ]
+}
