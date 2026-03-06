@@ -1,0 +1,198 @@
+{
+  "date": "2026-03-06",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Unknown",
+      "stars": 7540,
+      "forks": 1182,
+      "stars_today": 1468,
+      "built_by": [
+        "nexusct",
+        "04cb",
+        "claude",
+        "hobostay"
+      ]
+    },
+    {
+      "owner": "TheCraigHewitt",
+      "name": "seomachine",
+      "full_name": "TheCraigHewitt/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "language": "Python",
+      "stars": 1644,
+      "forks": 316,
+      "stars_today": 310,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "KeygraphHQ",
+      "name": "shannon",
+      "full_name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
+      "language": "TypeScript",
+      "stars": 31818,
+      "forks": 3166,
+      "stars_today": 2930,
+      "built_by": [
+        "keygraphVarun",
+        "claude",
+        "ezl-keygraph",
+        "ajmallesh",
+        "Khaushik-keygraph"
+      ]
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 32887,
+      "forks": 68,
+      "stars_today": 298,
+      "built_by": [
+        "dependabot",
+        "simar7",
+        "knqyf263",
+        "nikpivkin",
+        "DmitriyLewen"
+      ]
+    },
+    {
+      "owner": "moeru-ai",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 27409,
+      "forks": 2588,
+      "stars_today": 3006,
+      "built_by": [
+        "LemonNekoGH",
+        "luoling8192",
+        "nekomeowww",
+        "shinohara-rin",
+        "sumimakito"
+      ]
+    },
+    {
+      "owner": "inclusionAI",
+      "name": "AReaL",
+      "full_name": "inclusionAI/AReaL",
+      "url": "https://github.com/inclusionAI/AReaL",
+      "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+      "language": "Python",
+      "stars": 4091,
+      "forks": 341,
+      "stars_today": 173,
+      "built_by": [
+        "fishcrap",
+        "garrett4wade",
+        "rchardx",
+        "nuzant",
+        "gemini-code-assist"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "mcp-for-beginners",
+      "full_name": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+      "language": "Jupyter Notebook",
+      "stars": 14913,
+      "forks": 4865,
+      "stars_today": 137,
+      "built_by": [
+        "dependabot",
+        "softchris",
+        "leestott",
+        "roryp",
+        "skytin1004"
+      ]
+    },
+    {
+      "owner": "CodebuffAI",
+      "name": "codebuff",
+      "full_name": "CodebuffAI/codebuff",
+      "url": "https://github.com/CodebuffAI/codebuff",
+      "description": "Generate code from the terminal!",
+      "language": "TypeScript",
+      "stars": 3871,
+      "forks": 455,
+      "stars_today": 275,
+      "built_by": [
+        "venkr",
+        "charleslien",
+        "github-actions",
+        "jahooma",
+        "brandonkachen"
+      ]
+    },
+    {
+      "owner": "FujiwaraChoki",
+      "name": "MoneyPrinterV2",
+      "full_name": "FujiwaraChoki/MoneyPrinterV2",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "language": "Python",
+      "stars": 14699,
+      "forks": 1473,
+      "stars_today": 511,
+      "built_by": [
+        "supperfreddo",
+        "TomyDiNero",
+        "claude",
+        "SaroAntonelloLovito"
+      ]
+    },
+    {
+      "owner": "agentscope-ai",
+      "name": "ReMe",
+      "full_name": "agentscope-ai/ReMe",
+      "url": "https://github.com/agentscope-ai/ReMe",
+      "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "language": "Python",
+      "stars": 1822,
+      "forks": 144,
+      "stars_today": 194,
+      "built_by": [
+        "nitwtog",
+        "binary-husky",
+        "zouyingcao",
+        "jinliyl",
+        "Dengjiaji"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "hve-core",
+      "full_name": "microsoft/hve-core",
+      "url": "https://github.com/microsoft/hve-core",
+      "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+      "language": "PowerShell",
+      "stars": 303,
+      "forks": 74,
+      "stars_today": 11,
+      "built_by": [
+        "dependabot",
+        "katriendg",
+        "agreaves-ms",
+        "WilliamBerryiii",
+        "chaosdinosaur"
+      ]
+    }
+  ]
+}
