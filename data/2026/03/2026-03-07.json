@@ -1,0 +1,189 @@
+{
+  "date": "2026-03-07",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "moeru-ai",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 29534,
+      "forks": 2817,
+      "stars_today": 2562,
+      "built_by": [
+        "sumimakito",
+        "nekomeowww",
+        "luoling8192",
+        "LemonNekoGH",
+        "shinohara-rin"
+      ]
+    },
+    {
+      "owner": "QwenLM",
+      "name": "Qwen-Agent",
+      "full_name": "QwenLM/Qwen-Agent",
+      "url": "https://github.com/QwenLM/Qwen-Agent",
+      "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+      "language": "Python",
+      "stars": 14644,
+      "forks": 1391,
+      "stars_today": 696,
+      "built_by": [
+        "zhangyingerjelly",
+        "zhenruzhang",
+        "tuhahaha",
+        "JianxinMa",
+        "gewenbin0992"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "hve-core",
+      "full_name": "microsoft/hve-core",
+      "url": "https://github.com/microsoft/hve-core",
+      "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+      "language": "PowerShell",
+      "stars": 556,
+      "forks": 92,
+      "stars_today": 273,
+      "built_by": [
+        "dependabot",
+        "agreaves-ms",
+        "chaosdinosaur",
+        "katriendg",
+        "WilliamBerryiii"
+      ]
+    },
+    {
+      "owner": "Ed1s0nZ",
+      "name": "CyberStrikeAI",
+      "full_name": "Ed1s0nZ/CyberStrikeAI",
+      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+      "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+      "language": "Go",
+      "stars": 1620,
+      "forks": 310,
+      "stars_today": 106,
+      "built_by": [
+        "chhs1129"
+      ]
+    },
+    {
+      "owner": "inclusionAI",
+      "name": "AReaL",
+      "full_name": "inclusionAI/AReaL",
+      "url": "https://github.com/inclusionAI/AReaL",
+      "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+      "language": "Python",
+      "stars": 4398,
+      "forks": 363,
+      "stars_today": 347,
+      "built_by": [
+        "gemini-code-assist",
+        "fishcrap",
+        "rchardx",
+        "nuzant",
+        "garrett4wade"
+      ]
+    },
+    {
+      "owner": "lingfengQAQ",
+      "name": "webnovel-writer",
+      "full_name": "lingfengQAQ/webnovel-writer",
+      "url": "https://github.com/lingfengQAQ/webnovel-writer",
+      "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+      "language": "Python",
+      "stars": 780,
+      "forks": 189,
+      "stars_today": 90,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "skills",
+      "full_name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 12000,
+      "forks": 673,
+      "stars_today": 595,
+      "built_by": [
+        "vb-openai",
+        "dkundel-openai",
+        "gverma-openai",
+        "ae-openai",
+        "edward-bayes"
+      ]
+    },
+    {
+      "owner": "TheCraigHewitt",
+      "name": "seomachine",
+      "full_name": "TheCraigHewitt/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "language": "Python",
+      "stars": 2154,
+      "forks": 363,
+      "stars_today": 690,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 46332,
+      "forks": 8093,
+      "stars_today": 81,
+      "built_by": [
+        "ak4631",
+        "jsemldonado",
+        "arsaboo",
+        "KittatamSaisaard"
+      ]
+    },
+    {
+      "owner": "aidenybai",
+      "name": "react-grab",
+      "full_name": "aidenybai/react-grab",
+      "url": "https://github.com/aidenybai/react-grab",
+      "description": "Select context for coding agents directly from your website",
+      "language": "TypeScript",
+      "stars": 6010,
+      "forks": 274,
+      "stars_today": 450,
+      "built_by": [
+        "cubic-dev-ai",
+        "cursoragent",
+        "claude",
+        "ben-million"
+      ]
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Unknown",
+      "stars": 9854,
+      "forks": 1469,
+      "stars_today": 2846,
+      "built_by": [
+        "nexusct",
+        "athlon-misa",
+        "jnMetaCode",
+        "claude"
+      ]
+    }
+  ]
+}
