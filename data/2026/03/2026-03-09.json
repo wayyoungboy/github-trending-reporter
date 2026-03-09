@@ -1,0 +1,209 @@
+{
+  "date": "2026-03-09",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "GoogleCloudPlatform",
+      "name": "generative-ai",
+      "full_name": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "language": "Jupyter Notebook",
+      "stars": 14411,
+      "forks": 3900,
+      "stars_today": 522,
+      "built_by": [
+        "gericdong",
+        "renovate-bot",
+        "inardini",
+        "gcf-owl-bot",
+        "holtskinner"
+      ]
+    },
+    {
+      "owner": "666ghj",
+      "name": "MiroFish",
+      "full_name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": 7051,
+      "forks": 776,
+      "stars_today": 1104,
+      "built_by": [
+        "cursoragent"
+      ]
+    },
+    {
+      "owner": "shadcn-ui",
+      "name": "ui",
+      "full_name": "shadcn-ui/ui",
+      "url": "https://github.com/shadcn-ui/ui",
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "language": "TypeScript",
+      "stars": 108697,
+      "forks": 8077,
+      "stars_today": 488,
+      "built_by": [
+        "iaingymware",
+        "jaem0629",
+        "dependabot",
+        "github-actions",
+        "shadcn"
+      ]
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": 280796,
+      "forks": 53612,
+      "stars_today": 4603,
+      "built_by": [
+        "steipete",
+        "thewilloftheshadow",
+        "vincentkoc",
+        "vignesh07",
+        "obviyus"
+      ]
+    },
+    {
+      "owner": "toeverything",
+      "name": "AFFiNE",
+      "full_name": "toeverything/AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "language": "TypeScript",
+      "stars": 65234,
+      "forks": 4554,
+      "stars_today": 533,
+      "built_by": [
+        "pengx17",
+        "JimmFly",
+        "darkskygit",
+        "EYHN",
+        "himself65"
+      ]
+    },
+    {
+      "owner": "Ed1s0nZ",
+      "name": "CyberStrikeAI",
+      "full_name": "Ed1s0nZ/CyberStrikeAI",
+      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+      "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+      "language": "Go",
+      "stars": 2264,
+      "forks": 390,
+      "stars_today": 244,
+      "built_by": [
+        "04cb",
+        "chhs1129"
+      ]
+    },
+    {
+      "owner": "shareAI-lab",
+      "name": "learn-claude-code",
+      "full_name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "language": "TypeScript",
+      "stars": 23897,
+      "forks": 4409,
+      "stars_today": 566,
+      "built_by": [
+        "bansalkanav",
+        "synix",
+        "CrazyBoyM",
+        "Octane0411",
+        "claude"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "skills",
+      "full_name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 13237,
+      "forks": 740,
+      "stars_today": 612,
+      "built_by": [
+        "ae-openai",
+        "gverma-openai",
+        "dkundel-openai",
+        "vb-openai",
+        "edward-bayes"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 46826,
+      "forks": 8148,
+      "stars_today": 275,
+      "built_by": [
+        "jsemldonado",
+        "KittatamSaisaard",
+        "arsaboo",
+        "ak4631"
+      ]
+    },
+    {
+      "owner": "is-a-dev",
+      "name": "register",
+      "full_name": "is-a-dev/register",
+      "url": "https://github.com/is-a-dev/register",
+      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "language": "JavaScript",
+      "stars": 9796,
+      "forks": 18772,
+      "stars_today": 10,
+      "built_by": [
+        "orangci",
+        "STICKnoLOGIC",
+        "wdhdev",
+        "DEV-DIBSTER",
+        "iostpa"
+      ]
+    },
+    {
+      "owner": "teng-lin",
+      "name": "notebooklm-py",
+      "full_name": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "description": "Unofficial Python API for Google NotebookLM",
+      "language": "Python",
+      "stars": 3741,
+      "forks": 475,
+      "stars_today": 196,
+      "built_by": [
+        "bravohenry",
+        "claude",
+        "wreuon",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 1785,
+      "forks": 76,
+      "stars_today": 443,
+      "built_by": [
+        "claude"
+      ]
+    }
+  ]
+}
