@@ -1,0 +1,207 @@
+{
+  "date": "2026-03-10",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "GoogleCloudPlatform",
+      "name": "generative-ai",
+      "full_name": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "language": "Jupyter Notebook",
+      "stars": 15283,
+      "forks": 3962,
+      "stars_today": 1282,
+      "built_by": [
+        "renovate-bot",
+        "inardini",
+        "gericdong",
+        "gcf-owl-bot",
+        "holtskinner"
+      ]
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": 290217,
+      "forks": 55026,
+      "stars_today": 9164,
+      "built_by": [
+        "obviyus",
+        "steipete",
+        "vignesh07",
+        "gumadeiras",
+        "vincentkoc"
+      ]
+    },
+    {
+      "owner": "666ghj",
+      "name": "MiroFish",
+      "full_name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": 10919,
+      "forks": 1133,
+      "stars_today": 2294,
+      "built_by": [
+        "cursoragent"
+      ]
+    },
+    {
+      "owner": "karpathy",
+      "name": "nanochat",
+      "full_name": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "language": "Python",
+      "stars": 45516,
+      "forks": 6020,
+      "stars_today": 355,
+      "built_by": [
+        "lukestanley",
+        "ericsilberstein",
+        "svlandeg",
+        "claude"
+      ]
+    },
+    {
+      "owner": "666ghj",
+      "name": "BettaFish",
+      "full_name": "666ghj/BettaFish",
+      "url": "https://github.com/666ghj/BettaFish",
+      "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+      "language": "Python",
+      "stars": 37346,
+      "forks": 7035,
+      "stars_today": 514,
+      "built_by": [
+        "Qst137",
+        "DoiiarX",
+        "MaYiding",
+        "ghmark675"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 2978,
+      "forks": 407,
+      "stars_today": 377,
+      "built_by": [
+        "claude",
+        "rovle",
+        "0xbyt4",
+        "hjc-puro",
+        "teknium1"
+      ]
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 2981,
+      "forks": 109,
+      "stars_today": 1288,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 19324,
+      "forks": 3001,
+      "stars_today": 4415,
+      "built_by": [
+        "4shil",
+        "jnMetaCode",
+        "benjifriedman",
+        "claude"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "page-agent",
+      "full_name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": 2576,
+      "forks": 202,
+      "stars_today": 465,
+      "built_by": [
+        "dependabot",
+        "alibaba-oss",
+        "Copilot",
+        "gaomeng1900"
+      ]
+    },
+    {
+      "owner": "alirezarezvani",
+      "name": "claude-skills",
+      "full_name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
+      "language": "Python",
+      "stars": 3347,
+      "forks": 401,
+      "stars_today": 259,
+      "built_by": [
+        "ikala-shawn",
+        "olgasafonova",
+        "fernandezbaptiste",
+        "claude"
+      ]
+    },
+    {
+      "owner": "Raphire",
+      "name": "Win11Debloat",
+      "full_name": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars": 41216,
+      "forks": 1602,
+      "stars_today": 104,
+      "built_by": [
+        "SashankBhamidi",
+        "N0tHorizon",
+        "tsumi",
+        "kapad"
+      ]
+    },
+    {
+      "owner": "teng-lin",
+      "name": "notebooklm-py",
+      "full_name": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+      "language": "Python",
+      "stars": 4240,
+      "forks": 523,
+      "stars_today": 457,
+      "built_by": [
+        "wreuon",
+        "bravohenry",
+        "dependabot",
+        "claude"
+      ]
+    }
+  ]
+}
