@@ -1,0 +1,227 @@
+{
+  "date": "2026-03-11",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 25425,
+      "forks": 3999,
+      "stars_today": 6223,
+      "built_by": [
+        "4shil",
+        "claude",
+        "jnMetaCode",
+        "benjifriedman"
+      ]
+    },
+    {
+      "owner": "666ghj",
+      "name": "MiroFish",
+      "full_name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": 14203,
+      "forks": 1488,
+      "stars_today": 4504,
+      "built_by": [
+        "cursoragent"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 3789,
+      "forks": 482,
+      "stars_today": 781,
+      "built_by": [
+        "claude",
+        "teknium1",
+        "rovle",
+        "hjc-puro",
+        "0xbyt4"
+      ]
+    },
+    {
+      "owner": "promptfoo",
+      "name": "promptfoo",
+      "full_name": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "language": "TypeScript",
+      "stars": 11963,
+      "forks": 1106,
+      "stars_today": 661,
+      "built_by": [
+        "mldangelo",
+        "renovate",
+        "sklein12",
+        "typpo",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "GoogleCloudPlatform",
+      "name": "generative-ai",
+      "full_name": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "language": "Jupyter Notebook",
+      "stars": 15756,
+      "forks": 4002,
+      "stars_today": 530,
+      "built_by": [
+        "holtskinner",
+        "gericdong",
+        "gcf-owl-bot",
+        "inardini",
+        "renovate-bot"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 47599,
+      "forks": 8284,
+      "stars_today": 300,
+      "built_by": [
+        "jsemldonado",
+        "KittatamSaisaard",
+        "arsaboo",
+        "ak4631"
+      ]
+    },
+    {
+      "owner": "karpathy",
+      "name": "nanochat",
+      "full_name": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "language": "Python",
+      "stars": 46244,
+      "forks": 6107,
+      "stars_today": 705,
+      "built_by": [
+        "claude",
+        "ericsilberstein",
+        "lukestanley",
+        "svlandeg"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 76589,
+      "forks": 5929,
+      "stars_today": 1387,
+      "built_by": [
+        "clkao",
+        "claude",
+        "arittr",
+        "jjshanks"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "page-agent",
+      "full_name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": 3642,
+      "forks": 280,
+      "stars_today": 891,
+      "built_by": [
+        "dependabot",
+        "Copilot",
+        "gaomeng1900",
+        "JasonOA888"
+      ]
+    },
+    {
+      "owner": "sepinf-inc",
+      "name": "IPED",
+      "full_name": "sepinf-inc/IPED",
+      "url": "https://github.com/sepinf-inc/IPED",
+      "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
+      "language": "Java",
+      "stars": 2212,
+      "forks": 392,
+      "stars_today": 273,
+      "built_by": [
+        "lfcnassif",
+        "hauck-jvsh",
+        "patrickdalla",
+        "wladimirleite",
+        "aberenguel"
+      ]
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": 298436,
+      "forks": 56410,
+      "stars_today": 9080,
+      "built_by": [
+        "steipete",
+        "obviyus",
+        "vincentkoc",
+        "vignesh07",
+        "gumadeiras"
+      ]
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 3667,
+      "forks": 135,
+      "stars_today": 939,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "full_name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars": 28574,
+      "forks": 3397,
+      "stars_today": 1413,
+      "built_by": [
+        "WillemJiang",
+        "claude",
+        "hetaoBackend",
+        "henry-byted",
+        "MagicCube"
+      ]
+    }
+  ]
+}
