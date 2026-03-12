@@ -1,0 +1,160 @@
+{
+  "date": "2026-03-12",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 30134,
+      "forks": 4742,
+      "stars_today": 6167,
+      "built_by": [
+        "victorkzam",
+        "jnMetaCode",
+        "4shil",
+        "claude"
+      ]
+    },
+    {
+      "owner": "666ghj",
+      "name": "MiroFish",
+      "full_name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": 16813,
+      "forks": 1789,
+      "stars_today": 2907,
+      "built_by": [
+        "cursoragent"
+      ]
+    },
+    {
+      "owner": "promptfoo",
+      "name": "promptfoo",
+      "full_name": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "language": "TypeScript",
+      "stars": 12565,
+      "forks": 1157,
+      "stars_today": 718,
+      "built_by": [
+        "dependabot",
+        "sklein12",
+        "renovate",
+        "typpo",
+        "mldangelo"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 78087,
+      "forks": 6039,
+      "stars_today": 1483,
+      "built_by": [
+        "jjshanks",
+        "arittr",
+        "claude",
+        "clkao"
+      ]
+    },
+    {
+      "owner": "fishaudio",
+      "name": "fish-speech",
+      "full_name": "fishaudio/fish-speech",
+      "url": "https://github.com/fishaudio/fish-speech",
+      "description": "SOTA Open Source TTS",
+      "language": "Python",
+      "stars": 25804,
+      "forks": 2177,
+      "stars_today": 313,
+      "built_by": [
+        "pre-commit-ci",
+        "github-actions",
+        "PoTaTo-Mika",
+        "leng-yue",
+        "AnyaCoder"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 48162,
+      "forks": 8387,
+      "stars_today": 636,
+      "built_by": [
+        "ak4631",
+        "KittatamSaisaard",
+        "jsemldonado",
+        "arsaboo"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "page-agent",
+      "full_name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": 4768,
+      "forks": 371,
+      "stars_today": 1215,
+      "built_by": [
+        "gaomeng1900",
+        "JasonOA888",
+        "dependabot",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 5264,
+      "forks": 608,
+      "stars_today": 1234,
+      "built_by": [
+        "claude",
+        "hjc-puro",
+        "rovle",
+        "teknium1",
+        "0xbyt4"
+      ]
+    },
+    {
+      "owner": "AstrBotDevs",
+      "name": "AstrBot",
+      "full_name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars": 21073,
+      "forks": 1517,
+      "stars_today": 342,
+      "built_by": [
+        "anka-afk",
+        "Soulter",
+        "Raven95676",
+        "RC-CHN",
+        "zouyonghe"
+      ]
+    }
+  ]
+}
