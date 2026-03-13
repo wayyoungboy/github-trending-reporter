@@ -1,0 +1,233 @@
+{
+  "date": "2026-03-13",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "Python",
+      "stars": 32371,
+      "forks": 2729,
+      "stars_today": 2149,
+      "built_by": [
+        "younesbelkada",
+        "sd983527",
+        "potassiummmm",
+        "tsong-ms",
+        "XsquirrelC"
+      ]
+    },
+    {
+      "owner": "fishaudio",
+      "name": "fish-speech",
+      "full_name": "fishaudio/fish-speech",
+      "url": "https://github.com/fishaudio/fish-speech",
+      "description": "SOTA Open Source TTS",
+      "language": "Python",
+      "stars": 26372,
+      "forks": 2216,
+      "stars_today": 637,
+      "built_by": [
+        "leng-yue",
+        "pre-commit-ci",
+        "github-actions",
+        "AnyaCoder",
+        "PoTaTo-Mika"
+      ]
+    },
+    {
+      "owner": "langflow-ai",
+      "name": "openrag",
+      "full_name": "langflow-ai/openrag",
+      "url": "https://github.com/langflow-ai/openrag",
+      "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+      "language": "Python",
+      "stars": 1560,
+      "forks": 149,
+      "stars_today": 322,
+      "built_by": [
+        "phact",
+        "edwinjosechittilappilly",
+        "aimurphy",
+        "mendonk",
+        "lucaseduoli"
+      ]
+    },
+    {
+      "owner": "InsForge",
+      "name": "InsForge",
+      "full_name": "InsForge/InsForge",
+      "url": "https://github.com/InsForge/InsForge",
+      "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+      "language": "TypeScript",
+      "stars": 3110,
+      "forks": 315,
+      "stars_today": 263,
+      "built_by": [
+        "tonychang04",
+        "jwfing",
+        "claude",
+        "Fermionic-Lyu",
+        "Leo-rq-yu"
+      ]
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "full_name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 3082,
+      "forks": 225,
+      "stars_today": 217,
+      "built_by": [
+        "chrislatimer",
+        "nicoloboschi",
+        "claude",
+        "cdbartholomew",
+        "slayoffer"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "page-agent",
+      "full_name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": 6006,
+      "forks": 465,
+      "stars_today": 1205,
+      "built_by": [
+        "gaomeng1900",
+        "JasonOA888",
+        "dependabot",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 79956,
+      "forks": 6185,
+      "stars_today": 1706,
+      "built_by": [
+        "arittr",
+        "jjshanks",
+        "claude",
+        "clkao"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 6175,
+      "forks": 701,
+      "stars_today": 1264,
+      "built_by": [
+        "dmahan93",
+        "teknium1",
+        "0xbyt4",
+        "claude",
+        "rovle"
+      ]
+    },
+    {
+      "owner": "666ghj",
+      "name": "MiroFish",
+      "full_name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": 19215,
+      "forks": 2043,
+      "stars_today": 1857,
+      "built_by": [
+        "cursoragent"
+      ]
+    },
+    {
+      "owner": "google-ai-edge",
+      "name": "LiteRT",
+      "full_name": "google-ai-edge/LiteRT",
+      "url": "https://github.com/google-ai-edge/LiteRT",
+      "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
+      "language": "C++",
+      "stars": 1670,
+      "forks": 212,
+      "stars_today": 13,
+      "built_by": [
+        "YunanAZ",
+        "ai-edge-bot",
+        "qukhan",
+        "terryheo",
+        "LukeBoyer"
+      ]
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 35002,
+      "forks": 5343,
+      "stars_today": 4168,
+      "built_by": [
+        "jnMetaCode",
+        "claude",
+        "4shil",
+        "victorkzam"
+      ]
+    },
+    {
+      "owner": "google",
+      "name": "A2UI",
+      "full_name": "google/A2UI",
+      "url": "https://github.com/google/A2UI",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 12614,
+      "forks": 953,
+      "stars_today": 225,
+      "built_by": [
+        "wrenj",
+        "gspencergoog",
+        "jacobsimionato",
+        "paullewis",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 10272,
+      "forks": 1037,
+      "stars_today": 150,
+      "built_by": [
+        "noahzweben",
+        "dicksontsai",
+        "ThariqS",
+        "claude",
+        "dhollman"
+      ]
+    }
+  ]
+}
