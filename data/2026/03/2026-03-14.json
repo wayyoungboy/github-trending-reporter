@@ -1,0 +1,291 @@
+{
+  "date": "2026-03-14",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "Python",
+      "stars": 33972,
+      "forks": 2866,
+      "stars_today": 2227,
+      "built_by": [
+        "tsong-ms",
+        "potassiummmm",
+        "XsquirrelC",
+        "sd983527",
+        "younesbelkada"
+      ]
+    },
+    {
+      "owner": "langflow-ai",
+      "name": "openrag",
+      "full_name": "langflow-ai/openrag",
+      "url": "https://github.com/langflow-ai/openrag",
+      "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+      "language": "Python",
+      "stars": 2259,
+      "forks": 208,
+      "stars_today": 905,
+      "built_by": [
+        "lucaseduoli",
+        "edwinjosechittilappilly",
+        "aimurphy",
+        "phact",
+        "mendonk"
+      ]
+    },
+    {
+      "owner": "lightpanda-io",
+      "name": "browser",
+      "full_name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "stars": 15468,
+      "forks": 541,
+      "stars_today": 2093,
+      "built_by": [
+        "karlseguin",
+        "mookums",
+        "francisbouvier",
+        "krichprollsch",
+        "nikneym"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 81923,
+      "forks": 6358,
+      "stars_today": 2106,
+      "built_by": [
+        "jjshanks",
+        "arittr",
+        "clkao",
+        "claude"
+      ]
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 409481,
+      "forks": 44240,
+      "stars_today": 892,
+      "built_by": [
+        "jbrooksuk",
+        "matheusfelipeog",
+        "marekdano",
+        "davemachado",
+        "pawelborkar"
+      ]
+    },
+    {
+      "owner": "promptfoo",
+      "name": "promptfoo",
+      "full_name": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "language": "TypeScript",
+      "stars": 15280,
+      "forks": 1354,
+      "stars_today": 1668,
+      "built_by": [
+        "mldangelo",
+        "renovate",
+        "dependabot",
+        "sklein12",
+        "typpo"
+      ]
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 40133,
+      "forks": 6047,
+      "stars_today": 5745,
+      "built_by": [
+        "victorkzam",
+        "jnMetaCode",
+        "4shil",
+        "claude"
+      ]
+    },
+    {
+      "owner": "dolthub",
+      "name": "dolt",
+      "full_name": "dolthub/dolt",
+      "url": "https://github.com/dolthub/dolt",
+      "description": "Dolt – Git for Data",
+      "language": "Go",
+      "stars": 21078,
+      "forks": 671,
+      "stars_today": 60,
+      "built_by": [
+        "andy-wm-arthur",
+        "zachmu",
+        "fulghum",
+        "reltuk",
+        "coffeegoddd"
+      ]
+    },
+    {
+      "owner": "google",
+      "name": "A2UI",
+      "full_name": "google/A2UI",
+      "url": "https://github.com/google/A2UI",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 13055,
+      "forks": 979,
+      "stars_today": 635,
+      "built_by": [
+        "jacobsimionato",
+        "gspencergoog",
+        "wrenj",
+        "github-actions",
+        "paullewis"
+      ]
+    },
+    {
+      "owner": "fishaudio",
+      "name": "fish-speech",
+      "full_name": "fishaudio/fish-speech",
+      "url": "https://github.com/fishaudio/fish-speech",
+      "description": "SOTA Open Source TTS",
+      "language": "Python",
+      "stars": 26868,
+      "forks": 2248,
+      "stars_today": 559,
+      "built_by": [
+        "pre-commit-ci",
+        "PoTaTo-Mika",
+        "leng-yue",
+        "github-actions",
+        "AnyaCoder"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "page-agent",
+      "full_name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": 7538,
+      "forks": 579,
+      "stars_today": 1468,
+      "built_by": [
+        "gaomeng1900",
+        "JasonOA888",
+        "dependabot",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 10793,
+      "forks": 1076,
+      "stars_today": 654,
+      "built_by": [
+        "ThariqS",
+        "dicksontsai",
+        "noahzweben",
+        "claude",
+        "dhollman"
+      ]
+    },
+    {
+      "owner": "AstrBotDevs",
+      "name": "AstrBot",
+      "full_name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars": 23826,
+      "forks": 1624,
+      "stars_today": 1128,
+      "built_by": [
+        "Raven95676",
+        "Soulter",
+        "RC-CHN",
+        "anka-afk",
+        "zouyonghe"
+      ]
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "full_name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 3644,
+      "forks": 258,
+      "stars_today": 595,
+      "built_by": [
+        "slayoffer",
+        "chrislatimer",
+        "claude",
+        "cdbartholomew",
+        "nicoloboschi"
+      ]
+    },
+    {
+      "owner": "InsForge",
+      "name": "InsForge",
+      "full_name": "InsForge/InsForge",
+      "url": "https://github.com/InsForge/InsForge",
+      "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+      "language": "TypeScript",
+      "stars": 3639,
+      "forks": 342,
+      "stars_today": 766,
+      "built_by": [
+        "jwfing",
+        "tonychang04",
+        "Fermionic-Lyu",
+        "claude",
+        "Leo-rq-yu"
+      ]
+    },
+    {
+      "owner": "google-ai-edge",
+      "name": "LiteRT",
+      "full_name": "google-ai-edge/LiteRT",
+      "url": "https://github.com/google-ai-edge/LiteRT",
+      "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
+      "language": "C++",
+      "stars": 1863,
+      "forks": 228,
+      "stars_today": 211,
+      "built_by": [
+        "LukeBoyer",
+        "ai-edge-bot",
+        "YunanAZ",
+        "terryheo",
+        "qukhan"
+      ]
+    }
+  ]
+}
