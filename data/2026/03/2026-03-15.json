@@ -1,0 +1,183 @@
+{
+  "date": "2026-03-15",
+  "total_repos": 10,
+  "repositories": [
+    {
+      "owner": "volcengine",
+      "name": "OpenViking",
+      "full_name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "language": "Python",
+      "stars": 10623,
+      "forks": 722,
+      "stars_today": 1610,
+      "built_by": [
+        "zhoujh01",
+        "MaojiaSheng",
+        "claude",
+        "qin-ctx",
+        "ZaynJarvis"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 11325,
+      "forks": 1108,
+      "stars_today": 411,
+      "built_by": [
+        "ThariqS",
+        "noahzweben",
+        "claude",
+        "dicksontsai",
+        "tobinsouth"
+      ]
+    },
+    {
+      "owner": "dimensionalOS",
+      "name": "dimos",
+      "full_name": "dimensionalOS/dimos",
+      "url": "https://github.com/dimensionalOS/dimos",
+      "description": "The Dimensional Framework",
+      "language": "Python",
+      "stars": 864,
+      "forks": 157,
+      "stars_today": 72,
+      "built_by": [
+        "lukasapaukstys",
+        "spomichter",
+        "alexlin2",
+        "leshy",
+        "paul-nechifor"
+      ]
+    },
+    {
+      "owner": "p-e-w",
+      "name": "heretic",
+      "full_name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": 13777,
+      "forks": 1403,
+      "stars_today": 694,
+      "built_by": [
+        "anrp",
+        "spikymoth",
+        "red40maxxer",
+        "kldzj"
+      ]
+    },
+    {
+      "owner": "langflow-ai",
+      "name": "openrag",
+      "full_name": "langflow-ai/openrag",
+      "url": "https://github.com/langflow-ai/openrag",
+      "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+      "language": "Python",
+      "stars": 2726,
+      "forks": 252,
+      "stars_today": 564,
+      "built_by": [
+        "edwinjosechittilappilly",
+        "phact",
+        "aimurphy",
+        "mendonk",
+        "lucaseduoli"
+      ]
+    },
+    {
+      "owner": "lightpanda-io",
+      "name": "browser",
+      "full_name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "stars": 17114,
+      "forks": 636,
+      "stars_today": 2069,
+      "built_by": [
+        "mookums",
+        "karlseguin",
+        "krichprollsch",
+        "francisbouvier",
+        "nikneym"
+      ]
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 43830,
+      "forks": 6557,
+      "stars_today": 4280,
+      "built_by": [
+        "4shil",
+        "claude",
+        "jnMetaCode",
+        "victorkzam"
+      ]
+    },
+    {
+      "owner": "fishaudio",
+      "name": "fish-speech",
+      "full_name": "fishaudio/fish-speech",
+      "url": "https://github.com/fishaudio/fish-speech",
+      "description": "SOTA Open Source TTS",
+      "language": "Python",
+      "stars": 27225,
+      "forks": 2272,
+      "stars_today": 381,
+      "built_by": [
+        "github-actions",
+        "pre-commit-ci",
+        "PoTaTo-Mika",
+        "leng-yue",
+        "AnyaCoder"
+      ]
+    },
+    {
+      "owner": "InsForge",
+      "name": "InsForge",
+      "full_name": "InsForge/InsForge",
+      "url": "https://github.com/InsForge/InsForge",
+      "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+      "language": "TypeScript",
+      "stars": 4185,
+      "forks": 429,
+      "stars_today": 482,
+      "built_by": [
+        "Leo-rq-yu",
+        "Fermionic-Lyu",
+        "claude",
+        "tonychang04",
+        "jwfing"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 83508,
+      "forks": 6518,
+      "stars_today": 1439,
+      "built_by": [
+        "jjshanks",
+        "claude",
+        "arittr",
+        "clkao"
+      ]
+    }
+  ]
+}
