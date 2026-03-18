@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-18",
+  "total_repos": 6,
+  "repositories": [
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 92455,
+      "forks": 7313,
+      "stars_today": 3078,
+      "built_by": [
+        "jjshanks",
+        "clkao",
+        "claude",
+        "arittr"
+      ]
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 479851,
+      "forks": 45145,
+      "stars_today": 1998,
+      "built_by": [
+        "fake-rookie",
+        "sarupbanskota",
+        "rohitpaulk",
+        "danistefanovic",
+        "bauripalash"
+      ]
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 16743,
+      "forks": 1897,
+      "stars_today": 1116,
+      "built_by": [
+        "claude",
+        "magyargergo",
+        "cursoragent",
+        "paulrobello"
+      ]
+    },
+    {
+      "owner": "langchain-ai",
+      "name": "deepagents",
+      "full_name": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+      "language": "Python",
+      "stars": 14163,
+      "forks": 2131,
+      "stars_today": 1415,
+      "built_by": [
+        "hwchase17",
+        "vtrivedy",
+        "sydney-runkle",
+        "eyurtsev",
+        "mdrxy"
+      ]
+    },
+    {
+      "owner": "jarrodwatts",
+      "name": "claude-hud",
+      "full_name": "jarrodwatts/claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "language": "JavaScript",
+      "stars": 5645,
+      "forks": 250,
+      "stars_today": 466,
+      "built_by": [
+        "melon-hub",
+        "claude",
+        "github-actions",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "cloudflare",
+      "name": "workerd",
+      "full_name": "cloudflare/workerd",
+      "url": "https://github.com/cloudflare/workerd",
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "language": "C++",
+      "stars": 7834,
+      "forks": 575,
+      "stars_today": 31,
+      "built_by": [
+        "kentonv",
+        "anonrig",
+        "dom96",
+        "fhanau",
+        "jasnell"
+      ]
+    }
+  ]
+}
