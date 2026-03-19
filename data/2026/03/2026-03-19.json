@@ -1,0 +1,112 @@
+{
+  "date": "2026-03-19",
+  "total_repos": 6,
+  "repositories": [
+    {
+      "owner": "jarrodwatts",
+      "name": "claude-hud",
+      "full_name": "jarrodwatts/claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "language": "JavaScript",
+      "stars": 7056,
+      "forks": 303,
+      "stars_today": 1038,
+      "built_by": [
+        "claude",
+        "melon-hub",
+        "github-actions",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 96251,
+      "forks": 7638,
+      "stars_today": 4089,
+      "built_by": [
+        "claude",
+        "jjshanks",
+        "arittr",
+        "clkao"
+      ]
+    },
+    {
+      "owner": "unslothai",
+      "name": "unsloth",
+      "full_name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "language": "Python",
+      "stars": 55836,
+      "forks": 4686,
+      "stars_today": 1005,
+      "built_by": [
+        "rolandtannous",
+        "danielhanchen",
+        "pre-commit-ci",
+        "Datta0",
+        "shimmyshimmer"
+      ]
+    },
+    {
+      "owner": "newton-physics",
+      "name": "newton",
+      "full_name": "newton-physics/newton",
+      "url": "https://github.com/newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "language": "Python",
+      "stars": 2919,
+      "forks": 318,
+      "stars_today": 26,
+      "built_by": [
+        "vreutskyy",
+        "actions-user",
+        "eric-heiden",
+        "adenzler-nvidia",
+        "shi-eric"
+      ]
+    },
+    {
+      "owner": "shadps4-emu",
+      "name": "shadPS4",
+      "full_name": "shadps4-emu/shadPS4",
+      "url": "https://github.com/shadps4-emu/shadPS4",
+      "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+      "language": "C++",
+      "stars": 29873,
+      "forks": 2028,
+      "stars_today": 237,
+      "built_by": [
+        "psucien",
+        "squidbus",
+        "georgemoralis",
+        "raphaelthegreat",
+        "StevenMiller123"
+      ]
+    },
+    {
+      "owner": "langchain-ai",
+      "name": "open-swe",
+      "full_name": "langchain-ai/open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
+      "language": "Python",
+      "stars": 6367,
+      "forks": 813,
+      "stars_today": 481,
+      "built_by": [
+        "starmorph",
+        "open-swe",
+        "aran-yogesh",
+        "bracesproul",
+        "dependabot"
+      ]
+    }
+  ]
+}
