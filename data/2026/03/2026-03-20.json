@@ -1,0 +1,200 @@
+{
+  "date": "2026-03-20",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "full_name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars": 5672,
+      "forks": 408,
+      "stars_today": 1416,
+      "built_by": [
+        "bundolee",
+        "claude",
+        "hnc-sujicho",
+        "MaximPlusov",
+        "LonelyMidoriya"
+      ]
+    },
+    {
+      "owner": "langchain-ai",
+      "name": "open-swe",
+      "full_name": "langchain-ai/open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
+      "language": "Python",
+      "stars": 7044,
+      "forks": 875,
+      "stars_today": 965,
+      "built_by": [
+        "open-swe",
+        "bracesproul",
+        "dependabot",
+        "aran-yogesh",
+        "starmorph"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 99246,
+      "forks": 7911,
+      "stars_today": 3494,
+      "built_by": [
+        "claude",
+        "clkao",
+        "jjshanks",
+        "arittr"
+      ]
+    },
+    {
+      "owner": "jarrodwatts",
+      "name": "claude-hud",
+      "full_name": "jarrodwatts/claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "language": "JavaScript",
+      "stars": 8523,
+      "forks": 354,
+      "stars_today": 1851,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "github-actions",
+        "melon-hub"
+      ]
+    },
+    {
+      "owner": "unslothai",
+      "name": "unsloth",
+      "full_name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "language": "Python",
+      "stars": 56713,
+      "forks": 4762,
+      "stars_today": 1262,
+      "built_by": [
+        "shimmyshimmer",
+        "Datta0",
+        "rolandtannous",
+        "danielhanchen",
+        "pre-commit-ci"
+      ]
+    },
+    {
+      "owner": "mobile-dev-inc",
+      "name": "Maestro",
+      "full_name": "mobile-dev-inc/Maestro",
+      "url": "https://github.com/mobile-dev-inc/Maestro",
+      "description": "Painless E2E Automation for Mobile and Web",
+      "language": "Kotlin",
+      "stars": 12449,
+      "forks": 706,
+      "stars_today": 492,
+      "built_by": [
+        "Leland-Takamine",
+        "berikv",
+        "bartekpacia",
+        "dmitry-zaitsev",
+        "amanjeetsingh150"
+      ]
+    },
+    {
+      "owner": "newton-physics",
+      "name": "newton",
+      "full_name": "newton-physics/newton",
+      "url": "https://github.com/newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "language": "Python",
+      "stars": 3231,
+      "forks": 344,
+      "stars_today": 346,
+      "built_by": [
+        "vreutskyy",
+        "eric-heiden",
+        "actions-user",
+        "adenzler-nvidia",
+        "shi-eric"
+      ]
+    },
+    {
+      "owner": "louis-e",
+      "name": "arnis",
+      "full_name": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+      "language": "Rust",
+      "stars": 10777,
+      "forks": 962,
+      "stars_today": 946,
+      "built_by": [
+        "Oleg4260",
+        "dependabot",
+        "XianlinSheng",
+        "akx"
+      ]
+    },
+    {
+      "owner": "FujiwaraChoki",
+      "name": "MoneyPrinterV2",
+      "full_name": "FujiwaraChoki/MoneyPrinterV2",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "language": "Python",
+      "stars": 16078,
+      "forks": 1684,
+      "stars_today": 146,
+      "built_by": [
+        "claude",
+        "TomyDiNero",
+        "SaroAntonelloLovito",
+        "supperfreddo"
+      ]
+    },
+    {
+      "owner": "gsd-build",
+      "name": "get-shit-done",
+      "full_name": "gsd-build/get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "language": "JavaScript",
+      "stars": 36130,
+      "forks": 2958,
+      "stars_today": 1491,
+      "built_by": [
+        "glittercowboy",
+        "trek-e",
+        "claude",
+        "Solvely-Colin",
+        "Tibsfox"
+      ]
+    },
+    {
+      "owner": "shareAI-lab",
+      "name": "learn-claude-code",
+      "full_name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "language": "TypeScript",
+      "stars": 33661,
+      "forks": 5478,
+      "stars_today": 1448,
+      "built_by": [
+        "CrazyBoyM",
+        "claude",
+        "synix",
+        "bansalkanav",
+        "Octane0411"
+      ]
+    }
+  ]
+}
