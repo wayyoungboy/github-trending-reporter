@@ -1,0 +1,163 @@
+{
+  "date": "2026-03-21",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "jarrodwatts",
+      "name": "claude-hud",
+      "full_name": "jarrodwatts/claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "language": "JavaScript",
+      "stars": 9538,
+      "forks": 405,
+      "stars_today": 1068,
+      "built_by": [
+        "github-actions",
+        "dependabot",
+        "claude",
+        "melon-hub"
+      ]
+    },
+    {
+      "owner": "langchain-ai",
+      "name": "open-swe",
+      "full_name": "langchain-ai/open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
+      "language": "Python",
+      "stars": 7645,
+      "forks": 920,
+      "stars_today": 635,
+      "built_by": [
+        "aran-yogesh",
+        "dependabot",
+        "bracesproul",
+        "open-swe",
+        "starmorph"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 101554,
+      "forks": 8116,
+      "stars_today": 2819,
+      "built_by": [
+        "clkao",
+        "jjshanks",
+        "arittr",
+        "claude"
+      ]
+    },
+    {
+      "owner": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "full_name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars": 7058,
+      "forks": 501,
+      "stars_today": 1812,
+      "built_by": [
+        "claude",
+        "LonelyMidoriya",
+        "MaximPlusov",
+        "bundolee",
+        "hnc-sujicho"
+      ]
+    },
+    {
+      "owner": "louis-e",
+      "name": "arnis",
+      "full_name": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+      "language": "Rust",
+      "stars": 11592,
+      "forks": 991,
+      "stars_today": 1045,
+      "built_by": [
+        "dependabot",
+        "akx",
+        "XianlinSheng",
+        "Oleg4260"
+      ]
+    },
+    {
+      "owner": "newton-physics",
+      "name": "newton",
+      "full_name": "newton-physics/newton",
+      "url": "https://github.com/newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "language": "Python",
+      "stars": 3472,
+      "forks": 357,
+      "stars_today": 266,
+      "built_by": [
+        "actions-user",
+        "shi-eric",
+        "adenzler-nvidia",
+        "eric-heiden",
+        "vreutskyy"
+      ]
+    },
+    {
+      "owner": "vas3k",
+      "name": "TaxHacker",
+      "full_name": "vas3k/TaxHacker",
+      "url": "https://github.com/vas3k/TaxHacker",
+      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+      "language": "TypeScript",
+      "stars": 1937,
+      "forks": 262,
+      "stars_today": 137,
+      "built_by": [
+        "danfimov",
+        "H1D",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 34114,
+      "forks": 6521,
+      "stars_today": 433,
+      "built_by": [
+        "Yijia-Xiao",
+        "ZeroAct",
+        "claude",
+        "luohy15",
+        "EdwardoSunny"
+      ]
+    },
+    {
+      "owner": "openrocket",
+      "name": "openrocket",
+      "full_name": "openrocket/openrocket",
+      "url": "https://github.com/openrocket/openrocket",
+      "description": "Model-rocketry aerodynamics and trajectory simulation software",
+      "language": "Java",
+      "stars": 2212,
+      "forks": 578,
+      "stars_today": 144,
+      "built_by": [
+        "plaa",
+        "JoePfeiffer",
+        "teyrana",
+        "bkuker",
+        "SiboVG"
+      ]
+    }
+  ]
+}
