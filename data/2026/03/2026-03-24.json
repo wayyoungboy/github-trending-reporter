@@ -1,0 +1,269 @@
+{
+  "date": "2026-03-24",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "FujiwaraChoki",
+      "name": "MoneyPrinterV2",
+      "full_name": "FujiwaraChoki/MoneyPrinterV2",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "language": "Python",
+      "stars": 22959,
+      "forks": 2357,
+      "stars_today": 2880,
+      "built_by": [
+        "TomyDiNero",
+        "SaroAntonelloLovito",
+        "supperfreddo",
+        "claude"
+      ]
+    },
+    {
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "full_name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars": 39443,
+      "forks": 4632,
+      "stars_today": 3546,
+      "built_by": [
+        "henry-byted",
+        "claude",
+        "hetaoBackend",
+        "MagicCube",
+        "WillemJiang"
+      ]
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": 13421,
+      "forks": 1264,
+      "stars_today": 4138,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "cosmistack-bot",
+        "chriscrosstalk",
+        "jakeaturner"
+      ]
+    },
+    {
+      "owner": "vxcontrol",
+      "name": "pentagi",
+      "full_name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 13011,
+      "forks": 1617,
+      "stars_today": 1309,
+      "built_by": [
+        "mason5052",
+        "sirozha",
+        "dependabot",
+        "asdek",
+        "zavgorodnii"
+      ]
+    },
+    {
+      "owner": "browser-use",
+      "name": "browser-use",
+      "full_name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "language": "Python",
+      "stars": 83650,
+      "forks": 9732,
+      "stars_today": 1157,
+      "built_by": [
+        "MagMueller",
+        "gregpr07",
+        "sauravpanda",
+        "pirate",
+        "mertunsall"
+      ]
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 39340,
+      "forks": 7317,
+      "stars_today": 2530,
+      "built_by": [
+        "claude",
+        "EdwardoSunny",
+        "Yijia-Xiao",
+        "luohy15",
+        "ZeroAct"
+      ]
+    },
+    {
+      "owner": "tinygrad",
+      "name": "tinygrad",
+      "full_name": "tinygrad/tinygrad",
+      "url": "https://github.com/tinygrad/tinygrad",
+      "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+      "language": "Python",
+      "stars": 31884,
+      "forks": 3978,
+      "stars_today": 56,
+      "built_by": [
+        "Qazalin",
+        "geohot",
+        "chenyuxyz",
+        "github-actions",
+        "nimlgen"
+      ]
+    },
+    {
+      "owner": "affaan-m",
+      "name": "everything-claude-code",
+      "full_name": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 101997,
+      "forks": 13287,
+      "stars_today": 4458,
+      "built_by": [
+        "Copilot",
+        "pangerlkr",
+        "claude",
+        "pvgomes"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 11580,
+      "forks": 1409,
+      "stars_today": 919,
+      "built_by": [
+        "claude",
+        "0xbyt4",
+        "aydnOktay",
+        "teknium1",
+        "erosika"
+      ]
+    },
+    {
+      "owner": "jingyaogong",
+      "name": "minimind",
+      "full_name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+      "language": "Python",
+      "stars": 42576,
+      "forks": 5119,
+      "stars_today": 487,
+      "built_by": [
+        "yuyu5333",
+        "wangzhaode",
+        "iomgaa-ycz",
+        "MuWinds"
+      ]
+    },
+    {
+      "owner": "hsliuping",
+      "name": "TradingAgents-CN",
+      "full_name": "hsliuping/TradingAgents-CN",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "language": "Python",
+      "stars": 20320,
+      "forks": 4281,
+      "stars_today": 676,
+      "built_by": [
+        "EdwardoSunny",
+        "ZeroAct",
+        "BG8CFB",
+        "Yijia-Xiao"
+      ]
+    },
+    {
+      "owner": "kepano",
+      "name": "obsidian-skills",
+      "full_name": "kepano/obsidian-skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+      "language": "Unknown",
+      "stars": 16361,
+      "forks": 936,
+      "stars_today": 354,
+      "built_by": [
+        "Ethereal49",
+        "popey",
+        "chiahsien",
+        "claude"
+      ]
+    },
+    {
+      "owner": "czlonkowski",
+      "name": "n8n-mcp",
+      "full_name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars": 16065,
+      "forks": 2767,
+      "stars_today": 146,
+      "built_by": [
+        "thesved",
+        "kimbo128",
+        "claude",
+        "naXa777"
+      ]
+    },
+    {
+      "owner": "iptv-org",
+      "name": "iptv",
+      "full_name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 113600,
+      "forks": 5779,
+      "stars_today": 106,
+      "built_by": [
+        "BellezaEmporium",
+        "UltraHDR",
+        "iptv-bot",
+        "freearhey",
+        "Dum4G"
+      ]
+    },
+    {
+      "owner": "hesreallyhim",
+      "name": "awesome-claude-code",
+      "full_name": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+      "language": "Python",
+      "stars": 30977,
+      "forks": 2162,
+      "stars_today": 429,
+      "built_by": [
+        "Copilot",
+        "github-actions",
+        "claude",
+        "tninja"
+      ]
+    }
+  ]
+}
