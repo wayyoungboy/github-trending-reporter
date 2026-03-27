@@ -1,0 +1,161 @@
+{
+  "date": "2026-03-27",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 10322,
+      "forks": 888,
+      "stars_today": 2685,
+      "built_by": [
+        "j-sperling",
+        "claude",
+        "phjlljp",
+        "iliaal"
+      ]
+    },
+    {
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-claudecode",
+      "full_name": "Yeachan-Heo/oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "language": "TypeScript",
+      "stars": 12674,
+      "forks": 839,
+      "stars_today": 598,
+      "built_by": [
+        "AlexU-A",
+        "shaun0927",
+        "junhoyeo",
+        "claude"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "dexter",
+      "full_name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 19002,
+      "forks": 2330,
+      "stars_today": 210,
+      "built_by": [
+        "cursoragent",
+        "MkDev11",
+        "sjhddh",
+        "gupta-8"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 43190,
+      "forks": 5849,
+      "stars_today": 1002,
+      "built_by": [
+        "fr4iser90",
+        "claude",
+        "TropicalDog17",
+        "MaTriXy"
+      ]
+    },
+    {
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "full_name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars": 48426,
+      "forks": 5766,
+      "stars_today": 2394,
+      "built_by": [
+        "claude",
+        "hetaoBackend",
+        "MagicCube",
+        "WillemJiang",
+        "henry-byted"
+      ]
+    },
+    {
+      "owner": "Vaibhavs10",
+      "name": "insanely-fast-whisper",
+      "full_name": "Vaibhavs10/insanely-fast-whisper",
+      "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "stars": 11239,
+      "forks": 817,
+      "stars_today": 1370,
+      "built_by": [
+        "pcuenca",
+        "patrick91",
+        "kadirnar",
+        "felixcarmona"
+      ]
+    },
+    {
+      "owner": "agentscope-ai",
+      "name": "agentscope",
+      "full_name": "agentscope-ai/agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "language": "Python",
+      "stars": 20439,
+      "forks": 1994,
+      "stars_today": 437,
+      "built_by": [
+        "qbc2016",
+        "pan-x-c",
+        "Osier-Yi",
+        "DavdGao",
+        "zhijianma"
+      ]
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "Building a modern alternative to Salesforce, powered by the community.",
+      "language": "TypeScript",
+      "stars": 41281,
+      "forks": 5502,
+      "stars_today": 117,
+      "built_by": [
+        "Weiko",
+        "FelixMalfait",
+        "charlesBochet",
+        "lucasbordeau",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "datalab-to",
+      "name": "chandra",
+      "full_name": "datalab-to/chandra",
+      "url": "https://github.com/datalab-to/chandra",
+      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+      "language": "Python",
+      "stars": 6176,
+      "forks": 675,
+      "stars_today": 557,
+      "built_by": [
+        "sandy0kwon",
+        "zanussbaum",
+        "VikParuchuri"
+      ]
+    }
+  ]
+}
