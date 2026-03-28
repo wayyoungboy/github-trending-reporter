@@ -1,0 +1,214 @@
+{
+  "date": "2026-03-28",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 12679,
+      "forks": 1017,
+      "stars_today": 2821,
+      "built_by": [
+        "j-sperling",
+        "claude",
+        "iliaal",
+        "phjlljp"
+      ]
+    },
+    {
+      "owner": "hacksider",
+      "name": "Deep-Live-Cam",
+      "full_name": "hacksider/Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 83079,
+      "forks": 12142,
+      "stars_today": 1616,
+      "built_by": [
+        "vic4key",
+        "pereiraroland26",
+        "KRSHH",
+        "laurigates"
+      ]
+    },
+    {
+      "owner": "SakanaAI",
+      "name": "AI-Scientist-v2",
+      "full_name": "SakanaAI/AI-Scientist-v2",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "language": "Python",
+      "stars": 2865,
+      "forks": 476,
+      "stars_today": 143,
+      "built_by": [
+        "RobertTLange",
+        "Shawn-Hwang",
+        "runopti",
+        "conglu1997",
+        "kotama7"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 24690,
+      "forks": 2706,
+      "stars_today": 337,
+      "built_by": [
+        "Copilot",
+        "pengzhiliang",
+        "Damon-Salvetore",
+        "MSLDCherryPick",
+        "YaoyaoChang"
+      ]
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "Building a modern alternative to Salesforce, powered by the community.",
+      "language": "TypeScript",
+      "stars": 42019,
+      "forks": 5578,
+      "stars_today": 668,
+      "built_by": [
+        "FelixMalfait",
+        "github-actions",
+        "lucasbordeau",
+        "charlesBochet",
+        "Weiko"
+      ]
+    },
+    {
+      "owner": "datalab-to",
+      "name": "chandra",
+      "full_name": "datalab-to/chandra",
+      "url": "https://github.com/datalab-to/chandra",
+      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+      "language": "Python",
+      "stars": 7025,
+      "forks": 734,
+      "stars_today": 912,
+      "built_by": [
+        "VikParuchuri",
+        "zanussbaum",
+        "sandy0kwon"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 118561,
+      "forks": 9564,
+      "stars_today": 2752,
+      "built_by": [
+        "claude",
+        "arittr",
+        "jjshanks",
+        "clkao"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "dexter",
+      "full_name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 19696,
+      "forks": 2386,
+      "stars_today": 672,
+      "built_by": [
+        "cursoragent",
+        "sjhddh",
+        "gupta-8",
+        "MkDev11"
+      ]
+    },
+    {
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-claudecode",
+      "full_name": "Yeachan-Heo/oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "language": "TypeScript",
+      "stars": 13970,
+      "forks": 905,
+      "stars_today": 1411,
+      "built_by": [
+        "shaun0927",
+        "AlexU-A",
+        "claude",
+        "junhoyeo"
+      ]
+    },
+    {
+      "owner": "FreeCAD",
+      "name": "FreeCAD",
+      "full_name": "FreeCAD/FreeCAD",
+      "url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "stars": 29664,
+      "forks": 5323,
+      "stars_today": 79,
+      "built_by": [
+        "berndhahnebach",
+        "chennes",
+        "wwmayer",
+        "WandererFan",
+        "yorikvanhavre"
+      ]
+    },
+    {
+      "owner": "Vaibhavs10",
+      "name": "insanely-fast-whisper",
+      "full_name": "Vaibhavs10/insanely-fast-whisper",
+      "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "stars": 11878,
+      "forks": 845,
+      "stars_today": 1066,
+      "built_by": [
+        "kadirnar",
+        "pcuenca",
+        "felixcarmona",
+        "patrick91"
+      ]
+    },
+    {
+      "owner": "onyx-dot-app",
+      "name": "onyx",
+      "full_name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "stars": 19147,
+      "forks": 2591,
+      "stars_today": 547,
+      "built_by": [
+        "pablonyx",
+        "Weves",
+        "github-merge-queue",
+        "yuhongsun96",
+        "jmelahman"
+      ]
+    }
+  ]
+}
