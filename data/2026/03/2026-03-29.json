@@ -1,0 +1,163 @@
+{
+  "date": "2026-03-29",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "hacksider",
+      "name": "Deep-Live-Cam",
+      "full_name": "hacksider/Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 84351,
+      "forks": 12320,
+      "stars_today": 1814,
+      "built_by": [
+        "laurigates",
+        "vic4key",
+        "KRSHH",
+        "pereiraroland26"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 120822,
+      "forks": 9808,
+      "stars_today": 2292,
+      "built_by": [
+        "clkao",
+        "arittr",
+        "claude",
+        "jjshanks"
+      ]
+    },
+    {
+      "owner": "SakanaAI",
+      "name": "AI-Scientist-v2",
+      "full_name": "SakanaAI/AI-Scientist-v2",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "language": "Python",
+      "stars": 3483,
+      "forks": 527,
+      "stars_today": 506,
+      "built_by": [
+        "kotama7",
+        "Shawn-Hwang",
+        "conglu1997",
+        "runopti",
+        "RobertTLange"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "dexter",
+      "full_name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 20215,
+      "forks": 2424,
+      "stars_today": 581,
+      "built_by": [
+        "gupta-8",
+        "cursoragent",
+        "MkDev11",
+        "sjhddh"
+      ]
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "Building a modern alternative to Salesforce, powered by the community.",
+      "language": "TypeScript",
+      "stars": 42444,
+      "forks": 5635,
+      "stars_today": 563,
+      "built_by": [
+        "github-actions",
+        "lucasbordeau",
+        "Weiko",
+        "charlesBochet",
+        "FelixMalfait"
+      ]
+    },
+    {
+      "owner": "onyx-dot-app",
+      "name": "onyx",
+      "full_name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "stars": 19761,
+      "forks": 2656,
+      "stars_today": 880,
+      "built_by": [
+        "Weves",
+        "jmelahman",
+        "yuhongsun96",
+        "github-merge-queue",
+        "pablonyx"
+      ]
+    },
+    {
+      "owner": "datalab-to",
+      "name": "chandra",
+      "full_name": "datalab-to/chandra",
+      "url": "https://github.com/datalab-to/chandra",
+      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+      "language": "Python",
+      "stars": 7603,
+      "forks": 762,
+      "stars_today": 687,
+      "built_by": [
+        "VikParuchuri",
+        "zanussbaum",
+        "sandy0kwon"
+      ]
+    },
+    {
+      "owner": "agentscope-ai",
+      "name": "agentscope",
+      "full_name": "agentscope-ai/agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "language": "Python",
+      "stars": 21628,
+      "forks": 2135,
+      "stars_today": 398,
+      "built_by": [
+        "pan-x-c",
+        "qbc2016",
+        "DavdGao",
+        "Osier-Yi",
+        "zhijianma"
+      ]
+    },
+    {
+      "owner": "apache",
+      "name": "superset",
+      "full_name": "apache/superset",
+      "url": "https://github.com/apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "language": "TypeScript",
+      "stars": 71477,
+      "forks": 16893,
+      "stars_today": 31,
+      "built_by": [
+        "villebro",
+        "mistercrunch",
+        "kristw",
+        "dependabot",
+        "michael-s-molina"
+      ]
+    }
+  ]
+}
