@@ -1,0 +1,216 @@
+{
+  "date": "2026-03-30",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 6824,
+      "forks": 753,
+      "stars_today": 1165,
+      "built_by": [
+        "VikalpP",
+        "claude",
+        "wjhrdy"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 27408,
+      "forks": 3031,
+      "stars_today": 1056,
+      "built_by": [
+        "MSLDCherryPick",
+        "YaoyaoChang",
+        "Copilot",
+        "Damon-Salvetore",
+        "MSJwyu"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 16822,
+      "forks": 2048,
+      "stars_today": 917,
+      "built_by": [
+        "teknium1",
+        "ygd58",
+        "0xbyt4",
+        "kshitijk4poor",
+        "aydnOktay"
+      ]
+    },
+    {
+      "owner": "OpenBB-finance",
+      "name": "OpenBB",
+      "full_name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "stars": 64034,
+      "forks": 6310,
+      "stars_today": 137,
+      "built_by": [
+        "montezdesousa",
+        "colin99d",
+        "jmaslek",
+        "deeleeramone",
+        "DidierRLopes"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 123042,
+      "forks": 10028,
+      "stars_today": 2230,
+      "built_by": [
+        "jjshanks",
+        "claude",
+        "arittr",
+        "clkao"
+      ]
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 42618,
+      "forks": 3182,
+      "stars_today": 373,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "Copilot",
+        "rodboev"
+      ]
+    },
+    {
+      "owner": "hacksider",
+      "name": "Deep-Live-Cam",
+      "full_name": "hacksider/Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 85325,
+      "forks": 12429,
+      "stars_today": 1132,
+      "built_by": [
+        "KRSHH",
+        "pereiraroland26",
+        "vic4key",
+        "laurigates"
+      ]
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 15405,
+      "forks": 1224,
+      "stars_today": 1308,
+      "built_by": [
+        "j-sperling",
+        "phjlljp",
+        "claude",
+        "iliaal"
+      ]
+    },
+    {
+      "owner": "shareAI-lab",
+      "name": "learn-claude-code",
+      "full_name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "language": "TypeScript",
+      "stars": 42730,
+      "forks": 6580,
+      "stars_today": 919,
+      "built_by": [
+        "bansalkanav",
+        "claude",
+        "CrazyBoyM",
+        "Octane0411",
+        "chablino"
+      ]
+    },
+    {
+      "owner": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": 21157,
+      "forks": 716,
+      "stars_today": 37,
+      "built_by": [
+        "DarNCelsius",
+        "CarterLi",
+        "LinusDierheimer",
+        "apocelipes",
+        "x-zvf"
+      ]
+    },
+    {
+      "owner": "moeru-ai",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 36364,
+      "forks": 3607,
+      "stars_today": 224,
+      "built_by": [
+        "LemonNekoGH",
+        "shinohara-rin",
+        "luoling8192",
+        "nekomeowww",
+        "sumimakito"
+      ]
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "Building a modern alternative to Salesforce, powered by the community.",
+      "language": "TypeScript",
+      "stars": 42957,
+      "forks": 5672,
+      "stars_today": 447,
+      "built_by": [
+        "FelixMalfait",
+        "lucasbordeau",
+        "Weiko",
+        "github-actions",
+        "charlesBochet"
+      ]
+    }
+  ]
+}
