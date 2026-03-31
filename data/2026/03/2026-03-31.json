@@ -1,0 +1,181 @@
+{
+  "date": "2026-03-31",
+  "total_repos": 10,
+  "repositories": [
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 30479,
+      "forks": 3366,
+      "stars_today": 2492,
+      "built_by": [
+        "Copilot",
+        "Damon-Salvetore",
+        "YaoyaoChang",
+        "MSLDCherryPick",
+        "MSJwyu"
+      ]
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 9946,
+      "forks": 989,
+      "stars_today": 4232,
+      "built_by": [
+        "wjhrdy",
+        "claude",
+        "VikalpP"
+      ]
+    },
+    {
+      "owner": "shanraisshan",
+      "name": "claude-code-best-practice",
+      "full_name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "stars": 26205,
+      "forks": 2192,
+      "stars_today": 1108,
+      "built_by": [
+        "shayangd",
+        "neutmute",
+        "claude"
+      ]
+    },
+    {
+      "owner": "hacksider",
+      "name": "Deep-Live-Cam",
+      "full_name": "hacksider/Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 86378,
+      "forks": 12543,
+      "stars_today": 1136,
+      "built_by": [
+        "KRSHH",
+        "laurigates",
+        "vic4key",
+        "pereiraroland26"
+      ]
+    },
+    {
+      "owner": "OpenBB-finance",
+      "name": "OpenBB",
+      "full_name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "stars": 64542,
+      "forks": 6348,
+      "stars_today": 502,
+      "built_by": [
+        "DidierRLopes",
+        "deeleeramone",
+        "montezdesousa",
+        "jmaslek",
+        "colin99d"
+      ]
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 439732,
+      "forks": 43898,
+      "stars_today": 368,
+      "built_by": [
+        "raisedadead",
+        "renovate-bot",
+        "ojeytonwilliams",
+        "renovate",
+        "camperbot"
+      ]
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 74744,
+      "forks": 8840,
+      "stars_today": 76,
+      "built_by": [
+        "Czechball",
+        "hoadlck",
+        "ppfeister",
+        "TheYahya",
+        "sdushantha"
+      ]
+    },
+    {
+      "owner": "apache",
+      "name": "superset",
+      "full_name": "apache/superset",
+      "url": "https://github.com/apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "language": "TypeScript",
+      "stars": 71938,
+      "forks": 16939,
+      "stars_today": 49,
+      "built_by": [
+        "dependabot",
+        "villebro",
+        "michael-s-molina",
+        "kristw",
+        "mistercrunch"
+      ]
+    },
+    {
+      "owner": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": 21421,
+      "forks": 726,
+      "stars_today": 276,
+      "built_by": [
+        "DarNCelsius",
+        "CarterLi",
+        "apocelipes",
+        "x-zvf",
+        "LinusDierheimer"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 18645,
+      "forks": 2271,
+      "stars_today": 1851,
+      "built_by": [
+        "aydnOktay",
+        "0xbyt4",
+        "teknium1",
+        "ygd58",
+        "kshitijk4poor"
+      ]
+    }
+  ]
+}
