@@ -1,0 +1,129 @@
+{
+  "date": "2026-04-02",
+  "total_repos": 7,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "stars": 101047,
+      "forks": 15632,
+      "stars_today": 10749,
+      "built_by": [
+        "claude",
+        "ant-kurt",
+        "ashwin-ant",
+        "actions-user",
+        "bcherny"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 34464,
+      "forks": 3923,
+      "stars_today": 1685,
+      "built_by": [
+        "Copilot",
+        "MSJwyu",
+        "YaoyaoChang",
+        "MSLDCherryPick",
+        "pengzhiliang"
+      ]
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 12150,
+      "forks": 1001,
+      "stars_today": 380,
+      "built_by": [
+        "JustinGuese",
+        "siriuz42",
+        "kashif",
+        "misha-chertushkin",
+        "rajatsen91"
+      ]
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 15642,
+      "forks": 1804,
+      "stars_today": 3301,
+      "built_by": [
+        "claude",
+        "VikalpP",
+        "wjhrdy"
+      ]
+    },
+    {
+      "owner": "axios",
+      "name": "axios",
+      "full_name": "axios/axios",
+      "url": "https://github.com/axios/axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "language": "JavaScript",
+      "stars": 108869,
+      "forks": 11585,
+      "stars_today": 93,
+      "built_by": [
+        "DigitalBrainJS",
+        "jasonsaayman",
+        "nickuraltsev",
+        "mzabriskie",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 71756,
+      "forks": 10036,
+      "stars_today": 2390,
+      "built_by": [
+        "pakrym-oai",
+        "jif-oai",
+        "bolinfest",
+        "etraut-openai",
+        "aibrahim-oai"
+      ]
+    },
+    {
+      "owner": "f",
+      "name": "prompts.chat",
+      "full_name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "stars": 156041,
+      "forks": 20488,
+      "stars_today": 398,
+      "built_by": [
+        "giorgiop",
+        "devisasari",
+        "wkaandemir",
+        "sinansonmez"
+      ]
+    }
+  ]
+}
