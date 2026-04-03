@@ -1,0 +1,75 @@
+{
+  "date": "2026-04-03",
+  "total_repos": 4,
+  "repositories": [
+    {
+      "owner": "siddharthvaddem",
+      "name": "openscreen",
+      "full_name": "siddharthvaddem/openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "language": "TypeScript",
+      "stars": 15933,
+      "forks": 1084,
+      "stars_today": 2573,
+      "built_by": [
+        "prayaslashkari",
+        "marcusschiesser",
+        "FabLrc",
+        "solnikhil"
+      ]
+    },
+    {
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-codex",
+      "full_name": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "stars": 11772,
+      "forks": 1092,
+      "stars_today": 2867,
+      "built_by": [
+        "HaD0Yun",
+        "dependabot",
+        "claude",
+        "junhoyeo"
+      ]
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+      "language": "Unknown",
+      "stars": 36385,
+      "forks": 6012,
+      "stars_today": 306,
+      "built_by": [
+        "MaloneFreak",
+        "awrreny",
+        "bgauryy",
+        "claude"
+      ]
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 77296,
+      "forks": 9069,
+      "stars_today": 827,
+      "built_by": [
+        "sdushantha",
+        "hoadlck",
+        "Czechball",
+        "ppfeister",
+        "TheYahya"
+      ]
+    }
+  ]
+}
