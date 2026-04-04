@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-04",
+  "total_repos": 7,
+  "repositories": [
+    {
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-codex",
+      "full_name": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "stars": 14146,
+      "forks": 1301,
+      "stars_today": 3047,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "junhoyeo",
+        "HaD0Yun"
+      ]
+    },
+    {
+      "owner": "onyx-dot-app",
+      "name": "onyx",
+      "full_name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "stars": 23287,
+      "forks": 3134,
+      "stars_today": 1852,
+      "built_by": [
+        "jmelahman",
+        "Weves",
+        "github-merge-queue",
+        "pablonyx",
+        "yuhongsun96"
+      ]
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 14127,
+      "forks": 1219,
+      "stars_today": 916,
+      "built_by": [
+        "misha-chertushkin",
+        "siriuz42",
+        "kashif",
+        "JustinGuese",
+        "rajatsen91"
+      ]
+    },
+    {
+      "owner": "siddharthvaddem",
+      "name": "openscreen",
+      "full_name": "siddharthvaddem/openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "language": "TypeScript",
+      "stars": 18216,
+      "forks": 1238,
+      "stars_today": 2771,
+      "built_by": [
+        "EtienneLescot",
+        "marcusschiesser",
+        "FabLrc",
+        "prayaslashkari"
+      ]
+    },
+    {
+      "owner": "dmtrKovalenko",
+      "name": "fff.nvim",
+      "full_name": "dmtrKovalenko/fff.nvim",
+      "url": "https://github.com/dmtrKovalenko/fff.nvim",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "language": "Rust",
+      "stars": 3268,
+      "forks": 130,
+      "stars_today": 750,
+      "built_by": [
+        "sQVe",
+        "github-actions",
+        "WillLillis",
+        "disrupted"
+      ]
+    },
+    {
+      "owner": "f",
+      "name": "prompts.chat",
+      "full_name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "stars": 157190,
+      "forks": 20605,
+      "stars_today": 375,
+      "built_by": [
+        "wkaandemir",
+        "devisasari",
+        "sinansonmez",
+        "giorgiop"
+      ]
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 78523,
+      "forks": 9176,
+      "stars_today": 1192,
+      "built_by": [
+        "TheYahya",
+        "ppfeister",
+        "sdushantha",
+        "hoadlck",
+        "Czechball"
+      ]
+    }
+  ]
+}
