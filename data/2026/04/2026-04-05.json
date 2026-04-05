@@ -1,0 +1,147 @@
+{
+  "date": "2026-04-05",
+  "total_repos": 8,
+  "repositories": [
+    {
+      "owner": "Blaizzy",
+      "name": "mlx-vlm",
+      "full_name": "Blaizzy/mlx-vlm",
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "language": "Python",
+      "stars": 3611,
+      "forks": 397,
+      "stars_today": 343,
+      "built_by": [
+        "pcuenca",
+        "claude",
+        "viktike",
+        "neilmehta24"
+      ]
+    },
+    {
+      "owner": "onyx-dot-app",
+      "name": "onyx",
+      "full_name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "stars": 24275,
+      "forks": 3255,
+      "stars_today": 1197,
+      "built_by": [
+        "github-merge-queue",
+        "Weves",
+        "yuhongsun96",
+        "pablonyx",
+        "jmelahman"
+      ]
+    },
+    {
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-codex",
+      "full_name": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "stars": 15681,
+      "forks": 1471,
+      "stars_today": 1789,
+      "built_by": [
+        "junhoyeo",
+        "claude",
+        "dependabot",
+        "HaD0Yun"
+      ]
+    },
+    {
+      "owner": "siddharthvaddem",
+      "name": "openscreen",
+      "full_name": "siddharthvaddem/openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "language": "TypeScript",
+      "stars": 19998,
+      "forks": 1362,
+      "stars_today": 1591,
+      "built_by": [
+        "marcusschiesser",
+        "FabLrc",
+        "prayaslashkari",
+        "EtienneLescot"
+      ]
+    },
+    {
+      "owner": "telegramdesktop",
+      "name": "tdesktop",
+      "full_name": "telegramdesktop/tdesktop",
+      "url": "https://github.com/telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "language": "C++",
+      "stars": 30840,
+      "forks": 6519,
+      "stars_today": 249,
+      "built_by": [
+        "claude",
+        "john-preston",
+        "23rd",
+        "ilya-fedin",
+        "auchri"
+      ]
+    },
+    {
+      "owner": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 35713,
+      "forks": 3349,
+      "stars_today": 935,
+      "built_by": [
+        "dianed-square",
+        "EbonyLouis",
+        "blackgirlbytes",
+        "angiejones",
+        "michaelneale"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "agent-framework",
+      "full_name": "microsoft/agent-framework",
+      "url": "https://github.com/microsoft/agent-framework",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "language": "Python",
+      "stars": 8713,
+      "forks": 1434,
+      "stars_today": 72,
+      "built_by": [
+        "eavanvalkenburg",
+        "westey-m",
+        "moonbox3",
+        "Copilot",
+        "dmytrostruk"
+      ]
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 79386,
+      "forks": 9250,
+      "stars_today": 994,
+      "built_by": [
+        "hoadlck",
+        "TheYahya",
+        "ppfeister",
+        "Czechball",
+        "sdushantha"
+      ]
+    }
+  ]
+}
