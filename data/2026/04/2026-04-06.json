@@ -1,0 +1,181 @@
+{
+  "date": "2026-04-06",
+  "total_repos": 10,
+  "repositories": [
+    {
+      "owner": "google-ai-edge",
+      "name": "gallery",
+      "full_name": "google-ai-edge/gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "language": "Kotlin",
+      "stars": 16989,
+      "forks": 1559,
+      "stars_today": 389,
+      "built_by": [
+        "jinjingforever",
+        "whhone",
+        "ymodak",
+        "yishuangP"
+      ]
+    },
+    {
+      "owner": "Blaizzy",
+      "name": "mlx-vlm",
+      "full_name": "Blaizzy/mlx-vlm",
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "language": "Python",
+      "stars": 3943,
+      "forks": 421,
+      "stars_today": 416,
+      "built_by": [
+        "claude",
+        "pcuenca",
+        "neilmehta24",
+        "viktike"
+      ]
+    },
+    {
+      "owner": "siddharthvaddem",
+      "name": "openscreen",
+      "full_name": "siddharthvaddem/openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "language": "TypeScript",
+      "stars": 22593,
+      "forks": 1508,
+      "stars_today": 2749,
+      "built_by": [
+        "marcusschiesser",
+        "EtienneLescot",
+        "FabLrc",
+        "prayaslashkari"
+      ]
+    },
+    {
+      "owner": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 37078,
+      "forks": 3550,
+      "stars_today": 882,
+      "built_by": [
+        "EbonyLouis",
+        "dianed-square",
+        "michaelneale",
+        "blackgirlbytes",
+        "angiejones"
+      ]
+    },
+    {
+      "owner": "onyx-dot-app",
+      "name": "onyx",
+      "full_name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "stars": 25053,
+      "forks": 3350,
+      "stars_today": 998,
+      "built_by": [
+        "Weves",
+        "github-merge-queue",
+        "yuhongsun96",
+        "jmelahman",
+        "pablonyx"
+      ]
+    },
+    {
+      "owner": "badlogic",
+      "name": "pi-mono",
+      "full_name": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "stars": 31931,
+      "forks": 3477,
+      "stars_today": 355,
+      "built_by": [
+        "hjanuschka",
+        "aliou",
+        "markusylisiurunen",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "dmtrKovalenko",
+      "name": "fff.nvim",
+      "full_name": "dmtrKovalenko/fff.nvim",
+      "url": "https://github.com/dmtrKovalenko/fff.nvim",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "language": "Rust",
+      "stars": 3706,
+      "forks": 150,
+      "stars_today": 76,
+      "built_by": [
+        "disrupted",
+        "WillLillis",
+        "sQVe",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "google-ai-edge",
+      "name": "LiteRT-LM",
+      "full_name": "google-ai-edge/LiteRT-LM",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "description": "",
+      "language": "C++",
+      "stars": 1580,
+      "forks": 185,
+      "stars_today": 124,
+      "built_by": [
+        "ai-edge-bot",
+        "matthewchan-g",
+        "protobird-git",
+        "hheydary",
+        "whhone"
+      ]
+    },
+    {
+      "owner": "telegramdesktop",
+      "name": "tdesktop",
+      "full_name": "telegramdesktop/tdesktop",
+      "url": "https://github.com/telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "language": "C++",
+      "stars": 31078,
+      "forks": 6538,
+      "stars_today": 287,
+      "built_by": [
+        "claude",
+        "ilya-fedin",
+        "auchri",
+        "23rd",
+        "john-preston"
+      ]
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 441522,
+      "forks": 44105,
+      "stars_today": 335,
+      "built_by": [
+        "ojeytonwilliams",
+        "renovate",
+        "raisedadead",
+        "renovate-bot",
+        "camperbot"
+      ]
+    }
+  ]
+}
