@@ -1,0 +1,160 @@
+{
+  "date": "2026-04-08",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "google-ai-edge",
+      "name": "gallery",
+      "full_name": "google-ai-edge/gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "language": "Kotlin",
+      "stars": 18806,
+      "forks": 1756,
+      "stars_today": 897,
+      "built_by": [
+        "ymodak",
+        "whhone",
+        "jinjingforever",
+        "yishuangP"
+      ]
+    },
+    {
+      "owner": "google-ai-edge",
+      "name": "LiteRT-LM",
+      "full_name": "google-ai-edge/LiteRT-LM",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "description": "",
+      "language": "C++",
+      "stars": 2557,
+      "forks": 253,
+      "stars_today": 528,
+      "built_by": [
+        "matthewchan-g",
+        "hheydary",
+        "whhone",
+        "ai-edge-bot",
+        "protobird-git"
+      ]
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "personaplex",
+      "full_name": "NVIDIA/personaplex",
+      "url": "https://github.com/NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "language": "Python",
+      "stars": 7959,
+      "forks": 1159,
+      "stars_today": 662,
+      "built_by": [
+        "tsdocode",
+        "grafael",
+        "jaycoolh",
+        "wachawo",
+        "rajarshiroy-nvidia"
+      ]
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 24541,
+      "forks": 2733,
+      "stars_today": 1195,
+      "built_by": [
+        "naicud",
+        "magyargergo",
+        "claude",
+        "zander-raycraft"
+      ]
+    },
+    {
+      "owner": "tobi",
+      "name": "qmd",
+      "full_name": "tobi/qmd",
+      "url": "https://github.com/tobi/qmd",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "language": "TypeScript",
+      "stars": 19566,
+      "forks": 1179,
+      "stars_today": 859,
+      "built_by": [
+        "shreyaskarnik",
+        "danmackinlay",
+        "claude",
+        "burke"
+      ]
+    },
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "",
+      "language": "Unknown",
+      "stars": 8079,
+      "forks": 567,
+      "stars_today": 51,
+      "built_by": [
+        "back1ply",
+        "szkocot",
+        "claude",
+        "TomBener"
+      ]
+    },
+    {
+      "owner": "elebumm",
+      "name": "RedditVideoMakerBot",
+      "full_name": "elebumm/RedditVideoMakerBot",
+      "url": "https://github.com/elebumm/RedditVideoMakerBot",
+      "description": "Create Reddit Videos with just✨ one command ✨",
+      "language": "Python",
+      "stars": 10050,
+      "forks": 2525,
+      "stars_today": 636,
+      "built_by": [
+        "dependabot",
+        "callumio",
+        "OpenSourceSimon",
+        "JasonLovesDoggo",
+        "electro199"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "language": "Python",
+      "stars": 12229,
+      "forks": 1668,
+      "stars_today": 168,
+      "built_by": [
+        "scrrlt",
+        "tusharkhatriofficial",
+        "github-actions",
+        "RinZ27",
+        "pancacake"
+      ]
+    },
+    {
+      "owner": "TheCraigHewitt",
+      "name": "seomachine",
+      "full_name": "TheCraigHewitt/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "language": "Python",
+      "stars": 3911,
+      "forks": 662,
+      "stars_today": 215,
+      "built_by": [
+        "claude"
+      ]
+    }
+  ]
+}
