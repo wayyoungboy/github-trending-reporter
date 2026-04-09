@@ -1,0 +1,195 @@
+{
+  "date": "2026-04-09",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "",
+      "language": "Unknown",
+      "stars": 9016,
+      "forks": 625,
+      "stars_today": 702,
+      "built_by": [
+        "back1ply",
+        "claude",
+        "TomBener",
+        "szkocot"
+      ]
+    },
+    {
+      "owner": "TheCraigHewitt",
+      "name": "seomachine",
+      "full_name": "TheCraigHewitt/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "language": "Python",
+      "stars": 4597,
+      "forks": 711,
+      "stars_today": 649,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "google-ai-edge",
+      "name": "gallery",
+      "full_name": "google-ai-edge/gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "language": "Kotlin",
+      "stars": 19516,
+      "forks": 1820,
+      "stars_today": 853,
+      "built_by": [
+        "ymodak",
+        "jinjingforever",
+        "yishuangP",
+        "whhone"
+      ]
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "personaplex",
+      "full_name": "NVIDIA/personaplex",
+      "url": "https://github.com/NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "language": "Python",
+      "stars": 8423,
+      "forks": 1205,
+      "stars_today": 586,
+      "built_by": [
+        "tsdocode",
+        "jaycoolh",
+        "grafael",
+        "wachawo",
+        "rajarshiroy-nvidia"
+      ]
+    },
+    {
+      "owner": "google-ai-edge",
+      "name": "LiteRT-LM",
+      "full_name": "google-ai-edge/LiteRT-LM",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "description": "",
+      "language": "C++",
+      "stars": 2994,
+      "forks": 281,
+      "stars_today": 501,
+      "built_by": [
+        "matthewchan-g",
+        "protobird-git",
+        "whhone",
+        "ai-edge-bot",
+        "hheydary"
+      ]
+    },
+    {
+      "owner": "elebumm",
+      "name": "RedditVideoMakerBot",
+      "full_name": "elebumm/RedditVideoMakerBot",
+      "url": "https://github.com/elebumm/RedditVideoMakerBot",
+      "description": "Create Reddit Videos with just✨ one command ✨",
+      "language": "Python",
+      "stars": 10496,
+      "forks": 2578,
+      "stars_today": 555,
+      "built_by": [
+        "callumio",
+        "JasonLovesDoggo",
+        "OpenSourceSimon",
+        "electro199",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 141563,
+      "forks": 12075,
+      "stars_today": 2028,
+      "built_by": [
+        "clkao",
+        "jjshanks",
+        "claude",
+        "arittr"
+      ]
+    },
+    {
+      "owner": "newton-physics",
+      "name": "newton",
+      "full_name": "newton-physics/newton",
+      "url": "https://github.com/newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "language": "Python",
+      "stars": 4101,
+      "forks": 424,
+      "stars_today": 91,
+      "built_by": [
+        "vreutskyy",
+        "shi-eric",
+        "eric-heiden",
+        "actions-user",
+        "adenzler-nvidia"
+      ]
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 25310,
+      "forks": 2815,
+      "stars_today": 980,
+      "built_by": [
+        "zander-raycraft",
+        "magyargergo",
+        "claude",
+        "naicud"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 50690,
+      "forks": 8794,
+      "stars_today": 151,
+      "built_by": [
+        "ak4631",
+        "KittatamSaisaard",
+        "arsaboo",
+        "jsemldonado"
+      ]
+    },
+    {
+      "owner": "goharbor",
+      "name": "harbor",
+      "full_name": "goharbor/harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 28126,
+      "forks": 5174,
+      "stars_today": 42,
+      "built_by": [
+        "ywk253100",
+        "reasonerjt",
+        "wy65701436",
+        "wknet123",
+        "steven-zou"
+      ]
+    }
+  ]
+}
