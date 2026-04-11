@@ -1,0 +1,216 @@
+{
+  "date": "2026-04-11",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 99746,
+      "forks": 6108,
+      "stars_today": 2352,
+      "built_by": [
+        "afourney",
+        "PetrAPConsulting",
+        "sugatoray",
+        "gagb",
+        "l-lumin"
+      ]
+    },
+    {
+      "owner": "coleam00",
+      "name": "Archon",
+      "full_name": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "stars": 15646,
+      "forks": 2548,
+      "stars_today": 756,
+      "built_by": [
+        "leex279",
+        "claude",
+        "Wirasm",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 52110,
+      "forks": 6776,
+      "stars_today": 7671,
+      "built_by": [
+        "kshitijk4poor",
+        "claude",
+        "teknium1",
+        "0xbyt4",
+        "erosika"
+      ]
+    },
+    {
+      "owner": "rowboatlabs",
+      "name": "rowboat",
+      "full_name": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "stars": 11741,
+      "forks": 1093,
+      "stars_today": 507,
+      "built_by": [
+        "tusharmagar",
+        "ramnique",
+        "akhisud3195",
+        "github-actions",
+        "arkml"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "multica",
+      "full_name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars": 6119,
+      "forks": 751,
+      "stars_today": 1506,
+      "built_by": [
+        "Bohan-J",
+        "forrestchang",
+        "ldnvnbl",
+        "claude",
+        "NevilleQingNY"
+      ]
+    },
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 11759,
+      "forks": 774,
+      "stars_today": 1450,
+      "built_by": [
+        "TomBener",
+        "back1ply",
+        "szkocot",
+        "claude"
+      ]
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 12720,
+      "forks": 2551,
+      "stars_today": 601,
+      "built_by": [
+        "Luciferbobo",
+        "ehan1990",
+        "AnMakc",
+        "CharlesJ-ABu"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "language": "Python",
+      "stars": 15991,
+      "forks": 2103,
+      "stars_today": 1424,
+      "built_by": [
+        "tusharkhatriofficial",
+        "pancacake",
+        "scrrlt",
+        "github-actions",
+        "RinZ27"
+      ]
+    },
+    {
+      "owner": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "full_name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars": 14803,
+      "forks": 1249,
+      "stars_today": 1306,
+      "built_by": [
+        "LonelyMidoriya",
+        "suji-cho",
+        "bundolee",
+        "MaximPlusov",
+        "claude"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 145775,
+      "forks": 12497,
+      "stars_today": 2150,
+      "built_by": [
+        "clkao",
+        "arittr",
+        "claude",
+        "jjshanks"
+      ]
+    },
+    {
+      "owner": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 34303,
+      "forks": 1760,
+      "stars_today": 75,
+      "built_by": [
+        "stedolan",
+        "nicowilliams",
+        "dtolnay",
+        "github-actions",
+        "itchyny"
+      ]
+    },
+    {
+      "owner": "shanraisshan",
+      "name": "claude-code-best-practice",
+      "full_name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "stars": 35795,
+      "forks": 3373,
+      "stars_today": 1251,
+      "built_by": [
+        "neutmute",
+        "shayangd",
+        "claude"
+      ]
+    }
+  ]
+}
