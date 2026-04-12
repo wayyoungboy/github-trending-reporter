@@ -1,0 +1,229 @@
+{
+  "date": "2026-04-12",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 59192,
+      "forks": 7864,
+      "stars_today": 6438,
+      "built_by": [
+        "0xbyt4",
+        "erosika",
+        "kshitijk4poor",
+        "teknium1",
+        "claude"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 102305,
+      "forks": 6327,
+      "stars_today": 3086,
+      "built_by": [
+        "gagb",
+        "PetrAPConsulting",
+        "l-lumin",
+        "sugatoray",
+        "afourney"
+      ]
+    },
+    {
+      "owner": "coleam00",
+      "name": "Archon",
+      "full_name": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "stars": 16486,
+      "forks": 2641,
+      "stars_today": 1346,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "Wirasm",
+        "leex279"
+      ]
+    },
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 13669,
+      "forks": 932,
+      "stars_today": 1066,
+      "built_by": [
+        "claude",
+        "szkocot",
+        "back1ply",
+        "TomBener"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "multica",
+      "full_name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars": 7976,
+      "forks": 1015,
+      "stars_today": 1948,
+      "built_by": [
+        "ldnvnbl",
+        "forrestchang",
+        "Bohan-J",
+        "NevilleQingNY",
+        "claude"
+      ]
+    },
+    {
+      "owner": "shanraisshan",
+      "name": "claude-code-best-practice",
+      "full_name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "stars": 37109,
+      "forks": 3473,
+      "stars_today": 1475,
+      "built_by": [
+        "claude",
+        "shayangd",
+        "neutmute"
+      ]
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 67798,
+      "forks": 15142,
+      "stars_today": 361,
+      "built_by": [
+        "keminshu"
+      ]
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "full_name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 9934,
+      "forks": 1161,
+      "stars_today": 1084,
+      "built_by": [
+        "liuxin99",
+        "AbrahamSanders",
+        "a710128",
+        "Labmem-Zhouyx",
+        "VoxInstruct"
+      ]
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 14307,
+      "forks": 2819,
+      "stars_today": 595,
+      "built_by": [
+        "AnMakc",
+        "ehan1990",
+        "CharlesJ-ABu",
+        "Luciferbobo"
+      ]
+    },
+    {
+      "owner": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "full_name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars": 15632,
+      "forks": 1326,
+      "stars_today": 775,
+      "built_by": [
+        "LonelyMidoriya",
+        "bundolee",
+        "MaximPlusov",
+        "claude",
+        "suji-cho"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "language": "Python",
+      "stars": 16796,
+      "forks": 2207,
+      "stars_today": 837,
+      "built_by": [
+        "github-actions",
+        "scrrlt",
+        "RinZ27",
+        "tusharkhatriofficial",
+        "pancacake"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 147198,
+      "forks": 12643,
+      "stars_today": 1591,
+      "built_by": [
+        "claude",
+        "arittr",
+        "clkao",
+        "jjshanks"
+      ]
+    },
+    {
+      "owner": "alexpate",
+      "name": "awesome-design-systems",
+      "full_name": "alexpate/awesome-design-systems",
+      "url": "https://github.com/alexpate/awesome-design-systems",
+      "description": "💅🏻 ⚒ A collection of awesome design systems",
+      "language": "Unknown",
+      "stars": 22434,
+      "forks": 1389,
+      "stars_today": 2050,
+      "built_by": [
+        "brian-whitfield",
+        "mhrabiee",
+        "andrew--r",
+        "bruskowski"
+      ]
+    }
+  ]
+}
