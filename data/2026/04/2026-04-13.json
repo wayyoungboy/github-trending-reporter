@@ -1,0 +1,245 @@
+{
+  "date": "2026-04-13",
+  "total_repos": 14,
+  "repositories": [
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 67332,
+      "forks": 8996,
+      "stars_today": 7454,
+      "built_by": [
+        "kshitijk4poor",
+        "alt-glitch",
+        "claude",
+        "teknium1",
+        "0xbyt4"
+      ]
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 15840,
+      "forks": 3025,
+      "stars_today": 1985,
+      "built_by": [
+        "ehan1990",
+        "AnMakc",
+        "Luciferbobo",
+        "CharlesJ-ABu"
+      ]
+    },
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 17051,
+      "forks": 1263,
+      "stars_today": 2369,
+      "built_by": [
+        "TomBener",
+        "claude",
+        "back1ply",
+        "szkocot"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 104878,
+      "forks": 6556,
+      "stars_today": 2513,
+      "built_by": [
+        "l-lumin",
+        "afourney",
+        "gagb",
+        "PetrAPConsulting",
+        "sugatoray"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "multica",
+      "full_name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars": 9486,
+      "forks": 1209,
+      "stars_today": 1609,
+      "built_by": [
+        "Bohan-J",
+        "NevilleQingNY",
+        "ldnvnbl",
+        "claude",
+        "forrestchang"
+      ]
+    },
+    {
+      "owner": "coleam00",
+      "name": "Archon",
+      "full_name": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "stars": 17093,
+      "forks": 2711,
+      "stars_today": 612,
+      "built_by": [
+        "leex279",
+        "claude",
+        "github-actions",
+        "Wirasm"
+      ]
+    },
+    {
+      "owner": "shanraisshan",
+      "name": "claude-code-best-practice",
+      "full_name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "stars": 39147,
+      "forks": 3690,
+      "stars_today": 1548,
+      "built_by": [
+        "claude",
+        "neutmute",
+        "shayangd"
+      ]
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "full_name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 11368,
+      "forks": 1316,
+      "stars_today": 1278,
+      "built_by": [
+        "VoxInstruct",
+        "liuxin99",
+        "Labmem-Zhouyx",
+        "a710128",
+        "AbrahamSanders"
+      ]
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 50184,
+      "forks": 3964,
+      "stars_today": 753,
+      "built_by": [
+        "Copilot",
+        "claude",
+        "github-actions",
+        "rodboev"
+      ]
+    },
+    {
+      "owner": "ahujasid",
+      "name": "blender-mcp",
+      "full_name": "ahujasid/blender-mcp",
+      "url": "https://github.com/ahujasid/blender-mcp",
+      "description": "",
+      "language": "Python",
+      "stars": 19171,
+      "forks": 1865,
+      "stars_today": 215,
+      "built_by": [
+        "ElgoogUdiab",
+        "siddikisahil47",
+        "harrywang",
+        "satishgoda"
+      ]
+    },
+    {
+      "owner": "rustfs",
+      "name": "rustfs",
+      "full_name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "stars": 25257,
+      "forks": 1076,
+      "stars_today": 182,
+      "built_by": [
+        "overtrue",
+        "guojidan",
+        "houseme",
+        "weisd",
+        "loverustfs"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 52208,
+      "forks": 9055,
+      "stars_today": 663,
+      "built_by": [
+        "jsemldonado",
+        "KittatamSaisaard",
+        "arsaboo",
+        "ak4631"
+      ]
+    },
+    {
+      "owner": "snarktank",
+      "name": "ralph",
+      "full_name": "snarktank/ralph",
+      "url": "https://github.com/snarktank/ralph",
+      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+      "language": "TypeScript",
+      "stars": 15975,
+      "forks": 1590,
+      "stars_today": 463,
+      "built_by": [
+        "claude",
+        "denen99",
+        "manav148",
+        "S1M0N38"
+      ]
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 68305,
+      "forks": 15246,
+      "stars_today": 454,
+      "built_by": [
+        "keminshu"
+      ]
+    }
+  ]
+}
