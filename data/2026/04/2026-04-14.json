@@ -1,0 +1,279 @@
+{
+  "date": "2026-04-14",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 25516,
+      "forks": 2070,
+      "stars_today": 5733,
+      "built_by": [
+        "szkocot",
+        "claude",
+        "back1ply",
+        "TomBener"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 77575,
+      "forks": 10383,
+      "stars_today": 11289,
+      "built_by": [
+        "alt-glitch",
+        "0xbyt4",
+        "kshitijk4poor",
+        "claude",
+        "teknium1"
+      ]
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 17047,
+      "forks": 3209,
+      "stars_today": 1554,
+      "built_by": [
+        "AnMakc",
+        "randyy179",
+        "Luciferbobo",
+        "CharlesJ-ABu"
+      ]
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 53404,
+      "forks": 4263,
+      "stars_today": 3175,
+      "built_by": [
+        "rodboev",
+        "Copilot",
+        "github-actions",
+        "claude"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 107036,
+      "forks": 6749,
+      "stars_today": 2808,
+      "built_by": [
+        "PetrAPConsulting",
+        "l-lumin",
+        "gagb",
+        "sugatoray",
+        "afourney"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "multica",
+      "full_name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars": 11190,
+      "forks": 1395,
+      "stars_today": 1715,
+      "built_by": [
+        "NevilleQingNY",
+        "forrestchang",
+        "claude",
+        "Bohan-J",
+        "ldnvnbl"
+      ]
+    },
+    {
+      "owner": "coleam00",
+      "name": "Archon",
+      "full_name": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "stars": 17636,
+      "forks": 2778,
+      "stars_today": 677,
+      "built_by": [
+        "Wirasm",
+        "github-actions",
+        "claude",
+        "leex279"
+      ]
+    },
+    {
+      "owner": "snarktank",
+      "name": "ralph",
+      "full_name": "snarktank/ralph",
+      "url": "https://github.com/snarktank/ralph",
+      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+      "language": "TypeScript",
+      "stars": 16540,
+      "forks": 1636,
+      "stars_today": 691,
+      "built_by": [
+        "S1M0N38",
+        "manav148",
+        "denen99",
+        "claude"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 52988,
+      "forks": 9194,
+      "stars_today": 783,
+      "built_by": [
+        "KittatamSaisaard",
+        "arsaboo",
+        "ak4631",
+        "jsemldonado"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-cookbooks",
+      "full_name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 39558,
+      "forks": 4401,
+      "stars_today": 1012,
+      "built_by": [
+        "zealoushacker",
+        "claude",
+        "alexalbertt",
+        "saflamini",
+        "PedramNavid"
+      ]
+    },
+    {
+      "owner": "shanraisshan",
+      "name": "claude-code-best-practice",
+      "full_name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "stars": 41886,
+      "forks": 3985,
+      "stars_today": 2461,
+      "built_by": [
+        "shayangd",
+        "neutmute",
+        "claude"
+      ]
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "language": "TypeScript",
+      "stars": 16353,
+      "forks": 1946,
+      "stars_today": 512,
+      "built_by": [
+        "claude",
+        "selop",
+        "tomasmach",
+        "pandego"
+      ]
+    },
+    {
+      "owner": "ahujasid",
+      "name": "blender-mcp",
+      "full_name": "ahujasid/blender-mcp",
+      "url": "https://github.com/ahujasid/blender-mcp",
+      "description": "",
+      "language": "Python",
+      "stars": 19514,
+      "forks": 1883,
+      "stars_today": 339,
+      "built_by": [
+        "ElgoogUdiab",
+        "harrywang",
+        "satishgoda",
+        "siddikisahil47"
+      ]
+    },
+    {
+      "owner": "hacksider",
+      "name": "Deep-Live-Cam",
+      "full_name": "hacksider/Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 90263,
+      "forks": 13129,
+      "stars_today": 217,
+      "built_by": [
+        "laurigates",
+        "pereiraroland26",
+        "KRSHH",
+        "vic4key"
+      ]
+    },
+    {
+      "owner": "gsd-build",
+      "name": "get-shit-done",
+      "full_name": "gsd-build/get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "language": "JavaScript",
+      "stars": 52145,
+      "forks": 4370,
+      "stars_today": 655,
+      "built_by": [
+        "glittercowboy",
+        "trek-e",
+        "claude",
+        "Tibsfox",
+        "davesienkowski"
+      ]
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 68927,
+      "forks": 15379,
+      "stars_today": 703,
+      "built_by": [
+        "keminshu"
+      ]
+    }
+  ]
+}
