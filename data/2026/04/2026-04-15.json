@@ -1,0 +1,213 @@
+{
+  "date": "2026-04-15",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 34184,
+      "forks": 2803,
+      "stars_today": 9263,
+      "built_by": [
+        "back1ply",
+        "TomBener",
+        "szkocot",
+        "claude"
+      ]
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 55882,
+      "forks": 4491,
+      "stars_today": 2997,
+      "built_by": [
+        "github-actions",
+        "Copilot",
+        "rodboev",
+        "claude"
+      ]
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "language": "TypeScript",
+      "stars": 17386,
+      "forks": 2039,
+      "stars_today": 1162,
+      "built_by": [
+        "claude",
+        "pandego",
+        "selop",
+        "tomasmach"
+      ]
+    },
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 11679,
+      "forks": 1479,
+      "stars_today": 820,
+      "built_by": [
+        "open-pascal",
+        "claude",
+        "Aymericr",
+        "wass08",
+        "anton-pascal"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 108513,
+      "forks": 6872,
+      "stars_today": 1675,
+      "built_by": [
+        "PetrAPConsulting",
+        "afourney",
+        "l-lumin",
+        "sugatoray",
+        "gagb"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 152365,
+      "forks": 13214,
+      "stars_today": 1919,
+      "built_by": [
+        "clkao",
+        "jjshanks",
+        "arittr",
+        "claude"
+      ]
+    },
+    {
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "full_name": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 66378,
+      "forks": 7584,
+      "stars_today": 472,
+      "built_by": [
+        "oldmud0",
+        "dwiyatci",
+        "wopian",
+        "proudindiv"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 54182,
+      "forks": 9391,
+      "stars_today": 1007,
+      "built_by": [
+        "jsemldonado",
+        "KittatamSaisaard",
+        "ak4631",
+        "arsaboo"
+      ]
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 17823,
+      "forks": 3309,
+      "stars_today": 963,
+      "built_by": [
+        "AnMakc",
+        "Luciferbobo",
+        "CharlesJ-ABu",
+        "randyy179"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 84629,
+      "forks": 11441,
+      "stars_today": 8301,
+      "built_by": [
+        "0xbyt4",
+        "teknium1",
+        "claude",
+        "kshitijk4poor",
+        "alt-glitch"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-cookbooks",
+      "full_name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 40284,
+      "forks": 4448,
+      "stars_today": 931,
+      "built_by": [
+        "claude",
+        "PedramNavid",
+        "alexalbertt",
+        "saflamini",
+        "zealoushacker"
+      ]
+    },
+    {
+      "owner": "shanraisshan",
+      "name": "claude-code-best-practice",
+      "full_name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "language": "HTML",
+      "stars": 43868,
+      "forks": 4196,
+      "stars_today": 2583,
+      "built_by": [
+        "neutmute",
+        "shayangd",
+        "claude"
+      ]
+    }
+  ]
+}
