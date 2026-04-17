@@ -1,0 +1,246 @@
+{
+  "date": "2026-04-17",
+  "total_repos": 14,
+  "repositories": [
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 50133,
+      "forks": 4141,
+      "stars_today": 7959,
+      "built_by": [
+        "TomBener",
+        "back1ply",
+        "claude",
+        "szkocot"
+      ]
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 59871,
+      "forks": 4918,
+      "stars_today": 1897,
+      "built_by": [
+        "ousamabenyounes",
+        "Copilot",
+        "claude",
+        "rodboev"
+      ]
+    },
+    {
+      "owner": "lsdefine",
+      "name": "GenericAgent",
+      "full_name": "lsdefine/GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "stars": 2816,
+      "forks": 319,
+      "stars_today": 872,
+      "built_by": [
+        "shenhao-stu",
+        "JinyiHan99",
+        "ViviqwerAsd",
+        "wjl2023"
+      ]
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "language": "TypeScript",
+      "stars": 19092,
+      "forks": 2203,
+      "stars_today": 880,
+      "built_by": [
+        "selop",
+        "tomasmach",
+        "claude",
+        "mvanhorn"
+      ]
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "open-agents",
+      "full_name": "vercel-labs/open-agents",
+      "url": "https://github.com/vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "language": "TypeScript",
+      "stars": 3228,
+      "forks": 349,
+      "stars_today": 738,
+      "built_by": [
+        "open-agents-bot",
+        "nicoalbanese",
+        "willsather",
+        "pranaygp",
+        "yavorpunchev"
+      ]
+    },
+    {
+      "owner": "google",
+      "name": "magika",
+      "full_name": "google/magika",
+      "url": "https://github.com/google/magika",
+      "description": "Fast and accurate AI powered file content types detection",
+      "language": "Python",
+      "stars": 14809,
+      "forks": 796,
+      "stars_today": 854,
+      "built_by": [
+        "reyammer",
+        "invernizzi",
+        "dependabot",
+        "gaby",
+        "ia0"
+      ]
+    },
+    {
+      "owner": "steipete",
+      "name": "wacli",
+      "full_name": "steipete/wacli",
+      "url": "https://github.com/steipete/wacli",
+      "description": "WhatsApp CLI",
+      "language": "Go",
+      "stars": 1694,
+      "forks": 199,
+      "stars_today": 321,
+      "built_by": [
+        "plattenschieber",
+        "dinakars777",
+        "draix",
+        "zats"
+      ]
+    },
+    {
+      "owner": "topoteretes",
+      "name": "cognee",
+      "full_name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+      "language": "Python",
+      "stars": 15825,
+      "forks": 1630,
+      "stars_today": 170,
+      "built_by": [
+        "Vasilije1990",
+        "dexters1",
+        "borisarzentar",
+        "hajdul88",
+        "claude"
+      ]
+    },
+    {
+      "owner": "z-lab",
+      "name": "dflash",
+      "full_name": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "language": "Python",
+      "stars": 1618,
+      "forks": 111,
+      "stars_today": 195,
+      "built_by": [
+        "jianc99",
+        "xiziqiao",
+        "zhijian-liu"
+      ]
+    },
+    {
+      "owner": "Lordog",
+      "name": "dive-into-llms",
+      "full_name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": 30745,
+      "forks": 3724,
+      "stars_today": 1385,
+      "built_by": [
+        "scofield7419",
+        "dongdongzhaoUP",
+        "cooelf",
+        "zwhe99"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "openai-agents-python",
+      "full_name": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "language": "Python",
+      "stars": 21269,
+      "forks": 3454,
+      "stars_today": 172,
+      "built_by": [
+        "github-actions",
+        "MartinEBravo",
+        "rm-openai",
+        "seratch",
+        "dmitry-openai"
+      ]
+    },
+    {
+      "owner": "EvoMap",
+      "name": "evolver",
+      "full_name": "EvoMap/evolver",
+      "url": "https://github.com/EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "language": "JavaScript",
+      "stars": 3190,
+      "forks": 342,
+      "stars_today": 812,
+      "built_by": [
+        "cursoragent",
+        "penggaolai",
+        "onthebigtree",
+        "firstdraft-work",
+        "autogame-17"
+      ]
+    },
+    {
+      "owner": "SimoneAvogadro",
+      "name": "android-reverse-engineering-skill",
+      "full_name": "SimoneAvogadro/android-reverse-engineering-skill",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "language": "Shell",
+      "stars": 2260,
+      "forks": 253,
+      "stars_today": 375,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "language": "Dart",
+      "stars": 9137,
+      "forks": 1622,
+      "stars_today": 378,
+      "built_by": [
+        "kodjima33",
+        "josancamon19",
+        "mdmohsin7",
+        "claude",
+        "beastoin"
+      ]
+    }
+  ]
+}
