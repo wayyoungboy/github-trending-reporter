@@ -1,0 +1,180 @@
+{
+  "date": "2026-04-20",
+  "total_repos": 10,
+  "repositories": [
+    {
+      "owner": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "full_name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars": 6721,
+      "forks": 1032,
+      "stars_today": 1254,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "tilakpatel22",
+        "Jaimin-ptl07",
+        "rudrasheth"
+      ]
+    },
+    {
+      "owner": "thunderbird",
+      "name": "thunderbolt",
+      "full_name": "thunderbird/thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "language": "TypeScript",
+      "stars": 2258,
+      "forks": 132,
+      "stars_today": 695,
+      "built_by": [
+        "cjroth",
+        "darkbanjo",
+        "arienemaiara",
+        "raivieiraadriano92",
+        "ital0"
+      ]
+    },
+    {
+      "owner": "tractorjuice",
+      "name": "arc-kit",
+      "full_name": "tractorjuice/arc-kit",
+      "url": "https://github.com/tractorjuice/arc-kit",
+      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+      "language": "HTML",
+      "stars": 1024,
+      "forks": 136,
+      "stars_today": 263,
+      "built_by": [
+        "DavidROliverBA",
+        "alefbt",
+        "umag",
+        "claude"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "openai-agents-python",
+      "full_name": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "language": "Python",
+      "stars": 23230,
+      "forks": 3638,
+      "stars_today": 752,
+      "built_by": [
+        "github-actions",
+        "rm-openai",
+        "dmitry-openai",
+        "seratch",
+        "MartinEBravo"
+      ]
+    },
+    {
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "full_name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 9907,
+      "forks": 1847,
+      "stars_today": 109,
+      "built_by": [
+        "juliusmarminge",
+        "t3dotgg",
+        "codex",
+        "cursoragent",
+        "binbandit"
+      ]
+    },
+    {
+      "owner": "paperless-ngx",
+      "name": "paperless-ngx",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "stars": 38904,
+      "forks": 2502,
+      "stars_today": 393,
+      "built_by": [
+        "danielquinn",
+        "jonaswinkler",
+        "paperlessngx-bot",
+        "stumpylog",
+        "shamoon"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 47535,
+      "forks": 6392,
+      "stars_today": 149,
+      "built_by": [
+        "MaTriXy",
+        "fr4iser90",
+        "claude",
+        "TropicalDog17"
+      ]
+    },
+    {
+      "owner": "EvoMap",
+      "name": "evolver",
+      "full_name": "EvoMap/evolver",
+      "url": "https://github.com/EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "language": "JavaScript",
+      "stars": 5566,
+      "forks": 540,
+      "stars_today": 527,
+      "built_by": [
+        "autogame-17",
+        "penggaolai",
+        "cursoragent",
+        "onthebigtree",
+        "firstdraft-work"
+      ]
+    },
+    {
+      "owner": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "language": "Dart",
+      "stars": 11207,
+      "forks": 1780,
+      "stars_today": 685,
+      "built_by": [
+        "kodjima33",
+        "claude",
+        "mdmohsin7",
+        "beastoin",
+        "josancamon19"
+      ]
+    },
+    {
+      "owner": "Donchitos",
+      "name": "Claude-Code-Game-Studios",
+      "full_name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "stars": 13536,
+      "forks": 1937,
+      "stars_today": 704,
+      "built_by": [
+        "claude"
+      ]
+    }
+  ]
+}
