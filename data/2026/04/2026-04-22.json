@@ -1,0 +1,164 @@
+{
+  "date": "2026-04-22",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "full_name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars": 11681,
+      "forks": 1534,
+      "stars_today": 2548,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "rudrasheth",
+        "tilakpatel22",
+        "Jaimin-ptl07"
+      ]
+    },
+    {
+      "owner": "thunderbird",
+      "name": "thunderbolt",
+      "full_name": "thunderbird/thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "language": "TypeScript",
+      "stars": 3491,
+      "forks": 204,
+      "stars_today": 596,
+      "built_by": [
+        "darkbanjo",
+        "raivieiraadriano92",
+        "arienemaiara",
+        "ital0",
+        "cjroth"
+      ]
+    },
+    {
+      "owner": "zilliztech",
+      "name": "claude-context",
+      "full_name": "zilliztech/claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "stars": 6640,
+      "forks": 569,
+      "stars_today": 169,
+      "built_by": [
+        "Shawnzheng011019",
+        "Acren",
+        "codingjaguar",
+        "jaxkodex",
+        "zc277584121"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 48914,
+      "forks": 6514,
+      "stars_today": 824,
+      "built_by": [
+        "MaTriXy",
+        "bilibili12433014",
+        "claude",
+        "fr4iser90"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "ai-agents-for-beginners",
+      "full_name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars": 57749,
+      "forks": 19877,
+      "stars_today": 200,
+      "built_by": [
+        "hyoshioka0128",
+        "koreyspace",
+        "ShivamGoyal03",
+        "leestott",
+        "skytin1004"
+      ]
+    },
+    {
+      "owner": "dayanch96",
+      "name": "YTLite",
+      "full_name": "dayanch96/YTLite",
+      "url": "https://github.com/dayanch96/YTLite",
+      "description": "A flexible enhancer for YouTube on iOS",
+      "language": "Logos",
+      "stars": 4844,
+      "forks": 20142,
+      "stars_today": 55,
+      "built_by": [
+        "Deci8BelioS",
+        "Balackburn",
+        "xiangfeidexiaohuo",
+        "mumuisdog"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "RAG-Anything",
+      "full_name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "language": "Python",
+      "stars": 16922,
+      "forks": 2004,
+      "stars_today": 162,
+      "built_by": [
+        "chaohuang-ai",
+        "LaansDole",
+        "LarFii",
+        "hzywhite",
+        "Jah-yee"
+      ]
+    },
+    {
+      "owner": "sansan0",
+      "name": "TrendRadar",
+      "full_name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "language": "Python",
+      "stars": 53687,
+      "forks": 23543,
+      "stars_today": 534,
+      "built_by": [
+        "wtychn",
+        "bing-h",
+        "actions-user"
+      ]
+    },
+    {
+      "owner": "VoltAgent",
+      "name": "awesome-agent-skills",
+      "full_name": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "language": "Unknown",
+      "stars": 16759,
+      "forks": 1831,
+      "stars_today": 139,
+      "built_by": [
+        "fidalgo",
+        "claude",
+        "0xIchigo",
+        "Shasikhan",
+        "necatiozmen"
+      ]
+    }
+  ]
+}
