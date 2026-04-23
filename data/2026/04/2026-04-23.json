@@ -1,0 +1,217 @@
+{
+  "date": "2026-04-23",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "zilliztech",
+      "name": "claude-context",
+      "full_name": "zilliztech/claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "stars": 7578,
+      "forks": 624,
+      "stars_today": 871,
+      "built_by": [
+        "zc277584121",
+        "jaxkodex",
+        "codingjaguar",
+        "Acren",
+        "Shawnzheng011019"
+      ]
+    },
+    {
+      "owner": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "full_name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars": 13156,
+      "forks": 1723,
+      "stars_today": 1772,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "tilakpatel22",
+        "rudrasheth",
+        "Jaimin-ptl07"
+      ]
+    },
+    {
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "full_name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 51625,
+      "forks": 8305,
+      "stars_today": 424,
+      "built_by": [
+        "claude",
+        "SebastienMelki",
+        "lspassos1",
+        "NewCoder3294"
+      ]
+    },
+    {
+      "owner": "langfuse",
+      "name": "langfuse",
+      "full_name": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+      "language": "TypeScript",
+      "stars": 25640,
+      "forks": 2598,
+      "stars_today": 149,
+      "built_by": [
+        "Steffen911",
+        "nimarb",
+        "marcklingen",
+        "maxdeichmann",
+        "marliessophie"
+      ]
+    },
+    {
+      "owner": "KeygraphHQ",
+      "name": "shannon",
+      "full_name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "language": "TypeScript",
+      "stars": 39617,
+      "forks": 4365,
+      "stars_today": 372,
+      "built_by": [
+        "ajmallesh",
+        "claude",
+        "Khaushik-keygraph",
+        "keygraphVarun",
+        "ezl-keygraph"
+      ]
+    },
+    {
+      "owner": "open-metadata",
+      "name": "OpenMetadata",
+      "full_name": "open-metadata/OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+      "language": "TypeScript",
+      "stars": 12209,
+      "forks": 1991,
+      "stars_today": 521,
+      "built_by": [
+        "ShaileshParmar11",
+        "chirag-madlani",
+        "Sachin-chaurasiya",
+        "pmbrull",
+        "harshach"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 49389,
+      "forks": 6555,
+      "stars_today": 565,
+      "built_by": [
+        "claude",
+        "MaTriXy",
+        "bilibili12433014",
+        "fr4iser90"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "RAG-Anything",
+      "full_name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "language": "Python",
+      "stars": 17575,
+      "forks": 2060,
+      "stars_today": 786,
+      "built_by": [
+        "chaohuang-ai",
+        "hzywhite",
+        "LarFii",
+        "LaansDole",
+        "Jah-yee"
+      ]
+    },
+    {
+      "owner": "sansan0",
+      "name": "TrendRadar",
+      "full_name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "language": "Python",
+      "stars": 54481,
+      "forks": 23658,
+      "stars_today": 969,
+      "built_by": [
+        "wtychn",
+        "actions-user",
+        "bing-h"
+      ]
+    },
+    {
+      "owner": "AIDC-AI",
+      "name": "Pixelle-Video",
+      "full_name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "stars": 5633,
+      "forks": 898,
+      "stars_today": 308,
+      "built_by": [
+        "strict235",
+        "lltt90511",
+        "AuroraChloe",
+        "xianshi-yyds",
+        "puke3615"
+      ]
+    },
+    {
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "full_name": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "stars": 59731,
+      "forks": 6720,
+      "stars_today": 518,
+      "built_by": [
+        "Greatest125",
+        "mokrunka",
+        "cclauss",
+        "W1LDN16H7"
+      ]
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "skills",
+      "full_name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars": 15515,
+      "forks": 1272,
+      "stars_today": 333,
+      "built_by": [
+        "github-actions",
+        "elliotllliu",
+        "pi0",
+        "huozhi",
+        "quuu"
+      ]
+    }
+  ]
+}
