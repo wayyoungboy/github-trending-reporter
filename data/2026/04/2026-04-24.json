@@ -1,0 +1,287 @@
+{
+  "date": "2026-04-24",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "huggingface",
+      "name": "ml-intern",
+      "full_name": "huggingface/ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "language": "Python",
+      "stars": 3430,
+      "forks": 295,
+      "stars_today": 720,
+      "built_by": [
+        "Uzbyr",
+        "jagwar",
+        "akseljoonas",
+        "claude",
+        "henribonamy"
+      ]
+    },
+    {
+      "owner": "zilliztech",
+      "name": "claude-context",
+      "full_name": "zilliztech/claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "stars": 8463,
+      "forks": 664,
+      "stars_today": 1011,
+      "built_by": [
+        "jaxkodex",
+        "codingjaguar",
+        "zc277584121",
+        "Acren",
+        "Shawnzheng011019"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "RAG-Anything",
+      "full_name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "language": "Python",
+      "stars": 18219,
+      "forks": 2102,
+      "stars_today": 590,
+      "built_by": [
+        "Jah-yee",
+        "chaohuang-ai",
+        "LarFii",
+        "LaansDole",
+        "hzywhite"
+      ]
+    },
+    {
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "full_name": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "stars": 61128,
+      "forks": 6850,
+      "stars_today": 1383,
+      "built_by": [
+        "mokrunka",
+        "Greatest125",
+        "cclauss",
+        "W1LDN16H7"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 49855,
+      "forks": 6590,
+      "stars_today": 429,
+      "built_by": [
+        "MaTriXy",
+        "claude",
+        "bilibili12433014",
+        "fr4iser90"
+      ]
+    },
+    {
+      "owner": "Anil-matcha",
+      "name": "Open-Generative-AI",
+      "full_name": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "stars": 6996,
+      "forks": 1337,
+      "stars_today": 316,
+      "built_by": [
+        "taherfattahi",
+        "vadootvpeer",
+        "claude",
+        "jaiprasad04"
+      ]
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "language": "Python",
+      "stars": 5670,
+      "forks": 949,
+      "stars_today": 1962,
+      "built_by": [
+        "cursoragent",
+        "rishiskhare",
+        "claude",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "open-metadata",
+      "name": "OpenMetadata",
+      "full_name": "open-metadata/OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+      "language": "TypeScript",
+      "stars": 12959,
+      "forks": 2017,
+      "stars_today": 776,
+      "built_by": [
+        "ShaileshParmar11",
+        "harshach",
+        "pmbrull",
+        "chirag-madlani",
+        "Sachin-chaurasiya"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "ai-agents-for-beginners",
+      "full_name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars": 58834,
+      "forks": 20038,
+      "stars_today": 208,
+      "built_by": [
+        "hyoshioka0128",
+        "leestott",
+        "ShivamGoyal03",
+        "koreyspace",
+        "skytin1004"
+      ]
+    },
+    {
+      "owner": "PowerShell",
+      "name": "PowerShell",
+      "full_name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": 52800,
+      "forks": 8275,
+      "stars_today": 67,
+      "built_by": [
+        "TravisEz13",
+        "daxian-dbw",
+        "andyleejordan",
+        "adityapatwardhan",
+        "xtqqczze"
+      ]
+    },
+    {
+      "owner": "cline",
+      "name": "cline",
+      "full_name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+      "language": "TypeScript",
+      "stars": 60833,
+      "forks": 6256,
+      "stars_today": 123,
+      "built_by": [
+        "arafatkatze",
+        "saoudrizwan",
+        "abeatrix",
+        "sjf",
+        "celestial-vault"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": 20196,
+      "forks": 3855,
+      "stars_today": 49,
+      "built_by": [
+        "yuslepukhin",
+        "tianleiwu",
+        "edgchen1",
+        "skottmckay",
+        "fs-eire"
+      ]
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
+      "language": "TypeScript",
+      "stars": 9462,
+      "forks": 656,
+      "stars_today": 238,
+      "built_by": [
+        "ipedro",
+        "rjkaes",
+        "claude",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "coreyhaines31",
+      "name": "marketingskills",
+      "full_name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 23886,
+      "forks": 3801,
+      "stars_today": 285,
+      "built_by": [
+        "njcameron",
+        "claude",
+        "basseko",
+        "Jiliac"
+      ]
+    },
+    {
+      "owner": "chiphuyen",
+      "name": "aie-book",
+      "full_name": "chiphuyen/aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
+      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+      "language": "Jupyter Notebook",
+      "stars": 15201,
+      "forks": 2187,
+      "stars_today": 215,
+      "built_by": [
+        "dr3s",
+        "omrylcn",
+        "strickvl",
+        "chris-alexiuk"
+      ]
+    },
+    {
+      "owner": "VoltAgent",
+      "name": "awesome-agent-skills",
+      "full_name": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "language": "Unknown",
+      "stars": 18141,
+      "forks": 1932,
+      "stars_today": 228,
+      "built_by": [
+        "fidalgo",
+        "necatiozmen",
+        "Shasikhan",
+        "claude",
+        "0xIchigo"
+      ]
+    }
+  ]
+}
