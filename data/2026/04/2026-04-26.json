@@ -1,0 +1,232 @@
+{
+  "date": "2026-04-26",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "language": "Python",
+      "stars": 11538,
+      "forks": 1726,
+      "stars_today": 4007,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "cursoragent",
+        "rishiskhare"
+      ]
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "My personal directory of skills, straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 20144,
+      "forks": 1676,
+      "stars_today": 1139,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "full_name": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "stars": 63930,
+      "forks": 7164,
+      "stars_today": 1200,
+      "built_by": [
+        "cclauss",
+        "Greatest125",
+        "W1LDN16H7",
+        "mokrunka"
+      ]
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "language": "Python",
+      "stars": 33507,
+      "forks": 2606,
+      "stars_today": 471,
+      "built_by": [
+        "Twixes",
+        "pauldambra",
+        "github-actions",
+        "benjackwhite",
+        "mariusandra"
+      ]
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 25366,
+      "forks": 2529,
+      "stars_today": 87,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "actions-user",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "deepseek-ai",
+      "name": "DeepEP",
+      "full_name": "deepseek-ai/DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "stars": 9499,
+      "forks": 1197,
+      "stars_today": 189,
+      "built_by": [
+        "fzyzcjy",
+        "wangfakang",
+        "sphish",
+        "LyricZhao",
+        "seth-howell"
+      ]
+    },
+    {
+      "owner": "PowerShell",
+      "name": "PowerShell",
+      "full_name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": 53078,
+      "forks": 8298,
+      "stars_today": 48,
+      "built_by": [
+        "andyleejordan",
+        "TravisEz13",
+        "daxian-dbw",
+        "adityapatwardhan",
+        "xtqqczze"
+      ]
+    },
+    {
+      "owner": "RooCodeInc",
+      "name": "Roo-Code",
+      "full_name": "RooCodeInc/Roo-Code",
+      "url": "https://github.com/RooCodeInc/Roo-Code",
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+      "language": "TypeScript",
+      "stars": 23516,
+      "forks": 3124,
+      "stars_today": 57,
+      "built_by": [
+        "saoudrizwan",
+        "mrubens",
+        "cte",
+        "daniel-lxs",
+        "roomote"
+      ]
+    },
+    {
+      "owner": "huggingface",
+      "name": "ml-intern",
+      "full_name": "huggingface/ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "language": "Python",
+      "stars": 6261,
+      "forks": 566,
+      "stars_today": 1240,
+      "built_by": [
+        "akseljoonas",
+        "henribonamy",
+        "jagwar",
+        "Uzbyr",
+        "claude"
+      ]
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 496017,
+      "forks": 47012,
+      "stars_today": 1432,
+      "built_by": [
+        "bauripalash",
+        "rohitpaulk",
+        "danistefanovic",
+        "fake-rookie",
+        "sarupbanskota"
+      ]
+    },
+    {
+      "owner": "CJackHwang",
+      "name": "ds2api",
+      "full_name": "CJackHwang/ds2api",
+      "url": "https://github.com/CJackHwang/ds2api",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "language": "Go",
+      "stars": 1422,
+      "forks": 459,
+      "stars_today": 44,
+      "built_by": [
+        "ouqiting",
+        "tanaer",
+        "latticeon",
+        "livesRan"
+      ]
+    },
+    {
+      "owner": "Universal-Commerce-Protocol",
+      "name": "ucp",
+      "full_name": "Universal-Commerce-Protocol/ucp",
+      "url": "https://github.com/Universal-Commerce-Protocol/ucp",
+      "description": "Specification and documentation for the Universal Commerce Protocol (UCP)",
+      "language": "Python",
+      "stars": 2796,
+      "forks": 350,
+      "stars_today": 26,
+      "built_by": [
+        "wry-ry",
+        "ptiper",
+        "aksbro-gpu",
+        "igrigorik",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-codex-skills",
+      "full_name": "ComposioHQ/awesome-codex-skills",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "stars": 1500,
+      "forks": 133,
+      "stars_today": 188,
+      "built_by": [
+        "ProfessorManhattan",
+        "hyhmrright",
+        "smorky850612",
+        "connerlambden",
+        "Prat011"
+      ]
+    }
+  ]
+}
