@@ -1,0 +1,223 @@
+{
+  "date": "2026-04-29",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 37817,
+      "forks": 2969,
+      "stars_today": 7321,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 32684,
+      "forks": 3710,
+      "stars_today": 1607,
+      "built_by": [
+        "magyargergo",
+        "claude",
+        "naicud",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-codex-skills",
+      "full_name": "ComposioHQ/awesome-codex-skills",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "stars": 4060,
+      "forks": 260,
+      "stars_today": 953,
+      "built_by": [
+        "foryourhealth111-pixel",
+        "claude",
+        "smorky850612",
+        "Prat011",
+        "hyhmrright"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 44892,
+      "forks": 4982,
+      "stars_today": 1483,
+      "built_by": [
+        "pengzhiliang",
+        "YaoyaoChang",
+        "jsoref",
+        "Copilot",
+        "MSLDCherryPick"
+      ]
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 26182,
+      "forks": 2615,
+      "stars_today": 346,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "actions-user",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "HunxByts",
+      "name": "GhostTrack",
+      "full_name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": 10676,
+      "forks": 1501,
+      "stars_today": 967,
+      "built_by": [
+        "bakaemon"
+      ]
+    },
+    {
+      "owner": "fspecii",
+      "name": "ace-step-ui",
+      "full_name": "fspecii/ace-step-ui",
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "language": "JavaScript",
+      "stars": 1730,
+      "forks": 262,
+      "stars_today": 162,
+      "built_by": [
+        "riversedge",
+        "claude"
+      ]
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 428237,
+      "forks": 46756,
+      "stars_today": 644,
+      "built_by": [
+        "marekdano",
+        "pawelborkar",
+        "jbrooksuk",
+        "davemachado",
+        "matheusfelipeog"
+      ]
+    },
+    {
+      "owner": "CJackHwang",
+      "name": "ds2api",
+      "full_name": "CJackHwang/ds2api",
+      "url": "https://github.com/CJackHwang/ds2api",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "language": "Go",
+      "stars": 2365,
+      "forks": 652,
+      "stars_today": 417,
+      "built_by": [
+        "ouqiting",
+        "latticeon",
+        "claude",
+        "livesRan"
+      ]
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "language": "Python",
+      "stars": 17571,
+      "forks": 2467,
+      "stars_today": 1741,
+      "built_by": [
+        "rishiskhare",
+        "dependabot",
+        "claude",
+        "cursoragent"
+      ]
+    },
+    {
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "full_name": "donnemartin/system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "stars": 345877,
+      "forks": 55830,
+      "stars_today": 744,
+      "built_by": [
+        "luisbg",
+        "cclauss",
+        "fluency03",
+        "satob"
+      ]
+    },
+    {
+      "owner": "EbookFoundation",
+      "name": "free-programming-books",
+      "full_name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": "📚 Freely available programming books",
+      "language": "Python",
+      "stars": 386667,
+      "forks": 66159,
+      "stars_today": 147,
+      "built_by": [
+        "vhf",
+        "kadhirash",
+        "davorpa",
+        "eshellman",
+        "MHM5000"
+      ]
+    },
+    {
+      "owner": "iamgio",
+      "name": "quarkdown",
+      "full_name": "iamgio/quarkdown",
+      "url": "https://github.com/iamgio/quarkdown",
+      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+      "language": "Kotlin",
+      "stars": 12075,
+      "forks": 320,
+      "stars_today": 699,
+      "built_by": [
+        "sanoakr",
+        "DatL4g",
+        "alerque",
+        "OverSamu"
+      ]
+    }
+  ]
+}
