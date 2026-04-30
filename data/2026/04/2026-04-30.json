@@ -1,0 +1,275 @@
+{
+  "date": "2026-04-30",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "warpdotdev",
+      "name": "warp",
+      "full_name": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "stars": 44403,
+      "forks": 2665,
+      "stars_today": 12822,
+      "built_by": [
+        "danielpeng2",
+        "vorporeal",
+        "oz-agent",
+        "exzshao",
+        "seemeroland"
+      ]
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 45001,
+      "forks": 3620,
+      "stars_today": 7280,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "HunxByts",
+      "name": "GhostTrack",
+      "full_name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": 11617,
+      "forks": 1590,
+      "stars_today": 1033,
+      "built_by": [
+        "bakaemon"
+      ]
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-codex-skills",
+      "full_name": "ComposioHQ/awesome-codex-skills",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "stars": 4839,
+      "forks": 298,
+      "stars_today": 1177,
+      "built_by": [
+        "smorky850612",
+        "Prat011",
+        "hyhmrright",
+        "claude",
+        "foryourhealth111-pixel"
+      ]
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 1403,
+      "forks": 131,
+      "stars_today": 411,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 33371,
+      "forks": 3784,
+      "stars_today": 774,
+      "built_by": [
+        "naicud",
+        "Copilot",
+        "magyargergo",
+        "claude"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 45722,
+      "forks": 5054,
+      "stars_today": 1690,
+      "built_by": [
+        "YaoyaoChang",
+        "Copilot",
+        "pengzhiliang",
+        "MSLDCherryPick",
+        "jsoref"
+      ]
+    },
+    {
+      "owner": "CJackHwang",
+      "name": "ds2api",
+      "full_name": "CJackHwang/ds2api",
+      "url": "https://github.com/CJackHwang/ds2api",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "language": "Go",
+      "stars": 2739,
+      "forks": 730,
+      "stars_today": 465,
+      "built_by": [
+        "sisyphus-dev-ai",
+        "shern-point",
+        "ouqiting",
+        "claude"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 173218,
+      "forks": 15272,
+      "stars_today": 1653,
+      "built_by": [
+        "arittr",
+        "clkao",
+        "jjshanks",
+        "claude"
+      ]
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "language": "Python",
+      "stars": 32834,
+      "forks": 32944,
+      "stars_today": 294,
+      "built_by": [
+        "adminlove520",
+        "freesme",
+        "massif-01"
+      ]
+    },
+    {
+      "owner": "lukilabs",
+      "name": "craft-agents-oss",
+      "full_name": "lukilabs/craft-agents-oss",
+      "url": "https://github.com/lukilabs/craft-agents-oss",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 5363,
+      "forks": 723,
+      "stars_today": 393,
+      "built_by": [
+        "github-actions",
+        "rjulius23",
+        "balintorosz",
+        "fagemx",
+        "eachann1024"
+      ]
+    },
+    {
+      "owner": "EbookFoundation",
+      "name": "free-programming-books",
+      "full_name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": "📚 Freely available programming books",
+      "language": "Python",
+      "stars": 387213,
+      "forks": 66186,
+      "stars_today": 604,
+      "built_by": [
+        "MHM5000",
+        "eshellman",
+        "kadhirash",
+        "davorpa",
+        "vhf"
+      ]
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "full_name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 20282,
+      "forks": 1422,
+      "stars_today": 79,
+      "built_by": [
+        "kustermariocoding",
+        "Copilot",
+        "fen0s",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "iv-org",
+      "name": "invidious",
+      "full_name": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "stars": 19442,
+      "forks": 2136,
+      "stars_today": 269,
+      "built_by": [
+        "weblate",
+        "TheFrenchGhosty",
+        "syeopite",
+        "omarroth",
+        "SamantazFox"
+      ]
+    },
+    {
+      "owner": "gorhill",
+      "name": "uBlock",
+      "full_name": "gorhill/uBlock",
+      "url": "https://github.com/gorhill/uBlock",
+      "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+      "language": "JavaScript",
+      "stars": 64053,
+      "forks": 4074,
+      "stars_today": 391,
+      "built_by": [
+        "AlexVallat",
+        "chrisaljoudi",
+        "mjethani",
+        "Deathamns"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "full_name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C#",
+      "stars": 132422,
+      "forks": 7914,
+      "stars_today": 102,
+      "built_by": [
+        "niels9001",
+        "qianlifeng",
+        "bao-qian",
+        "jaimecbernardo",
+        "crutkas"
+      ]
+    }
+  ]
+}
