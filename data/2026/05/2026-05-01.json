@@ -1,0 +1,223 @@
+{
+  "date": "2026-05-01",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "warpdotdev",
+      "name": "warp",
+      "full_name": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "stars": 49342,
+      "forks": 3213,
+      "stars_today": 8399,
+      "built_by": [
+        "seemeroland",
+        "vorporeal",
+        "harryalbert",
+        "exzshao",
+        "oz-agent"
+      ]
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 57834,
+      "forks": 10994,
+      "stars_today": 2023,
+      "built_by": [
+        "CadeYu",
+        "luohy15",
+        "Yijia-Xiao",
+        "EdwardoSunny",
+        "claude"
+      ]
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 49630,
+      "forks": 4066,
+      "stars_today": 6187,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 174639,
+      "forks": 15410,
+      "stars_today": 1632,
+      "built_by": [
+        "arittr",
+        "clkao",
+        "jjshanks",
+        "claude"
+      ]
+    },
+    {
+      "owner": "lukilabs",
+      "name": "craft-agents-oss",
+      "full_name": "lukilabs/craft-agents-oss",
+      "url": "https://github.com/lukilabs/craft-agents-oss",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 5585,
+      "forks": 739,
+      "stars_today": 319,
+      "built_by": [
+        "eachann1024",
+        "fagemx",
+        "rjulius23",
+        "github-actions",
+        "balintorosz"
+      ]
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 429563,
+      "forks": 46869,
+      "stars_today": 322,
+      "built_by": [
+        "marekdano",
+        "jbrooksuk",
+        "pawelborkar",
+        "matheusfelipeog",
+        "davemachado"
+      ]
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 1906,
+      "forks": 174,
+      "stars_today": 675,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "full_name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 20864,
+      "forks": 1450,
+      "stars_today": 730,
+      "built_by": [
+        "kustermariocoding",
+        "fen0s",
+        "dependabot",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "HunxByts",
+      "name": "GhostTrack",
+      "full_name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": 12191,
+      "forks": 1631,
+      "stars_today": 841,
+      "built_by": [
+        "bakaemon"
+      ]
+    },
+    {
+      "owner": "iamgio",
+      "name": "quarkdown",
+      "full_name": "iamgio/quarkdown",
+      "url": "https://github.com/iamgio/quarkdown",
+      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+      "language": "Kotlin",
+      "stars": 13096,
+      "forks": 358,
+      "stars_today": 177,
+      "built_by": [
+        "OverSamu",
+        "luojiyin1987",
+        "emsspree",
+        "sanoakr"
+      ]
+    },
+    {
+      "owner": "ghostty-org",
+      "name": "ghostty",
+      "full_name": "ghostty-org/ghostty",
+      "url": "https://github.com/ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "stars": 52889,
+      "forks": 2565,
+      "stars_today": 341,
+      "built_by": [
+        "pluiedev",
+        "mitchellh",
+        "jparise",
+        "jcollie",
+        "qwerasd205"
+      ]
+    },
+    {
+      "owner": "ForrestKnight",
+      "name": "open-source-cs",
+      "full_name": "ForrestKnight/open-source-cs",
+      "url": "https://github.com/ForrestKnight/open-source-cs",
+      "description": "Video discussing this curriculum:",
+      "language": "Unknown",
+      "stars": 22387,
+      "forks": 3214,
+      "stars_today": 140,
+      "built_by": [
+        "KevoMeister",
+        "0xflotus",
+        "zubko"
+      ]
+    },
+    {
+      "owner": "browserbase",
+      "name": "skills",
+      "full_name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars": 853,
+      "forks": 65,
+      "stars_today": 69,
+      "built_by": [
+        "shrey150",
+        "miguelg719",
+        "shubh24",
+        "pkiv",
+        "claude"
+      ]
+    }
+  ]
+}
