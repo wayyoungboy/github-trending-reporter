@@ -1,0 +1,157 @@
+{
+  "date": "2026-05-02",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 59959,
+      "forks": 11525,
+      "stars_today": 2112,
+      "built_by": [
+        "luohy15",
+        "EdwardoSunny",
+        "Yijia-Xiao",
+        "CadeYu",
+        "claude"
+      ]
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "full_name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 21705,
+      "forks": 1515,
+      "stars_today": 535,
+      "built_by": [
+        "fen0s",
+        "Copilot",
+        "dependabot",
+        "kustermariocoding"
+      ]
+    },
+    {
+      "owner": "warpdotdev",
+      "name": "warp",
+      "full_name": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "stars": 51525,
+      "forks": 3467,
+      "stars_today": 3401,
+      "built_by": [
+        "vorporeal",
+        "exzshao",
+        "anshul-garg27",
+        "captainsafia",
+        "oz-agent"
+      ]
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 2380,
+      "forks": 209,
+      "stars_today": 403,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 52635,
+      "forks": 4409,
+      "stars_today": 3645,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "browserbase",
+      "name": "skills",
+      "full_name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars": 1198,
+      "forks": 83,
+      "stars_today": 334,
+      "built_by": [
+        "shubh24",
+        "pkiv",
+        "claude",
+        "miguelg719",
+        "shrey150"
+      ]
+    },
+    {
+      "owner": "simstudioai",
+      "name": "sim",
+      "full_name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "language": "TypeScript",
+      "stars": 28165,
+      "forks": 3558,
+      "stars_today": 56,
+      "built_by": [
+        "emir-karabeg",
+        "Sg312",
+        "waleedlatif1",
+        "icecrasher321",
+        "claude"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 175658,
+      "forks": 15522,
+      "stars_today": 1096,
+      "built_by": [
+        "jjshanks",
+        "claude",
+        "clkao",
+        "arittr"
+      ]
+    },
+    {
+      "owner": "Flowseal",
+      "name": "zapret-discord-youtube",
+      "full_name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 26976,
+      "forks": 2107,
+      "stars_today": 145,
+      "built_by": [
+        "amozebus",
+        "fridorin",
+        "V3nilla",
+        "ekungurov"
+      ]
+    }
+  ]
+}
