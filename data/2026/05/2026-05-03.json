@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-03",
+  "total_repos": 8,
+  "repositories": [
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 62822,
+      "forks": 12149,
+      "stars_today": 2225,
+      "built_by": [
+        "claude",
+        "luohy15",
+        "CadeYu",
+        "Yijia-Xiao",
+        "EdwardoSunny"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars": 36877,
+      "forks": 4229,
+      "stars_today": 1299,
+      "built_by": [
+        "claude",
+        "alexx-ftw",
+        "tommy-ca",
+        "lanemc"
+      ]
+    },
+    {
+      "owner": "browserbase",
+      "name": "skills",
+      "full_name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars": 1534,
+      "forks": 103,
+      "stars_today": 346,
+      "built_by": [
+        "claude",
+        "miguelg719",
+        "shubh24",
+        "pkiv",
+        "shrey150"
+      ]
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "full_name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 22765,
+      "forks": 1599,
+      "stars_today": 1064,
+      "built_by": [
+        "dependabot",
+        "kustermariocoding",
+        "Copilot",
+        "fen0s"
+      ]
+    },
+    {
+      "owner": "Flowseal",
+      "name": "zapret-discord-youtube",
+      "full_name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 27122,
+      "forks": 2112,
+      "stars_today": 181,
+      "built_by": [
+        "fridorin",
+        "ekungurov",
+        "amozebus",
+        "V3nilla"
+      ]
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 2870,
+      "forks": 259,
+      "stars_today": 482,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "ShareX",
+      "name": "ShareX",
+      "full_name": "ShareX/ShareX",
+      "url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "language": "C#",
+      "stars": 36833,
+      "forks": 3680,
+      "stars_today": 152,
+      "built_by": [
+        "SupSuper",
+        "L1Q",
+        "Jaex",
+        "McoreD",
+        "sylveon"
+      ]
+    },
+    {
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "full_name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "Unknown",
+      "stars": 344600,
+      "forks": 82479,
+      "stars_today": 694,
+      "built_by": [
+        "avizmarlon",
+        "Anri-Lombard",
+        "esaucedof",
+        "Ilyushin"
+      ]
+    }
+  ]
+}
