@@ -1,0 +1,262 @@
+{
+  "date": "2026-05-05",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars": 41519,
+      "forks": 4645,
+      "stars_today": 2598,
+      "built_by": [
+        "claude",
+        "alexx-ftw",
+        "lanemc",
+        "tommy-ca"
+      ]
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 67603,
+      "forks": 13004,
+      "stars_today": 2182,
+      "built_by": [
+        "CadeYu",
+        "Yijia-Xiao",
+        "claude",
+        "luohy15",
+        "EdwardoSunny"
+      ]
+    },
+    {
+      "owner": "browserbase",
+      "name": "skills",
+      "full_name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars": 2131,
+      "forks": 134,
+      "stars_today": 320,
+      "built_by": [
+        "shrey150",
+        "claude",
+        "miguelg719",
+        "shubh24",
+        "pkiv"
+      ]
+    },
+    {
+      "owner": "Hmbown",
+      "name": "DeepSeek-TUI",
+      "full_name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars": 4060,
+      "forks": 274,
+      "stars_today": 1274,
+      "built_by": [
+        "claude",
+        "devin-ai-integration",
+        "qwencoder",
+        "20bytes"
+      ]
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "full_name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 24886,
+      "forks": 1733,
+      "stars_today": 1119,
+      "built_by": [
+        "fen0s",
+        "dependabot",
+        "Copilot",
+        "kustermariocoding"
+      ]
+    },
+    {
+      "owner": "qbittorrent",
+      "name": "qBittorrent",
+      "full_name": "qbittorrent/qBittorrent",
+      "url": "https://github.com/qbittorrent/qBittorrent",
+      "description": "qBittorrent BitTorrent client",
+      "language": "C++",
+      "stars": 37061,
+      "forks": 4651,
+      "stars_today": 82,
+      "built_by": [
+        "Chocobo1",
+        "Piccirello",
+        "sledgehammer999",
+        "glassez",
+        "zeule"
+      ]
+    },
+    {
+      "owner": "czlonkowski",
+      "name": "n8n-mcp",
+      "full_name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars": 19931,
+      "forks": 3267,
+      "stars_today": 496,
+      "built_by": [
+        "claude",
+        "naXa777",
+        "kimbo128",
+        "thesved"
+      ]
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 3932,
+      "forks": 372,
+      "stars_today": 548,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 92713,
+      "forks": 15247,
+      "stars_today": 1189,
+      "built_by": [
+        "claude",
+        "CagesThrottleUs",
+        "4shil",
+        "epowelljr"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "dexter",
+      "full_name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 23229,
+      "forks": 2844,
+      "stars_today": 409,
+      "built_by": [
+        "cursoragent",
+        "MkDev11",
+        "sjhddh",
+        "gupta-8"
+      ]
+    },
+    {
+      "owner": "Flowseal",
+      "name": "zapret-discord-youtube",
+      "full_name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 27319,
+      "forks": 2133,
+      "stars_today": 67,
+      "built_by": [
+        "V3nilla",
+        "fridorin",
+        "amozebus",
+        "ekungurov"
+      ]
+    },
+    {
+      "owner": "fspecii",
+      "name": "ace-step-ui",
+      "full_name": "fspecii/ace-step-ui",
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "language": "JavaScript",
+      "stars": 2860,
+      "forks": 411,
+      "stars_today": 237,
+      "built_by": [
+        "claude",
+        "riversedge"
+      ]
+    },
+    {
+      "owner": "jellyfin",
+      "name": "jellyfin",
+      "full_name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": 51164,
+      "forks": 4740,
+      "stars_today": 41,
+      "built_by": [
+        "LukePulverenti",
+        "cvium",
+        "joshuaboniface",
+        "crobibero",
+        "Bond-009"
+      ]
+    },
+    {
+      "owner": "cocoindex-io",
+      "name": "cocoindex",
+      "full_name": "cocoindex-io/cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "language": "Python",
+      "stars": 8025,
+      "forks": 592,
+      "stars_today": 166,
+      "built_by": [
+        "georgeh0",
+        "badmonster0",
+        "Haleshot",
+        "claude",
+        "lemorage"
+      ]
+    },
+    {
+      "owner": "docusealco",
+      "name": "docuseal",
+      "full_name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": 13306,
+      "forks": 1213,
+      "stars_today": 535,
+      "built_by": [
+        "AlexBTurchyn",
+        "dependabot",
+        "jbenguira",
+        "omohokcoj",
+        "imchairmanm"
+      ]
+    }
+  ]
+}
