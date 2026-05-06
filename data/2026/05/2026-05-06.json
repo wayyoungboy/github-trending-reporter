@@ -1,0 +1,266 @@
+{
+  "date": "2026-05-06",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "Hmbown",
+      "name": "DeepSeek-TUI",
+      "full_name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars": 7914,
+      "forks": 607,
+      "stars_today": 2434,
+      "built_by": [
+        "gemini-code-assist",
+        "claude",
+        "WyxBUPT-22",
+        "qwencoder"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars": 43761,
+      "forks": 4869,
+      "stars_today": 2432,
+      "built_by": [
+        "claude",
+        "tommy-ca",
+        "alexx-ftw",
+        "lanemc"
+      ]
+    },
+    {
+      "owner": "virattt",
+      "name": "dexter",
+      "full_name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 23819,
+      "forks": 2901,
+      "stars_today": 659,
+      "built_by": [
+        "gupta-8",
+        "sjhddh",
+        "MkDev11",
+        "cursoragent"
+      ]
+    },
+    {
+      "owner": "docusealco",
+      "name": "docuseal",
+      "full_name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": 14043,
+      "forks": 1263,
+      "stars_today": 927,
+      "built_by": [
+        "AlexBTurchyn",
+        "jbenguira",
+        "omohokcoj",
+        "imchairmanm",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "bwya77",
+      "name": "vscode-dark-islands",
+      "full_name": "bwya77/vscode-dark-islands",
+      "url": "https://github.com/bwya77/vscode-dark-islands",
+      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "language": "PowerShell",
+      "stars": 7889,
+      "forks": 239,
+      "stars_today": 321,
+      "built_by": [
+        "divinefavourak",
+        "hezhamen",
+        "claude",
+        "mayur1377"
+      ]
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+      "language": "TypeScript",
+      "stars": 13081,
+      "forks": 898,
+      "stars_today": 276,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "ipedro",
+        "rjkaes"
+      ]
+    },
+    {
+      "owner": "cocoindex-io",
+      "name": "cocoindex",
+      "full_name": "cocoindex-io/cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "language": "Python",
+      "stars": 8411,
+      "forks": 619,
+      "stars_today": 438,
+      "built_by": [
+        "lemorage",
+        "claude",
+        "Haleshot",
+        "badmonster0",
+        "georgeh0"
+      ]
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 93688,
+      "forks": 15418,
+      "stars_today": 1218,
+      "built_by": [
+        "4shil",
+        "claude",
+        "CagesThrottleUs",
+        "epowelljr"
+      ]
+    },
+    {
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "full_name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "Unknown",
+      "stars": 345841,
+      "forks": 82731,
+      "stars_today": 366,
+      "built_by": [
+        "Ilyushin",
+        "Anri-Lombard",
+        "esaucedof",
+        "avizmarlon"
+      ]
+    },
+    {
+      "owner": "Arindam200",
+      "name": "awesome-ai-apps",
+      "full_name": "Arindam200/awesome-ai-apps",
+      "url": "https://github.com/Arindam200/awesome-ai-apps",
+      "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+      "language": "Python",
+      "stars": 11359,
+      "forks": 1474,
+      "stars_today": 211,
+      "built_by": [
+        "coderabbitai",
+        "Astrodevil",
+        "shivaylamba",
+        "3rd-Son"
+      ]
+    },
+    {
+      "owner": "AIDC-AI",
+      "name": "Pixelle-Video",
+      "full_name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "stars": 11789,
+      "forks": 1814,
+      "stars_today": 691,
+      "built_by": [
+        "xianshi-yyds",
+        "AuroraChloe",
+        "strict235",
+        "lltt90511",
+        "puke3615"
+      ]
+    },
+    {
+      "owner": "LearningCircuit",
+      "name": "local-deep-research",
+      "full_name": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "language": "Python",
+      "stars": 5185,
+      "forks": 481,
+      "stars_today": 197,
+      "built_by": [
+        "dependabot",
+        "github-actions",
+        "HashedViking",
+        "djpetti"
+      ]
+    },
+    {
+      "owner": "browserbase",
+      "name": "skills",
+      "full_name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars": 2396,
+      "forks": 153,
+      "stars_today": 311,
+      "built_by": [
+        "pkiv",
+        "miguelg719",
+        "shubh24",
+        "claude",
+        "shrey150"
+      ]
+    },
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 114107,
+      "forks": 11405,
+      "stars_today": 2409,
+      "built_by": [
+        "szkocot",
+        "claude",
+        "back1ply",
+        "herobrine19"
+      ]
+    },
+    {
+      "owner": "PriorLabs",
+      "name": "TabPFN",
+      "full_name": "PriorLabs/TabPFN",
+      "url": "https://github.com/PriorLabs/TabPFN",
+      "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+      "language": "Python",
+      "stars": 6374,
+      "forks": 640,
+      "stars_today": 57,
+      "built_by": [
+        "oscarkey",
+        "bejaeger",
+        "dependabot",
+        "LeoGrin",
+        "noahho"
+      ]
+    }
+  ]
+}
