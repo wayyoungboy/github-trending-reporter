@@ -1,0 +1,234 @@
+{
+  "date": "2026-05-08",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 11934,
+      "forks": 1543,
+      "stars_today": 1343,
+      "built_by": [
+        "tobinsouth",
+        "mihilmy",
+        "cxyback",
+        "manar-ant",
+        "viveknair"
+      ]
+    },
+    {
+      "owner": "Hmbown",
+      "name": "DeepSeek-TUI",
+      "full_name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars": 19127,
+      "forks": 1458,
+      "stars_today": 5799,
+      "built_by": [
+        "axobase001",
+        "claude",
+        "angziii",
+        "gemini-code-assist"
+      ]
+    },
+    {
+      "owner": "z-lab",
+      "name": "dflash",
+      "full_name": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "language": "Python",
+      "stars": 3524,
+      "forks": 249,
+      "stars_today": 671,
+      "built_by": [
+        "jianc99",
+        "xiziqiao",
+        "shaun0927",
+        "zhijian-liu"
+      ]
+    },
+    {
+      "owner": "InsForge",
+      "name": "InsForge",
+      "full_name": "InsForge/InsForge",
+      "url": "https://github.com/InsForge/InsForge",
+      "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+      "language": "TypeScript",
+      "stars": 8887,
+      "forks": 735,
+      "stars_today": 460,
+      "built_by": [
+        "claude",
+        "jwfing",
+        "Fermionic-Lyu",
+        "Leo-rq-yu",
+        "tonychang04"
+      ]
+    },
+    {
+      "owner": "LearningCircuit",
+      "name": "local-deep-research",
+      "full_name": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "language": "Python",
+      "stars": 6297,
+      "forks": 553,
+      "stars_today": 559,
+      "built_by": [
+        "djpetti",
+        "dependabot",
+        "github-actions",
+        "HashedViking"
+      ]
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 33107,
+      "forks": 3824,
+      "stars_today": 3062,
+      "built_by": [
+        "federicobartoli",
+        "claude",
+        "dj2313",
+        "nucliweb"
+      ]
+    },
+    {
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": 29608,
+      "forks": 2499,
+      "stars_today": 943,
+      "built_by": [
+        "BukeLy",
+        "rejojer",
+        "luojiyin1987",
+        "zmtomorrow",
+        "KylinMountain"
+      ]
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "open-agents",
+      "full_name": "vercel-labs/open-agents",
+      "url": "https://github.com/vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "language": "TypeScript",
+      "stars": 5065,
+      "forks": 636,
+      "stars_today": 131,
+      "built_by": [
+        "willsather",
+        "yavorpunchev",
+        "claude",
+        "nicoalbanese",
+        "pranaygp"
+      ]
+    },
+    {
+      "owner": "docusealco",
+      "name": "docuseal",
+      "full_name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": 15661,
+      "forks": 1412,
+      "stars_today": 900,
+      "built_by": [
+        "jbenguira",
+        "omohokcoj",
+        "dependabot",
+        "AlexBTurchyn",
+        "imchairmanm"
+      ]
+    },
+    {
+      "owner": "decolua",
+      "name": "9router",
+      "full_name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": 4619,
+      "forks": 991,
+      "stars_today": 149,
+      "built_by": [
+        "anuragg-saxenaa",
+        "catalinstanciu",
+        "claude",
+        "Blade096",
+        "cursoragent"
+      ]
+    },
+    {
+      "owner": "PriorLabs",
+      "name": "TabPFN",
+      "full_name": "PriorLabs/TabPFN",
+      "url": "https://github.com/PriorLabs/TabPFN",
+      "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+      "language": "Python",
+      "stars": 6799,
+      "forks": 669,
+      "stars_today": 230,
+      "built_by": [
+        "oscarkey",
+        "dependabot",
+        "noahho",
+        "LeoGrin",
+        "bejaeger"
+      ]
+    },
+    {
+      "owner": "aaif-goose",
+      "name": "goose",
+      "full_name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 44533,
+      "forks": 4555,
+      "stars_today": 390,
+      "built_by": [
+        "angiejones",
+        "michaelneale",
+        "dianed-square",
+        "EbonyLouis",
+        "blackgirlbytes"
+      ]
+    },
+    {
+      "owner": "Augani",
+      "name": "openreel-video",
+      "full_name": "Augani/openreel-video",
+      "url": "https://github.com/Augani/openreel-video",
+      "description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
+      "language": "TypeScript",
+      "stars": 1763,
+      "forks": 263,
+      "stars_today": 233,
+      "built_by": [
+        "joshmoy",
+        "Copilot",
+        "lvalics"
+      ]
+    }
+  ]
+}
