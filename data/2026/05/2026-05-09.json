@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-09",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 15316,
+      "forks": 1919,
+      "stars_today": 3660,
+      "built_by": [
+        "tobinsouth",
+        "cxyback",
+        "mihilmy",
+        "manar-ant",
+        "viveknair"
+      ]
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 35538,
+      "forks": 4032,
+      "stars_today": 1893,
+      "built_by": [
+        "dj2313",
+        "claude",
+        "nucliweb",
+        "federicobartoli"
+      ]
+    },
+    {
+      "owner": "Hmbown",
+      "name": "DeepSeek-TUI",
+      "full_name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars": 21915,
+      "forks": 1713,
+      "stars_today": 3731,
+      "built_by": [
+        "claude",
+        "axobase001",
+        "reidliu41",
+        "angziii"
+      ]
+    },
+    {
+      "owner": "z-lab",
+      "name": "dflash",
+      "full_name": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "language": "Python",
+      "stars": 3861,
+      "forks": 266,
+      "stars_today": 379,
+      "built_by": [
+        "shaun0927",
+        "jianc99",
+        "zhijian-liu",
+        "xiziqiao"
+      ]
+    },
+    {
+      "owner": "decolua",
+      "name": "9router",
+      "full_name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": 5642,
+      "forks": 1074,
+      "stars_today": 1052,
+      "built_by": [
+        "Blade096",
+        "cursoragent",
+        "anuragg-saxenaa",
+        "claude",
+        "catalinstanciu"
+      ]
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "full_name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 3099,
+      "forks": 249,
+      "stars_today": 526,
+      "built_by": [
+        "dependabot",
+        "evelaa123",
+        "Cloak-HQ",
+        "Durafen",
+        "kitiho"
+      ]
+    },
+    {
+      "owner": "awslabs",
+      "name": "aidlc-workflows",
+      "full_name": "awslabs/aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "language": "Python",
+      "stars": 1777,
+      "forks": 305,
+      "stars_today": 58,
+      "built_by": [
+        "dependabot",
+        "scottschreckengaust",
+        "harmjeff",
+        "leandrodamascena",
+        "raj-jain-aws"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "AI-Trader",
+      "full_name": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "stars": 14677,
+      "forks": 2438,
+      "stars_today": 202,
+      "built_by": [
+        "chaohuang-ai",
+        "Hoder-zyf",
+        "TianyuFan0504",
+        "yuh-yang",
+        "Dennis-yxchen"
+      ]
+    },
+    {
+      "owner": "LearningCircuit",
+      "name": "local-deep-research",
+      "full_name": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "language": "Python",
+      "stars": 6756,
+      "forks": 599,
+      "stars_today": 559,
+      "built_by": [
+        "djpetti",
+        "github-actions",
+        "dependabot",
+        "HashedViking"
+      ]
+    },
+    {
+      "owner": "lobehub",
+      "name": "lobehub",
+      "full_name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "language": "TypeScript",
+      "stars": 76526,
+      "forks": 15112,
+      "stars_today": 125,
+      "built_by": [
+        "arvinxx",
+        "lobehubbot",
+        "claude",
+        "canisminor1990",
+        "semantic-release-bot"
+      ]
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "hello-agents",
+      "full_name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "stars": 44676,
+      "forks": 5427,
+      "stars_today": 667,
+      "built_by": [
+        "fengju0213",
+        "HeteroCat",
+        "JJasonSun",
+        "jjyaoao",
+        "Tasselszcx"
+      ]
+    },
+    {
+      "owner": "flutter",
+      "name": "skills",
+      "full_name": "flutter/skills",
+      "url": "https://github.com/flutter/skills",
+      "description": "",
+      "language": "Dart",
+      "stars": 1695,
+      "forks": 93,
+      "stars_today": 118,
+      "built_by": [
+        "jwren",
+        "reidbaker",
+        "gemini-code-assist",
+        "johnpryan",
+        "mariamhas"
+      ]
+    }
+  ]
+}
