@@ -1,0 +1,236 @@
+{
+  "date": "2026-05-10",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 17460,
+      "forks": 2215,
+      "stars_today": 3281,
+      "built_by": [
+        "manar-ant",
+        "mihilmy",
+        "viveknair",
+        "tobinsouth",
+        "cxyback"
+      ]
+    },
+    {
+      "owner": "bytedance",
+      "name": "UI-TARS-desktop",
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 31445,
+      "forks": 3126,
+      "stars_today": 552,
+      "built_by": [
+        "ZhaoHeh",
+        "cjraft",
+        "ycjcl868",
+        "skychx",
+        "ulivz"
+      ]
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "full_name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 3470,
+      "forks": 342,
+      "stars_today": 533,
+      "built_by": [
+        "JasonLandbridge",
+        "Tanmay-008",
+        "Edison-A-N",
+        "Getty"
+      ]
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "hello-agents",
+      "full_name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "stars": 45720,
+      "forks": 5535,
+      "stars_today": 1197,
+      "built_by": [
+        "Tasselszcx",
+        "JJasonSun",
+        "jjyaoao",
+        "fengju0213",
+        "HeteroCat"
+      ]
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "easy-vibe",
+      "full_name": "datawhalechina/easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+      "language": "JavaScript",
+      "stars": 8556,
+      "forks": 862,
+      "stars_today": 294,
+      "built_by": [
+        "GeoDaoyu",
+        "sanbuphy",
+        "claude",
+        "1985312383",
+        "SherryTECNU"
+      ]
+    },
+    {
+      "owner": "rowboatlabs",
+      "name": "rowboat",
+      "full_name": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "stars": 13806,
+      "forks": 1370,
+      "stars_today": 144,
+      "built_by": [
+        "arkml",
+        "github-actions",
+        "akhisud3195",
+        "tusharmagar",
+        "ramnique"
+      ]
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 38842,
+      "forks": 2457,
+      "stars_today": 107,
+      "built_by": [
+        "szuend",
+        "browser-automation-bot",
+        "Lightning00Blade",
+        "OrKoN",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "masterking32",
+      "name": "MasterDnsVPN",
+      "full_name": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars": 2554,
+      "forks": 273,
+      "stars_today": 597,
+      "built_by": [
+        "MahdiMirzadeh",
+        "typerhack",
+        "PentSec",
+        "abolix"
+      ]
+    },
+    {
+      "owner": "playcanvas",
+      "name": "supersplat",
+      "full_name": "playcanvas/supersplat",
+      "url": "https://github.com/playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "language": "TypeScript",
+      "stars": 6333,
+      "forks": 732,
+      "stars_today": 514,
+      "built_by": [
+        "simonbethke",
+        "renovate",
+        "slimbuck",
+        "cursoragent",
+        "willeastcott"
+      ]
+    },
+    {
+      "owner": "Lordog",
+      "name": "dive-into-llms",
+      "full_name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": 36490,
+      "forks": 4486,
+      "stars_today": 160,
+      "built_by": [
+        "zwhe99",
+        "cooelf",
+        "dongdongzhaoUP",
+        "scofield7419"
+      ]
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 37430,
+      "forks": 4182,
+      "stars_today": 3009,
+      "built_by": [
+        "nucliweb",
+        "dj2313",
+        "federicobartoli",
+        "claude"
+      ]
+    },
+    {
+      "owner": "decolua",
+      "name": "9router",
+      "full_name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": 6537,
+      "forks": 1171,
+      "stars_today": 1031,
+      "built_by": [
+        "catalinstanciu",
+        "claude",
+        "Blade096",
+        "cursoragent",
+        "anuragg-saxenaa"
+      ]
+    },
+    {
+      "owner": "oracle-devrel",
+      "name": "oracle-ai-developer-hub",
+      "full_name": "oracle-devrel/oracle-ai-developer-hub",
+      "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+      "description": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
+      "language": "Jupyter Notebook",
+      "stars": 813,
+      "forks": 231,
+      "stars_today": 90,
+      "built_by": [
+        "WSPluta",
+        "peppertech",
+        "jasperan",
+        "vmleon",
+        "RichmondAlake"
+      ]
+    }
+  ]
+}
