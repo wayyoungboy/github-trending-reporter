@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-11",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "bytedance",
+      "name": "UI-TARS-desktop",
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 32208,
+      "forks": 3194,
+      "stars_today": 669,
+      "built_by": [
+        "ycjcl868",
+        "ulivz",
+        "ZhaoHeh",
+        "cjraft",
+        "skychx"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 18974,
+      "forks": 2456,
+      "stars_today": 1449,
+      "built_by": [
+        "manar-ant",
+        "mihilmy",
+        "viveknair",
+        "tobinsouth",
+        "cxyback"
+      ]
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 38547,
+      "forks": 4273,
+      "stars_today": 1065,
+      "built_by": [
+        "claude",
+        "dj2313",
+        "federicobartoli",
+        "nucliweb"
+      ]
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "full_name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 4839,
+      "forks": 374,
+      "stars_today": 496,
+      "built_by": [
+        "dependabot",
+        "kitiho",
+        "Durafen",
+        "Cloak-HQ",
+        "evelaa123"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "AI-Trader",
+      "full_name": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "stars": 15633,
+      "forks": 2532,
+      "stars_today": 163,
+      "built_by": [
+        "Dennis-yxchen",
+        "yuh-yang",
+        "chaohuang-ai",
+        "Hoder-zyf",
+        "TianyuFan0504"
+      ]
+    },
+    {
+      "owner": "jundot",
+      "name": "omlx",
+      "full_name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 13334,
+      "forks": 1140,
+      "stars_today": 185,
+      "built_by": [
+        "claude",
+        "latent-variable",
+        "lyonsno",
+        "ethannortharc"
+      ]
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "easy-vibe",
+      "full_name": "datawhalechina/easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "stars": 9235,
+      "forks": 900,
+      "stars_today": 635,
+      "built_by": [
+        "1985312383",
+        "claude",
+        "GeoDaoyu",
+        "SherryTECNU",
+        "sanbuphy"
+      ]
+    },
+    {
+      "owner": "playcanvas",
+      "name": "supersplat",
+      "full_name": "playcanvas/supersplat",
+      "url": "https://github.com/playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "language": "TypeScript",
+      "stars": 6853,
+      "forks": 771,
+      "stars_today": 579,
+      "built_by": [
+        "cursoragent",
+        "simonbethke",
+        "renovate",
+        "slimbuck",
+        "willeastcott"
+      ]
+    },
+    {
+      "owner": "lsdefine",
+      "name": "GenericAgent",
+      "full_name": "lsdefine/GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "stars": 10556,
+      "forks": 1200,
+      "stars_today": 174,
+      "built_by": [
+        "AspasZhang",
+        "shenhao-stu",
+        "ViviqwerAsd",
+        "JinyiHan99"
+      ]
+    },
+    {
+      "owner": "decolua",
+      "name": "9router",
+      "full_name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": 7364,
+      "forks": 1241,
+      "stars_today": 803,
+      "built_by": [
+        "catalinstanciu",
+        "anuragg-saxenaa",
+        "claude",
+        "cursoragent",
+        "Blade096"
+      ]
+    },
+    {
+      "owner": "affaan-m",
+      "name": "everything-claude-code",
+      "full_name": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 178330,
+      "forks": 27533,
+      "stars_today": 1081,
+      "built_by": [
+        "claude",
+        "pangerlkr",
+        "greptile-apps",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "hello-agents",
+      "full_name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "stars": 46634,
+      "forks": 5614,
+      "stars_today": 748,
+      "built_by": [
+        "jjyaoao",
+        "JJasonSun",
+        "Tasselszcx",
+        "fengju0213",
+        "HeteroCat"
+      ]
+    }
+  ]
+}
