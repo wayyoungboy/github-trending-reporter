@@ -1,0 +1,236 @@
+{
+  "date": "2026-05-12",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "bytedance",
+      "name": "UI-TARS-desktop",
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 33050,
+      "forks": 3276,
+      "stars_today": 956,
+      "built_by": [
+        "cjraft",
+        "ZhaoHeh",
+        "skychx",
+        "ycjcl868",
+        "ulivz"
+      ]
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "full_name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 6273,
+      "forks": 460,
+      "stars_today": 1320,
+      "built_by": [
+        "evelaa123",
+        "kitiho",
+        "dependabot",
+        "Durafen",
+        "Cloak-HQ"
+      ]
+    },
+    {
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "full_name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": 10865,
+      "forks": 2012,
+      "stars_today": 427,
+      "built_by": [
+        "niuwenzheng",
+        "gaozhenqiang",
+        "whh2333",
+        "Yuuki-Sakura",
+        "gao1234-prog"
+      ]
+    },
+    {
+      "owner": "playcanvas",
+      "name": "supersplat",
+      "full_name": "playcanvas/supersplat",
+      "url": "https://github.com/playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "language": "TypeScript",
+      "stars": 7378,
+      "forks": 810,
+      "stars_today": 531,
+      "built_by": [
+        "simonbethke",
+        "cursoragent",
+        "willeastcott",
+        "renovate",
+        "slimbuck"
+      ]
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "easy-vibe",
+      "full_name": "datawhalechina/easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "stars": 9974,
+      "forks": 950,
+      "stars_today": 812,
+      "built_by": [
+        "SherryTECNU",
+        "sanbuphy",
+        "GeoDaoyu",
+        "claude",
+        "1985312383"
+      ]
+    },
+    {
+      "owner": "decolua",
+      "name": "9router",
+      "full_name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": 8406,
+      "forks": 1336,
+      "stars_today": 941,
+      "built_by": [
+        "cursoragent",
+        "Blade096",
+        "anuragg-saxenaa",
+        "catalinstanciu",
+        "claude"
+      ]
+    },
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 1537,
+      "forks": 183,
+      "stars_today": 366,
+      "built_by": [
+        "github-actions",
+        "M3gA-Mind",
+        "graycyrus",
+        "claude",
+        "senamakel"
+      ]
+    },
+    {
+      "owner": "millionco",
+      "name": "react-doctor",
+      "full_name": "millionco/react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars": 8104,
+      "forks": 262,
+      "stars_today": 212,
+      "built_by": [
+        "github-actions",
+        "cursoragent",
+        "NisargIO",
+        "amiagent",
+        "aidenybai"
+      ]
+    },
+    {
+      "owner": "Lordog",
+      "name": "dive-into-llms",
+      "full_name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": 37340,
+      "forks": 4578,
+      "stars_today": 422,
+      "built_by": [
+        "zwhe99",
+        "dongdongzhaoUP",
+        "scofield7419",
+        "cooelf"
+      ]
+    },
+    {
+      "owner": "AUTOMATIC1111",
+      "name": "stable-diffusion-webui",
+      "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "language": "Python",
+      "stars": 162910,
+      "forks": 30336,
+      "stars_today": 39,
+      "built_by": [
+        "akx",
+        "dfaker",
+        "w-e-w",
+        "catboxanon"
+      ]
+    },
+    {
+      "owner": "rasbt",
+      "name": "LLMs-from-scratch",
+      "full_name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 93048,
+      "forks": 14342,
+      "stars_today": 337,
+      "built_by": [
+        "d-kleine",
+        "casinca",
+        "rayed-therap",
+        "Intelligence-Manifesto"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 144962,
+      "forks": 22668,
+      "stars_today": 2065,
+      "built_by": [
+        "teknium1",
+        "OutThisLife",
+        "0xbyt4",
+        "kshitijk4poor",
+        "claude"
+      ]
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "full_name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 4805,
+      "forks": 457,
+      "stars_today": 430,
+      "built_by": [
+        "JasonLandbridge",
+        "Edison-A-N",
+        "Tanmay-008",
+        "Getty"
+      ]
+    }
+  ]
+}
