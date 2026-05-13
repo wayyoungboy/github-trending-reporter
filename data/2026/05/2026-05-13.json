@@ -1,0 +1,197 @@
+{
+  "date": "2026-05-13",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 2853,
+      "forks": 276,
+      "stars_today": 1014,
+      "built_by": [
+        "M3gA-Mind",
+        "claude",
+        "senamakel",
+        "graycyrus",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "full_name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 5985,
+      "forks": 558,
+      "stars_today": 1048,
+      "built_by": [
+        "Edison-A-N",
+        "Tanmay-008",
+        "Getty",
+        "JasonLandbridge"
+      ]
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "full_name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 7998,
+      "forks": 583,
+      "stars_today": 1606,
+      "built_by": [
+        "kitiho",
+        "evelaa123",
+        "Cloak-HQ",
+        "dependabot",
+        "Durafen"
+      ]
+    },
+    {
+      "owner": "apernet",
+      "name": "hysteria",
+      "full_name": "apernet/hysteria",
+      "url": "https://github.com/apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "stars": 20267,
+      "forks": 2097,
+      "stars_today": 51,
+      "built_by": [
+        "mritd",
+        "haruue",
+        "tobyxdd",
+        "dependabot",
+        "HynoR"
+      ]
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 76337,
+      "forks": 6577,
+      "stars_today": 3867,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "anonfaded",
+      "name": "FadCam",
+      "full_name": "anonfaded/FadCam",
+      "url": "https://github.com/anonfaded/FadCam",
+      "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+      "language": "Java",
+      "stars": 2241,
+      "forks": 171,
+      "stars_today": 116,
+      "built_by": [
+        "TheImperialOne",
+        "mikropsoft",
+        "weblate",
+        "BoxMiao007"
+      ]
+    },
+    {
+      "owner": "millionco",
+      "name": "react-doctor",
+      "full_name": "millionco/react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars": 8802,
+      "forks": 281,
+      "stars_today": 788,
+      "built_by": [
+        "cursoragent",
+        "amiagent",
+        "aidenybai",
+        "NisargIO",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "rasbt",
+      "name": "LLMs-from-scratch",
+      "full_name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 93857,
+      "forks": 14418,
+      "stars_today": 772,
+      "built_by": [
+        "rayed-therap",
+        "casinca",
+        "Intelligence-Manifesto",
+        "d-kleine"
+      ]
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "hello-agents",
+      "full_name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "stars": 48331,
+      "forks": 5812,
+      "stars_today": 599,
+      "built_by": [
+        "jjyaoao",
+        "HeteroCat",
+        "Tasselszcx",
+        "fengju0213",
+        "JJasonSun"
+      ]
+    },
+    {
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "full_name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": 11961,
+      "forks": 2094,
+      "stars_today": 1282,
+      "built_by": [
+        "whh2333",
+        "niuwenzheng",
+        "Yuuki-Sakura",
+        "gao1234-prog",
+        "gaozhenqiang"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "AI-Trader",
+      "full_name": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "stars": 16667,
+      "forks": 2615,
+      "stars_today": 229,
+      "built_by": [
+        "TianyuFan0504",
+        "yuh-yang",
+        "Dennis-yxchen",
+        "chaohuang-ai",
+        "Hoder-zyf"
+      ]
+    }
+  ]
+}
