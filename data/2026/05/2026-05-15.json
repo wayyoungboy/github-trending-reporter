@@ -1,0 +1,266 @@
+{
+  "date": "2026-05-15",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 56144,
+      "forks": 7429,
+      "stars_today": 1715,
+      "built_by": [
+        "fr4iser90",
+        "MaTriXy",
+        "github-actions",
+        "claude"
+      ]
+    },
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 7854,
+      "forks": 635,
+      "stars_today": 3329,
+      "built_by": [
+        "claude",
+        "M3gA-Mind",
+        "github-actions",
+        "senamakel",
+        "graycyrus"
+      ]
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "full_name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 9042,
+      "forks": 747,
+      "stars_today": 1879,
+      "built_by": [
+        "Tanmay-008",
+        "Getty",
+        "JasonLandbridge",
+        "mvanhorn"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 191340,
+      "forks": 17017,
+      "stars_today": 1780,
+      "built_by": [
+        "clkao",
+        "claude",
+        "jjshanks",
+        "arittr"
+      ]
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": 21846,
+      "forks": 2380,
+      "stars_today": 654,
+      "built_by": [
+        "TKassis",
+        "claude",
+        "leipzig",
+        "fedorov",
+        "borealBytes"
+      ]
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 24867,
+      "forks": 4348,
+      "stars_today": 363,
+      "built_by": [
+        "CharlesJ-ABu",
+        "randyy179",
+        "AnMakc",
+        "Luciferbobo"
+      ]
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 38911,
+      "forks": 3480,
+      "stars_today": 83,
+      "built_by": [
+        "pre-commit-ci",
+        "LinasKo",
+        "onuralpszr",
+        "github-actions",
+        "SkalskiP"
+      ]
+    },
+    {
+      "owner": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": 17230,
+      "forks": 5795,
+      "stars_today": 215,
+      "built_by": [
+        "srebhan",
+        "dependabot",
+        "powersj",
+        "danielnelson",
+        "sparrc"
+      ]
+    },
+    {
+      "owner": "supertone-inc",
+      "name": "supertonic",
+      "full_name": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars": 5391,
+      "forks": 529,
+      "stars_today": 1128,
+      "built_by": [
+        "WansooKimGit",
+        "abhimanyupandian",
+        "juheo",
+        "ANLGBOY"
+      ]
+    },
+    {
+      "owner": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 141405,
+      "forks": 13055,
+      "stars_today": 851,
+      "built_by": [
+        "npes87184",
+        "rom1v",
+        "rootkea",
+        "brunoais",
+        "yume-chan"
+      ]
+    },
+    {
+      "owner": "NVIDIA-AI-Blueprints",
+      "name": "video-search-and-summarization",
+      "full_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "language": "Python",
+      "stars": 869,
+      "forks": 247,
+      "stars_today": 62,
+      "built_by": [
+        "shubham050300",
+        "nv-unnikrishnankgs",
+        "shaunakg-nv",
+        "zac-wang-nv",
+        "hugoverjus"
+      ]
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "full_name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 10984,
+      "forks": 816,
+      "stars_today": 1354,
+      "built_by": [
+        "kitiho",
+        "Cloak-HQ",
+        "evelaa123",
+        "Durafen",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 82548,
+      "forks": 7130,
+      "stars_today": 2987,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "github",
+      "name": "spec-kit",
+      "full_name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 99560,
+      "forks": 8673,
+      "stars_today": 1232,
+      "built_by": [
+        "Copilot",
+        "mnriem",
+        "claude",
+        "localden",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "garrytan",
+      "name": "gstack",
+      "full_name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars": 96850,
+      "forks": 14403,
+      "stars_today": 915,
+      "built_by": [
+        "garagon",
+        "mvanhorn",
+        "claude",
+        "HMAKT99"
+      ]
+    }
+  ]
+}
