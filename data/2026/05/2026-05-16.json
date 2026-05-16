@@ -1,0 +1,210 @@
+{
+  "date": "2026-05-16",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 9108,
+      "forks": 767,
+      "stars_today": 1271,
+      "built_by": [
+        "claude",
+        "M3gA-Mind",
+        "graycyrus",
+        "github-actions",
+        "senamakel"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 192880,
+      "forks": 17153,
+      "stars_today": 1648,
+      "built_by": [
+        "claude",
+        "clkao",
+        "arittr",
+        "jjshanks"
+      ]
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": 22484,
+      "forks": 2430,
+      "stars_today": 646,
+      "built_by": [
+        "claude",
+        "leipzig",
+        "borealBytes",
+        "TKassis",
+        "fedorov"
+      ]
+    },
+    {
+      "owner": "supertone-inc",
+      "name": "supertonic",
+      "full_name": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars": 6074,
+      "forks": 599,
+      "stars_today": 719,
+      "built_by": [
+        "abhimanyupandian",
+        "WansooKimGit",
+        "ANLGBOY",
+        "juheo"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 57541,
+      "forks": 7553,
+      "stars_today": 1859,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "MaTriXy",
+        "fr4iser90"
+      ]
+    },
+    {
+      "owner": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": 17421,
+      "forks": 5803,
+      "stars_today": 212,
+      "built_by": [
+        "danielnelson",
+        "dependabot",
+        "srebhan",
+        "sparrc",
+        "powersj"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 135184,
+      "forks": 15939,
+      "stars_today": 689,
+      "built_by": [
+        "claude",
+        "maheshmurag",
+        "rlancemartin",
+        "ericharmeling",
+        "klazuka"
+      ]
+    },
+    {
+      "owner": "czlonkowski",
+      "name": "n8n-mcp",
+      "full_name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars": 20906,
+      "forks": 3399,
+      "stars_today": 68,
+      "built_by": [
+        "claude",
+        "thesved",
+        "naXa777",
+        "kimbo128"
+      ]
+    },
+    {
+      "owner": "NVIDIA-AI-Blueprints",
+      "name": "video-search-and-summarization",
+      "full_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "language": "Python",
+      "stars": 1167,
+      "forks": 264,
+      "stars_today": 308,
+      "built_by": [
+        "shubham050300",
+        "hugoverjus",
+        "zac-wang-nv",
+        "nv-unnikrishnankgs",
+        "shaunakg-nv"
+      ]
+    },
+    {
+      "owner": "oven-sh",
+      "name": "bun",
+      "full_name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars": 90629,
+      "forks": 4514,
+      "stars_today": 448,
+      "built_by": [
+        "dylan-conway",
+        "nektro",
+        "autofix-ci",
+        "robobun",
+        "Jarred-Sumner"
+      ]
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 85050,
+      "forks": 7372,
+      "stars_today": 3132,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "joeseesun",
+      "name": "qiaomu-anything-to-notebooklm",
+      "full_name": "joeseesun/qiaomu-anything-to-notebooklm",
+      "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+      "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+      "language": "Python",
+      "stars": 2732,
+      "forks": 278,
+      "stars_today": 438,
+      "built_by": [
+        "claude"
+      ]
+    }
+  ]
+}
