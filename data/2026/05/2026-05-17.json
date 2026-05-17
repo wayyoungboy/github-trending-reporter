@@ -1,0 +1,146 @@
+{
+  "date": "2026-05-17",
+  "total_repos": 8,
+  "repositories": [
+    {
+      "owner": "oven-sh",
+      "name": "bun",
+      "full_name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars": 91274,
+      "forks": 4552,
+      "stars_today": 397,
+      "built_by": [
+        "autofix-ci",
+        "robobun",
+        "Jarred-Sumner",
+        "nektro",
+        "dylan-conway"
+      ]
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": 23186,
+      "forks": 2489,
+      "stars_today": 673,
+      "built_by": [
+        "TKassis",
+        "fedorov",
+        "leipzig",
+        "borealBytes",
+        "claude"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 194079,
+      "forks": 17263,
+      "stars_today": 1305,
+      "built_by": [
+        "claude",
+        "arittr",
+        "jjshanks",
+        "clkao"
+      ]
+    },
+    {
+      "owner": "Anil-matcha",
+      "name": "Open-Generative-AI",
+      "full_name": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "stars": 14478,
+      "forks": 2521,
+      "stars_today": 317,
+      "built_by": [
+        "claude",
+        "jaiprasad04",
+        "taherfattahi",
+        "vadootvpeer"
+      ]
+    },
+    {
+      "owner": "supertone-inc",
+      "name": "supertonic",
+      "full_name": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars": 6939,
+      "forks": 712,
+      "stars_today": 749,
+      "built_by": [
+        "fbdp1202",
+        "juheo",
+        "WansooKimGit",
+        "claude",
+        "ANLGBOY"
+      ]
+    },
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 10808,
+      "forks": 933,
+      "stars_today": 1549,
+      "built_by": [
+        "github-actions",
+        "M3gA-Mind",
+        "graycyrus",
+        "claude",
+        "senamakel"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 58385,
+      "forks": 7627,
+      "stars_today": 1010,
+      "built_by": [
+        "claude",
+        "fr4iser90",
+        "MaTriXy",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 2574,
+      "forks": 210,
+      "stars_today": 416,
+      "built_by": [
+        "andreinknv",
+        "claude",
+        "MO2k4",
+        "omonien"
+      ]
+    }
+  ]
+}
