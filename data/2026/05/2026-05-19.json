@@ -1,0 +1,272 @@
+{
+  "date": "2026-05-19",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 17592,
+      "forks": 1537,
+      "stars_today": 3941,
+      "built_by": [
+        "graycyrus",
+        "github-actions",
+        "M3gA-Mind",
+        "claude",
+        "senamakel"
+      ]
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "full_name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 12018,
+      "forks": 1216,
+      "stars_today": 1439,
+      "built_by": [
+        "cloudenochcsis",
+        "mchesbro1",
+        "claude",
+        "xiaolai"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 36735,
+      "forks": 3560,
+      "stars_today": 1049,
+      "built_by": [
+        "AiMiDi",
+        "furkankoykiran",
+        "yuh-yang",
+        "omerarslan0",
+        "claude"
+      ]
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": 24447,
+      "forks": 2580,
+      "stars_today": 609,
+      "built_by": [
+        "TKassis",
+        "leipzig",
+        "borealBytes",
+        "claude",
+        "fedorov"
+      ]
+    },
+    {
+      "owner": "supertone-inc",
+      "name": "supertonic",
+      "full_name": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars": 8388,
+      "forks": 855,
+      "stars_today": 715,
+      "built_by": [
+        "ANLGBOY",
+        "juheo",
+        "fbdp1202",
+        "claude",
+        "WansooKimGit"
+      ]
+    },
+    {
+      "owner": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": 111087,
+      "forks": 18389,
+      "stars_today": 213,
+      "built_by": [
+        "ggerganov",
+        "ngxson",
+        "JohannesGaessler",
+        "CISC",
+        "slaren"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 59956,
+      "forks": 7814,
+      "stars_today": 700,
+      "built_by": [
+        "fr4iser90",
+        "dependabot",
+        "claude",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "full_name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 15340,
+      "forks": 1195,
+      "stars_today": 1420,
+      "built_by": [
+        "honor2030",
+        "evelaa123",
+        "Durafen",
+        "dependabot",
+        "Cloak-HQ"
+      ]
+    },
+    {
+      "owner": "tech-leads-club",
+      "name": "agent-skills",
+      "full_name": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": 4085,
+      "forks": 354,
+      "stars_today": 1244,
+      "built_by": [
+        "waldemarnt",
+        "tech-leads-club-release-bot",
+        "felipfr",
+        "globsecure",
+        "edmarpaulino"
+      ]
+    },
+    {
+      "owner": "BigBodyCobain",
+      "name": "Shadowbroker",
+      "full_name": "BigBodyCobain/Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "language": "Python",
+      "stars": 7779,
+      "forks": 1194,
+      "stars_today": 767,
+      "built_by": [
+        "anoracleofra-code",
+        "dependabot",
+        "claude",
+        "suranyami"
+      ]
+    },
+    {
+      "owner": "humanlayer",
+      "name": "12-factor-agents",
+      "full_name": "humanlayer/12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "stars": 20654,
+      "forks": 1565,
+      "stars_today": 399,
+      "built_by": [
+        "Elijas",
+        "tofaramususa",
+        "dexhorthy",
+        "a-churchill",
+        "Sypherd"
+      ]
+    },
+    {
+      "owner": "NVlabs",
+      "name": "Sana",
+      "full_name": "NVlabs/Sana",
+      "url": "https://github.com/NVlabs/Sana",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+      "language": "Python",
+      "stars": 6566,
+      "forks": 469,
+      "stars_today": 387,
+      "built_by": [
+        "actions-user",
+        "yujincheng08",
+        "xieenze",
+        "lawrence-cj",
+        "HeliosZhao"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "ai-agents-for-beginners",
+      "full_name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars": 63517,
+      "forks": 21179,
+      "stars_today": 1012,
+      "built_by": [
+        "leestott",
+        "skytin1004",
+        "ShivamGoyal03",
+        "hyoshioka0128",
+        "koreyspace"
+      ]
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "language": "Python",
+      "stars": 37224,
+      "forks": 36218,
+      "stars_today": 310,
+      "built_by": [
+        "adminlove520",
+        "Activer007",
+        "freesme",
+        "massif-01"
+      ]
+    },
+    {
+      "owner": "plausible",
+      "name": "analytics",
+      "full_name": "plausible/analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "stars": 26000,
+      "forks": 1495,
+      "stars_today": 638,
+      "built_by": [
+        "zoldar",
+        "aerosol",
+        "RobertJoonas",
+        "ukutaht",
+        "github-merge-queue"
+      ]
+    }
+  ]
+}
