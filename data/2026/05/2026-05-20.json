@@ -1,0 +1,323 @@
+{
+  "date": "2026-05-20",
+  "total_repos": 18,
+  "repositories": [
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 21527,
+      "forks": 1900,
+      "stars_today": 3973,
+      "built_by": [
+        "graycyrus",
+        "senamakel",
+        "github-actions",
+        "claude",
+        "M3gA-Mind"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 37783,
+      "forks": 3620,
+      "stars_today": 1038,
+      "built_by": [
+        "furkankoykiran",
+        "yuh-yang",
+        "omerarslan0",
+        "AiMiDi",
+        "claude"
+      ]
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "full_name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 14249,
+      "forks": 1339,
+      "stars_today": 3164,
+      "built_by": [
+        "mchesbro1",
+        "xiaolai",
+        "claude",
+        "evanclan"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 198546,
+      "forks": 17718,
+      "stars_today": 1623,
+      "built_by": [
+        "clkao",
+        "claude",
+        "jjshanks",
+        "arittr"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 20266,
+      "forks": 2511,
+      "stars_today": 171,
+      "built_by": [
+        "noahzweben",
+        "k6l3",
+        "bryan-anthropic",
+        "claude",
+        "tobinsouth"
+      ]
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "full_name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 14247,
+      "forks": 1186,
+      "stars_today": 1609,
+      "built_by": [
+        "Getty",
+        "JasonLandbridge",
+        "Tanmay-008",
+        "honor2030"
+      ]
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "full_name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 16703,
+      "forks": 1288,
+      "stars_today": 1463,
+      "built_by": [
+        "dependabot",
+        "Durafen",
+        "Cloak-HQ",
+        "evelaa123",
+        "honor2030"
+      ]
+    },
+    {
+      "owner": "rtk-ai",
+      "name": "rtk",
+      "full_name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "stars": 50992,
+      "forks": 3106,
+      "stars_today": 704,
+      "built_by": [
+        "aeppling",
+        "github-actions",
+        "claude",
+        "pszymkowiak",
+        "FlorianBruniaux"
+      ]
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 101730,
+      "forks": 16807,
+      "stars_today": 1120,
+      "built_by": [
+        "CagesThrottleUs",
+        "4shil",
+        "claude",
+        "epowelljr"
+      ]
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 6768,
+      "forks": 444,
+      "stars_today": 1850,
+      "built_by": [
+        "omonien",
+        "andreinknv",
+        "claude",
+        "MO2k4"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 138242,
+      "forks": 14179,
+      "stars_today": 1955,
+      "built_by": [
+        "szkocot",
+        "back1ply",
+        "claude",
+        "forrestchang",
+        "herobrine19"
+      ]
+    },
+    {
+      "owner": "humanlayer",
+      "name": "12-factor-agents",
+      "full_name": "humanlayer/12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "stars": 21221,
+      "forks": 1601,
+      "stars_today": 736,
+      "built_by": [
+        "a-churchill",
+        "dexhorthy",
+        "tofaramususa",
+        "Sypherd",
+        "Elijas"
+      ]
+    },
+    {
+      "owner": "Diolinux",
+      "name": "PhotoGIMP",
+      "full_name": "Diolinux/PhotoGIMP",
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "stars": 10822,
+      "forks": 376,
+      "stars_today": 493,
+      "built_by": [
+        "Levletsplay0",
+        "Klubuntu",
+        "gabrielalmir",
+        "emsspree"
+      ]
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "language": "Python",
+      "stars": 26415,
+      "forks": 3935,
+      "stars_today": 563,
+      "built_by": [
+        "dependabot",
+        "rishiskhare",
+        "claude",
+        "cursoragent"
+      ]
+    },
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 15909,
+      "forks": 2080,
+      "stars_today": 110,
+      "built_by": [
+        "Aymericr",
+        "sudhir9297",
+        "wass08",
+        "open-pascal",
+        "claude"
+      ]
+    },
+    {
+      "owner": "frappe",
+      "name": "erpnext",
+      "full_name": "frappe/erpnext",
+      "url": "https://github.com/frappe/erpnext",
+      "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "language": "Python",
+      "stars": 34315,
+      "forks": 11315,
+      "stars_today": 98,
+      "built_by": [
+        "rohitwaghchaure",
+        "deepeshgarg007",
+        "rmehta",
+        "ruthra-kumar",
+        "nabinhait"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "ai-agents-for-beginners",
+      "full_name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars": 64446,
+      "forks": 21316,
+      "stars_today": 818,
+      "built_by": [
+        "skytin1004",
+        "koreyspace",
+        "ShivamGoyal03",
+        "hyoshioka0128",
+        "leestott"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "ViMax",
+      "full_name": "HKUDS/ViMax",
+      "url": "https://github.com/HKUDS/ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "stars": 5496,
+      "forks": 932,
+      "stars_today": 503,
+      "built_by": [
+        "akaxlh",
+        "xvrrr",
+        "tun-sudo",
+        "Hengji-cs",
+        "chaohuang-ai"
+      ]
+    }
+  ]
+}
