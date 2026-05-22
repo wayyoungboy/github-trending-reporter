@@ -1,0 +1,328 @@
+{
+  "date": "2026-05-22",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 22639,
+      "forks": 2652,
+      "stars_today": 682,
+      "built_by": [
+        "k6l3",
+        "bryan-anthropic",
+        "noahzweben",
+        "claude",
+        "tobinsouth"
+      ]
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 13853,
+      "forks": 787,
+      "stars_today": 4294,
+      "built_by": [
+        "claude",
+        "omonien",
+        "MO2k4",
+        "andreinknv"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 143413,
+      "forks": 14707,
+      "stars_today": 2614,
+      "built_by": [
+        "back1ply",
+        "herobrine19",
+        "szkocot",
+        "claude",
+        "forrestchang"
+      ]
+    },
+    {
+      "owner": "dotnet",
+      "name": "skills",
+      "full_name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 2223,
+      "forks": 180,
+      "stars_today": 129,
+      "built_by": [
+        "Evangelink",
+        "JanKrivanek",
+        "Copilot",
+        "github-actions",
+        "ViktorHofer"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 201649,
+      "forks": 17964,
+      "stars_today": 1576,
+      "built_by": [
+        "claude",
+        "arittr",
+        "clkao",
+        "jjshanks"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 39179,
+      "forks": 3718,
+      "stars_today": 656,
+      "built_by": [
+        "yuh-yang",
+        "claude",
+        "AiMiDi",
+        "omerarslan0",
+        "furkankoykiran"
+      ]
+    },
+    {
+      "owner": "rmyndharis",
+      "name": "OpenWA",
+      "full_name": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "stars": 5453,
+      "forks": 1086,
+      "stars_today": 730,
+      "built_by": [
+        "dependabot",
+        "amstrong-bil"
+      ]
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 40534,
+      "forks": 2574,
+      "stars_today": 151,
+      "built_by": [
+        "OrKoN",
+        "szuend",
+        "browser-automation-bot",
+        "dependabot",
+        "Lightning00Blade"
+      ]
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 10815,
+      "forks": 2128,
+      "stars_today": 1333,
+      "built_by": [
+        "abhishek-marathe04",
+        "thereisnotime",
+        "abhinav-m22"
+      ]
+    },
+    {
+      "owner": "teng-lin",
+      "name": "notebooklm-py",
+      "full_name": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+      "language": "Python",
+      "stars": 14410,
+      "forks": 1996,
+      "stars_today": 186,
+      "built_by": [
+        "dependabot",
+        "claude",
+        "furkankoykiran"
+      ]
+    },
+    {
+      "owner": "can1357",
+      "name": "oh-my-pi",
+      "full_name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars": 5885,
+      "forks": 479,
+      "stars_today": 500,
+      "built_by": [
+        "MiroslavDrbal",
+        "jiwangyihao",
+        "badlogic",
+        "roboomp"
+      ]
+    },
+    {
+      "owner": "antoinezambelli",
+      "name": "forge",
+      "full_name": "antoinezambelli/forge",
+      "url": "https://github.com/antoinezambelli/forge",
+      "description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
+      "language": "Python",
+      "stars": 1514,
+      "forks": 78,
+      "stars_today": 398,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "multica",
+      "full_name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "Go",
+      "stars": 30808,
+      "forks": 3744,
+      "stars_today": 534,
+      "built_by": [
+        "ldnvnbl",
+        "Bohan-J",
+        "NevilleQingNY",
+        "claude",
+        "forrestchang"
+      ]
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "full_name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 18277,
+      "forks": 1573,
+      "stars_today": 2579,
+      "built_by": [
+        "xpfo-go",
+        "claude",
+        "xiaolai",
+        "eltociear"
+      ]
+    },
+    {
+      "owner": "trimstray",
+      "name": "the-book-of-secret-knowledge",
+      "full_name": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "language": "Unknown",
+      "stars": 222498,
+      "forks": 13329,
+      "stars_today": 756,
+      "built_by": [
+        "lbonanomi",
+        "naeluh",
+        "loweryaustin",
+        "fabidick22"
+      ]
+    },
+    {
+      "owner": "truelockmc",
+      "name": "streambert",
+      "full_name": "truelockmc/streambert",
+      "url": "https://github.com/truelockmc/streambert",
+      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+      "language": "JavaScript",
+      "stars": 4066,
+      "forks": 317,
+      "stars_today": 1094,
+      "built_by": [
+        "rogueburger21",
+        "aimen08",
+        "GunSliger00007",
+        "github-advanced-security"
+      ]
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 103737,
+      "forks": 17064,
+      "stars_today": 1018,
+      "built_by": [
+        "4shil",
+        "claude",
+        "CagesThrottleUs",
+        "epowelljr"
+      ]
+    },
+    {
+      "owner": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": 8943,
+      "forks": 1505,
+      "stars_today": 27,
+      "built_by": [
+        "dependabot",
+        "cola-prince",
+        "Kagashini",
+        "Shellgate"
+      ]
+    },
+    {
+      "owner": "Lum1104",
+      "name": "Understand-Anything",
+      "full_name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": 16748,
+      "forks": 1564,
+      "stars_today": 666,
+      "built_by": [
+        "claude",
+        "berkcangumusisik",
+        "zhushen12580",
+        "fishinakleinbottle"
+      ]
+    }
+  ]
+}
