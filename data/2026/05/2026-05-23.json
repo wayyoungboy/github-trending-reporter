@@ -1,0 +1,246 @@
+{
+  "date": "2026-05-23",
+  "total_repos": 14,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 25034,
+      "forks": 2768,
+      "stars_today": 2549,
+      "built_by": [
+        "k6l3",
+        "tobinsouth",
+        "claude",
+        "bryan-anthropic",
+        "noahzweben"
+      ]
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 16671,
+      "forks": 919,
+      "stars_today": 3684,
+      "built_by": [
+        "omonien",
+        "MO2k4",
+        "andreinknv",
+        "claude"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 64071,
+      "forks": 8467,
+      "stars_today": 978,
+      "built_by": [
+        "dependabot",
+        "github-actions",
+        "fr4iser90",
+        "claude"
+      ]
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 11996,
+      "forks": 2278,
+      "stars_today": 988,
+      "built_by": [
+        "abhishek-marathe04",
+        "thereisnotime",
+        "abhinav-m22"
+      ]
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 40992,
+      "forks": 2604,
+      "stars_today": 501,
+      "built_by": [
+        "dependabot",
+        "browser-automation-bot",
+        "OrKoN",
+        "szuend",
+        "Lightning00Blade"
+      ]
+    },
+    {
+      "owner": "dotnet",
+      "name": "skills",
+      "full_name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 2545,
+      "forks": 200,
+      "stars_today": 389,
+      "built_by": [
+        "ViktorHofer",
+        "Evangelink",
+        "Copilot",
+        "github-actions",
+        "JanKrivanek"
+      ]
+    },
+    {
+      "owner": "Lum1104",
+      "name": "Understand-Anything",
+      "full_name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": 18767,
+      "forks": 1700,
+      "stars_today": 1393,
+      "built_by": [
+        "zhushen12580",
+        "berkcangumusisik",
+        "fishinakleinbottle",
+        "claude"
+      ]
+    },
+    {
+      "owner": "odoo",
+      "name": "odoo",
+      "full_name": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "language": "Python",
+      "stars": 51154,
+      "forks": 32516,
+      "stars_today": 79,
+      "built_by": [
+        "fpodoo",
+        "xmo-odoo",
+        "odony",
+        "KangOl",
+        "tde-banana-odoo"
+      ]
+    },
+    {
+      "owner": "byJoey",
+      "name": "cfnew",
+      "full_name": "byJoey/cfnew",
+      "url": "https://github.com/byJoey/cfnew",
+      "description": "",
+      "language": "Unknown",
+      "stars": 13320,
+      "forks": 6482,
+      "stars_today": 87,
+      "built_by": [
+        "github-actions",
+        "wukan1986",
+        "joeyblogtest",
+        "zxlhhyccc"
+      ]
+    },
+    {
+      "owner": "trimstray",
+      "name": "the-book-of-secret-knowledge",
+      "full_name": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "language": "Unknown",
+      "stars": 223231,
+      "forks": 13383,
+      "stars_today": 969,
+      "built_by": [
+        "loweryaustin",
+        "naeluh",
+        "fabidick22",
+        "lbonanomi"
+      ]
+    },
+    {
+      "owner": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "full_name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars": 22665,
+      "forks": 3128,
+      "stars_today": 367,
+      "built_by": [
+        "tilakpatel22",
+        "Jaimin-ptl07",
+        "claude",
+        "github-actions",
+        "rudrasheth"
+      ]
+    },
+    {
+      "owner": "can1357",
+      "name": "oh-my-pi",
+      "full_name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars": 6373,
+      "forks": 520,
+      "stars_today": 457,
+      "built_by": [
+        "badlogic",
+        "roboomp",
+        "jiwangyihao",
+        "MiroslavDrbal"
+      ]
+    },
+    {
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "full_name": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "stars": 164379,
+      "forks": 13826,
+      "stars_today": 444,
+      "built_by": [
+        "phihag",
+        "pukkandan",
+        "jaimeMF",
+        "dstftw",
+        "remitamine"
+      ]
+    },
+    {
+      "owner": "karpathy",
+      "name": "nn-zero-to-hero",
+      "full_name": "karpathy/nn-zero-to-hero",
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "description": "Neural Networks: Zero to Hero",
+      "language": "Jupyter Notebook",
+      "stars": 22378,
+      "forks": 3244,
+      "stars_today": 159,
+      "built_by": [
+        "edvenson"
+      ]
+    }
+  ]
+}
