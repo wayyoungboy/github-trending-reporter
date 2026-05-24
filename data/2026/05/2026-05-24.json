@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-24",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "Lum1104",
+      "name": "Understand-Anything",
+      "full_name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": 21778,
+      "forks": 1949,
+      "stars_today": 2299,
+      "built_by": [
+        "fishinakleinbottle",
+        "claude",
+        "zhushen12580",
+        "berkcangumusisik"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 26525,
+      "forks": 2858,
+      "stars_today": 2193,
+      "built_by": [
+        "bryan-anthropic",
+        "tobinsouth",
+        "claude",
+        "noahzweben",
+        "k6l3"
+      ]
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 19687,
+      "forks": 1094,
+      "stars_today": 2456,
+      "built_by": [
+        "claude",
+        "MO2k4",
+        "andreinknv",
+        "omonien"
+      ]
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 13846,
+      "forks": 2587,
+      "stars_today": 1521,
+      "built_by": [
+        "abhinav-m22",
+        "thereisnotime",
+        "abhishek-marathe04",
+        "pzy0006"
+      ]
+    },
+    {
+      "owner": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "full_name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars": 23149,
+      "forks": 3194,
+      "stars_today": 545,
+      "built_by": [
+        "rudrasheth",
+        "Jaimin-ptl07",
+        "github-actions",
+        "claude",
+        "tilakpatel22"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 149784,
+      "forks": 15367,
+      "stars_today": 3507,
+      "built_by": [
+        "forrestchang",
+        "herobrine19",
+        "szkocot",
+        "claude",
+        "back1ply"
+      ]
+    },
+    {
+      "owner": "dotnet",
+      "name": "skills",
+      "full_name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 2762,
+      "forks": 209,
+      "stars_today": 266,
+      "built_by": [
+        "Evangelink",
+        "ViktorHofer",
+        "Copilot",
+        "JanKrivanek",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 41360,
+      "forks": 2622,
+      "stars_today": 435,
+      "built_by": [
+        "szuend",
+        "OrKoN",
+        "Lightning00Blade",
+        "browser-automation-bot",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 7478,
+      "forks": 1010,
+      "stars_today": 281,
+      "built_by": [
+        "claude",
+        "juliosuas"
+      ]
+    },
+    {
+      "owner": "presenton",
+      "name": "presenton",
+      "full_name": "presenton/presenton",
+      "url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "language": "TypeScript",
+      "stars": 6413,
+      "forks": 1121,
+      "stars_today": 241,
+      "built_by": [
+        "freinold",
+        "ShivaRajBadu",
+        "sudipnext",
+        "surajbeston",
+        "sauravniraula"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "multica",
+      "full_name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars": 31959,
+      "forks": 3859,
+      "stars_today": 410,
+      "built_by": [
+        "forrestchang",
+        "Bohan-J",
+        "NevilleQingNY",
+        "ldnvnbl",
+        "claude"
+      ]
+    },
+    {
+      "owner": "trimstray",
+      "name": "the-book-of-secret-knowledge",
+      "full_name": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "language": "Unknown",
+      "stars": 223877,
+      "forks": 13427,
+      "stars_today": 628,
+      "built_by": [
+        "loweryaustin",
+        "lbonanomi",
+        "naeluh",
+        "fabidick22"
+      ]
+    },
+    {
+      "owner": "odoo",
+      "name": "odoo",
+      "full_name": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "language": "Python",
+      "stars": 51499,
+      "forks": 32530,
+      "stars_today": 386,
+      "built_by": [
+        "tde-banana-odoo",
+        "KangOl",
+        "odony",
+        "fpodoo",
+        "xmo-odoo"
+      ]
+    },
+    {
+      "owner": "NVlabs",
+      "name": "LongLive",
+      "full_name": "NVlabs/LongLive",
+      "url": "https://github.com/NVlabs/LongLive",
+      "description": "LongLive 2.0: Infra - Long Video Gen",
+      "language": "Python",
+      "stars": 1829,
+      "forks": 169,
+      "stars_today": 94,
+      "built_by": [
+        "sanshuiii",
+        "cmyk-26nv",
+        "yukang2017",
+        "yondonfu",
+        "AndysonYs"
+      ]
+    },
+    {
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "full_name": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "stars": 164991,
+      "forks": 13861,
+      "stars_today": 759,
+      "built_by": [
+        "pukkandan",
+        "phihag",
+        "dstftw",
+        "remitamine",
+        "jaimeMF"
+      ]
+    },
+    {
+      "owner": "janestreet",
+      "name": "magic-trace",
+      "full_name": "janestreet/magic-trace",
+      "url": "https://github.com/janestreet/magic-trace",
+      "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
+      "language": "OCaml",
+      "stars": 5877,
+      "forks": 181,
+      "stars_today": 68,
+      "built_by": [
+        "Xyene",
+        "quantum5",
+        "Svetlitski",
+        "cgaebel",
+        "lamoreauxaj"
+      ]
+    }
+  ]
+}
