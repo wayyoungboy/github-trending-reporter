@@ -1,0 +1,283 @@
+{
+  "date": "2026-05-25",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "Lum1104",
+      "name": "Understand-Anything",
+      "full_name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": 26511,
+      "forks": 2278,
+      "stars_today": 3999,
+      "built_by": [
+        "zhushen12580",
+        "berkcangumusisik",
+        "claude",
+        "fishinakleinbottle"
+      ]
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 16317,
+      "forks": 2884,
+      "stars_today": 1853,
+      "built_by": [
+        "thereisnotime",
+        "abhinav-m22",
+        "abhishek-marathe04",
+        "pzy0006"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 27302,
+      "forks": 2907,
+      "stars_today": 1173,
+      "built_by": [
+        "tobinsouth",
+        "noahzweben",
+        "claude",
+        "bryan-anthropic",
+        "k6l3"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 14141,
+      "forks": 1748,
+      "stars_today": 550,
+      "built_by": [
+        "tobinsouth",
+        "mattpic-ant",
+        "ochafik",
+        "claude",
+        "bryan-anthropic"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 152383,
+      "forks": 15621,
+      "stars_today": 2551,
+      "built_by": [
+        "szkocot",
+        "back1ply",
+        "claude",
+        "forrestchang",
+        "herobrine19"
+      ]
+    },
+    {
+      "owner": "earendil-works",
+      "name": "pi",
+      "full_name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "stars": 54011,
+      "forks": 6446,
+      "stars_today": 456,
+      "built_by": [
+        "mitsuhiko",
+        "badlogic",
+        "github-actions",
+        "aliou",
+        "hjanuschka"
+      ]
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "language": "Python",
+      "stars": 29209,
+      "forks": 4387,
+      "stars_today": 553,
+      "built_by": [
+        "rishiskhare",
+        "dependabot",
+        "claude",
+        "cursoragent"
+      ]
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 22413,
+      "forks": 1239,
+      "stars_today": 3003,
+      "built_by": [
+        "omonien",
+        "MO2k4",
+        "andreinknv",
+        "claude"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "multica",
+      "full_name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars": 32568,
+      "forks": 3908,
+      "stars_today": 585,
+      "built_by": [
+        "ldnvnbl",
+        "claude",
+        "NevilleQingNY",
+        "forrestchang",
+        "Bohan-J"
+      ]
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 25819,
+      "forks": 4496,
+      "stars_today": 106,
+      "built_by": [
+        "CharlesJ-ABu",
+        "Luciferbobo",
+        "AnMakc",
+        "randyy179"
+      ]
+    },
+    {
+      "owner": "manaflow-ai",
+      "name": "cmux",
+      "full_name": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "language": "Swift",
+      "stars": 19059,
+      "forks": 1449,
+      "stars_today": 696,
+      "built_by": [
+        "claude",
+        "austinywang",
+        "talldan",
+        "atani",
+        "lawrencecchen"
+      ]
+    },
+    {
+      "owner": "666ghj",
+      "name": "MiroFish",
+      "full_name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": 62200,
+      "forks": 9731,
+      "stars_today": 197,
+      "built_by": [
+        "Ghostubborn",
+        "cursoragent",
+        "YunyueLi"
+      ]
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 504304,
+      "forks": 47832,
+      "stars_today": 550,
+      "built_by": [
+        "danistefanovic",
+        "rohitpaulk",
+        "sarupbanskota",
+        "bauripalash",
+        "fake-rookie"
+      ]
+    },
+    {
+      "owner": "dotnet",
+      "name": "skills",
+      "full_name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 2976,
+      "forks": 220,
+      "stars_today": 183,
+      "built_by": [
+        "ViktorHofer",
+        "github-actions",
+        "JanKrivanek",
+        "Copilot",
+        "Evangelink"
+      ]
+    },
+    {
+      "owner": "blakeblackshear",
+      "name": "frigate",
+      "full_name": "blakeblackshear/frigate",
+      "url": "https://github.com/blakeblackshear/frigate",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "language": "TypeScript",
+      "stars": 32879,
+      "forks": 3182,
+      "stars_today": 181,
+      "built_by": [
+        "hawkeye217",
+        "weblate",
+        "paularmstrong",
+        "NickM-27"
+      ]
+    },
+    {
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 8422,
+      "forks": 1063,
+      "stars_today": 930,
+      "built_by": [
+        "juliosuas",
+        "claude"
+      ]
+    }
+  ]
+}
