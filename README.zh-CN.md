@@ -113,6 +113,84 @@ Options:
 
 感谢原项目作者的优秀工作，为本项目提供了宝贵的参考和启发。
 
+## 集成使用
+
+你可以通过 HTTP 获取 GitHub Trending 日报数据，集成到自己的 Agent 或应用中。
+
+### 接口地址
+
+| 类型 | URL 格式 |
+|------|----------|
+| 报告页面 (HTML) | `https://wayyoungboy.github.io/github-trending-reporter/reports/YYYY/MM/YYYY-MM-DD` |
+| 原始数据 (JSON) | `https://wayyoungboy.github.io/github-trending-reporter/data/YYYY/MM/YYYY-MM-DD.json` |
+
+### 获取 JSON 数据
+
+```bash
+curl https://wayyoungboy.github.io/github-trending-reporter/data/2026/05/2026-05-27.json
+```
+
+### JSON 响应格式
+
+```json
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T00:05:00.000000",
+  "total_repos": 25,
+  "repositories": [
+    {
+      "owner": "xxx",
+      "name": "xxx",
+      "full_name": "owner/repo",
+      "url": "https://github.com/owner/repo",
+      "description": "原始描述",
+      "llm_summary": "AI 生成的简短介绍",
+      "language": "Python",
+      "stars": 12345,
+      "stars_today": 567,
+      "forks": 890,
+      "topics": ["ai", "llm"],
+      "license": "MIT"
+    }
+  ]
+}
+```
+
+### 字段说明
+
+| 字段 | 说明 |
+|------|------|
+| `full_name` | 仓库全名 (owner/name) |
+| `url` | GitHub 仓库地址 |
+| `description` | GitHub 原始描述 |
+| `llm_summary` | AI 生成的简短介绍 (15-25字) |
+| `language` | 主要编程语言 |
+| `stars` | 总 Star 数 |
+| `stars_today` | 今日新增 Star |
+| `forks` | Fork 数 |
+| `topics` | 仓库标签 |
+
+### Agent 集成示例 (Python)
+
+```python
+import requests
+from datetime import datetime
+
+def get_trending_report(date_str=None):
+    if date_str is None:
+        date_str = datetime.now().strftime("%Y-%m-%d")
+    year, month = date_str[:4], date_str[5:7]
+    url = f"https://wayyoungboy.github.io/github-trending-reporter/data/{year}/{month}/{date_str}.json"
+    resp = requests.get(url)
+    resp.raise_for_status()
+    return resp.json()
+
+# 使用
+data = get_trending_report("2026-05-27")
+for repo in data["repositories"][:5]:
+    print(f"{repo['full_name']}: {repo.get('llm_summary') or repo['description']}")
+```
+
 ## 相关链接
 
 - [GitHub Trending](https://github.com/trending)

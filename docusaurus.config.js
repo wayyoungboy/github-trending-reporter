@@ -32,8 +32,8 @@ const config = {
           const fs = require('fs');
           const path = require('path');
           
-          // 复制 reports 目录到 build 目录
-          const copyDir = (src, dest) => {
+          // 复制 reports 和 data 目录到 build 目录
+          const copyDir = (src, dest, extensions) => {
             if (!fs.existsSync(dest)) {
               fs.mkdirSync(dest, { recursive: true });
             }
@@ -43,17 +43,23 @@ const config = {
               const destPath = path.join(dest, file);
               const stat = fs.statSync(srcPath);
               if (stat.isDirectory()) {
-                copyDir(srcPath, destPath);
-              } else if (file.endsWith('.md')) {
+                copyDir(srcPath, destPath, extensions);
+              } else if (extensions.some(ext => file.endsWith(ext))) {
                 fs.copyFileSync(srcPath, destPath);
               }
             }
           };
-          
+
           const reportsDir = path.join(context.siteDir, 'reports');
           const outReportsDir = path.join(outDir, 'reports');
           if (fs.existsSync(reportsDir)) {
-            copyDir(reportsDir, outReportsDir);
+            copyDir(reportsDir, outReportsDir, ['.md']);
+          }
+
+          const dataDir = path.join(context.siteDir, 'data');
+          const outDataDir = path.join(outDir, 'data');
+          if (fs.existsSync(dataDir)) {
+            copyDir(dataDir, outDataDir, ['.json']);
           }
         },
       };
