@@ -256,7 +256,7 @@ jobs:
                   content += f"- **语言**: {repo['language']}\n"
                   content += f"- **增长**: +{repo['stars_today']} ⭐ (今日)\n"
                   content += f"- **总计**: {repo['stars']} ⭐\n"
-                  content += f"- **简介**: {repo['description']}\n\n"
+                  content += f"- **简介**: {repo.get('llm_summary') or repo['description']}\n\n"
 
               # 构建消息（Markdown）
               message = {

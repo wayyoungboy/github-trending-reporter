@@ -69,12 +69,21 @@ def run_report(
         analyzer = LLMAnalyzer()
         report = analyzer.generate_daily_report(repos, date_str, detailed_analysis=detailed_analysis)
         print("  Analysis complete")
+
+        # Generate short LLM summaries for each project
+        print("  Generating short summaries...")
+        short_summaries = analyzer.generate_short_summaries(repos)
+        for repo in repos:
+            full_name = repo.get("full_name", "")
+            if full_name in short_summaries:
+                repo["llm_summary"] = short_summaries[full_name]
+        print(f"  Generated {len(short_summaries)} short summaries")
     except Exception as e:
         print(f"[ERROR] LLM analysis: {e}")
         # Generate basic report without LLM analysis
         report = generate_basic_report(repos, date_str)
         print("  Generated basic report without LLM analysis")
-    
+
     # Step 3: Save locally if requested
     if output_local:
         print("[3/4] Saving locally...")

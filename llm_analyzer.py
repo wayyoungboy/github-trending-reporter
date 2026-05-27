@@ -352,6 +352,71 @@ graph LR
         
         return response.choices[0].message.content
 
+    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
+    def generate_short_summaries(self, repos: List[Dict]) -> Dict[str, str]:
+        """
+        Generate a short LLM summary for each project (for DingTalk etc.)
+
+        Args:
+            repos: List of repository dictionaries
+
+        Returns:
+            Dict mapping full_name to short summary string
+        """
+        repos_brief = []
+        for i, repo in enumerate(repos, 1):
+            repos_brief.append(
+                f"{i}. {repo.get('full_name', 'Unknown')} ({repo.get('language', 'Unknown')}): "
+                f"{repo.get('description', 'No description')}"
+            )
+
+        prompt = f"""请为以下每个 GitHub 项目生成一句简短的中文介绍（15-25字），要求突出项目的核心价值。
+
+项目列表：
+{chr(10).join(repos_brief)}
+
+请严格按照以下 JSON 格式输出，不要输出其他内容：
+{{
+  "owner/name": "简短介绍",
+  ...
+}}
+
+要求：
+1. 每个介绍 15-25 个字
+2. 用中文
+3. 突出核心功能或亮点
+4. 只输出 JSON，不要其他内容"""
+
+        response = self.client.chat.completions.create(
+            model=self.model,
+            messages=[
+                {
+                    "role": "system",
+                    "content": "你是一位技术编辑，擅长用精炼的语言描述开源项目。"
+                },
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ],
+            temperature=0.5,
+            max_tokens=2000
+        )
+
+        content = response.choices[0].message.content.strip()
+        # Extract JSON from response (handle markdown code blocks)
+        if "```" in content:
+            import re
+            json_match = re.search(r'```(?:json)?\s*(.*?)```', content, re.DOTALL)
+            if json_match:
+                content = json_match.group(1).strip()
+
+        try:
+            return json.loads(content)
+        except json.JSONDecodeError:
+            print(f"  [WARN] Failed to parse short summaries JSON")
+            return {}
+
     def generate_daily_report(self, repos: List[Dict], date_str: str, detailed_analysis: bool = True) -> str:
         """
         Generate a complete daily report with new beautiful format
