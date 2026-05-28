@@ -1,0 +1,308 @@
+{
+  "date": "2026-05-28",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 62470,
+      "forks": 9122,
+      "stars_today": 1742,
+      "built_by": [
+        "vuisme",
+        "KevinZhang19870314",
+        "claude",
+        "yyhhyyyyyy"
+      ],
+      "llm_summary": "AI一键生成高清短视频"
+    },
+    {
+      "owner": "Lum1104",
+      "name": "Understand-Anything",
+      "full_name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": 40158,
+      "forks": 3203,
+      "stars_today": 4465,
+      "built_by": [
+        "fishinakleinbottle",
+        "claude",
+        "zhushen12580",
+        "berkcangumusisik"
+      ],
+      "llm_summary": "代码转交互式知识图谱"
+    },
+    {
+      "owner": "hardikpandya",
+      "name": "stop-slop",
+      "full_name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "Unknown",
+      "stars": 5769,
+      "forks": 435,
+      "stars_today": 664,
+      "built_by": [
+        "dctmfoo",
+        "claude"
+      ],
+      "llm_summary": "AI内容去芜存菁工具"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 196133,
+      "forks": 30177,
+      "stars_today": 2062,
+      "built_by": [
+        "pangerlkr",
+        "claude",
+        "dependabot",
+        "greptile-apps"
+      ],
+      "llm_summary": "AI代理性能优化系统"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 17328,
+      "forks": 2020,
+      "stars_today": 695,
+      "built_by": [
+        "tobinsouth",
+        "mattpic-ant",
+        "bryan-anthropic",
+        "claude",
+        "ochafik"
+      ],
+      "llm_summary": "知识工作者Claude插件库"
+    },
+    {
+      "owner": "Leonxlnx",
+      "name": "taste-skill",
+      "full_name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": 24455,
+      "forks": 1882,
+      "stars_today": 2715,
+      "built_by": [
+        "cursoragent",
+        "Blueemi"
+      ],
+      "llm_summary": "提升AI生成内容质量"
+    },
+    {
+      "owner": "p-e-w",
+      "name": "heretic",
+      "full_name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": 22055,
+      "forks": 2353,
+      "stars_today": 211,
+      "built_by": [
+        "spikymoth",
+        "red40maxxer",
+        "dependabot",
+        "anrp"
+      ],
+      "llm_summary": "自动移除AI内容审查"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 26905,
+      "forks": 4661,
+      "stars_today": 401,
+      "built_by": [
+        "CharlesJ-ABu",
+        "Luciferbobo",
+        "randyy179",
+        "AnMakc"
+      ],
+      "llm_summary": "金融语言基础模型"
+    },
+    {
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 11023,
+      "forks": 1255,
+      "stars_today": 886,
+      "built_by": [
+        "claude",
+        "juliosuas"
+      ],
+      "llm_summary": "AI网络安全技能库"
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": 47370,
+      "forks": 6724,
+      "stars_today": 519,
+      "built_by": [
+        "github-actions",
+        "charlesBochet",
+        "lucasbordeau",
+        "Weiko",
+        "FelixMalfait"
+      ],
+      "llm_summary": "开源AI导向CRM系统"
+    },
+    {
+      "owner": "Chachamaru127",
+      "name": "claude-code-harness",
+      "full_name": "Chachamaru127/claude-code-harness",
+      "url": "https://github.com/Chachamaru127/claude-code-harness",
+      "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+      "language": "Shell",
+      "stars": 1873,
+      "forks": 203,
+      "stars_today": 87,
+      "built_by": [
+        "cursoragent",
+        "github-actions",
+        "claude",
+        "dependabot"
+      ],
+      "llm_summary": "Claude Code开发辅助工具"
+    },
+    {
+      "owner": "DigitalPlatDev",
+      "name": "FreeDomain",
+      "full_name": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "language": "HTML",
+      "stars": 169247,
+      "forks": 3206,
+      "stars_today": 2222,
+      "built_by": [
+        "AnkitKrYadav",
+        "EdwardLab"
+      ],
+      "llm_summary": "免费域名服务平台"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 209656,
+      "forks": 18686,
+      "stars_today": 1511,
+      "built_by": [
+        "claude",
+        "clkao",
+        "jjshanks",
+        "arittr"
+      ],
+      "llm_summary": "AI代理技能开发框架"
+    },
+    {
+      "owner": "byoungd",
+      "name": "English-level-up-tips",
+      "full_name": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "Unknown",
+      "stars": 46878,
+      "forks": 4921,
+      "stars_today": 1163,
+      "built_by": [
+        "holtenko",
+        "WMXPY",
+        "overtrue",
+        "fakesnow"
+      ],
+      "llm_summary": "高级英语学习指南"
+    },
+    {
+      "owner": "iii-hq",
+      "name": "iii",
+      "full_name": "iii-hq/iii",
+      "url": "https://github.com/iii-hq/iii",
+      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+      "language": "Rust",
+      "stars": 16913,
+      "forks": 1107,
+      "stars_today": 376,
+      "built_by": [
+        "ytallo",
+        "actions-user",
+        "rohitg00",
+        "andersonleal",
+        "sergiofilhowz"
+      ],
+      "llm_summary": "实时服务组合与观察"
+    },
+    {
+      "owner": "Axorax",
+      "name": "awesome-free-apps",
+      "full_name": "Axorax/awesome-free-apps",
+      "url": "https://github.com/Axorax/awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "language": "JavaScript",
+      "stars": 5927,
+      "forks": 294,
+      "stars_today": 728,
+      "built_by": [
+        "trimclain",
+        "github-actions",
+        "6512345",
+        "1337Core"
+      ],
+      "llm_summary": "精选免费应用推荐"
+    },
+    {
+      "owner": "moeru-ai",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 40252,
+      "forks": 4048,
+      "stars_today": 72,
+      "built_by": [
+        "sumimakito",
+        "shinohara-rin",
+        "nekomeowww",
+        "luoling8192",
+        "github-actions"
+      ],
+      "llm_summary": "自托管AI游戏伴侣"
+    }
+  ]
+}
