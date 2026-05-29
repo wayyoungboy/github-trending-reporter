@@ -1,0 +1,292 @@
+{
+  "date": "2026-05-29",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 66654,
+      "forks": 9634,
+      "stars_today": 4698,
+      "built_by": [
+        "yyhhyyyyyy",
+        "vuisme",
+        "claude",
+        "KevinZhang19870314"
+      ],
+      "llm_summary": "AI一键生成高清短视频"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 197390,
+      "forks": 30357,
+      "stars_today": 1385,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "pangerlkr",
+        "greptile-apps"
+      ],
+      "llm_summary": "AI代理性能优化系统"
+    },
+    {
+      "owner": "Leonxlnx",
+      "name": "taste-skill",
+      "full_name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": 26595,
+      "forks": 1991,
+      "stars_today": 2234,
+      "built_by": [
+        "cursoragent",
+        "Blueemi"
+      ],
+      "llm_summary": "提升AI内容质量，避免无聊生成"
+    },
+    {
+      "owner": "hardikpandya",
+      "name": "stop-slop",
+      "full_name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "Unknown",
+      "stars": 6467,
+      "forks": 470,
+      "stars_today": 761,
+      "built_by": [
+        "claude",
+        "dctmfoo"
+      ],
+      "llm_summary": "移除AI文本中的特征痕迹"
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": 47900,
+      "forks": 6796,
+      "stars_today": 493,
+      "built_by": [
+        "charlesBochet",
+        "github-actions",
+        "lucasbordeau",
+        "FelixMalfait",
+        "Weiko"
+      ],
+      "llm_summary": "面向AI的开源Salesforce替代"
+    },
+    {
+      "owner": "DigitalPlatDev",
+      "name": "FreeDomain",
+      "full_name": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "language": "HTML",
+      "stars": 170806,
+      "forks": 3296,
+      "stars_today": 1761,
+      "built_by": [
+        "AnkitKrYadav",
+        "EdwardLab"
+      ],
+      "llm_summary": "免费域名服务平台"
+    },
+    {
+      "owner": "byoungd",
+      "name": "English-level-up-tips",
+      "full_name": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "Unknown",
+      "stars": 48656,
+      "forks": 5110,
+      "stars_today": 2019,
+      "built_by": [
+        "holtenko",
+        "overtrue",
+        "WMXPY",
+        "fakesnow"
+      ],
+      "llm_summary": "高级英语学习实用指南"
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 127850,
+      "forks": 8751,
+      "stars_today": 1410,
+      "built_by": [
+        "gagb",
+        "l-lumin",
+        "sugatoray",
+        "PetrAPConsulting",
+        "afourney"
+      ],
+      "llm_summary": "文件一键转为Markdown格式"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 211185,
+      "forks": 18803,
+      "stars_today": 1730,
+      "built_by": [
+        "jjshanks",
+        "claude",
+        "arittr",
+        "clkao"
+      ],
+      "llm_summary": "代理技能框架与开发方法论"
+    },
+    {
+      "owner": "revfactory",
+      "name": "harness",
+      "full_name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": 3928,
+      "forks": 582,
+      "stars_today": 65,
+      "built_by": [
+        "shaun0927",
+        "hnts03"
+      ],
+      "llm_summary": "设计专业代理团队的元技能"
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 506610,
+      "forks": 48103,
+      "stars_today": 1066,
+      "built_by": [
+        "danistefanovic",
+        "bauripalash",
+        "rohitpaulk",
+        "sarupbanskota",
+        "fake-rookie"
+      ],
+      "llm_summary": "重建技术掌握编程精髓"
+    },
+    {
+      "owner": "Lum1104",
+      "name": "Understand-Anything",
+      "full_name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": 42959,
+      "forks": 3429,
+      "stars_today": 3776,
+      "built_by": [
+        "berkcangumusisik",
+        "claude",
+        "zhushen12580",
+        "fishinakleinbottle"
+      ],
+      "llm_summary": "代码转交互式知识图谱"
+    },
+    {
+      "owner": "unclecode",
+      "name": "crawl4ai",
+      "full_name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars": 66993,
+      "forks": 6858,
+      "stars_today": 154,
+      "built_by": [
+        "claude",
+        "aravindkarnam",
+        "SohamKukreti",
+        "ntohidi"
+      ],
+      "llm_summary": "开源LLM友好的网页爬虫"
+    },
+    {
+      "owner": "OpenMOSS",
+      "name": "MOSS-TTS",
+      "full_name": "OpenMOSS/MOSS-TTS",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS",
+      "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+      "language": "Python",
+      "stars": 2285,
+      "forks": 217,
+      "stars_today": 71,
+      "built_by": [
+        "gyt1145028706",
+        "YWMditto",
+        "Zhyw0",
+        "gaoyang07",
+        "rulerman"
+      ],
+      "llm_summary": "高保真开源语音生成模型"
+    },
+    {
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "full_name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": 17799,
+      "forks": 1363,
+      "stars_today": 184,
+      "built_by": [
+        "github-actions",
+        "semantic-release-bot",
+        "claude",
+        "tmchow",
+        "kieranklaassen"
+      ],
+      "llm_summary": "复合工程官方插件"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 142914,
+      "forks": 16878,
+      "stars_today": 718,
+      "built_by": [
+        "maheshmurag",
+        "ericharmeling",
+        "rlancemartin",
+        "claude",
+        "klazuka"
+      ],
+      "llm_summary": "代理技能公共仓库"
+    }
+  ]
+}
