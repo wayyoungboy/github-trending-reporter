@@ -1,0 +1,317 @@
+{
+  "date": "2026-05-30",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 69783,
+      "forks": 10058,
+      "stars_today": 3567,
+      "built_by": [
+        "yyhhyyyyyy",
+        "vuisme",
+        "claude",
+        "KevinZhang19870314"
+      ],
+      "llm_summary": "AI一键生成高清短视频"
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 130047,
+      "forks": 8925,
+      "stars_today": 1873,
+      "built_by": [
+        "afourney",
+        "l-lumin",
+        "gagb",
+        "sugatoray",
+        "PetrAPConsulting"
+      ],
+      "llm_summary": "一键转换文档为Markdown格式"
+    },
+    {
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "full_name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": 18156,
+      "forks": 1378,
+      "stars_today": 353,
+      "built_by": [
+        "github-actions",
+        "tmchow",
+        "kieranklaassen",
+        "claude",
+        "semantic-release-bot"
+      ],
+      "llm_summary": "官方工程插件，提升多编辑器体验"
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": 48428,
+      "forks": 6865,
+      "stars_today": 578,
+      "built_by": [
+        "github-actions",
+        "lucasbordeau",
+        "charlesBochet",
+        "Weiko",
+        "FelixMalfait"
+      ],
+      "llm_summary": "开源Salesforce替代，AI驱动客户管理"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars": 127904,
+      "forks": 20912,
+      "stars_today": 395,
+      "built_by": [
+        "actions-user",
+        "ashwin-ant",
+        "claude",
+        "ant-kurt",
+        "bcherny"
+      ],
+      "llm_summary": "终端AI编程助手，自然语言提升编码效率"
+    },
+    {
+      "owner": "Leonxlnx",
+      "name": "taste-skill",
+      "full_name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": 28194,
+      "forks": 2087,
+      "stars_today": 2062,
+      "built_by": [
+        "Blueemi",
+        "cursoragent"
+      ],
+      "llm_summary": "提升AI内容质量，避免生成平庸内容"
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 1309,
+      "forks": 111,
+      "stars_today": 134,
+      "built_by": [
+        "n2parko",
+        "cursoragent",
+        "SamSokolin",
+        "poteto",
+        "ericzakariasson"
+      ],
+      "llm_summary": "Cursor插件规范与官方插件集合"
+    },
+    {
+      "owner": "run-llama",
+      "name": "liteparse",
+      "full_name": "run-llama/liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "language": "Rust",
+      "stars": 7357,
+      "forks": 446,
+      "stars_today": 701,
+      "built_by": [
+        "github-actions",
+        "logan-markewich",
+        "dependabot",
+        "AdemBoukhris457",
+        "AstraBert"
+      ],
+      "llm_summary": "快速开源文档解析器，高效处理文档"
+    },
+    {
+      "owner": "galilai-group",
+      "name": "stable-worldmodel",
+      "full_name": "galilai-group/stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "description": "A platform for reproducible world model research and evaluation",
+      "language": "Python",
+      "stars": 1262,
+      "forks": 149,
+      "stars_today": 362,
+      "built_by": [
+        "marksibrahim",
+        "Basile-Terv",
+        "DanHrmti",
+        "quentinll",
+        "lucas-maes"
+      ],
+      "llm_summary": "世界模型研究评估平台，确保结果可重现"
+    },
+    {
+      "owner": "byoungd",
+      "name": "English-level-up-tips",
+      "full_name": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "Unknown",
+      "stars": 49666,
+      "forks": 5204,
+      "stars_today": 1566,
+      "built_by": [
+        "overtrue",
+        "fakesnow",
+        "holtenko",
+        "WMXPY"
+      ],
+      "llm_summary": "高级英语学习指南，全面提升语言能力"
+    },
+    {
+      "owner": "Biohub",
+      "name": "esm",
+      "full_name": "Biohub/esm",
+      "url": "https://github.com/Biohub/esm",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "stars": 2571,
+      "forks": 314,
+      "stars_today": 52,
+      "built_by": [
+        "imathur1",
+        "ebetica",
+        "gjoliver",
+        "cmishra",
+        "santiag0m"
+      ],
+      "llm_summary": "生物信息学模型，助力科学研究"
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": 26980,
+      "forks": 2657,
+      "stars_today": 318,
+      "built_by": [
+        "cosmistack-bot",
+        "chriscrosstalk",
+        "claude",
+        "jakeaturner",
+        "dependabot"
+      ],
+      "llm_summary": "离线生存电脑，集成工具知识与AI"
+    },
+    {
+      "owner": "DigitalPlatDev",
+      "name": "FreeDomain",
+      "full_name": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "language": "HTML",
+      "stars": 171842,
+      "forks": 3348,
+      "stars_today": 1313,
+      "built_by": [
+        "AnkitKrYadav",
+        "EdwardLab"
+      ],
+      "llm_summary": "免费域名服务，人人可用"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 198610,
+      "forks": 30520,
+      "stars_today": 1406,
+      "built_by": [
+        "greptile-apps",
+        "claude",
+        "dependabot",
+        "pangerlkr"
+      ],
+      "llm_summary": "代理性能优化系统，增强AI编程体验"
+    },
+    {
+      "owner": "hardikpandya",
+      "name": "stop-slop",
+      "full_name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "Unknown",
+      "stars": 7025,
+      "forks": 493,
+      "stars_today": 617,
+      "built_by": [
+        "claude",
+        "dctmfoo"
+      ],
+      "llm_summary": "移除AI文本标记，提升内容质量"
+    },
+    {
+      "owner": "DataTalksClub",
+      "name": "data-engineering-zoomcamp",
+      "full_name": "DataTalksClub/data-engineering-zoomcamp",
+      "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+      "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+      "language": "Jupyter Notebook",
+      "stars": 41575,
+      "forks": 8272,
+      "stars_today": 160,
+      "built_by": [
+        "wrussell1999",
+        "sejalv",
+        "alexeygrigorev",
+        "Victoriapm",
+        "AnkushKhanna"
+      ],
+      "llm_summary": "免费数据工程训练营，9周实战课程"
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 507395,
+      "forks": 48176,
+      "stars_today": 866,
+      "built_by": [
+        "sarupbanskota",
+        "danistefanovic",
+        "rohitpaulk",
+        "fake-rookie",
+        "bauripalash"
+      ],
+      "llm_summary": "重建热门技术，掌握编程核心技能"
+    }
+  ]
+}
