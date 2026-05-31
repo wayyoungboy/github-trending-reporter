@@ -1,0 +1,358 @@
+{
+  "date": "2026-05-31",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 132543,
+      "forks": 9072,
+      "stars_today": 2470,
+      "built_by": [
+        "sugatoray",
+        "l-lumin",
+        "afourney",
+        "gagb",
+        "PetrAPConsulting"
+      ],
+      "llm_summary": "文件转Markdown格式的Python工具"
+    },
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 72089,
+      "forks": 10332,
+      "stars_today": 2768,
+      "built_by": [
+        "KevinZhang19870314",
+        "vuisme",
+        "claude",
+        "yyhhyyyyyy"
+      ],
+      "llm_summary": "AI大模型一键生成高清短视频"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars": 128427,
+      "forks": 20953,
+      "stars_today": 592,
+      "built_by": [
+        "ashwin-ant",
+        "claude",
+        "ant-kurt",
+        "bcherny",
+        "actions-user"
+      ],
+      "llm_summary": "终端智能编程助手，自然语言交互提效"
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 1472,
+      "forks": 118,
+      "stars_today": 205,
+      "built_by": [
+        "poteto",
+        "ericzakariasson",
+        "n2parko",
+        "SamSokolin",
+        "cursoragent"
+      ],
+      "llm_summary": "Cursor编辑器的官方插件规范与集合"
+    },
+    {
+      "owner": "revfactory",
+      "name": "harness",
+      "full_name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": 4281,
+      "forks": 627,
+      "stars_today": 55,
+      "built_by": [
+        "hongsw",
+        "hnts03",
+        "shaun0927",
+        "claude"
+      ],
+      "llm_summary": "设计领域特定智能代理团队的元技能"
+    },
+    {
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "full_name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": 18440,
+      "forks": 1393,
+      "stars_today": 349,
+      "built_by": [
+        "github-actions",
+        "semantic-release-bot",
+        "claude",
+        "tmchow",
+        "kieranklaassen"
+      ],
+      "llm_summary": "多平台官方Compound Engineering插件"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 199369,
+      "forks": 30614,
+      "stars_today": 908,
+      "built_by": [
+        "pangerlkr",
+        "greptile-apps",
+        "claude",
+        "dependabot"
+      ],
+      "llm_summary": "智能代理系统性能优化工具"
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "full_name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 22794,
+      "forks": 2673,
+      "stars_today": 779,
+      "built_by": [
+        "VoxInstruct",
+        "liuxin99",
+        "a710128",
+        "SuperMarioYL",
+        "Labmem-Zhouyx"
+      ],
+      "llm_summary": "无分词器多语言语音生成与克隆"
+    },
+    {
+      "owner": "galilai-group",
+      "name": "stable-worldmodel",
+      "full_name": "galilai-group/stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "description": "A platform for reproducible world model research and evaluation",
+      "language": "Python",
+      "stars": 1471,
+      "forks": 166,
+      "stars_today": 318,
+      "built_by": [
+        "marksibrahim",
+        "Basile-Terv",
+        "lucas-maes",
+        "DanHrmti",
+        "quentinll"
+      ],
+      "llm_summary": "可重现的世界模型研究与评估平台"
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": 27376,
+      "forks": 2685,
+      "stars_today": 469,
+      "built_by": [
+        "chriscrosstalk",
+        "cosmistack-bot",
+        "dependabot",
+        "jakeaturner",
+        "claude"
+      ],
+      "llm_summary": "离线生存计算机，内置关键工具与AI"
+    },
+    {
+      "owner": "run-llama",
+      "name": "liteparse",
+      "full_name": "run-llama/liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "language": "Rust",
+      "stars": 7931,
+      "forks": 466,
+      "stars_today": 925,
+      "built_by": [
+        "github-actions",
+        "dependabot",
+        "AdemBoukhris457",
+        "logan-markewich",
+        "AstraBert"
+      ],
+      "llm_summary": "快速实用的开源文档解析工具"
+    },
+    {
+      "owner": "chen08209",
+      "name": "FlClash",
+      "full_name": "chen08209/FlClash",
+      "url": "https://github.com/chen08209/FlClash",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "language": "Dart",
+      "stars": 40389,
+      "forks": 2527,
+      "stars_today": 187,
+      "built_by": [
+        "txyyh",
+        "actions-user"
+      ],
+      "llm_summary": "多平台开源代理客户端，简单无广告"
+    },
+    {
+      "owner": "FareedKhan-dev",
+      "name": "train-llm-from-scratch",
+      "full_name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Jupyter Notebook",
+      "stars": 2303,
+      "forks": 373,
+      "stars_today": 327,
+      "built_by": [
+        "konglingfan",
+        "TianyiQ",
+        "its-not-rocket-science",
+        "eltociear"
+      ],
+      "llm_summary": "从零开始训练LLM的完整教程"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 68947,
+      "forks": 9194,
+      "stars_today": 655,
+      "built_by": [
+        "github-actions",
+        "fr4iser90",
+        "claude",
+        "dependabot"
+      ],
+      "llm_summary": "WiFi信号转实时空间智能与生命监测"
+    },
+    {
+      "owner": "DataTalksClub",
+      "name": "data-engineering-zoomcamp",
+      "full_name": "DataTalksClub/data-engineering-zoomcamp",
+      "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+      "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+      "language": "Jupyter Notebook",
+      "stars": 41794,
+      "forks": 8286,
+      "stars_today": 274,
+      "built_by": [
+        "AnkushKhanna",
+        "wrussell1999",
+        "sejalv",
+        "Victoriapm",
+        "alexeygrigorev"
+      ],
+      "llm_summary": "免费9周数据工程训练营课程"
+    },
+    {
+      "owner": "OpenMOSS",
+      "name": "MOSS-TTS",
+      "full_name": "OpenMOSS/MOSS-TTS",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS",
+      "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+      "language": "Python",
+      "stars": 2650,
+      "forks": 238,
+      "stars_today": 62,
+      "built_by": [
+        "gyt1145028706",
+        "Zhyw0",
+        "gaoyang07",
+        "YWMditto",
+        "rulerman"
+      ],
+      "llm_summary": "高保真开源语音生成模型家族"
+    },
+    {
+      "owner": "dreammis",
+      "name": "social-auto-upload",
+      "full_name": "dreammis/social-auto-upload",
+      "url": "https://github.com/dreammis/social-auto-upload",
+      "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+      "language": "Python",
+      "stars": 11804,
+      "forks": 2092,
+      "stars_today": 73,
+      "built_by": [
+        "LeeDebug",
+        "Deroino",
+        "leordsong",
+        "gzxy0102"
+      ],
+      "llm_summary": "多平台社交媒体视频自动上传工具"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 144176,
+      "forks": 16989,
+      "stars_today": 454,
+      "built_by": [
+        "maheshmurag",
+        "klazuka",
+        "ericharmeling",
+        "claude",
+        "rlancemartin"
+      ],
+      "llm_summary": "智能代理技能公共资源库"
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 508292,
+      "forks": 48244,
+      "stars_today": 817,
+      "built_by": [
+        "danistefanovic",
+        "fake-rookie",
+        "bauripalash",
+        "sarupbanskota",
+        "rohitpaulk"
+      ],
+      "llm_summary": "从零重建技术掌握编程技能"
+    }
+  ]
+}
