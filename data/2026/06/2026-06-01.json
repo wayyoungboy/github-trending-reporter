@@ -1,0 +1,285 @@
+{
+  "date": "2026-06-01",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 74628,
+      "forks": 10629,
+      "stars_today": 1937,
+      "built_by": [
+        "vuisme",
+        "yyhhyyyyyy",
+        "claude",
+        "KevinZhang19870314"
+      ],
+      "llm_summary": "AI一键生成高清短视频"
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 135266,
+      "forks": 9241,
+      "stars_today": 2798,
+      "built_by": [
+        "sugatoray",
+        "PetrAPConsulting",
+        "afourney",
+        "gagb",
+        "l-lumin"
+      ],
+      "llm_summary": "文件转Markdown工具"
+    },
+    {
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "full_name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": 56772,
+      "forks": 5510,
+      "stars_today": 606,
+      "built_by": [
+        "yetval",
+        "AbdullahY36",
+        "mhillebrand",
+        "claude"
+      ],
+      "llm_summary": "自适应网页抓取全框架"
+    },
+    {
+      "owner": "nesquena",
+      "name": "hermes-webui",
+      "full_name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars": 10080,
+      "forks": 1374,
+      "stars_today": 357,
+      "built_by": [
+        "nesquena-hermes",
+        "ai-ag2026",
+        "claude",
+        "Michaelyklam"
+      ],
+      "llm_summary": "Web界面使用Hermes Agent"
+    },
+    {
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "full_name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": 18753,
+      "forks": 1410,
+      "stars_today": 251,
+      "built_by": [
+        "kieranklaassen",
+        "claude",
+        "tmchow",
+        "github-actions",
+        "semantic-release-bot"
+      ],
+      "llm_summary": "官方Compound工程插件"
+    },
+    {
+      "owner": "github",
+      "name": "docs",
+      "full_name": "github/docs",
+      "url": "https://github.com/github/docs",
+      "description": "The open-source repo for docs.github.com",
+      "language": "TypeScript",
+      "stars": 19751,
+      "forks": 67289,
+      "stars_today": 27,
+      "built_by": [
+        "heiskr",
+        "docs-bot",
+        "sarahs",
+        "Octomerger",
+        "mchammer01"
+      ],
+      "llm_summary": "GitHub官方文档开源库"
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "full_name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 23632,
+      "forks": 2725,
+      "stars_today": 635,
+      "built_by": [
+        "Labmem-Zhouyx",
+        "VoxInstruct",
+        "liuxin99",
+        "SuperMarioYL",
+        "a710128"
+      ],
+      "llm_summary": "无分词器多语言语音生成"
+    },
+    {
+      "owner": "revfactory",
+      "name": "harness",
+      "full_name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": 4660,
+      "forks": 654,
+      "stars_today": 323,
+      "built_by": [
+        "shaun0927",
+        "hnts03",
+        "hongsw",
+        "claude"
+      ],
+      "llm_summary": "设计专业代理团队的元技能"
+    },
+    {
+      "owner": "FareedKhan-dev",
+      "name": "train-llm-from-scratch",
+      "full_name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Jupyter Notebook",
+      "stars": 3036,
+      "forks": 450,
+      "stars_today": 626,
+      "built_by": [
+        "eltociear",
+        "TianyiQ",
+        "konglingfan",
+        "its-not-rocket-science"
+      ],
+      "llm_summary": "从零开始训练LLM教程"
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "full_name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 23420,
+      "forks": 2112,
+      "stars_today": 264,
+      "built_by": [
+        "Dhravya",
+        "CodeTorso",
+        "yxshv",
+        "Kinfe123",
+        "MaheshtheDev"
+      ],
+      "llm_summary": "AI时代快速可扩展内存引擎"
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": 27754,
+      "forks": 2714,
+      "stars_today": 374,
+      "built_by": [
+        "claude",
+        "cosmistack-bot",
+        "dependabot",
+        "jakeaturner",
+        "chriscrosstalk"
+      ],
+      "llm_summary": "离线生存工具与AI知识库"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars": 128976,
+      "forks": 21006,
+      "stars_today": 489,
+      "built_by": [
+        "claude",
+        "ashwin-ant",
+        "bcherny",
+        "actions-user",
+        "ant-kurt"
+      ],
+      "llm_summary": "终端内AI编程助手工具"
+    },
+    {
+      "owner": "nicobailon",
+      "name": "pi-subagents",
+      "full_name": "nicobailon/pi-subagents",
+      "url": "https://github.com/nicobailon/pi-subagents",
+      "description": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
+      "language": "TypeScript",
+      "stars": 1874,
+      "forks": 257,
+      "stars_today": 69,
+      "built_by": [
+        "marcfargas",
+        "claude",
+        "tmustier",
+        "SeanThomasWilliams"
+      ],
+      "llm_summary": "Pi扩展异步子代理委派"
+    },
+    {
+      "owner": "emmabostian",
+      "name": "developer-portfolios",
+      "full_name": "emmabostian/developer-portfolios",
+      "url": "https://github.com/emmabostian/developer-portfolios",
+      "description": "A list of developer portfolios for your inspiration",
+      "language": "Python",
+      "stars": 23414,
+      "forks": 4611,
+      "stars_today": 73,
+      "built_by": [
+        "eclectic-coding",
+        "evanplaice",
+        "Copilot",
+        "DevHanza",
+        "jakeherp"
+      ],
+      "llm_summary": "开发者作品集灵感列表"
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 509479,
+      "forks": 48326,
+      "stars_today": 1158,
+      "built_by": [
+        "danistefanovic",
+        "rohitpaulk",
+        "bauripalash",
+        "fake-rookie",
+        "sarupbanskota"
+      ],
+      "llm_summary": "重建技术精通编程方法"
+    }
+  ]
+}
