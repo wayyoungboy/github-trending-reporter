@@ -1,0 +1,207 @@
+{
+  "date": "2026-06-03",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "chopratejas",
+      "name": "headroom",
+      "full_name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 6772,
+      "forks": 466,
+      "stars_today": 1265,
+      "built_by": [
+        "claude",
+        "JerrettDavis",
+        "gglucass",
+        "Copilot"
+      ],
+      "llm_summary": "压缩LLM输入，减少token但保持答案质量"
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 141351,
+      "forks": 9631,
+      "stars_today": 3618,
+      "built_by": [
+        "sugatoray",
+        "PetrAPConsulting",
+        "afourney",
+        "gagb",
+        "l-lumin"
+      ],
+      "llm_summary": "一键转换各类文件为Markdown格式"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 204144,
+      "forks": 31315,
+      "stars_today": 1533,
+      "built_by": [
+        "claude",
+        "greptile-apps",
+        "pangerlkr",
+        "dependabot"
+      ],
+      "llm_summary": "AI代码助手性能优化系统，提升开发效率"
+    },
+    {
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "full_name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": 59279,
+      "forks": 5725,
+      "stars_today": 1182,
+      "built_by": [
+        "AbdullahY36",
+        "claude",
+        "mhillebrand",
+        "yetval"
+      ],
+      "llm_summary": "自适应网页抓取框架，应对各种爬取需求"
+    },
+    {
+      "owner": "nesquena",
+      "name": "hermes-webui",
+      "full_name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars": 12619,
+      "forks": 1543,
+      "stars_today": 1722,
+      "built_by": [
+        "nesquena-hermes",
+        "claude",
+        "Michaelyklam",
+        "ai-ag2026"
+      ],
+      "llm_summary": "Web界面便捷使用Hermes Agent的解决方案"
+    },
+    {
+      "owner": "reconurge",
+      "name": "flowsint",
+      "full_name": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars": 4564,
+      "forks": 585,
+      "stars_today": 124,
+      "built_by": [
+        "gustavorps",
+        "dextmorgn",
+        "salmanmkc",
+        "nicocti",
+        "z3rodaycve"
+      ],
+      "llm_summary": "网络安全可视化调查平台，图形化操作"
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "full_name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 25206,
+      "forks": 2885,
+      "stars_today": 783,
+      "built_by": [
+        "liuxin99",
+        "SuperMarioYL",
+        "Labmem-Zhouyx",
+        "a710128",
+        "VoxInstruct"
+      ],
+      "llm_summary": "多语言语音生成与真实克隆，无需分词器"
+    },
+    {
+      "owner": "stefan-jansen",
+      "name": "machine-learning-for-trading",
+      "full_name": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "language": "Jupyter Notebook",
+      "stars": 18546,
+      "forks": 5232,
+      "stars_today": 574,
+      "built_by": [
+        "KarlosQ",
+        "ssilverac",
+        "shlomiku",
+        "minggnim"
+      ],
+      "llm_summary": "算法交易机器学习代码实战指南"
+    },
+    {
+      "owner": "jamwithai",
+      "name": "production-agentic-rag-course",
+      "full_name": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": "",
+      "language": "Python",
+      "stars": 6425,
+      "forks": 1489,
+      "stars_today": 30,
+      "built_by": [
+        "shantanu156",
+        "MubashirAziz1"
+      ],
+      "llm_summary": "生产级智能RAG系统构建实战课程"
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "full_name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 24712,
+      "forks": 2180,
+      "stars_today": 680,
+      "built_by": [
+        "CodeTorso",
+        "Kinfe123",
+        "MaheshtheDev",
+        "yxshv",
+        "Dhravya"
+      ],
+      "llm_summary": "AI时代极速可扩展的记忆引擎"
+    },
+    {
+      "owner": "Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "full_name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars": 8443,
+      "forks": 1080,
+      "stars_today": 66,
+      "built_by": [
+        "lozion203",
+        "Y0oMu",
+        "ylxmf2005",
+        "HITHZQ",
+        "t41372"
+      ],
+      "llm_summary": "免提语音交互LLM，支持Live2D表情"
+    }
+  ]
+}
