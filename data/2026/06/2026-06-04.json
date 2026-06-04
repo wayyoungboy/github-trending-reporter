@@ -1,0 +1,266 @@
+{
+  "date": "2026-06-04",
+  "total_repos": 14,
+  "repositories": [
+    {
+      "owner": "chopratejas",
+      "name": "headroom",
+      "full_name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 10055,
+      "forks": 662,
+      "stars_today": 3530,
+      "built_by": [
+        "gglucass",
+        "JerrettDavis",
+        "claude",
+        "Copilot"
+      ],
+      "llm_summary": "压缩LLM输入，减少95%token量"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 205885,
+      "forks": 31616,
+      "stars_today": 2141,
+      "built_by": [
+        "greptile-apps",
+        "claude",
+        "dependabot",
+        "pangerlkr"
+      ],
+      "llm_summary": "AI代理性能优化系统，提升开发效率"
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 35437,
+      "forks": 417,
+      "stars_today": 24,
+      "built_by": [
+        "simar7",
+        "dependabot",
+        "knqyf263",
+        "nikpivkin",
+        "DmitriyLewen"
+      ],
+      "llm_summary": "多平台漏洞与配置错误扫描工具"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 179310,
+      "forks": 30716,
+      "stars_today": 1735,
+      "built_by": [
+        "kshitijk4poor",
+        "claude",
+        "0xbyt4",
+        "OutThisLife",
+        "teknium1"
+      ],
+      "llm_summary": "随用户成长的自适应AI代理"
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 143002,
+      "forks": 9771,
+      "stars_today": 1984,
+      "built_by": [
+        "gagb",
+        "PetrAPConsulting",
+        "l-lumin",
+        "sugatoray",
+        "afourney"
+      ],
+      "llm_summary": "文件与Office文档转Markdown工具"
+    },
+    {
+      "owner": "nesquena",
+      "name": "hermes-webui",
+      "full_name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars": 13138,
+      "forks": 1597,
+      "stars_today": 719,
+      "built_by": [
+        "claude",
+        "nesquena-hermes",
+        "Michaelyklam",
+        "ai-ag2026"
+      ],
+      "llm_summary": "Hermes Agent的跨平台Web界面"
+    },
+    {
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "full_name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": 60361,
+      "forks": 5819,
+      "stars_today": 1067,
+      "built_by": [
+        "AbdullahY36",
+        "claude",
+        "mhillebrand",
+        "yetval"
+      ],
+      "llm_summary": "自适应网页抓取全框架解决方案"
+    },
+    {
+      "owner": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "full_name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars": 23352,
+      "forks": 2185,
+      "stars_today": 570,
+      "built_by": [
+        "bundolee",
+        "claude",
+        "MaximPlusov",
+        "LonelyMidoriya",
+        "hyunhee-jo"
+      ],
+      "llm_summary": "AI就绪的PDF解析与无障碍工具"
+    },
+    {
+      "owner": "odoo",
+      "name": "odoo",
+      "full_name": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "language": "Python",
+      "stars": 51980,
+      "forks": 32644,
+      "stars_today": 29,
+      "built_by": [
+        "xmo-odoo",
+        "odony",
+        "tde-banana-odoo",
+        "KangOl",
+        "fpodoo"
+      ],
+      "llm_summary": "开源企业应用成长套件"
+    },
+    {
+      "owner": "Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "full_name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars": 9022,
+      "forks": 1110,
+      "stars_today": 693,
+      "built_by": [
+        "HITHZQ",
+        "lozion203",
+        "ylxmf2005",
+        "t41372",
+        "Y0oMu"
+      ],
+      "llm_summary": "跨平台语音交互LLM VTuber系统"
+    },
+    {
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "full_name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "Unknown",
+      "stars": 349097,
+      "forks": 83167,
+      "stars_today": 330,
+      "built_by": [
+        "Anri-Lombard",
+        "Ilyushin",
+        "avizmarlon",
+        "esaucedof"
+      ],
+      "llm_summary": "软件工程师完整计算机科学学习计划"
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 18961,
+      "forks": 2077,
+      "stars_today": 208,
+      "built_by": [
+        "claude",
+        "eltociear",
+        "NavodPeiris",
+        "hiemal"
+      ],
+      "llm_summary": "单4GB GPU运行70B大模型"
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "full_name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 25222,
+      "forks": 2214,
+      "stars_today": 600,
+      "built_by": [
+        "CodeTorso",
+        "MaheshtheDev",
+        "Kinfe123",
+        "yxshv",
+        "Dhravya"
+      ],
+      "llm_summary": "AI时代极速可扩展记忆引擎"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 10036,
+      "forks": 2016,
+      "stars_today": 197,
+      "built_by": [
+        "claude",
+        "warren618",
+        "MB-Ndhlovu",
+        "Teerapat-Vatpitak",
+        "shadowinlife"
+      ],
+      "llm_summary": "个人交易AI智能代理"
+    }
+  ]
+}
