@@ -1,0 +1,253 @@
+{
+  "date": "2026-06-05",
+  "total_repos": 14,
+  "repositories": [
+    {
+      "owner": "chopratejas",
+      "name": "headroom",
+      "full_name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 12715,
+      "forks": 821,
+      "stars_today": 3142,
+      "built_by": [
+        "gglucass",
+        "JerrettDavis",
+        "Copilot",
+        "claude"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 181146,
+      "forks": 31078,
+      "stars_today": 1913,
+      "built_by": [
+        "OutThisLife",
+        "teknium1",
+        "0xbyt4",
+        "kshitijk4poor",
+        "claude"
+      ]
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 207346,
+      "forks": 31831,
+      "stars_today": 1750,
+      "built_by": [
+        "dependabot",
+        "pangerlkr",
+        "greptile-apps",
+        "claude"
+      ]
+    },
+    {
+      "owner": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "full_name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars": 79943,
+      "forks": 10606,
+      "stars_today": 141,
+      "built_by": [
+        "MissPenguin",
+        "tink2123",
+        "github-actions",
+        "WenmuZhou",
+        "LDOUBLEV"
+      ]
+    },
+    {
+      "owner": "github",
+      "name": "spec-kit",
+      "full_name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 108624,
+      "forks": 9602,
+      "stars_today": 321,
+      "built_by": [
+        "mnriem",
+        "github-actions",
+        "localden",
+        "Copilot",
+        "claude"
+      ]
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "cosmos",
+      "full_name": "NVIDIA/cosmos",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "language": "Jupyter Notebook",
+      "stars": 9060,
+      "forks": 582,
+      "stars_today": 133,
+      "built_by": [
+        "ielh1",
+        "pjannaty",
+        "sophiahhuang",
+        "mingyuliutw",
+        "chenhsuanlin"
+      ]
+    },
+    {
+      "owner": "lfnovo",
+      "name": "open-notebook",
+      "full_name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": 25136,
+      "forks": 2923,
+      "stars_today": 212,
+      "built_by": [
+        "xeader",
+        "dependabot",
+        "troykelly",
+        "claude"
+      ]
+    },
+    {
+      "owner": "Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "full_name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars": 9657,
+      "forks": 1157,
+      "stars_today": 581,
+      "built_by": [
+        "Y0oMu",
+        "ylxmf2005",
+        "lozion203",
+        "HITHZQ",
+        "t41372"
+      ]
+    },
+    {
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "full_name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "Unknown",
+      "stars": 349777,
+      "forks": 83238,
+      "stars_today": 632,
+      "built_by": [
+        "esaucedof",
+        "Ilyushin",
+        "avizmarlon",
+        "Anri-Lombard"
+      ]
+    },
+    {
+      "owner": "github",
+      "name": "copilot-sdk",
+      "full_name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": 8999,
+      "forks": 1211,
+      "stars_today": 38,
+      "built_by": [
+        "stephentoub",
+        "github-actions",
+        "patniko",
+        "SteveSandersonMS",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 35680,
+      "forks": 431,
+      "stars_today": 255,
+      "built_by": [
+        "knqyf263",
+        "nikpivkin",
+        "DmitriyLewen",
+        "simar7",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw-windows-node",
+      "full_name": "openclaw/openclaw-windows-node",
+      "url": "https://github.com/openclaw/openclaw-windows-node",
+      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "language": "C#",
+      "stars": 1356,
+      "forks": 170,
+      "stars_today": 411,
+      "built_by": [
+        "ranjeshj",
+        "kenehong",
+        "github-actions",
+        "shanselman",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "reconurge",
+      "name": "flowsint",
+      "full_name": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars": 5334,
+      "forks": 641,
+      "stars_today": 308,
+      "built_by": [
+        "Ghraven",
+        "gustavorps",
+        "z3rodaycve",
+        "dextmorgn",
+        "claude"
+      ]
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 27643,
+      "forks": 2349,
+      "stars_today": 199,
+      "built_by": [
+        "dinakars777",
+        "j-sperling",
+        "tmchow",
+        "claude"
+      ]
+    }
+  ]
+}
