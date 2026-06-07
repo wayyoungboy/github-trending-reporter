@@ -1,0 +1,342 @@
+{
+  "date": "2026-06-07",
+  "total_repos": 18,
+  "repositories": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 28899,
+      "forks": 2447,
+      "stars_today": 439,
+      "built_by": [
+        "tmchow",
+        "claude",
+        "dinakars777",
+        "j-sperling"
+      ],
+      "llm_summary": "跨平台AI研究代理，智能生成主题总结"
+    },
+    {
+      "owner": "CopilotKit",
+      "name": "CopilotKit",
+      "full_name": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "stars": 33248,
+      "forks": 4246,
+      "stars_today": 631,
+      "built_by": [
+        "jpr5",
+        "ataibarkai",
+        "AlemTuzlak",
+        "tylerslaton",
+        "mme"
+      ],
+      "llm_summary": "代理与生成式UI的全栈解决方案"
+    },
+    {
+      "owner": "MemPalace",
+      "name": "mempalace",
+      "full_name": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "stars": 54316,
+      "forks": 7111,
+      "stars_today": 446,
+      "built_by": [
+        "milla-jovovich",
+        "claude",
+        "igorls",
+        "mvalentsev",
+        "bensig"
+      ],
+      "llm_summary": "性能卓越的开源AI记忆系统"
+    },
+    {
+      "owner": "danielmiessler",
+      "name": "Personal_AI_Infrastructure",
+      "full_name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars": 14988,
+      "forks": 2124,
+      "stars_today": 70,
+      "built_by": [
+        "claude",
+        "ksylvan",
+        "christauff",
+        "kaimagnus"
+      ],
+      "llm_summary": "增强人类能力的代理式AI基础设施"
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "full_name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 1796,
+      "forks": 257,
+      "stars_today": 213,
+      "built_by": [
+        "ashwinm-oai",
+        "cching-openai",
+        "vb-openai",
+        "Aismit",
+        "gverma-openai"
+      ],
+      "llm_summary": "OpenAI官方插件扩展系统"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 22395,
+      "forks": 1912,
+      "stars_today": 683,
+      "built_by": [
+        "claude",
+        "kadaliao",
+        "MatrixA",
+        "haosenwang1018"
+      ],
+      "llm_summary": "AI代理全网访问工具，零API费用"
+    },
+    {
+      "owner": "sveltejs",
+      "name": "svelte",
+      "full_name": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "stars": 87007,
+      "forks": 4937,
+      "stars_today": 25,
+      "built_by": [
+        "github-actions",
+        "dummdidumm",
+        "Rich-Harris",
+        "trueadm",
+        "Conduitry"
+      ],
+      "llm_summary": "面向大众的简洁Web开发框架"
+    },
+    {
+      "owner": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": 30700,
+      "forks": 7957,
+      "stars_today": 20,
+      "built_by": [
+        "mdounin",
+        "arut",
+        "vl-homutov",
+        "VBart",
+        "pluknet"
+      ],
+      "llm_summary": "高性能开源Web服务器"
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 36015,
+      "forks": 455,
+      "stars_today": 159,
+      "built_by": [
+        "simar7",
+        "dependabot",
+        "DmitriyLewen",
+        "nikpivkin",
+        "knqyf263"
+      ],
+      "llm_summary": "全栈安全漏洞检测工具"
+    },
+    {
+      "owner": "golang",
+      "name": "go",
+      "full_name": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 134519,
+      "forks": 19086,
+      "stars_today": 30,
+      "built_by": [
+        "bradfitz",
+        "griesemer",
+        "robpike",
+        "ianlancetaylor",
+        "rsc"
+      ],
+      "llm_summary": "简洁高效的Go编程语言"
+    },
+    {
+      "owner": "lfnovo",
+      "name": "open-notebook",
+      "full_name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": 26654,
+      "forks": 3045,
+      "stars_today": 794,
+      "built_by": [
+        "troykelly",
+        "claude",
+        "dependabot",
+        "xeader"
+      ],
+      "llm_summary": "Notebook LM的开源增强版"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 219711,
+      "forks": 19551,
+      "stars_today": 700,
+      "built_by": [
+        "jjshanks",
+        "claude",
+        "clkao",
+        "arittr"
+      ],
+      "llm_summary": "实用的代理技能开发框架"
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars": 49413,
+      "forks": 10209,
+      "stars_today": 193,
+      "built_by": [
+        "claude",
+        "seffhunnn",
+        "FReptar0",
+        "dependabot"
+      ],
+      "llm_summary": "AI驱动的全方位求职系统"
+    },
+    {
+      "owner": "openai",
+      "name": "whisper",
+      "full_name": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "stars": 101889,
+      "forks": 12441,
+      "stars_today": 150,
+      "built_by": [
+        "jongwook",
+        "HennerM",
+        "ryanheise",
+        "petterreinholdtsen",
+        "cclauss"
+      ],
+      "llm_summary": "高性能开源语音识别系统"
+    },
+    {
+      "owner": "vitejs",
+      "name": "vite",
+      "full_name": "vitejs/vite",
+      "url": "https://github.com/vitejs/vite",
+      "description": "Next generation frontend tooling. It's fast!",
+      "language": "TypeScript",
+      "stars": 81200,
+      "forks": 8276,
+      "stars_today": 25,
+      "built_by": [
+        "patak-cat",
+        "sapphi-red",
+        "bluwy",
+        "renovate",
+        "yyx990803"
+      ],
+      "llm_summary": "极速下一代前端构建工具"
+    },
+    {
+      "owner": "microsoft",
+      "name": "mxc",
+      "full_name": "microsoft/mxc",
+      "url": "https://github.com/microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "language": "Rust",
+      "stars": 601,
+      "forks": 25,
+      "stars_today": 64,
+      "built_by": [
+        "MGudgin",
+        "Copilot",
+        "ppenna",
+        "SohamDas2021",
+        "bbonaby"
+      ],
+      "llm_summary": "策略驱动的安全隔离系统"
+    },
+    {
+      "owner": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "full_name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars": 80994,
+      "forks": 10663,
+      "stars_today": 433,
+      "built_by": [
+        "github-actions",
+        "tink2123",
+        "WenmuZhou",
+        "LDOUBLEV",
+        "MissPenguin"
+      ],
+      "llm_summary": "多语言AI文档OCR识别工具"
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 48492,
+      "forks": 5391,
+      "stars_today": 216,
+      "built_by": [
+        "jsoref",
+        "pengzhiliang",
+        "YaoyaoChang",
+        "Copilot",
+        "MSLDCherryPick"
+      ],
+      "llm_summary": "微软开源前沿语音AI技术"
+    }
+  ]
+}
