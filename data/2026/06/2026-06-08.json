@@ -1,0 +1,277 @@
+{
+  "date": "2026-06-08",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 31401,
+      "forks": 2617,
+      "stars_today": 1111,
+      "built_by": [
+        "claude",
+        "tmchow",
+        "j-sperling",
+        "dinakars777"
+      ],
+      "llm_summary": "多平台AI研究助手，智能主题总结"
+    },
+    {
+      "owner": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": 88139,
+      "forks": 56597,
+      "stars_today": 65,
+      "built_by": [
+        "ilya-lavrenov",
+        "mshabunin",
+        "vpisarev",
+        "alalek",
+        "asmorkalov"
+      ],
+      "llm_summary": "开源计算机视觉库，图像处理利器"
+    },
+    {
+      "owner": "Leonxlnx",
+      "name": "taste-skill",
+      "full_name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": 36921,
+      "forks": 2658,
+      "stars_today": 1103,
+      "built_by": [
+        "cursoragent",
+        "Blueemi"
+      ],
+      "llm_summary": "提升AI品味，告别平庸内容生成"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 186090,
+      "forks": 32008,
+      "stars_today": 1112,
+      "built_by": [
+        "claude",
+        "OutThisLife",
+        "teknium1",
+        "0xbyt4",
+        "kshitijk4poor"
+      ],
+      "llm_summary": "与用户共同成长的智能代理"
+    },
+    {
+      "owner": "lfnovo",
+      "name": "open-notebook",
+      "full_name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": 27356,
+      "forks": 3106,
+      "stars_today": 554,
+      "built_by": [
+        "claude",
+        "troykelly",
+        "xeader",
+        "dependabot"
+      ],
+      "llm_summary": "开源Notebook LM，功能更灵活"
+    },
+    {
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "full_name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": 18862,
+      "forks": 2918,
+      "stars_today": 183,
+      "built_by": [
+        "Yuuki-Sakura",
+        "whh2333",
+        "gaozhenqiang",
+        "gao1234-prog",
+        "niuwenzheng"
+      ],
+      "llm_summary": "AI赋能，开启智能赚钱新模式"
+    },
+    {
+      "owner": "aaif-goose",
+      "name": "goose",
+      "full_name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 47561,
+      "forks": 5016,
+      "stars_today": 322,
+      "built_by": [
+        "michaelneale",
+        "alexhancock",
+        "dianed-square",
+        "angiejones",
+        "blackgirlbytes"
+      ],
+      "llm_summary": "开源AI代理，超越代码执行多任务"
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": 29773,
+      "forks": 2952,
+      "stars_today": 309,
+      "built_by": [
+        "dependabot",
+        "jakeaturner",
+        "claude",
+        "chriscrosstalk",
+        "cosmistack-bot"
+      ],
+      "llm_summary": "离线生存电脑，随时随处获取AI赋能"
+    },
+    {
+      "owner": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": 115372,
+      "forks": 19309,
+      "stars_today": 158,
+      "built_by": [
+        "slaren",
+        "ggerganov",
+        "JohannesGaessler",
+        "ngxson",
+        "CISC"
+      ],
+      "llm_summary": "C++实现的高效LLM推理引擎"
+    },
+    {
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "full_name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": 7316,
+      "forks": 708,
+      "stars_today": 1554,
+      "built_by": [
+        "nicolas-geysse",
+        "claude",
+        "Pringled",
+        "faysou"
+      ],
+      "llm_summary": "Rust向量索引，Python便捷调用"
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 72553,
+      "forks": 16254,
+      "stars_today": 350,
+      "built_by": [
+        "keminshu"
+      ],
+      "llm_summary": "全学段PDF教材资源库"
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "full_name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 2067,
+      "forks": 273,
+      "stars_today": 262,
+      "built_by": [
+        "Aismit",
+        "vb-openai",
+        "cching-openai",
+        "ashwinm-oai",
+        "gverma-openai"
+      ],
+      "llm_summary": "OpenAI插件扩展，增强功能"
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "full_name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 12943,
+      "forks": 914,
+      "stars_today": 245,
+      "built_by": [
+        "LucaRonin",
+        "evolanakis",
+        "claude",
+        "riipandi",
+        "github-actions"
+      ],
+      "llm_summary": "markdown知识库管理桌面应用"
+    },
+    {
+      "owner": "HunxByts",
+      "name": "GhostTrack",
+      "full_name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": 13757,
+      "forks": 1838,
+      "stars_today": 28,
+      "built_by": [
+        "bakaemon"
+      ],
+      "llm_summary": "位置与号码追踪实用工具"
+    },
+    {
+      "owner": "microsoft",
+      "name": "pg_durable",
+      "full_name": "microsoft/pg_durable",
+      "url": "https://github.com/microsoft/pg_durable",
+      "description": "PostgreSQL in-database durable execution",
+      "language": "Rust",
+      "stars": 1482,
+      "forks": 33,
+      "stars_today": 316,
+      "built_by": [
+        "Copilot",
+        "tjgreen42",
+        "affandar",
+        "AbeOmor",
+        "pinodeca"
+      ],
+      "llm_summary": "PostgreSQL持久化执行引擎"
+    }
+  ]
+}
