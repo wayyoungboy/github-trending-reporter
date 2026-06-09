@@ -1,0 +1,294 @@
+{
+  "date": "2026-06-09",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 34726,
+      "forks": 2843,
+      "stars_today": 3558,
+      "built_by": [
+        "j-sperling",
+        "claude",
+        "dinakars777",
+        "tmchow"
+      ],
+      "llm_summary": "跨平台AI研究代理，智能汇总多源信息"
+    },
+    {
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "full_name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": 8975,
+      "forks": 816,
+      "stars_today": 1729,
+      "built_by": [
+        "faysou",
+        "Pringled",
+        "claude",
+        "nicolas-geysse"
+      ],
+      "llm_summary": "高性能向量索引，Rust内核Python接口"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "full_name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 12472,
+      "forks": 970,
+      "stars_today": 461,
+      "built_by": [
+        "holtskinner",
+        "martinvarelaj",
+        "cloud-ix-copybara",
+        "jsondai"
+      ],
+      "llm_summary": "Google产品与技术的AI代理技能集"
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "full_name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 13625,
+      "forks": 954,
+      "stars_today": 651,
+      "built_by": [
+        "riipandi",
+        "LucaRonin",
+        "github-actions",
+        "evolanakis",
+        "claude"
+      ],
+      "llm_summary": "Markdown知识库管理桌面应用"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 24295,
+      "forks": 2041,
+      "stars_today": 679,
+      "built_by": [
+        "kadaliao",
+        "claude",
+        "MatrixA",
+        "haosenwang1018"
+      ],
+      "llm_summary": "AI代理全网浏览工具，多平台零API费用"
+    },
+    {
+      "owner": "danielmiessler",
+      "name": "Personal_AI_Infrastructure",
+      "full_name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars": 15467,
+      "forks": 2162,
+      "stars_today": 62,
+      "built_by": [
+        "christauff",
+        "claude",
+        "kaimagnus",
+        "ksylvan"
+      ],
+      "llm_summary": "增强人类能力的代理式AI基础设施"
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars": 50585,
+      "forks": 10336,
+      "stars_today": 308,
+      "built_by": [
+        "claude",
+        "seffhunnn",
+        "dependabot",
+        "FReptar0"
+      ],
+      "llm_summary": "AI求职系统，14种技能模式一键操作"
+    },
+    {
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "full_name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "Unknown",
+      "stars": 12749,
+      "forks": 1503,
+      "stars_today": 164,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "产品经理技能市场，全流程代理技能"
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "full_name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 2337,
+      "forks": 289,
+      "stars_today": 296,
+      "built_by": [
+        "ashwinm-oai",
+        "vb-openai",
+        "Aismit",
+        "cching-openai",
+        "gverma-openai"
+      ],
+      "llm_summary": "OpenAI官方插件生态系统"
+    },
+    {
+      "owner": "Andyyyy64",
+      "name": "whichllm",
+      "full_name": "Andyyyy64/whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "stars": 3517,
+      "forks": 204,
+      "stars_today": 143,
+      "built_by": [
+        "hibiki333155555",
+        "claude",
+        "devangpratap",
+        "justindotdevv"
+      ],
+      "llm_summary": "本地LLM性能测试，一键找出最佳模型"
+    },
+    {
+      "owner": "MemPalace",
+      "name": "mempalace",
+      "full_name": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "stars": 54968,
+      "forks": 7160,
+      "stars_today": 170,
+      "built_by": [
+        "igorls",
+        "milla-jovovich",
+        "claude",
+        "mvalentsev",
+        "bensig"
+      ],
+      "llm_summary": "最佳基准开源AI记忆系统，完全免费"
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 42380,
+      "forks": 3785,
+      "stars_today": 1288,
+      "built_by": [
+        "onuralpszr",
+        "SkalskiP",
+        "LinasKo",
+        "github-actions",
+        "pre-commit-ci"
+      ],
+      "llm_summary": "可重用计算机视觉工具库"
+    },
+    {
+      "owner": "CopilotKit",
+      "name": "CopilotKit",
+      "full_name": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "stars": 34175,
+      "forks": 4306,
+      "stars_today": 378,
+      "built_by": [
+        "mme",
+        "tylerslaton",
+        "AlemTuzlak",
+        "jpr5",
+        "ataibarkai"
+      ],
+      "llm_summary": "代理与生成式UI前端解决方案"
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 73024,
+      "forks": 16345,
+      "stars_today": 592,
+      "built_by": [
+        "keminshu"
+      ],
+      "llm_summary": "全学段中国教材PDF资源库"
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 35824,
+      "forks": 4350,
+      "stars_today": 312,
+      "built_by": [
+        "edocltd",
+        "claude",
+        "lzw-git-all",
+        "toanalien"
+      ],
+      "llm_summary": "Claude Code视觉指南，即学即用模板"
+    },
+    {
+      "owner": "aaif-goose",
+      "name": "goose",
+      "full_name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 48134,
+      "forks": 5069,
+      "stars_today": 699,
+      "built_by": [
+        "angiejones",
+        "michaelneale",
+        "blackgirlbytes",
+        "dianed-square",
+        "alexhancock"
+      ],
+      "llm_summary": "开源可扩展AI代理，全链路LLM协作"
+    }
+  ]
+}
