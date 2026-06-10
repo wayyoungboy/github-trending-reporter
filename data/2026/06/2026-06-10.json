@@ -1,0 +1,276 @@
+{
+  "date": "2026-06-10",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 37533,
+      "forks": 3041,
+      "stars_today": 3191,
+      "built_by": [
+        "tmchow",
+        "claude",
+        "dinakars777",
+        "j-sperling"
+      ]
+    },
+    {
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "full_name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": 10264,
+      "forks": 878,
+      "stars_today": 1801,
+      "built_by": [
+        "Pringled",
+        "claude",
+        "faysou",
+        "nicolas-geysse"
+      ]
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 43061,
+      "forks": 3837,
+      "stars_today": 733,
+      "built_by": [
+        "LinasKo",
+        "onuralpszr",
+        "github-actions",
+        "SkalskiP",
+        "pre-commit-ci"
+      ]
+    },
+    {
+      "owner": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": 88683,
+      "forks": 56623,
+      "stars_today": 102,
+      "built_by": [
+        "mshabunin",
+        "alalek",
+        "vpisarev",
+        "ilya-lavrenov",
+        "asmorkalov"
+      ]
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "full_name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 14390,
+      "forks": 998,
+      "stars_today": 829,
+      "built_by": [
+        "LucaRonin",
+        "evolanakis",
+        "claude",
+        "github-actions",
+        "riipandi"
+      ]
+    },
+    {
+      "owner": "aaif-goose",
+      "name": "goose",
+      "full_name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 48526,
+      "forks": 5095,
+      "stars_today": 489,
+      "built_by": [
+        "blackgirlbytes",
+        "angiejones",
+        "michaelneale",
+        "alexhancock",
+        "dianed-square"
+      ]
+    },
+    {
+      "owner": "Andyyyy64",
+      "name": "whichllm",
+      "full_name": "Andyyyy64/whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "stars": 4148,
+      "forks": 230,
+      "stars_today": 633,
+      "built_by": [
+        "devangpratap",
+        "claude",
+        "justindotdevv",
+        "hibiki333155555"
+      ]
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 73546,
+      "forks": 16467,
+      "stars_today": 519,
+      "built_by": [
+        "keminshu"
+      ]
+    },
+    {
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "Unknown",
+      "stars": 139210,
+      "forks": 34561,
+      "stars_today": 79,
+      "built_by": [
+        "pricisTrail",
+        "benja",
+        "4regab",
+        "paulacavero"
+      ]
+    },
+    {
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "full_name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": 20003,
+      "forks": 3026,
+      "stars_today": 402,
+      "built_by": [
+        "niuwenzheng",
+        "gaozhenqiang",
+        "Yuuki-Sakura",
+        "whh2333",
+        "gao1234-prog"
+      ]
+    },
+    {
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "full_name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "Unknown",
+      "stars": 13490,
+      "forks": 1546,
+      "stars_today": 806,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars": 51771,
+      "forks": 10431,
+      "stars_today": 1110,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "FReptar0",
+        "seffhunnn"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "full_name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 2627,
+      "forks": 307,
+      "stars_today": 284,
+      "built_by": [
+        "gverma-openai",
+        "Aismit",
+        "ashwinm-oai",
+        "vb-openai",
+        "cching-openai"
+      ]
+    },
+    {
+      "owner": "maziyarpanahi",
+      "name": "openmed",
+      "full_name": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars": 1906,
+      "forks": 216,
+      "stars_today": 191,
+      "built_by": [
+        "claude",
+        "thirdwing"
+      ]
+    },
+    {
+      "owner": "francescopace",
+      "name": "espectre",
+      "full_name": "francescopace/espectre",
+      "url": "https://github.com/francescopace/espectre",
+      "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
+      "language": "Python",
+      "stars": 8240,
+      "forks": 633,
+      "stars_today": 134,
+      "built_by": [
+        "mcfd",
+        "hkar19",
+        "kylefmohr",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 49873,
+      "forks": 5572,
+      "stars_today": 443,
+      "built_by": [
+        "federicobartoli",
+        "nucliweb",
+        "claude",
+        "dj2313"
+      ]
+    }
+  ]
+}
