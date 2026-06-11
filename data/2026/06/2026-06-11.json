@@ -1,0 +1,311 @@
+{
+  "date": "2026-06-11",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 52067,
+      "forks": 5736,
+      "stars_today": 821,
+      "built_by": [
+        "nucliweb",
+        "dj2313",
+        "claude",
+        "federicobartoli"
+      ],
+      "llm_summary": "AI编码代理的生产级工程技能库"
+    },
+    {
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "full_name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "Unknown",
+      "stars": 15066,
+      "forks": 1632,
+      "stars_today": 804,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "产品经理技能市场，百种代理技能插件"
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "full_name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 14978,
+      "forks": 1034,
+      "stars_today": 612,
+      "built_by": [
+        "evolanakis",
+        "riipandi",
+        "github-actions",
+        "LucaRonin",
+        "claude"
+      ],
+      "llm_summary": "桌面markdown知识库管理工具"
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 39173,
+      "forks": 3162,
+      "stars_today": 2535,
+      "built_by": [
+        "dinakars777",
+        "j-sperling",
+        "claude",
+        "tmchow"
+      ],
+      "llm_summary": "AI跨平台研究主题并生成总结"
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "full_name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 32088,
+      "forks": 2349,
+      "stars_today": 318,
+      "built_by": [
+        "fen0s",
+        "Copilot",
+        "dependabot",
+        "kustermariocoding"
+      ],
+      "llm_summary": "跨3000+网站的用户信息收集工具"
+    },
+    {
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "Unknown",
+      "stars": 139558,
+      "forks": 34594,
+      "stars_today": 393,
+      "built_by": [
+        "pricisTrail",
+        "benja",
+        "paulacavero",
+        "4regab"
+      ],
+      "llm_summary": "AI工具系统提示与模型集合库"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 223706,
+      "forks": 19891,
+      "stars_today": 1104,
+      "built_by": [
+        "clkao",
+        "arittr",
+        "claude",
+        "jjshanks"
+      ],
+      "llm_summary": "有效的代理技能框架与开发方法"
+    },
+    {
+      "owner": "masterking32",
+      "name": "MasterDnsVPN",
+      "full_name": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars": 5262,
+      "forks": 498,
+      "stars_today": 354,
+      "built_by": [
+        "PentSec",
+        "abolix",
+        "typerhack",
+        "MahdiMirzadeh"
+      ],
+      "llm_summary": "高级DNS隧道VPN，优化审查绕过能力"
+    },
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 85156,
+      "forks": 12161,
+      "stars_today": 1389,
+      "built_by": [
+        "KevinZhang19870314",
+        "yyhhyyyyyy",
+        "claude",
+        "vuisme"
+      ],
+      "llm_summary": "AI一键生成高清短视频工具"
+    },
+    {
+      "owner": "maziyarpanahi",
+      "name": "openmed",
+      "full_name": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars": 2338,
+      "forks": 246,
+      "stars_today": 527,
+      "built_by": [
+        "thirdwing",
+        "claude"
+      ],
+      "llm_summary": "开源医疗人工智能平台"
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 36583,
+      "forks": 4418,
+      "stars_today": 211,
+      "built_by": [
+        "edocltd",
+        "lzw-git-all",
+        "claude",
+        "toanalien"
+      ],
+      "llm_summary": "Claude Code视觉化示例与模板指南"
+    },
+    {
+      "owner": "activeloopai",
+      "name": "hivemind",
+      "full_name": "activeloopai/hivemind",
+      "url": "https://github.com/activeloopai/hivemind",
+      "description": "One brain for all your agents",
+      "language": "TypeScript",
+      "stars": 879,
+      "forks": 49,
+      "stars_today": 64,
+      "built_by": [
+        "kaghni",
+        "efenocchi",
+        "khustup2",
+        "github-actions",
+        "vlad-activeloop"
+      ],
+      "llm_summary": "代理统一智能管理系统"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 72932,
+      "forks": 9728,
+      "stars_today": 420,
+      "built_by": [
+        "fr4iser90",
+        "claude",
+        "dependabot",
+        "github-actions"
+      ],
+      "llm_summary": "WiFi信号转化为空间智能与生命监测"
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 43624,
+      "forks": 3874,
+      "stars_today": 695,
+      "built_by": [
+        "SkalskiP",
+        "LinasKo",
+        "onuralpszr",
+        "github-actions",
+        "pre-commit-ci"
+      ],
+      "llm_summary": "可重用计算机视觉工具库"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "full_name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 13335,
+      "forks": 1008,
+      "stars_today": 211,
+      "built_by": [
+        "cloud-ix-copybara",
+        "jsondai",
+        "holtskinner",
+        "martinvarelaj"
+      ],
+      "llm_summary": "Google产品与技术的代理技能集"
+    },
+    {
+      "owner": "FareedKhan-dev",
+      "name": "train-llm-from-scratch",
+      "full_name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Python",
+      "stars": 5305,
+      "forks": 718,
+      "stars_today": 247,
+      "built_by": [
+        "TianyiQ",
+        "eltociear",
+        "claude",
+        "konglingfan"
+      ],
+      "llm_summary": "从零开始训练LLM的完整指南"
+    },
+    {
+      "owner": "apple",
+      "name": "container",
+      "full_name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": 29988,
+      "forks": 834,
+      "stars_today": 1611,
+      "built_by": [
+        "katiewasnothere",
+        "dcantah",
+        "realrajaryan",
+        "dkovba",
+        "jglogan"
+      ],
+      "llm_summary": "Mac上优化的Linux容器轻量级工具"
+    }
+  ]
+}
