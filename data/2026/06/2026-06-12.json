@@ -1,0 +1,340 @@
+{
+  "date": "2026-06-12",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "apple",
+      "name": "container",
+      "full_name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": 32781,
+      "forks": 918,
+      "stars_today": 2430,
+      "built_by": [
+        "katiewasnothere",
+        "dkovba",
+        "dcantah",
+        "realrajaryan",
+        "jglogan"
+      ],
+      "llm_summary": "Mac上轻量级Linux容器工具，专为Apple芯片优化"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 54991,
+      "forks": 5968,
+      "stars_today": 3278,
+      "built_by": [
+        "claude",
+        "federicobartoli",
+        "dj2313",
+        "nucliweb"
+      ],
+      "llm_summary": "AI编码代理的生产级工程技能库"
+    },
+    {
+      "owner": "maziyarpanahi",
+      "name": "openmed",
+      "full_name": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "stars": 2806,
+      "forks": 277,
+      "stars_today": 426,
+      "built_by": [
+        "claude",
+        "thirdwing"
+      ],
+      "llm_summary": "开源医疗人工智能解决方案"
+    },
+    {
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "full_name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "Unknown",
+      "stars": 16302,
+      "forks": 1696,
+      "stars_today": 1978,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "产品经理技能市场，覆盖全流程专业能力"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "SkillSpector",
+      "full_name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars": 2749,
+      "forks": 216,
+      "stars_today": 319,
+      "built_by": [
+        "lrecknagel",
+        "keshprad",
+        "wernerkasselman-au"
+      ],
+      "llm_summary": "AI代理技能安全漏洞检测工具"
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "full_name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 32660,
+      "forks": 2394,
+      "stars_today": 661,
+      "built_by": [
+        "dependabot",
+        "fen0s",
+        "kustermariocoding",
+        "Copilot"
+      ],
+      "llm_summary": "跨3000+网站的用户信息收集工具"
+    },
+    {
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "Unknown",
+      "stars": 139906,
+      "forks": 34622,
+      "stars_today": 368,
+      "built_by": [
+        "4regab",
+        "paulacavero",
+        "benja",
+        "pricisTrail"
+      ],
+      "llm_summary": "AI工具系统提示与模型全面收录"
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "full_name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 15440,
+      "forks": 1062,
+      "stars_today": 604,
+      "built_by": [
+        "claude",
+        "evolanakis",
+        "github-actions",
+        "riipandi",
+        "LucaRonin"
+      ],
+      "llm_summary": "Markdown知识库管理桌面应用"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 224956,
+      "forks": 19997,
+      "stars_today": 1322,
+      "built_by": [
+        "claude",
+        "jjshanks",
+        "arittr",
+        "clkao"
+      ],
+      "llm_summary": "实用的代理技能框架与开发方法论"
+    },
+    {
+      "owner": "restic",
+      "name": "restic",
+      "full_name": "restic/restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 34197,
+      "forks": 1786,
+      "stars_today": 61,
+      "built_by": [
+        "MichaelEischer",
+        "greatroar",
+        "rawtaz",
+        "dependabot",
+        "fd0"
+      ],
+      "llm_summary": "快速安全高效的数据备份工具"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 111664,
+      "forks": 18262,
+      "stars_today": 1599,
+      "built_by": [
+        "claude",
+        "4shil",
+        "epowelljr",
+        "hedonnn"
+      ],
+      "llm_summary": "全栈AI代理专家团队，覆盖多领域专业能力"
+    },
+    {
+      "owner": "masterking32",
+      "name": "MasterDnsVPN",
+      "full_name": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars": 5728,
+      "forks": 520,
+      "stars_today": 507,
+      "built_by": [
+        "abolix",
+        "MahdiMirzadeh",
+        "PentSec",
+        "typerhack"
+      ],
+      "llm_summary": "高级DNS隧道VPN，优化抗丢包与速度"
+    },
+    {
+      "owner": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": 30397,
+      "forks": 7507,
+      "stars_today": 67,
+      "built_by": [
+        "pranavrajs",
+        "muhsin-k",
+        "sojan-official",
+        "scmmishra",
+        "iamsivin"
+      ],
+      "llm_summary": "开源全渠道客户支持平台"
+    },
+    {
+      "owner": "kenn-io",
+      "name": "agentsview",
+      "full_name": "kenn-io/agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+      "language": "Go",
+      "stars": 1694,
+      "forks": 174,
+      "stars_today": 114,
+      "built_by": [
+        "wesm",
+        "mariusvniekerk",
+        "claude",
+        "userFRM",
+        "dependabot"
+      ],
+      "llm_summary": "本地优先的编码代理会话分析工具"
+    },
+    {
+      "owner": "alchaincyf",
+      "name": "zhangxuefeng-skill",
+      "full_name": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "language": "Unknown",
+      "stars": 7989,
+      "forks": 2416,
+      "stars_today": 89,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "张雪峰认知操作系统，规划升学就业"
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 73967,
+      "forks": 16544,
+      "stars_today": 88,
+      "built_by": [
+        "keminshu"
+      ],
+      "llm_summary": "全学段教育教材PDF资源库"
+    },
+    {
+      "owner": "hexo-ai",
+      "name": "sia",
+      "full_name": "hexo-ai/sia",
+      "url": "https://github.com/hexo-ai/sia",
+      "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+      "language": "Python",
+      "stars": 1345,
+      "forks": 162,
+      "stars_today": 199,
+      "built_by": [
+        "chartotu19",
+        "selvamHexo",
+        "claude",
+        "yogendrahexo",
+        "VigneshHexo"
+      ],
+      "llm_summary": "自主提升AI系统性能的改进框架"
+    },
+    {
+      "owner": "mattermost",
+      "name": "mattermost",
+      "full_name": "mattermost/mattermost",
+      "url": "https://github.com/mattermost/mattermost",
+      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "language": "TypeScript",
+      "stars": 37348,
+      "forks": 8699,
+      "stars_today": 53,
+      "built_by": [
+        "jwilander",
+        "mattermost-build",
+        "coreyhulen",
+        "crspeller",
+        "hmhealey"
+      ],
+      "llm_summary": "开源全周期安全软件开发协作平台"
+    },
+    {
+      "owner": "bannedbook",
+      "name": "fanqiang",
+      "full_name": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars": 46890,
+      "forks": 8018,
+      "stars_today": 161,
+      "built_by": [
+        "crazyetiii"
+      ],
+      "llm_summary": "科学上网网络访问工具"
+    }
+  ]
+}
