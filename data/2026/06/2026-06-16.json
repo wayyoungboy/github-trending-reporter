@@ -1,0 +1,340 @@
+{
+  "date": "2026-06-16",
+  "total_repos": 18,
+  "repositories": [
+    {
+      "owner": "iptv-org",
+      "name": "iptv",
+      "full_name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 123012,
+      "forks": 6609,
+      "stars_today": 2657,
+      "built_by": [
+        "UltraHDR",
+        "Dum4G",
+        "freearhey",
+        "BellezaEmporium",
+        "iptv-bot"
+      ],
+      "llm_summary": "全球公开IPTV频道集合，覆盖世界各国"
+    },
+    {
+      "owner": "teslamate-org",
+      "name": "teslamate",
+      "full_name": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "stars": 8266,
+      "forks": 948,
+      "stars_today": 33,
+      "built_by": [
+        "swiffer",
+        "dependabot-preview",
+        "JakobLichterfeld",
+        "adriankumpf",
+        "dependabot"
+      ],
+      "llm_summary": "特斯拉自托管数据记录器，全方位监控车辆数据"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 30450,
+      "forks": 2469,
+      "stars_today": 1100,
+      "built_by": [
+        "hymansun",
+        "claude",
+        "alfred1994",
+        "kadaliao"
+      ],
+      "llm_summary": "AI代理获取全网信息能力，多平台一键搜索"
+    },
+    {
+      "owner": "meshery",
+      "name": "meshery",
+      "full_name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars": 10656,
+      "forks": 3435,
+      "stars_today": 228,
+      "built_by": [
+        "leecalcote",
+        "amitamrutiya",
+        "MUzairS15",
+        "theBeginner86",
+        "aabidsofi19"
+      ],
+      "llm_summary": "云原生管理平台，简化应用部署与运维"
+    },
+    {
+      "owner": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": 31732,
+      "forks": 7634,
+      "stars_today": 431,
+      "built_by": [
+        "scmmishra",
+        "pranavrajs",
+        "sojan-official",
+        "muhsin-k",
+        "iamsivin"
+      ],
+      "llm_summary": "开源全渠道客服平台，替代商业客服解决方案"
+    },
+    {
+      "owner": "krahets",
+      "name": "hello-algo",
+      "full_name": "krahets/hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "stars": 126992,
+      "forks": 15151,
+      "stars_today": 71,
+      "built_by": [
+        "nuomi1",
+        "Gonglja",
+        "justin-tse",
+        "coderonion"
+      ],
+      "llm_summary": "多语言算法教程，动画图解一键运行"
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 447960,
+      "forks": 44997,
+      "stars_today": 736,
+      "built_by": [
+        "renovate-bot",
+        "renovate",
+        "camperbot",
+        "ojeytonwilliams",
+        "raisedadead"
+      ],
+      "llm_summary": "免费编程学习平台，涵盖数学与计算机科学"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "stars": 18193,
+      "forks": 1174,
+      "stars_today": 70,
+      "built_by": [
+        "f-trycua",
+        "github-actions",
+        "ddupont808",
+        "claude",
+        "jamesmurdza"
+      ],
+      "llm_summary": "AI代理控制电脑基础设施，支持多平台沙盒"
+    },
+    {
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "full_name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "Unknown",
+      "stars": 352360,
+      "forks": 83572,
+      "stars_today": 364,
+      "built_by": [
+        "avizmarlon",
+        "esaucedof",
+        "Ilyushin",
+        "Anri-Lombard"
+      ],
+      "llm_summary": "软件工程师完整学习计划，系统掌握计算机科学"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 33163,
+      "forks": 5419,
+      "stars_today": 562,
+      "built_by": [
+        "abhinav-m22",
+        "github-actions",
+        "thereisnotime",
+        "pzy0006"
+      ],
+      "llm_summary": "AI工程全流程学习，从零构建并部署"
+    },
+    {
+      "owner": "music-assistant",
+      "name": "server",
+      "full_name": "music-assistant/server",
+      "url": "https://github.com/music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "stars": 2399,
+      "forks": 445,
+      "stars_today": 225,
+      "built_by": [
+        "music-assistant-machine",
+        "OzGav",
+        "MarvinSchenkel",
+        "marcelveldt",
+        "dependabot"
+      ],
+      "llm_summary": "开源音乐库管理系统，连接流媒体与智能音箱"
+    },
+    {
+      "owner": "Free-TV",
+      "name": "IPTV",
+      "full_name": "Free-TV/IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "stars": 17324,
+      "forks": 2565,
+      "stars_today": 361,
+      "built_by": [
+        "freetv332",
+        "TVKaista",
+        "NezbednikSK",
+        "infid0",
+        "KAMI911"
+      ],
+      "llm_summary": "免费电视频道M3U播放列表，一键观看全球电视"
+    },
+    {
+      "owner": "Introduction-to-Autonomous-Robots",
+      "name": "Introduction-to-Autonomous-Robots",
+      "full_name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
+      "language": "TeX",
+      "stars": 3091,
+      "forks": 659,
+      "stars_today": 489,
+      "built_by": [
+        "correll",
+        "hayesbh",
+        "curobotlab",
+        "alecive",
+        "AlWiVo"
+      ],
+      "llm_summary": "自主机器人入门教程，理论与实践相结合"
+    },
+    {
+      "owner": "Raphire",
+      "name": "Win11Debloat",
+      "full_name": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars": 48066,
+      "forks": 1939,
+      "stars_today": 112,
+      "built_by": [
+        "tsumi",
+        "SashankBhamidi",
+        "N0tHorizon",
+        "kapad"
+      ],
+      "llm_summary": "Windows系统精简工具，移预装禁遥测"
+    },
+    {
+      "owner": "mikeroyal",
+      "name": "Self-Hosting-Guide",
+      "full_name": "mikeroyal/Self-Hosting-Guide",
+      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+      "language": "Dockerfile",
+      "stars": 21090,
+      "forks": 1067,
+      "stars_today": 188,
+      "built_by": [
+        "ElianaBrininger",
+        "bsamadi",
+        "dmayboroda",
+        "fiftin"
+      ],
+      "llm_summary": "自托管软件完整指南，涵盖云与LLM部署"
+    },
+    {
+      "owner": "itsfatduck",
+      "name": "optimizerDuck",
+      "full_name": "itsfatduck/optimizerDuck",
+      "url": "https://github.com/itsfatduck/optimizerDuck",
+      "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+      "language": "C#",
+      "stars": 3739,
+      "forks": 163,
+      "stars_today": 340,
+      "built_by": [
+        "abc0922001",
+        "wcxu21",
+        "klfnn",
+        "mhanelia"
+      ],
+      "llm_summary": "Windows系统优化工具，提升性能保护隐私"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "SkillSpector",
+      "full_name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars": 6456,
+      "forks": 471,
+      "stars_today": 1079,
+      "built_by": [
+        "lrecknagel",
+        "jcchavezs",
+        "keshprad",
+        "medhdj",
+        "wernerkasselman-au"
+      ],
+      "llm_summary": "AI代理技能安全扫描器，检测漏洞与风险"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 30318,
+      "forks": 5200,
+      "stars_today": 396,
+      "built_by": [
+        "Luciferbobo",
+        "randyy179",
+        "AnMakc",
+        "CharlesJ-ABu"
+      ],
+      "llm_summary": "金融市场语言基础模型，精准分析市场数据"
+    }
+  ]
+}
