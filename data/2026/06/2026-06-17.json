@@ -1,0 +1,239 @@
+{
+  "date": "2026-06-17",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 448633,
+      "forks": 45047,
+      "stars_today": 633,
+      "built_by": [
+        "ojeytonwilliams",
+        "raisedadead",
+        "renovate",
+        "renovate-bot",
+        "camperbot"
+      ]
+    },
+    {
+      "owner": "swc-project",
+      "name": "swc",
+      "full_name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": 33983,
+      "forks": 1418,
+      "stars_today": 20,
+      "built_by": [
+        "magic-akari",
+        "kwonoj",
+        "kdy1",
+        "swc-bot",
+        "alexander-akait"
+      ]
+    },
+    {
+      "owner": "teslamate-org",
+      "name": "teslamate",
+      "full_name": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "stars": 8424,
+      "forks": 957,
+      "stars_today": 215,
+      "built_by": [
+        "adriankumpf",
+        "JakobLichterfeld",
+        "swiffer",
+        "dependabot",
+        "dependabot-preview"
+      ]
+    },
+    {
+      "owner": "iptv-org",
+      "name": "iptv",
+      "full_name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 124216,
+      "forks": 6714,
+      "stars_today": 1197,
+      "built_by": [
+        "BellezaEmporium",
+        "Dum4G",
+        "UltraHDR",
+        "freearhey",
+        "iptv-bot"
+      ]
+    },
+    {
+      "owner": "puppeteer",
+      "name": "puppeteer",
+      "full_name": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "stars": 94914,
+      "forks": 9451,
+      "stars_today": 56,
+      "built_by": [
+        "aslushnikov",
+        "Lightning00Blade",
+        "release-please",
+        "dependabot",
+        "OrKoN"
+      ]
+    },
+    {
+      "owner": "meshery",
+      "name": "meshery",
+      "full_name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars": 10868,
+      "forks": 3449,
+      "stars_today": 228,
+      "built_by": [
+        "aabidsofi19",
+        "amitamrutiya",
+        "theBeginner86",
+        "MUzairS15",
+        "leecalcote"
+      ]
+    },
+    {
+      "owner": "cypress-io",
+      "name": "cypress",
+      "full_name": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars": 50236,
+      "forks": 3426,
+      "stars_today": 13,
+      "built_by": [
+        "jennifer-shehane",
+        "brian-mann",
+        "chrisbreiding",
+        "renovate-bot",
+        "flotwig"
+      ]
+    },
+    {
+      "owner": "music-assistant",
+      "name": "server",
+      "full_name": "music-assistant/server",
+      "url": "https://github.com/music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "stars": 2580,
+      "forks": 450,
+      "stars_today": 157,
+      "built_by": [
+        "OzGav",
+        "marcelveldt",
+        "dependabot",
+        "music-assistant-machine",
+        "MarvinSchenkel"
+      ]
+    },
+    {
+      "owner": "Universal-Debloater-Alliance",
+      "name": "universal-android-debloater-next-generation",
+      "full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars": 7351,
+      "forks": 315,
+      "stars_today": 146,
+      "built_by": [
+        "lavafroth",
+        "Frigyes06",
+        "AnonymousWP",
+        "Rudxain",
+        "0x192"
+      ]
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "full_name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 30175,
+      "forks": 3408,
+      "stars_today": 408,
+      "built_by": [
+        "liuxin99",
+        "SuperMarioYL",
+        "a710128",
+        "Labmem-Zhouyx",
+        "VoxInstruct"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "zvec",
+      "full_name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 10519,
+      "forks": 610,
+      "stars_today": 156,
+      "built_by": [
+        "zhourrr",
+        "Cuiyus",
+        "iaojnh",
+        "egolearner",
+        "feihongxu0824"
+      ]
+    },
+    {
+      "owner": "rmyndharis",
+      "name": "OpenWA",
+      "full_name": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "stars": 9119,
+      "forks": 2001,
+      "stars_today": 185,
+      "built_by": [
+        "dependabot",
+        "aqilaziz",
+        "amstrong-bil",
+        "MrViSiOn"
+      ]
+    },
+    {
+      "owner": "n0-computer",
+      "name": "iroh",
+      "full_name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars": 9323,
+      "forks": 437,
+      "stars_today": 334,
+      "built_by": [
+        "flub",
+        "ramfox",
+        "Frando",
+        "rklaehn",
+        "dignifiedquire"
+      ]
+    }
+  ]
+}
