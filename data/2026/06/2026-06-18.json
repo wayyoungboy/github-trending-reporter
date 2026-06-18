@@ -1,0 +1,373 @@
+{
+  "date": "2026-06-18",
+  "total_repos": 20,
+  "repositories": [
+    {
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "full_name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 5490,
+      "forks": 494,
+      "stars_today": 371,
+      "built_by": [
+        "shanemccarron-maker",
+        "dependabot",
+        "dLo999",
+        "claude"
+      ],
+      "llm_summary": "高性能代码智能服务器，毫秒级索引代码库"
+    },
+    {
+      "owner": "n0-computer",
+      "name": "iroh",
+      "full_name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars": 9690,
+      "forks": 452,
+      "stars_today": 421,
+      "built_by": [
+        "ramfox",
+        "Frando",
+        "dignifiedquire",
+        "rklaehn",
+        "flub"
+      ],
+      "llm_summary": "基于键的模块化网络堆栈，替代IP地址"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 33332,
+      "forks": 2679,
+      "stars_today": 1161,
+      "built_by": [
+        "kadaliao",
+        "alfred1994",
+        "hymansun",
+        "claude"
+      ],
+      "llm_summary": "AI助手全网信息获取，多平台零API费"
+    },
+    {
+      "owner": "meshery",
+      "name": "meshery",
+      "full_name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars": 11040,
+      "forks": 3458,
+      "stars_today": 196,
+      "built_by": [
+        "aabidsofi19",
+        "theBeginner86",
+        "leecalcote",
+        "amitamrutiya",
+        "MUzairS15"
+      ],
+      "llm_summary": "云原生资源管理平台"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 231199,
+      "forks": 20548,
+      "stars_today": 1129,
+      "built_by": [
+        "arittr",
+        "clkao",
+        "jjshanks",
+        "claude"
+      ],
+      "llm_summary": "智能体技能框架与有效开发方法"
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 21958,
+      "forks": 2135,
+      "stars_today": 606,
+      "built_by": [
+        "misha-chertushkin",
+        "JustinGuese",
+        "darkpowerxo",
+        "rajatsen91",
+        "siriuz42"
+      ],
+      "llm_summary": "谷歌研发的时间序列预测基础模型"
+    },
+    {
+      "owner": "RocketChat",
+      "name": "Rocket.Chat",
+      "full_name": "RocketChat/Rocket.Chat",
+      "url": "https://github.com/RocketChat/Rocket.Chat",
+      "description": "The Secure CommsOS™ for mission-critical operations",
+      "language": "TypeScript",
+      "stars": 45605,
+      "forks": 13657,
+      "stars_today": 22,
+      "built_by": [
+        "rodrigok",
+        "engelgabriel",
+        "ggazzo",
+        "sampaiodiego",
+        "MartinSchoeler"
+      ],
+      "llm_summary": "关键任务安全通信操作系统"
+    },
+    {
+      "owner": "continuedev",
+      "name": "continue",
+      "full_name": "continuedev/continue",
+      "url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "language": "TypeScript",
+      "stars": 33930,
+      "forks": 4699,
+      "stars_today": 49,
+      "built_by": [
+        "uinstinct",
+        "RomneyDa",
+        "tomasz-stefaniak",
+        "Patrick-Erichsen",
+        "sestinj"
+      ],
+      "llm_summary": "开源AI编程助手"
+    },
+    {
+      "owner": "penpot",
+      "name": "penpot",
+      "full_name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": 50130,
+      "forks": 3234,
+      "stars_today": 70,
+      "built_by": [
+        "superalex",
+        "niwinz",
+        "EvaMarco",
+        "hirunatan",
+        "Alotor"
+      ],
+      "llm_summary": "设计与代码协作的开源设计工具"
+    },
+    {
+      "owner": "krahets",
+      "name": "hello-algo",
+      "full_name": "krahets/hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "stars": 127498,
+      "forks": 15176,
+      "stars_today": 96,
+      "built_by": [
+        "nuomi1",
+        "Gonglja",
+        "coderonion",
+        "justin-tse"
+      ],
+      "llm_summary": "多语言交互式算法教程，动画图解"
+    },
+    {
+      "owner": "Universal-Debloater-Alliance",
+      "name": "universal-android-debloater-next-generation",
+      "full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars": 7666,
+      "forks": 328,
+      "stars_today": 457,
+      "built_by": [
+        "0x192",
+        "AnonymousWP",
+        "Rudxain",
+        "Frigyes06",
+        "lavafroth"
+      ],
+      "llm_summary": "无需root的Android设备精简工具"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 133771,
+      "forks": 11617,
+      "stars_today": 1523,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "真实工程师的实用技能集合"
+    },
+    {
+      "owner": "yairm210",
+      "name": "Unciv",
+      "full_name": "yairm210/Unciv",
+      "url": "https://github.com/yairm210/Unciv",
+      "description": "Open-source Android/Desktop remake of Civ V",
+      "language": "Kotlin",
+      "stars": 10685,
+      "forks": 1844,
+      "stars_today": 24,
+      "built_by": [
+        "Smashfanful",
+        "Ouaz",
+        "xlenstra",
+        "SomeTroglodyte"
+      ],
+      "llm_summary": "开源文明V的Android/桌面版重制"
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 449171,
+      "forks": 45090,
+      "stars_today": 757,
+      "built_by": [
+        "ojeytonwilliams",
+        "renovate",
+        "renovate-bot",
+        "raisedadead",
+        "camperbot"
+      ],
+      "llm_summary": "免费学习编程和计算机科学的开源课程"
+    },
+    {
+      "owner": "bytedance",
+      "name": "UI-TARS-desktop",
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 36719,
+      "forks": 3701,
+      "stars_today": 150,
+      "built_by": [
+        "skychx",
+        "ycjcl868",
+        "ulivz",
+        "cjraft",
+        "ZhaoHeh"
+      ],
+      "llm_summary": "连接AI模型与智能体基础设施的开源堆栈"
+    },
+    {
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars": 23832,
+      "forks": 3019,
+      "stars_today": 98,
+      "built_by": [
+        "filipmacek",
+        "cjdsellers",
+        "davidsblom",
+        "faysou",
+        "limx0"
+      ],
+      "llm_summary": "生产级Rust原生交易引擎"
+    },
+    {
+      "owner": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": 32403,
+      "forks": 7715,
+      "stars_today": 264,
+      "built_by": [
+        "scmmishra",
+        "sojan-official",
+        "iamsivin",
+        "pranavrajs",
+        "muhsin-k"
+      ],
+      "llm_summary": "开源全渠道客户支持平台"
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 5401,
+      "forks": 1010,
+      "stars_today": 98,
+      "built_by": [
+        "itsuzef",
+        "claude"
+      ],
+      "llm_summary": "开源智能视频制作系统"
+    },
+    {
+      "owner": "alexzhang13",
+      "name": "rlm",
+      "full_name": "alexzhang13/rlm",
+      "url": "https://github.com/alexzhang13/rlm",
+      "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+      "language": "Python",
+      "stars": 4943,
+      "forks": 824,
+      "stars_today": 43,
+      "built_by": [
+        "lakshyaag",
+        "alt-glitch",
+        "rawwerks",
+        "claude"
+      ],
+      "llm_summary": "递归语言模型通用即插即用推理库"
+    },
+    {
+      "owner": "makeplane",
+      "name": "plane",
+      "full_name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": 51341,
+      "forks": 4565,
+      "stars_today": 89,
+      "built_by": [
+        "anmolsinghbhatia",
+        "aaryan610",
+        "NarayanBavisetti",
+        "pablohashescobar",
+        "sriramveeraghanta"
+      ],
+      "llm_summary": "现代开源项目管理平台"
+    }
+  ]
+}
