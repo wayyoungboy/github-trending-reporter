@@ -1,0 +1,263 @@
+{
+  "date": "2026-06-20",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "full_name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 8312,
+      "forks": 632,
+      "stars_today": 1058,
+      "built_by": [
+        "shanemccarron-maker",
+        "claude",
+        "dependabot",
+        "dLo999"
+      ]
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 24109,
+      "forks": 2275,
+      "stars_today": 1510,
+      "built_by": [
+        "darkpowerxo",
+        "rajatsen91",
+        "JustinGuese",
+        "siriuz42",
+        "misha-chertushkin"
+      ]
+    },
+    {
+      "owner": "palmier-io",
+      "name": "palmier-pro",
+      "full_name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars": 1974,
+      "forks": 192,
+      "stars_today": 756,
+      "built_by": [
+        "htin1",
+        "mricopeng",
+        "cursoragent"
+      ]
+    },
+    {
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "full_name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 57306,
+      "forks": 9143,
+      "stars_today": 156,
+      "built_by": [
+        "lspassos1",
+        "NewCoder3294",
+        "claude",
+        "SebastienMelki"
+      ]
+    },
+    {
+      "owner": "aishwaryanr",
+      "name": "awesome-generative-ai-guide",
+      "full_name": "aishwaryanr/awesome-generative-ai-guide",
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "language": "HTML",
+      "stars": 27653,
+      "forks": 5740,
+      "stars_today": 107,
+      "built_by": [
+        "doggy8088",
+        "rk-yen",
+        "claude",
+        "Rajarshi12321"
+      ]
+    },
+    {
+      "owner": "BuilderIO",
+      "name": "agent-native",
+      "full_name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agent-native applications.",
+      "language": "TypeScript",
+      "stars": 1069,
+      "forks": 119,
+      "stars_today": 147,
+      "built_by": [
+        "builderio-bot",
+        "steve8708",
+        "builder-io-integration",
+        "zuchka",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "chopratejas",
+      "name": "headroom",
+      "full_name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 38877,
+      "forks": 2657,
+      "stars_today": 4005,
+      "built_by": [
+        "Copilot",
+        "JerrettDavis",
+        "claude",
+        "gglucass"
+      ]
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 6331,
+      "forks": 1084,
+      "stars_today": 156,
+      "built_by": [
+        "itsuzef",
+        "claude"
+      ]
+    },
+    {
+      "owner": "zai-org",
+      "name": "GLM-5",
+      "full_name": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "language": "Unknown",
+      "stars": 4604,
+      "forks": 464,
+      "stars_today": 480,
+      "built_by": [
+        "nakairika",
+        "zRzRzRzRzRzRzR",
+        "shifengmin",
+        "JaredforReal"
+      ]
+    },
+    {
+      "owner": "withastro",
+      "name": "flue",
+      "full_name": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "stars": 5856,
+      "forks": 325,
+      "stars_today": 309,
+      "built_by": [
+        "ketankhairnar",
+        "cpojer",
+        "FredKSchott",
+        "claude",
+        "stainlu"
+      ]
+    },
+    {
+      "owner": "n0-computer",
+      "name": "iroh",
+      "full_name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars": 10259,
+      "forks": 466,
+      "stars_today": 302,
+      "built_by": [
+        "dignifiedquire",
+        "ramfox",
+        "Frando",
+        "rklaehn",
+        "flub"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 233418,
+      "forks": 20725,
+      "stars_today": 1110,
+      "built_by": [
+        "clkao",
+        "jjshanks",
+        "arittr",
+        "claude"
+      ]
+    },
+    {
+      "owner": "penpot",
+      "name": "penpot",
+      "full_name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": 50618,
+      "forks": 3269,
+      "stars_today": 85,
+      "built_by": [
+        "superalex",
+        "hirunatan",
+        "EvaMarco",
+        "niwinz",
+        "Alotor"
+      ]
+    },
+    {
+      "owner": "Kong",
+      "name": "insomnia",
+      "full_name": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars": 38995,
+      "forks": 2302,
+      "stars_today": 292,
+      "built_by": [
+        "jackkav",
+        "filfreire",
+        "gatzjames",
+        "develohpanda",
+        "gschier"
+      ]
+    },
+    {
+      "owner": "Lightricks",
+      "name": "LTX-2",
+      "full_name": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "stars": 7681,
+      "forks": 1221,
+      "stars_today": 196,
+      "built_by": [
+        "AlexeyKravtsov1987",
+        "github-actions",
+        "michaellightricks"
+      ]
+    }
+  ]
+}
