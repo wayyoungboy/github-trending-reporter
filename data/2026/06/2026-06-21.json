@@ -1,0 +1,294 @@
+{
+  "date": "2026-06-21",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "palmier-io",
+      "name": "palmier-pro",
+      "full_name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars": 3491,
+      "forks": 286,
+      "stars_today": 902,
+      "built_by": [
+        "cursoragent",
+        "mricopeng",
+        "htin1"
+      ]
+    },
+    {
+      "owner": "penpot",
+      "name": "penpot",
+      "full_name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": 51503,
+      "forks": 3306,
+      "stars_today": 420,
+      "built_by": [
+        "niwinz",
+        "EvaMarco",
+        "superalex",
+        "Alotor",
+        "hirunatan"
+      ]
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 7123,
+      "forks": 1158,
+      "stars_today": 677,
+      "built_by": [
+        "claude",
+        "itsuzef"
+      ]
+    },
+    {
+      "owner": "tursodatabase",
+      "name": "turso",
+      "full_name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars": 20364,
+      "forks": 1042,
+      "stars_today": 801,
+      "built_by": [
+        "PThorpe92",
+        "sivukhin",
+        "penberg",
+        "jussisaurio",
+        "pedrocarlo"
+      ]
+    },
+    {
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "full_name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 9431,
+      "forks": 714,
+      "stars_today": 1271,
+      "built_by": [
+        "claude",
+        "shanemccarron-maker",
+        "dependabot",
+        "dLo999"
+      ]
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 24578,
+      "forks": 2330,
+      "stars_today": 433,
+      "built_by": [
+        "JustinGuese",
+        "misha-chertushkin",
+        "darkpowerxo",
+        "siriuz42",
+        "rajatsen91"
+      ]
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": 50879,
+      "forks": 7413,
+      "stars_today": 140,
+      "built_by": [
+        "github-actions",
+        "Weiko",
+        "FelixMalfait",
+        "bosiraphael",
+        "charlesBochet"
+      ]
+    },
+    {
+      "owner": "Kong",
+      "name": "insomnia",
+      "full_name": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars": 39346,
+      "forks": 2324,
+      "stars_today": 329,
+      "built_by": [
+        "filfreire",
+        "gschier",
+        "develohpanda",
+        "jackkav",
+        "gatzjames"
+      ]
+    },
+    {
+      "owner": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+      "language": "Rust",
+      "stars": 54919,
+      "forks": 10896,
+      "stars_today": 2546,
+      "built_by": [
+        "github-actions",
+        "actions-user",
+        "Tlntin",
+        "jeasonnow"
+      ]
+    },
+    {
+      "owner": "chopratejas",
+      "name": "headroom",
+      "full_name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 42024,
+      "forks": 2896,
+      "stars_today": 3795,
+      "built_by": [
+        "claude",
+        "JerrettDavis",
+        "Copilot",
+        "gglucass"
+      ]
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 31048,
+      "forks": 3837,
+      "stars_today": 145,
+      "built_by": [
+        "claude",
+        "selop",
+        "tomasmach",
+        "mvanhorn"
+      ]
+    },
+    {
+      "owner": "Kilo-Org",
+      "name": "kilocode",
+      "full_name": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "language": "TypeScript",
+      "stars": 23386,
+      "forks": 2744,
+      "stars_today": 513,
+      "built_by": [
+        "thdxr",
+        "adamdotdevin",
+        "marius-kilocode",
+        "markijbema",
+        "rekram1-node"
+      ]
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 138332,
+      "forks": 12000,
+      "stars_today": 1395,
+      "built_by": [
+        "github-actions",
+        "claude"
+      ]
+    },
+    {
+      "owner": "withastro",
+      "name": "flue",
+      "full_name": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "stars": 6116,
+      "forks": 344,
+      "stars_today": 316,
+      "built_by": [
+        "cpojer",
+        "FredKSchott",
+        "claude",
+        "ketankhairnar",
+        "stainlu"
+      ]
+    },
+    {
+      "owner": "owainlewis",
+      "name": "awesome-artificial-intelligence",
+      "full_name": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "language": "Unknown",
+      "stars": 14806,
+      "forks": 2356,
+      "stars_today": 48,
+      "built_by": [
+        "ipcenas",
+        "orsenthil",
+        "iamkeyur",
+        "antonymuga"
+      ]
+    },
+    {
+      "owner": "pppscn",
+      "name": "SmsForwarder",
+      "full_name": "pppscn/SmsForwarder",
+      "url": "https://github.com/pppscn/SmsForwarder",
+      "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+      "language": "Kotlin",
+      "stars": 26509,
+      "forks": 3275,
+      "stars_today": 104,
+      "built_by": [
+        "Naccl",
+        "malsony",
+        "kvii",
+        "aoe-iu"
+      ]
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 7409,
+      "forks": 828,
+      "stars_today": 87,
+      "built_by": [
+        "claude"
+      ]
+    }
+  ]
+}
