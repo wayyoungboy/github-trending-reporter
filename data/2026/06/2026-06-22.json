@@ -1,0 +1,295 @@
+{
+  "date": "2026-06-22",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "palmier-io",
+      "name": "palmier-pro",
+      "full_name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars": 5407,
+      "forks": 407,
+      "stars_today": 1834,
+      "built_by": [
+        "cursoragent",
+        "animeshbhuria",
+        "htin1",
+        "abhigyan1102",
+        "mricopeng"
+      ],
+      "llm_summary": "AI驱动的macOS视频编辑器"
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 9052,
+      "forks": 1328,
+      "stars_today": 987,
+      "built_by": [
+        "itsuzef",
+        "claude"
+      ],
+      "llm_summary": "开源AI视频制作系统，12流水线52工具"
+    },
+    {
+      "owner": "chopratejas",
+      "name": "headroom",
+      "full_name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 44726,
+      "forks": 3126,
+      "stars_today": 2624,
+      "built_by": [
+        "JerrettDavis",
+        "gglucass",
+        "Copilot",
+        "claude"
+      ],
+      "llm_summary": "压缩LLM输入，减少60-95%token"
+    },
+    {
+      "owner": "tursodatabase",
+      "name": "turso",
+      "full_name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars": 20863,
+      "forks": 1068,
+      "stars_today": 548,
+      "built_by": [
+        "pedrocarlo",
+        "PThorpe92",
+        "jussisaurio",
+        "sivukhin",
+        "penberg"
+      ],
+      "llm_summary": "轻量级SQLite兼容的进程内SQL数据库"
+    },
+    {
+      "owner": "penpot",
+      "name": "penpot",
+      "full_name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": 52323,
+      "forks": 3349,
+      "stars_today": 1135,
+      "built_by": [
+        "superalex",
+        "EvaMarco",
+        "hirunatan",
+        "Alotor",
+        "niwinz"
+      ],
+      "llm_summary": "设计与代码协作的开源设计工具"
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 44676,
+      "forks": 41498,
+      "stars_today": 568,
+      "built_by": [
+        "freesme",
+        "adminlove520",
+        "massif-01",
+        "Activer007"
+      ],
+      "llm_summary": "零成本LLM驱动的多市场股票分析"
+    },
+    {
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "full_name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 58166,
+      "forks": 9212,
+      "stars_today": 163,
+      "built_by": [
+        "SebastienMelki",
+        "lspassos1",
+        "NewCoder3294",
+        "claude"
+      ],
+      "llm_summary": "AI驱动的全球实时情报监控平台"
+    },
+    {
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "full_name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars": 72661,
+      "forks": 9838,
+      "stars_today": 442,
+      "built_by": [
+        "hetaoBackend",
+        "henry-byted",
+        "MagicCube",
+        "claude",
+        "WillemJiang"
+      ],
+      "llm_summary": "处理长期复杂任务的AI代理系统"
+    },
+    {
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "full_name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 10441,
+      "forks": 791,
+      "stars_today": 1032,
+      "built_by": [
+        "dLo999",
+        "dependabot",
+        "shanemccarron-maker",
+        "claude"
+      ],
+      "llm_summary": "高性能代码知识图谱索引服务器"
+    },
+    {
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 17789,
+      "forks": 2135,
+      "stars_today": 361,
+      "built_by": [
+        "Bortlesboat",
+        "juliosuas",
+        "andrewibrah",
+        "claude"
+      ],
+      "llm_summary": "754个AI代理网络安全技能框架"
+    },
+    {
+      "owner": "mikumifa",
+      "name": "biliTickerBuy",
+      "full_name": "mikumifa/biliTickerBuy",
+      "url": "https://github.com/mikumifa/biliTickerBuy",
+      "description": "b站会员购购票辅助工具",
+      "language": "Python",
+      "stars": 3731,
+      "forks": 467,
+      "stars_today": 67,
+      "built_by": [
+        "WittF",
+        "Chizukuo",
+        "github-actions",
+        "gpc123456"
+      ],
+      "llm_summary": "B站会员购智能购票辅助工具"
+    },
+    {
+      "owner": "smicallef",
+      "name": "spiderfoot",
+      "full_name": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "stars": 18801,
+      "forks": 3108,
+      "stars_today": 294,
+      "built_by": [
+        "amrawadk",
+        "krishnasism",
+        "leotrubach",
+        "bcoles"
+      ],
+      "llm_summary": "自动化开源情报威胁分析工具"
+    },
+    {
+      "owner": "topoteretes",
+      "name": "cognee",
+      "full_name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "stars": 18693,
+      "forks": 1972,
+      "stars_today": 347,
+      "built_by": [
+        "borisarzentar",
+        "hajdul88",
+        "dexters1",
+        "claude",
+        "Vasilije1990"
+      ],
+      "llm_summary": "AI代理持久记忆开源平台"
+    },
+    {
+      "owner": "byoungd",
+      "name": "English-level-up-tips",
+      "full_name": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "Unknown",
+      "stars": 54057,
+      "forks": 5559,
+      "stars_today": 125,
+      "built_by": [
+        "WMXPY",
+        "fakesnow",
+        "overtrue",
+        "holtenko"
+      ],
+      "llm_summary": "高级英语学习实用指南"
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 44496,
+      "forks": 7347,
+      "stars_today": 282,
+      "built_by": [
+        "anonymous619259",
+        "awrreny",
+        "lcebot",
+        "claude"
+      ],
+      "llm_summary": "多平台AI系统提示提取工具"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 139975,
+      "forks": 12143,
+      "stars_today": 1443,
+      "built_by": [
+        "github-actions",
+        "claude"
+      ],
+      "llm_summary": "工程师实用Claude技能集合"
+    }
+  ]
+}
