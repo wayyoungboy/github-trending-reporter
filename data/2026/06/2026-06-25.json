@@ -1,0 +1,246 @@
+{
+  "date": "2026-06-25",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 19679,
+      "forks": 2225,
+      "stars_today": 3719,
+      "built_by": [
+        "itsuzef",
+        "shubham21155102",
+        "CooperSheroy",
+        "claude"
+      ],
+      "llm_summary": "开源AI视频制作系统，一键生成专业视频"
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 48638,
+      "forks": 43016,
+      "stars_today": 1468,
+      "built_by": [
+        "adminlove520",
+        "Activer007",
+        "massif-01",
+        "freesme"
+      ],
+      "llm_summary": "LLM驱动股票分析，多源数据智能决策"
+    },
+    {
+      "owner": "apple",
+      "name": "container",
+      "full_name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": 42317,
+      "forks": 1244,
+      "stars_today": 1838,
+      "built_by": [
+        "realrajaryan",
+        "dkovba",
+        "katiewasnothere",
+        "dcantah",
+        "jglogan"
+      ],
+      "llm_summary": "Mac上轻量级Linux容器工具，Apple silicon优化"
+    },
+    {
+      "owner": "interviewstreet",
+      "name": "hiring-agent",
+      "full_name": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "description": "AI agent to evaluate and score resumes.",
+      "language": "Python",
+      "stars": 2257,
+      "forks": 601,
+      "stars_today": 203,
+      "built_by": [
+        "sp2hari",
+        "singla-rhydham",
+        "anxkhn-hacker",
+        "G26karthik",
+        "kaushalkrgupta02"
+      ],
+      "llm_summary": "AI智能评估简历，精准筛选人才"
+    },
+    {
+      "owner": "JCodesMore",
+      "name": "ai-website-cloner-template",
+      "full_name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars": 19402,
+      "forks": 2892,
+      "stars_today": 692,
+      "built_by": [
+        "oz-agent",
+        "SABUJ123472",
+        "rishikeshmanohar",
+        "claude"
+      ],
+      "llm_summary": "AI一键克隆网站，快速复制网页结构"
+    },
+    {
+      "owner": "revfactory",
+      "name": "harness",
+      "full_name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": 7771,
+      "forks": 1058,
+      "stars_today": 277,
+      "built_by": [
+        "hongsw",
+        "Mubashirrrr",
+        "shaun0927",
+        "claude"
+      ],
+      "llm_summary": "AI代理团队设计工具，专业技能生成器"
+    },
+    {
+      "owner": "flutter",
+      "name": "flutter",
+      "full_name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": 177370,
+      "forks": 30545,
+      "stars_today": 73,
+      "built_by": [
+        "abarth",
+        "skia-flutter-autoroll",
+        "engine-flutter-autoroll",
+        "Hixie",
+        "jason-simmons"
+      ],
+      "llm_summary": "跨平台应用开发框架，快速构建美观应用"
+    },
+    {
+      "owner": "andreknieriem",
+      "name": "headunit-revived",
+      "full_name": "andreknieriem/headunit-revived",
+      "url": "https://github.com/andreknieriem/headunit-revived",
+      "description": "Headunit App for displaying Android Auto",
+      "language": "Kotlin",
+      "stars": 1436,
+      "forks": 112,
+      "stars_today": 41,
+      "built_by": [
+        "gemini-code-assist",
+        "andrecuellar",
+        "tsabaia",
+        "nicoruy"
+      ],
+      "llm_summary": "Android Auto车载显示应用，智能车载系统"
+    },
+    {
+      "owner": "stablyai",
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars": 6857,
+      "forks": 495,
+      "stars_today": 331,
+      "built_by": [
+        "AmethystLiang",
+        "Jinwoo-H",
+        "orca-ide",
+        "brennanb2025",
+        "nwparker"
+      ],
+      "llm_summary": "并行代理开发环境，多平台运行编码助手"
+    },
+    {
+      "owner": "google-labs-code",
+      "name": "design.md",
+      "full_name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars": 17431,
+      "forks": 1569,
+      "stars_today": 619,
+      "built_by": [
+        "davideast",
+        "mvanhorn",
+        "dalmaer",
+        "xkxx",
+        "tejas100"
+      ],
+      "llm_summary": "视觉身份格式规范，AI设计系统理解"
+    },
+    {
+      "owner": "Flowseal",
+      "name": "zapret-discord-youtube",
+      "full_name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 30032,
+      "forks": 2342,
+      "stars_today": 61,
+      "built_by": [
+        "fridorin",
+        "ekungurov",
+        "amozebus",
+        "V3nilla"
+      ],
+      "llm_summary": "绕过Discord和YouTube限制工具"
+    },
+    {
+      "owner": "kunchenguid",
+      "name": "no-mistakes",
+      "full_name": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars": 2220,
+      "forks": 149,
+      "stars_today": 110,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "e-jung",
+        "ghyghoo8"
+      ],
+      "llm_summary": "防止git push错误，代码安全推送"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 202142,
+      "forks": 36125,
+      "stars_today": 1178,
+      "built_by": [
+        "claude",
+        "teknium1",
+        "kshitijk4poor",
+        "OutThisLife",
+        "benbarclay"
+      ],
+      "llm_summary": "AI代理随用户成长，个性化智能助手"
+    }
+  ]
+}
