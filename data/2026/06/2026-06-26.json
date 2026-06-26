@@ -1,0 +1,279 @@
+{
+  "date": "2026-06-26",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "google-labs-code",
+      "name": "design.md",
+      "full_name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars": 19434,
+      "forks": 1660,
+      "stars_today": 1475,
+      "built_by": [
+        "xkxx",
+        "mvanhorn",
+        "davideast",
+        "dalmaer",
+        "tejas100"
+      ]
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 22237,
+      "forks": 2494,
+      "stars_today": 3434,
+      "built_by": [
+        "claude",
+        "shubham21155102",
+        "itsuzef",
+        "CooperSheroy"
+      ]
+    },
+    {
+      "owner": "xbtlin",
+      "name": "ai-berkshire",
+      "full_name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 2060,
+      "forks": 314,
+      "stars_today": 309,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "mauriceboe",
+      "name": "TREK",
+      "full_name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "language": "TypeScript",
+      "stars": 6767,
+      "forks": 611,
+      "stars_today": 241,
+      "built_by": [
+        "jubnl",
+        "claude",
+        "tiquis0290",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "apple",
+      "name": "container",
+      "full_name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": 43256,
+      "forks": 1270,
+      "stars_today": 1351,
+      "built_by": [
+        "dkovba",
+        "jglogan",
+        "dcantah",
+        "katiewasnothere",
+        "realrajaryan"
+      ]
+    },
+    {
+      "owner": "JCodesMore",
+      "name": "ai-website-cloner-template",
+      "full_name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars": 20535,
+      "forks": 3019,
+      "stars_today": 1024,
+      "built_by": [
+        "claude",
+        "SABUJ123472",
+        "rishikeshmanohar",
+        "oz-agent"
+      ]
+    },
+    {
+      "owner": "every-app",
+      "name": "open-seo",
+      "full_name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": 2570,
+      "forks": 298,
+      "stars_today": 57,
+      "built_by": [
+        "bensenescu",
+        "claude"
+      ]
+    },
+    {
+      "owner": "garrytan",
+      "name": "gstack",
+      "full_name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars": 115876,
+      "forks": 17176,
+      "stars_today": 767,
+      "built_by": [
+        "garagon",
+        "claude",
+        "jbetala7",
+        "mvanhorn"
+      ]
+    },
+    {
+      "owner": "aws",
+      "name": "agent-toolkit-for-aws",
+      "full_name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars": 1152,
+      "forks": 115,
+      "stars_today": 47,
+      "built_by": [
+        "rshevchuk-git",
+        "krishmakochhar",
+        "bfreiberg",
+        "dependabot",
+        "arnewouters"
+      ]
+    },
+    {
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 21295,
+      "forks": 2453,
+      "stars_today": 571,
+      "built_by": [
+        "claude",
+        "juliosuas",
+        "Bortlesboat",
+        "andrewibrah"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "page-agent",
+      "full_name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": 19885,
+      "forks": 1707,
+      "stars_today": 163,
+      "built_by": [
+        "dependabot",
+        "linked-danis",
+        "gaomeng1900",
+        "JasonOA888",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "IceWhaleTech",
+      "name": "CasaOS",
+      "full_name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "stars": 34870,
+      "forks": 1992,
+      "stars_today": 223,
+      "built_by": [
+        "tigerinus",
+        "LinkLeong",
+        "jerrykuku",
+        "JohnGuan",
+        "allcontributors"
+      ]
+    },
+    {
+      "owner": "opendatalab",
+      "name": "MinerU",
+      "full_name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "language": "Python",
+      "stars": 69650,
+      "forks": 5889,
+      "stars_today": 644,
+      "built_by": [
+        "dt-yy",
+        "github-actions",
+        "myhloli",
+        "Copilot",
+        "Sidney233"
+      ]
+    },
+    {
+      "owner": "Free-TV",
+      "name": "IPTV",
+      "full_name": "Free-TV/IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "stars": 18238,
+      "forks": 2680,
+      "stars_today": 139,
+      "built_by": [
+        "NezbednikSK",
+        "KAMI911",
+        "freetv332",
+        "TVKaista",
+        "infid0"
+      ]
+    },
+    {
+      "owner": "shanraisshan",
+      "name": "claude-code-best-practice",
+      "full_name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "language": "HTML",
+      "stars": 60655,
+      "forks": 6073,
+      "stars_today": 287,
+      "built_by": [
+        "claude",
+        "neutmute",
+        "shayangd"
+      ]
+    },
+    {
+      "owner": "NanmiCoder",
+      "name": "MediaCrawler",
+      "full_name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 52836,
+      "forks": 10928,
+      "stars_today": 398,
+      "built_by": [
+        "persist-1",
+        "claude",
+        "2513502304",
+        "gaoxiaobei"
+      ]
+    }
+  ]
+}
