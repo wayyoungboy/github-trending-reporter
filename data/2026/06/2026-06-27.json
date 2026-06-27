@@ -1,0 +1,313 @@
+{
+  "date": "2026-06-27",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "simplex-chat",
+      "name": "simplex-chat",
+      "full_name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars": 12658,
+      "forks": 715,
+      "stars_today": 432,
+      "built_by": [
+        "avently",
+        "shumvgolove",
+        "spaced4ndy",
+        "epoberezkin",
+        "mlanp"
+      ],
+      "llm_summary": "SimpleX - 无标识符的100%私密聊天网络"
+    },
+    {
+      "owner": "google-labs-code",
+      "name": "design.md",
+      "full_name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars": 21337,
+      "forks": 1727,
+      "stars_today": 2407,
+      "built_by": [
+        "dalmaer",
+        "tejas100",
+        "mvanhorn",
+        "xkxx",
+        "davideast"
+      ],
+      "llm_summary": "AI代理设计系统的结构化描述规范"
+    },
+    {
+      "owner": "commaai",
+      "name": "openpilot",
+      "full_name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 61807,
+      "forks": 11050,
+      "stars_today": 80,
+      "built_by": [
+        "haraschax",
+        "deanlee",
+        "adeebshihadeh",
+        "sshane",
+        "pd0wm"
+      ],
+      "llm_summary": "开源汽车驾驶员辅助系统，支持300+车型"
+    },
+    {
+      "owner": "kunchenguid",
+      "name": "no-mistakes",
+      "full_name": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars": 3462,
+      "forks": 208,
+      "stars_today": 398,
+      "built_by": [
+        "ghyghoo8",
+        "github-actions",
+        "e-jung",
+        "claude"
+      ],
+      "llm_summary": "防止git push错误的智能工具"
+    },
+    {
+      "owner": "grafana",
+      "name": "grafana",
+      "full_name": "grafana/grafana",
+      "url": "https://github.com/grafana/grafana",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "TypeScript",
+      "stars": 74927,
+      "forks": 14127,
+      "stars_today": 32,
+      "built_by": [
+        "marefr",
+        "torkelo",
+        "ryantxu",
+        "bergquist",
+        "renovate"
+      ],
+      "llm_summary": "多源数据可视化和监控的开放平台"
+    },
+    {
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "full_name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 123762,
+      "forks": 13053,
+      "stars_today": 90,
+      "built_by": [
+        "TraderStf",
+        "thispsj",
+        "FatGrizzly",
+        "Skxxtz"
+      ],
+      "llm_summary": "devops相关的免费云服务资源列表"
+    },
+    {
+      "owner": "opendatalab",
+      "name": "MinerU",
+      "full_name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "language": "Python",
+      "stars": 70466,
+      "forks": 5942,
+      "stars_today": 960,
+      "built_by": [
+        "Sidney233",
+        "myhloli",
+        "dt-yy",
+        "Copilot",
+        "github-actions"
+      ],
+      "llm_summary": "文档转换工具，适配大语言模型使用"
+    },
+    {
+      "owner": "alchaincyf",
+      "name": "zhangxuefeng-skill",
+      "full_name": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "language": "Unknown",
+      "stars": 9272,
+      "forks": 2564,
+      "stars_today": 160,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "张雪峰教育和职业规划思维框架"
+    },
+    {
+      "owner": "mauriceboe",
+      "name": "TREK",
+      "full_name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "language": "TypeScript",
+      "stars": 7695,
+      "forks": 652,
+      "stars_today": 1060,
+      "built_by": [
+        "tiquis0290",
+        "claude",
+        "github-actions",
+        "jubnl"
+      ],
+      "llm_summary": "团队协作的旅行行程规划工具"
+    },
+    {
+      "owner": "xbtlin",
+      "name": "ai-berkshire",
+      "full_name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 3167,
+      "forks": 469,
+      "stars_today": 1274,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "AI辅助的价值投资研究框架"
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 23706,
+      "forks": 2640,
+      "stars_today": 1754,
+      "built_by": [
+        "claude",
+        "CooperSheroy",
+        "0xDevNinja",
+        "itsuzef"
+      ],
+      "llm_summary": "AI辅助的开源视频制作系统"
+    },
+    {
+      "owner": "aws",
+      "name": "agent-toolkit-for-aws",
+      "full_name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars": 1367,
+      "forks": 123,
+      "stars_today": 243,
+      "built_by": [
+        "dependabot",
+        "rshevchuk-git",
+        "krishmakochhar",
+        "bfreiberg",
+        "arnewouters"
+      ],
+      "llm_summary": "AWS官方AI代理开发工具集"
+    },
+    {
+      "owner": "NanmiCoder",
+      "name": "MediaCrawler",
+      "full_name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 53387,
+      "forks": 10979,
+      "stars_today": 673,
+      "built_by": [
+        "gaoxiaobei",
+        "claude",
+        "persist-1",
+        "2513502304"
+      ],
+      "llm_summary": "多平台社交媒体评论数据爬虫"
+    },
+    {
+      "owner": "garrytan",
+      "name": "gstack",
+      "full_name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars": 116665,
+      "forks": 17313,
+      "stars_today": 950,
+      "built_by": [
+        "jbetala7",
+        "garagon",
+        "claude",
+        "mvanhorn"
+      ],
+      "llm_summary": "AI辅助的多角色开发工具集"
+    },
+    {
+      "owner": "IceWhaleTech",
+      "name": "CasaOS",
+      "full_name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "stars": 35410,
+      "forks": 2027,
+      "stars_today": 619,
+      "built_by": [
+        "LinkLeong",
+        "JohnGuan",
+        "tigerinus",
+        "jerrykuku",
+        "allcontributors"
+      ],
+      "llm_summary": "简单易用的开源个人云系统"
+    },
+    {
+      "owner": "JCodesMore",
+      "name": "ai-website-cloner-template",
+      "full_name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars": 21402,
+      "forks": 3102,
+      "stars_today": 1088,
+      "built_by": [
+        "claude",
+        "oz-agent",
+        "rishikeshmanohar",
+        "SABUJ123472"
+      ],
+      "llm_summary": "AI辅助的一键网站克隆工具"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 42414,
+      "forks": 3373,
+      "stars_today": 1194,
+      "built_by": [
+        "hymansun",
+        "claude",
+        "alfred1994",
+        "kadaliao"
+      ],
+      "llm_summary": "AI代理的全网访问工具"
+    }
+  ]
+}
