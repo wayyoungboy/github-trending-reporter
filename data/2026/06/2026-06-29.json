@@ -1,0 +1,244 @@
+{
+  "date": "2026-06-29",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "simplex-chat",
+      "name": "simplex-chat",
+      "full_name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars": 15183,
+      "forks": 870,
+      "stars_today": 1180,
+      "built_by": [
+        "mlanp",
+        "shumvgolove",
+        "epoberezkin",
+        "spaced4ndy",
+        "avently"
+      ],
+      "llm_summary": "无标识符的100%私密聊天网络"
+    },
+    {
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "full_name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 125409,
+      "forks": 13181,
+      "stars_today": 495,
+      "built_by": [
+        "thispsj",
+        "FatGrizzly",
+        "Skxxtz",
+        "TraderStf"
+      ],
+      "llm_summary": "开发运维免费云服务资源大全"
+    },
+    {
+      "owner": "commaai",
+      "name": "openpilot",
+      "full_name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 62441,
+      "forks": 11096,
+      "stars_today": 266,
+      "built_by": [
+        "haraschax",
+        "sshane",
+        "deanlee",
+        "adeebshihadeh",
+        "pd0wm"
+      ],
+      "llm_summary": "支持300+车型的自动驾驶辅助系统"
+    },
+    {
+      "owner": "xbtlin",
+      "name": "ai-berkshire",
+      "full_name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 5499,
+      "forks": 738,
+      "stars_today": 1445,
+      "built_by": [
+        "CooperSheroy",
+        "claude"
+      ],
+      "llm_summary": "AI驱动的价值投资多智能体研究框架"
+    },
+    {
+      "owner": "Robbyant",
+      "name": "lingbot-map",
+      "full_name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": 8273,
+      "forks": 805,
+      "stars_today": 372,
+      "built_by": [
+        "justimyhxu",
+        "LinZhuoChen"
+      ],
+      "llm_summary": "流数据3D场景重建基础模型"
+    },
+    {
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "full_name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 19888,
+      "forks": 1436,
+      "stars_today": 2190,
+      "built_by": [
+        "dependabot",
+        "claude",
+        "shanemccarron-maker",
+        "dLo999"
+      ],
+      "llm_summary": "毫秒级代码库索引与查询工具"
+    },
+    {
+      "owner": "cupy",
+      "name": "cupy",
+      "full_name": "cupy/cupy",
+      "url": "https://github.com/cupy/cupy",
+      "description": "NumPy & SciPy for GPU",
+      "language": "Python",
+      "stars": 11554,
+      "forks": 1069,
+      "stars_today": 174,
+      "built_by": [
+        "kmaehashi",
+        "okuta",
+        "unnonouno",
+        "takagi",
+        "leofang"
+      ],
+      "llm_summary": "GPU加速的NumPy和SciPy库"
+    },
+    {
+      "owner": "altic-dev",
+      "name": "FluidVoice",
+      "full_name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "language": "Swift",
+      "stars": 3799,
+      "forks": 240,
+      "stars_today": 365,
+      "built_by": [
+        "BarathwajAnandan",
+        "grohith327",
+        "yelloduxx",
+        "claude"
+      ],
+      "llm_summary": "最快完全本地化的macOS语音转文字"
+    },
+    {
+      "owner": "opendatalab",
+      "name": "MinerU",
+      "full_name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "language": "Python",
+      "stars": 71691,
+      "forks": 6019,
+      "stars_today": 380,
+      "built_by": [
+        "dt-yy",
+        "github-actions",
+        "Sidney233",
+        "myhloli",
+        "Copilot"
+      ],
+      "llm_summary": "文档转LLM友好格式的高效工具"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 14410,
+      "forks": 2636,
+      "stars_today": 492,
+      "built_by": [
+        "warren618",
+        "Hinotoi-agent",
+        "Robin1987China",
+        "Teerapat-Vatpitak",
+        "shadowinlife"
+      ],
+      "llm_summary": "个人AI交易智能助手"
+    },
+    {
+      "owner": "ByteByteGoHq",
+      "name": "system-design-101",
+      "full_name": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "language": "Unknown",
+      "stars": 84549,
+      "forks": 9356,
+      "stars_today": 250,
+      "built_by": [
+        "alastairp",
+        "LombardiDaniel",
+        "slam",
+        "Stephanvs",
+        "nilbuild"
+      ],
+      "llm_summary": "系统设计面试可视化学习资源"
+    },
+    {
+      "owner": "usestrix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 26798,
+      "forks": 2991,
+      "stars_today": 122,
+      "built_by": [
+        "claude",
+        "octovimmer",
+        "bearsyankees",
+        "0xallam",
+        "dependabot"
+      ],
+      "llm_summary": "AI驱动的应用漏洞检测修复工具"
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 11157,
+      "forks": 1529,
+      "stars_today": 196,
+      "built_by": [
+        "antoinersx",
+        "claude",
+        "gregpr07",
+        "ShawnPana",
+        "miguel-heygen"
+      ],
+      "llm_summary": "编程方式实现视频智能编辑"
+    }
+  ]
+}
