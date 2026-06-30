@@ -1,0 +1,281 @@
+{
+  "date": "2026-06-30",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "simplex-chat",
+      "name": "simplex-chat",
+      "full_name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars": 16685,
+      "forks": 966,
+      "stars_today": 1607,
+      "built_by": [
+        "mlanp",
+        "spaced4ndy",
+        "epoberezkin",
+        "shumvgolove",
+        "avently"
+      ],
+      "llm_summary": "无标识完全私密的消息网络"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 119043,
+      "forks": 19489,
+      "stars_today": 1425,
+      "built_by": [
+        "4shil",
+        "claude",
+        "hedonnn",
+        "epowelljr"
+      ],
+      "llm_summary": "多专业AI助手一站式解决方案"
+    },
+    {
+      "owner": "cupy",
+      "name": "cupy",
+      "full_name": "cupy/cupy",
+      "url": "https://github.com/cupy/cupy",
+      "description": "NumPy & SciPy for GPU",
+      "language": "Python",
+      "stars": 11857,
+      "forks": 1083,
+      "stars_today": 352,
+      "built_by": [
+        "kmaehashi",
+        "unnonouno",
+        "okuta",
+        "takagi",
+        "leofang"
+      ],
+      "llm_summary": "GPU加速的NumPy和SciPy实现"
+    },
+    {
+      "owner": "altic-dev",
+      "name": "FluidVoice",
+      "full_name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "language": "Swift",
+      "stars": 4432,
+      "forks": 279,
+      "stars_today": 830,
+      "built_by": [
+        "grohith327",
+        "BarathwajAnandan",
+        "claude",
+        "yelloduxx"
+      ],
+      "llm_summary": "最快macOS离线语音转文字工具"
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "full_name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 34428,
+      "forks": 2603,
+      "stars_today": 224,
+      "built_by": [
+        "dependabot",
+        "Copilot",
+        "fen0s",
+        "kustermariocoding"
+      ],
+      "llm_summary": "跨3000+网站的用户信息收集工具"
+    },
+    {
+      "owner": "commaai",
+      "name": "openpilot",
+      "full_name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 62790,
+      "forks": 11112,
+      "stars_today": 458,
+      "built_by": [
+        "sshane",
+        "adeebshihadeh",
+        "haraschax",
+        "pd0wm",
+        "deanlee"
+      ],
+      "llm_summary": "机器人操作系统，升级300+汽车驾驶辅助"
+    },
+    {
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "full_name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 126781,
+      "forks": 13265,
+      "stars_today": 1935,
+      "built_by": [
+        "FatGrizzly",
+        "TraderStf",
+        "Skxxtz",
+        "thispsj"
+      ],
+      "llm_summary": "DevOps和基础设施开发免费服务列表"
+    },
+    {
+      "owner": "logto-io",
+      "name": "logto",
+      "full_name": "logto-io/logto",
+      "url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "stars": 12711,
+      "forks": 871,
+      "stars_today": 158,
+      "built_by": [
+        "wangsijie",
+        "gao-sun",
+        "xiaoyijun",
+        "charIeszhao",
+        "simeng-li"
+      ],
+      "llm_summary": "SaaS和AI应用的认证授权基础设施"
+    },
+    {
+      "owner": "xbtlin",
+      "name": "ai-berkshire",
+      "full_name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 6728,
+      "forks": 873,
+      "stars_today": 1386,
+      "built_by": [
+        "CooperSheroy",
+        "claude"
+      ],
+      "llm_summary": "AI驱动的价值投资研究框架"
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 11991,
+      "forks": 1573,
+      "stars_today": 967,
+      "built_by": [
+        "claude",
+        "gregpr07",
+        "antoinersx",
+        "ShawnPana",
+        "miguel-heygen"
+      ],
+      "llm_summary": "编程代理视频编辑工具"
+    },
+    {
+      "owner": "Unclecheng-li",
+      "name": "VulnClaw",
+      "full_name": "Unclecheng-li/VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "language": "Python",
+      "stars": 1190,
+      "forks": 177,
+      "stars_today": 129,
+      "built_by": [
+        "Attack-Phantom",
+        "sjkxq",
+        "ww455",
+        "Nyaecho"
+      ],
+      "llm_summary": "AI自动化渗透测试全流程工具"
+    },
+    {
+      "owner": "0xNyk",
+      "name": "council-of-high-intelligence",
+      "full_name": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "language": "Shell",
+      "stars": 1952,
+      "forks": 204,
+      "stars_today": 331,
+      "built_by": [
+        "Alpsource",
+        "miakhan",
+        "SelahattinSert"
+      ],
+      "llm_summary": "18个AI人格多模型结构化决策系统"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 15149,
+      "forks": 2691,
+      "stars_today": 839,
+      "built_by": [
+        "warren618",
+        "mvanhorn",
+        "Robin1987China",
+        "shadowinlife",
+        "Teerapat-Vatpitak"
+      ],
+      "llm_summary": "个人交易智能代理助手"
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "full_name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 17554,
+      "forks": 1206,
+      "stars_today": 280,
+      "built_by": [
+        "claude",
+        "LucaRonin",
+        "evolanakis",
+        "github-actions",
+        "riipandi"
+      ],
+      "llm_summary": "桌面版markdown知识库管理工具"
+    },
+    {
+      "owner": "veracrypt",
+      "name": "VeraCrypt",
+      "full_name": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "stars": 10506,
+      "forks": 1231,
+      "stars_today": 186,
+      "built_by": [
+        "idrassi",
+        "Patriccollu",
+        "Matthaiks",
+        "Jertzukka",
+        "sandakersmann"
+      ],
+      "llm_summary": "基于TrueCrypt的强磁盘加密工具"
+    }
+  ]
+}
