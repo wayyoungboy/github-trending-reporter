@@ -1,0 +1,349 @@
+{
+  "date": "2026-07-01",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "hasaneyldrm",
+      "name": "exercises-dataset",
+      "full_name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "stars": 6859,
+      "forks": 818,
+      "stars_today": 1343,
+      "built_by": [
+        "claude",
+        "anderboski",
+        "alfredo0592",
+        "wacko-io"
+      ],
+      "llm_summary": "全面的433个健身练习数据集"
+    },
+    {
+      "owner": "usestrix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 28204,
+      "forks": 3130,
+      "stars_today": 515,
+      "built_by": [
+        "bearsyankees",
+        "claude",
+        "dependabot",
+        "0xallam",
+        "octovimmer"
+      ],
+      "llm_summary": "AI渗透测试工具，发现应用漏洞"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 121067,
+      "forks": 19775,
+      "stars_today": 1791,
+      "built_by": [
+        "claude",
+        "4shil",
+        "hedonnn",
+        "epowelljr"
+      ],
+      "llm_summary": "全方位AI专家代理集合"
+    },
+    {
+      "owner": "altic-dev",
+      "name": "FluidVoice",
+      "full_name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "language": "Swift",
+      "stars": 4957,
+      "forks": 304,
+      "stars_today": 588,
+      "built_by": [
+        "claude",
+        "yelloduxx",
+        "BarathwajAnandan",
+        "grohith327"
+      ],
+      "llm_summary": "macOS最快本地AI听写应用"
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "language": "TypeScript",
+      "stars": 8620,
+      "forks": 1398,
+      "stars_today": 387,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "rdself",
+        "oyi77"
+      ],
+      "llm_summary": "统一AI服务接入网关，节省95%令牌"
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 12658,
+      "forks": 1609,
+      "stars_today": 721,
+      "built_by": [
+        "gregpr07",
+        "miguel-heygen",
+        "claude",
+        "ShawnPana",
+        "antoinersx"
+      ],
+      "llm_summary": "代码驱动的视频编辑工具"
+    },
+    {
+      "owner": "xbtlin",
+      "name": "ai-berkshire",
+      "full_name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 7575,
+      "forks": 963,
+      "stars_today": 969,
+      "built_by": [
+        "claude",
+        "CooperSheroy"
+      ],
+      "llm_summary": "AI辅助价值投资研究框架"
+    },
+    {
+      "owner": "Mebus",
+      "name": "cupp",
+      "full_name": "Mebus/cupp",
+      "url": "https://github.com/Mebus/cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "language": "Python",
+      "stars": 6115,
+      "forks": 2049,
+      "stars_today": 32,
+      "built_by": [
+        "EdwardBetts",
+        "plex3r",
+        "herrBez",
+        "quantumcore"
+      ],
+      "llm_summary": "通用用户密码分析工具"
+    },
+    {
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "full_name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 127356,
+      "forks": 13312,
+      "stars_today": 742,
+      "built_by": [
+        "FatGrizzly",
+        "TraderStf",
+        "thispsj",
+        "Skxxtz"
+      ],
+      "llm_summary": "免费开发资源汇总平台"
+    },
+    {
+      "owner": "google",
+      "name": "agents-cli",
+      "full_name": "google/agents-cli",
+      "url": "https://github.com/google/agents-cli",
+      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+      "language": "Python",
+      "stars": 4245,
+      "forks": 461,
+      "stars_today": 445,
+      "built_by": [
+        "CallumHYoung",
+        "sushicw",
+        "eliasecchig"
+      ],
+      "llm_summary": "Google Cloud AI代理开发工具"
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 45940,
+      "forks": 4077,
+      "stars_today": 309,
+      "built_by": [
+        "github-actions",
+        "LinasKo",
+        "onuralpszr",
+        "pre-commit-ci",
+        "SkalskiP"
+      ],
+      "llm_summary": "可重用计算机视觉工具库"
+    },
+    {
+      "owner": "ogulcancelik",
+      "name": "herdr",
+      "full_name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": 9057,
+      "forks": 544,
+      "stars_today": 486,
+      "built_by": [
+        "othavi0",
+        "github-actions",
+        "kangal-bot",
+        "Golden-Pigeon"
+      ],
+      "llm_summary": "终端AI代理多路复用器"
+    },
+    {
+      "owner": "simplex-chat",
+      "name": "simplex-chat",
+      "full_name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars": 17364,
+      "forks": 1010,
+      "stars_today": 1235,
+      "built_by": [
+        "shumvgolove",
+        "spaced4ndy",
+        "epoberezkin",
+        "mlanp",
+        "avently"
+      ],
+      "llm_summary": "100%私密无标识符通讯"
+    },
+    {
+      "owner": "CoreBunch",
+      "name": "Instatic",
+      "full_name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "language": "TypeScript",
+      "stars": 1565,
+      "forks": 138,
+      "stars_today": 351,
+      "built_by": [
+        "claude",
+        "github-code-quality",
+        "DavidBabinec"
+      ],
+      "llm_summary": "一分钟自托管视觉CMS"
+    },
+    {
+      "owner": "microsoft",
+      "name": "AI-For-Beginners",
+      "full_name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": 49446,
+      "forks": 10169,
+      "stars_today": 252,
+      "built_by": [
+        "jlooper",
+        "leestott",
+        "skytin1004",
+        "BethanyJep",
+        "shwars"
+      ],
+      "llm_summary": "12周AI入门完整课程"
+    },
+    {
+      "owner": "facebook",
+      "name": "astryx",
+      "full_name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 1837,
+      "forks": 100,
+      "stars_today": 364,
+      "built_by": [
+        "josephfarina",
+        "kentonquatman",
+        "rubyycheung",
+        "cixzhang",
+        "ernestt"
+      ],
+      "llm_summary": "AI就绪的可定制设计系统"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 15841,
+      "forks": 2740,
+      "stars_today": 721,
+      "built_by": [
+        "warren618",
+        "Robin1987China",
+        "shadowinlife",
+        "mvanhorn",
+        "Teerapat-Vatpitak"
+      ],
+      "llm_summary": "个人AI交易代理助手"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 242607,
+      "forks": 21525,
+      "stars_today": 890,
+      "built_by": [
+        "claude",
+        "clkao",
+        "jjshanks",
+        "arittr"
+      ],
+      "llm_summary": "代理技能开发框架"
+    },
+    {
+      "owner": "Robbyant",
+      "name": "lingbot-map",
+      "full_name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": 8894,
+      "forks": 861,
+      "stars_today": 189,
+      "built_by": [
+        "LinZhuoChen",
+        "justimyhxu"
+      ],
+      "llm_summary": "流数据3D场景重建模型"
+    }
+  ]
+}
