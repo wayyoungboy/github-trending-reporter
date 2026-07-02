@@ -1,0 +1,373 @@
+{
+  "date": "2026-07-02",
+  "total_repos": 20,
+  "repositories": [
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 123629,
+      "forks": 20111,
+      "stars_today": 2114,
+      "built_by": [
+        "claude",
+        "epowelljr",
+        "4shil",
+        "hedonnn"
+      ],
+      "llm_summary": "完整AI代理机构，多种专业专家助手"
+    },
+    {
+      "owner": "usestrix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 29840,
+      "forks": 3232,
+      "stars_today": 1211,
+      "built_by": [
+        "dependabot",
+        "bearsyankees",
+        "claude",
+        "octovimmer",
+        "0xallam"
+      ],
+      "llm_summary": "AI渗透测试工具，自动发现应用漏洞"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 16614,
+      "forks": 2814,
+      "stars_today": 694,
+      "built_by": [
+        "shadowinlife",
+        "mvanhorn",
+        "Robin1987China",
+        "Teerapat-Vatpitak",
+        "warren618"
+      ],
+      "llm_summary": "个人交易AI助手，智能投资决策"
+    },
+    {
+      "owner": "hasaneyldrm",
+      "name": "exercises-dataset",
+      "full_name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "stars": 8482,
+      "forks": 957,
+      "stars_today": 2470,
+      "built_by": [
+        "claude",
+        "wacko-io",
+        "anderboski",
+        "alfredo0592"
+      ],
+      "llm_summary": "433个健身练习综合数据集"
+    },
+    {
+      "owner": "facebook",
+      "name": "astryx",
+      "full_name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 2718,
+      "forks": 144,
+      "stars_today": 708,
+      "built_by": [
+        "rubyycheung",
+        "cixzhang",
+        "ernestt",
+        "kentonquatman",
+        "josephfarina"
+      ],
+      "llm_summary": "可定制AI代理的设计系统"
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "language": "TypeScript",
+      "stars": 9598,
+      "forks": 1474,
+      "stars_today": 1010,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "oyi77",
+        "rdself"
+      ],
+      "llm_summary": "免费AI网关，一键连接多模型服务"
+    },
+    {
+      "owner": "allenai",
+      "name": "olmocr",
+      "full_name": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "language": "Python",
+      "stars": 18309,
+      "forks": 1506,
+      "stars_today": 334,
+      "built_by": [
+        "aman-17",
+        "jakep-allenai",
+        "cmwilhelm",
+        "kyleclo",
+        "haydn-jones"
+      ],
+      "llm_summary": "PDF线性化工具，适配LLM训练"
+    },
+    {
+      "owner": "logto-io",
+      "name": "logto",
+      "full_name": "logto-io/logto",
+      "url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "stars": 13292,
+      "forks": 906,
+      "stars_today": 113,
+      "built_by": [
+        "gao-sun",
+        "wangsijie",
+        "xiaoyijun",
+        "simeng-li",
+        "charIeszhao"
+      ],
+      "llm_summary": "SaaS应用的认证授权基础设施"
+    },
+    {
+      "owner": "togatoga",
+      "name": "karukan",
+      "full_name": "togatoga/karukan",
+      "url": "https://github.com/togatoga/karukan",
+      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "language": "Rust",
+      "stars": 592,
+      "forks": 36,
+      "stars_today": 42,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "Linux/macOS日语智能输入法"
+    },
+    {
+      "owner": "Mebus",
+      "name": "cupp",
+      "full_name": "Mebus/cupp",
+      "url": "https://github.com/Mebus/cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "language": "Python",
+      "stars": 6254,
+      "forks": 2065,
+      "stars_today": 184,
+      "built_by": [
+        "herrBez",
+        "plex3r",
+        "EdwardBetts",
+        "quantumcore"
+      ],
+      "llm_summary": "常见用户密码分析工具"
+    },
+    {
+      "owner": "Unclecheng-li",
+      "name": "VulnClaw",
+      "full_name": "Unclecheng-li/VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "language": "Python",
+      "stars": 1595,
+      "forks": 220,
+      "stars_today": 132,
+      "built_by": [
+        "sjkxq",
+        "Attack-Phantom",
+        "Nyaecho",
+        "ww455"
+      ],
+      "llm_summary": "AI驱动自动化渗透测试工具"
+    },
+    {
+      "owner": "microsoft",
+      "name": "AI-For-Beginners",
+      "full_name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": 50524,
+      "forks": 10260,
+      "stars_today": 1096,
+      "built_by": [
+        "shwars",
+        "skytin1004",
+        "leestott",
+        "jlooper",
+        "BethanyJep"
+      ],
+      "llm_summary": "12周AI入门完整课程"
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "full_name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 18042,
+      "forks": 1224,
+      "stars_today": 150,
+      "built_by": [
+        "riipandi",
+        "claude",
+        "github-actions",
+        "LucaRonin",
+        "evolanakis"
+      ],
+      "llm_summary": "markdown知识库管理桌面应用"
+    },
+    {
+      "owner": "ogulcancelik",
+      "name": "herdr",
+      "full_name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": 9648,
+      "forks": 567,
+      "stars_today": 609,
+      "built_by": [
+        "othavi0",
+        "Golden-Pigeon",
+        "github-actions",
+        "kangal-bot"
+      ],
+      "llm_summary": "终端AI代理多路复用器"
+    },
+    {
+      "owner": "0xNyk",
+      "name": "council-of-high-intelligence",
+      "full_name": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "language": "Shell",
+      "stars": 2665,
+      "forks": 245,
+      "stars_today": 161,
+      "built_by": [
+        "SelahattinSert",
+        "Alpsource",
+        "miakhan"
+      ],
+      "llm_summary": "18位AI人格智能决策咨询"
+    },
+    {
+      "owner": "altic-dev",
+      "name": "FluidVoice",
+      "full_name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "language": "Swift",
+      "stars": 5530,
+      "forks": 332,
+      "stars_today": 572,
+      "built_by": [
+        "grohith327",
+        "claude",
+        "yelloduxx",
+        "BarathwajAnandan"
+      ],
+      "llm_summary": "macOS最快本地AI听写应用"
+    },
+    {
+      "owner": "CoreBunch",
+      "name": "Instatic",
+      "full_name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "language": "TypeScript",
+      "stars": 2032,
+      "forks": 167,
+      "stars_today": 508,
+      "built_by": [
+        "Mariomarquezt",
+        "DavidBabinec",
+        "claude",
+        "github-code-quality",
+        "nguyenngothuong"
+      ],
+      "llm_summary": "自托管视觉CMS，一分钟启动"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "CubeSandbox",
+      "full_name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars": 6822,
+      "forks": 570,
+      "stars_today": 79,
+      "built_by": [
+        "zyl1121",
+        "lisongqian",
+        "chenhengqi",
+        "ls-ggg",
+        "fslongjin"
+      ],
+      "llm_summary": "AI代理安全轻量沙箱"
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 13258,
+      "forks": 1658,
+      "stars_today": 693,
+      "built_by": [
+        "antoinersx",
+        "ShawnPana",
+        "claude",
+        "gregpr07",
+        "miguel-heygen"
+      ],
+      "llm_summary": "AI编码代理视频编辑工具"
+    },
+    {
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "full_name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": 22586,
+      "forks": 3406,
+      "stars_today": 116,
+      "built_by": [
+        "gao1234-prog",
+        "gaozhenqiang",
+        "niuwenzheng",
+        "Yuuki-Sakura",
+        "whh2333"
+      ],
+      "llm_summary": "AI赋能创收应用平台"
+    }
+  ]
+}
