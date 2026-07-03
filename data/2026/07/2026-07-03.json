@@ -1,0 +1,305 @@
+{
+  "date": "2026-07-03",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "usestrix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 32352,
+      "forks": 3383,
+      "stars_today": 2137,
+      "built_by": [
+        "dependabot",
+        "octovimmer",
+        "claude",
+        "0xallam",
+        "bearsyankees"
+      ]
+    },
+    {
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars": 81069,
+      "forks": 4534,
+      "stars_today": 926,
+      "built_by": [
+        "sebastianbreguel",
+        "vraj00222",
+        "github-actions",
+        "claude"
+      ]
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 125571,
+      "forks": 20375,
+      "stars_today": 3032,
+      "built_by": [
+        "epowelljr",
+        "claude",
+        "4shil",
+        "hedonnn"
+      ]
+    },
+    {
+      "owner": "hasaneyldrm",
+      "name": "exercises-dataset",
+      "full_name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "stars": 9297,
+      "forks": 1040,
+      "stars_today": 938,
+      "built_by": [
+        "alfredo0592",
+        "anderboski",
+        "claude",
+        "wacko-io"
+      ]
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars": 57881,
+      "forks": 11394,
+      "stars_today": 372,
+      "built_by": [
+        "SparshGarg999",
+        "FReptar0",
+        "luochen211",
+        "claude"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 244490,
+      "forks": 21689,
+      "stars_today": 897,
+      "built_by": [
+        "jjshanks",
+        "arittr",
+        "clkao",
+        "claude"
+      ]
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 45108,
+      "forks": 2935,
+      "stars_today": 104,
+      "built_by": [
+        "nroscino",
+        "browser-automation-bot",
+        "dependabot",
+        "Lightning00Blade",
+        "OrKoN"
+      ]
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 13837,
+      "forks": 1695,
+      "stars_today": 554,
+      "built_by": [
+        "miguel-heygen",
+        "claude",
+        "ShawnPana",
+        "antoinersx",
+        "gregpr07"
+      ]
+    },
+    {
+      "owner": "actions",
+      "name": "checkout",
+      "full_name": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
+      "language": "TypeScript",
+      "stars": 8168,
+      "forks": 2527,
+      "stars_today": 26,
+      "built_by": [
+        "jww3",
+        "dependabot",
+        "thboop",
+        "cory-miller",
+        "ericsciple"
+      ]
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 225221,
+      "forks": 34460,
+      "stars_today": 486,
+      "built_by": [
+        "dependabot",
+        "pangerlkr",
+        "claude",
+        "greptile-apps"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 17371,
+      "forks": 2886,
+      "stars_today": 939,
+      "built_by": [
+        "Robin1987China",
+        "mvanhorn",
+        "warren618",
+        "shadowinlife",
+        "Teerapat-Vatpitak"
+      ]
+    },
+    {
+      "owner": "agentskills",
+      "name": "agentskills",
+      "full_name": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "description": "Specification and documentation for Agent Skills",
+      "language": "Python",
+      "stars": 21635,
+      "forks": 1375,
+      "stars_today": 86,
+      "built_by": [
+        "klazuka",
+        "maheshmurag",
+        "claude",
+        "jonathanhefner",
+        "ericharmeling"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "codex-plugin-cc",
+      "full_name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars": 22660,
+      "forks": 1378,
+      "stars_today": 352,
+      "built_by": [
+        "xiaolai",
+        "zeta987",
+        "dkundel-openai",
+        "claude",
+        "VOIDXAI"
+      ]
+    },
+    {
+      "owner": "langflow-ai",
+      "name": "langflow",
+      "full_name": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "language": "Python",
+      "stars": 150767,
+      "forks": 9397,
+      "stars_today": 117,
+      "built_by": [
+        "autofix-ci",
+        "lucaseduoli",
+        "Cristhianzl",
+        "ogabrielluiz",
+        "anovazzi1"
+      ]
+    },
+    {
+      "owner": "pytorch",
+      "name": "pytorch",
+      "full_name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": 101242,
+      "forks": 28228,
+      "stars_today": 65,
+      "built_by": [
+        "ezyang",
+        "cyyever",
+        "zou3519",
+        "malfet",
+        "pytorchmergebot"
+      ]
+    },
+    {
+      "owner": "harvard-edge",
+      "name": "cs249r_book",
+      "full_name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "stars": 25617,
+      "forks": 3069,
+      "stars_today": 68,
+      "built_by": [
+        "dependabot",
+        "hzeljko",
+        "profvjreddi",
+        "github-actions",
+        "claude"
+      ]
+    },
+    {
+      "owner": "ryanmcdermott",
+      "name": "clean-code-javascript",
+      "full_name": "ryanmcdermott/clean-code-javascript",
+      "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "description": "Clean Code concepts adapted for JavaScript",
+      "language": "JavaScript",
+      "stars": 94577,
+      "forks": 12474,
+      "stars_today": 27,
+      "built_by": [
+        "frappacchio",
+        "vsemozhetbyt",
+        "DavidVujic",
+        "b0yfriend"
+      ]
+    }
+  ]
+}
