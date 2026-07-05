@@ -1,0 +1,338 @@
+{
+  "date": "2026-07-05",
+  "total_repos": 18,
+  "repositories": [
+    {
+      "owner": "openai",
+      "name": "codex-plugin-cc",
+      "full_name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars": 24513,
+      "forks": 1485,
+      "stars_today": 718,
+      "built_by": [
+        "VOIDXAI",
+        "xiaolai",
+        "zeta987",
+        "claude",
+        "dkundel-openai"
+      ],
+      "llm_summary": "Claude Code的Codex插件，代码审查与任务委派工具"
+    },
+    {
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars": 84020,
+      "forks": 4681,
+      "stars_today": 1089,
+      "built_by": [
+        "vraj00222",
+        "github-actions",
+        "claude",
+        "sebastianbreguel"
+      ],
+      "llm_summary": "Claude Code穴居人技能，减少65%token使用"
+    },
+    {
+      "owner": "alibaba",
+      "name": "page-agent",
+      "full_name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": 23146,
+      "forks": 2009,
+      "stars_today": 742,
+      "built_by": [
+        "gaomeng1900",
+        "Copilot",
+        "JasonOA888",
+        "linked-danis",
+        "dependabot"
+      ],
+      "llm_summary": "自然语言控制网页界面的GUI代理"
+    },
+    {
+      "owner": "usestrix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 36110,
+      "forks": 3656,
+      "stars_today": 1904,
+      "built_by": [
+        "0xallam",
+        "claude",
+        "bearsyankees",
+        "dependabot",
+        "octovimmer"
+      ],
+      "llm_summary": "开源AI渗透测试工具，查找应用漏洞"
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 45790,
+      "forks": 2981,
+      "stars_today": 304,
+      "built_by": [
+        "Lightning00Blade",
+        "OrKoN",
+        "browser-automation-bot",
+        "nroscino",
+        "dependabot"
+      ],
+      "llm_summary": "面向AI编码代理的Chrome开发者工具"
+    },
+    {
+      "owner": "Zackriya-Solutions",
+      "name": "meetily",
+      "full_name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "stars": 15331,
+      "forks": 1675,
+      "stars_today": 718,
+      "built_by": [
+        "athulchandroth",
+        "mohammedsafvan",
+        "safvanatzack",
+        "p-s-vishnu",
+        "sujithatzackriya"
+      ],
+      "llm_summary": "隐私优先的AI会议助手，本地处理无需云端"
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 48968,
+      "forks": 7987,
+      "stars_today": 471,
+      "built_by": [
+        "awrreny",
+        "lcebot",
+        "claude",
+        "anonymous619259"
+      ],
+      "llm_summary": "提取多种AI模型的系统提示"
+    },
+    {
+      "owner": "harvard-edge",
+      "name": "cs249r_book",
+      "full_name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "stars": 26586,
+      "forks": 3165,
+      "stars_today": 443,
+      "built_by": [
+        "github-actions",
+        "profvjreddi",
+        "claude",
+        "hzeljko",
+        "dependabot"
+      ],
+      "llm_summary": "哈佛机器学习系统教材"
+    },
+    {
+      "owner": "rommapp",
+      "name": "romm",
+      "full_name": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted rom manager and player.",
+      "language": "Python",
+      "stars": 10220,
+      "forks": 493,
+      "stars_today": 398,
+      "built_by": [
+        "zurdi15",
+        "gantoine",
+        "claude",
+        "adamantike",
+        "dependabot"
+      ],
+      "llm_summary": "美观强大的自托管ROM管理播放器"
+    },
+    {
+      "owner": "ogulcancelik",
+      "name": "herdr",
+      "full_name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": 11481,
+      "forks": 669,
+      "stars_today": 707,
+      "built_by": [
+        "Golden-Pigeon",
+        "dmmulroy",
+        "github-actions",
+        "kangal-bot"
+      ],
+      "llm_summary": "终端中的代理多路复用器"
+    },
+    {
+      "owner": "dotnet",
+      "name": "skills",
+      "full_name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 3816,
+      "forks": 289,
+      "stars_today": 59,
+      "built_by": [
+        "ViktorHofer",
+        "github-actions",
+        "Copilot",
+        "Evangelink",
+        "JanKrivanek"
+      ],
+      "llm_summary": "AI编码代理的.NET与C#技能库"
+    },
+    {
+      "owner": "agentskills",
+      "name": "agentskills",
+      "full_name": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "description": "Specification and documentation for Agent Skills",
+      "language": "Python",
+      "stars": 22355,
+      "forks": 1414,
+      "stars_today": 351,
+      "built_by": [
+        "ericharmeling",
+        "jonathanhefner",
+        "klazuka",
+        "claude",
+        "maheshmurag"
+      ],
+      "llm_summary": "AI代理技能规范与文档"
+    },
+    {
+      "owner": "immich-app",
+      "name": "immich",
+      "full_name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": 105651,
+      "forks": 6030,
+      "stars_today": 201,
+      "built_by": [
+        "alextran1502",
+        "danieldietzler",
+        "renovate",
+        "mertalev",
+        "jrasm91"
+      ],
+      "llm_summary": "高性能自托管照片视频管理方案"
+    },
+    {
+      "owner": "chthollyphile",
+      "name": "folia-major",
+      "full_name": "chthollyphile/folia-major",
+      "url": "https://github.com/chthollyphile/folia-major",
+      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+      "language": "TypeScript",
+      "stars": 993,
+      "forks": 63,
+      "stars_today": 175,
+      "built_by": [
+        "tumuyan",
+        "tonysmith1sme",
+        "allcontributors"
+      ],
+      "llm_summary": "专注歌词动画效果的音乐播放器"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 156604,
+      "forks": 13474,
+      "stars_today": 973,
+      "built_by": [
+        "github-actions",
+        "claude"
+      ],
+      "llm_summary": "工程师实用技能集，来自.claude目录"
+    },
+    {
+      "owner": "CoplayDev",
+      "name": "unity-mcp",
+      "full_name": "CoplayDev/unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "language": "C#",
+      "stars": 11618,
+      "forks": 1262,
+      "stars_today": 69,
+      "built_by": [
+        "github-actions",
+        "actions-user",
+        "dsarno",
+        "msanatan",
+        "Scriptwonder"
+      ],
+      "llm_summary": "AI助手与Unity编辑器的桥梁工具"
+    },
+    {
+      "owner": "alirezarezvani",
+      "name": "claude-skills",
+      "full_name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "language": "Python",
+      "stars": 20179,
+      "forks": 2760,
+      "stars_today": 136,
+      "built_by": [
+        "ikala-shawn",
+        "olgasafonova",
+        "fernandezbaptiste",
+        "claude"
+      ],
+      "llm_summary": "337种Claude等AI代理的技能集合"
+    },
+    {
+      "owner": "crynta",
+      "name": "terax-ai",
+      "full_name": "crynta/terax-ai",
+      "url": "https://github.com/crynta/terax-ai",
+      "description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "language": "TypeScript",
+      "stars": 8069,
+      "forks": 861,
+      "stars_today": 62,
+      "built_by": [
+        "viniraioli",
+        "Xenos112",
+        "Su1ph3r",
+        "dependabot"
+      ],
+      "llm_summary": "轻量级终端优先的AI原生开发工作空间"
+    }
+  ]
+}
