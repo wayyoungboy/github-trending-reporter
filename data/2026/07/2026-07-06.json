@@ -1,0 +1,414 @@
+{
+  "date": "2026-07-06",
+  "total_repos": 22,
+  "repositories": [
+    {
+      "owner": "Zackriya-Solutions",
+      "name": "meetily",
+      "full_name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "stars": 17206,
+      "forks": 1813,
+      "stars_today": 1409,
+      "built_by": [
+        "sujithatzackriya",
+        "safvanatzack",
+        "athulchandroth",
+        "mohammedsafvan",
+        "p-s-vishnu"
+      ],
+      "llm_summary": "隐私优先的本地AI会议助手"
+    },
+    {
+      "owner": "openai",
+      "name": "codex-plugin-cc",
+      "full_name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars": 25549,
+      "forks": 1543,
+      "stars_today": 1532,
+      "built_by": [
+        "xiaolai",
+        "dkundel-openai",
+        "claude",
+        "zeta987",
+        "VOIDXAI"
+      ],
+      "llm_summary": "Codex代码审查与任务委派工具"
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 50070,
+      "forks": 8189,
+      "stars_today": 981,
+      "built_by": [
+        "claude",
+        "lcebot",
+        "anonymous619259",
+        "awrreny"
+      ],
+      "llm_summary": "提取多款AI模型的系统提示"
+    },
+    {
+      "owner": "Leonxlnx",
+      "name": "taste-skill",
+      "full_name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "JavaScript",
+      "stars": 57617,
+      "forks": 3940,
+      "stars_today": 863,
+      "built_by": [
+        "claude",
+        "cursoragent",
+        "luojiyin1987",
+        "jkk442"
+      ],
+      "llm_summary": "提升AI生成内容质量，避免平庸"
+    },
+    {
+      "owner": "alirezarezvani",
+      "name": "claude-skills",
+      "full_name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "language": "Python",
+      "stars": 20623,
+      "forks": 2796,
+      "stars_today": 392,
+      "built_by": [
+        "claude",
+        "olgasafonova",
+        "ikala-shawn",
+        "fernandezbaptiste"
+      ],
+      "llm_summary": "Claude Code全方位技能增强包"
+    },
+    {
+      "owner": "rommapp",
+      "name": "romm",
+      "full_name": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted rom manager and player.",
+      "language": "Python",
+      "stars": 10572,
+      "forks": 505,
+      "stars_today": 410,
+      "built_by": [
+        "claude",
+        "gantoine",
+        "adamantike",
+        "dependabot",
+        "zurdi15"
+      ],
+      "llm_summary": "美观强大的自托管游戏管理播放器"
+    },
+    {
+      "owner": "ogulcancelik",
+      "name": "herdr",
+      "full_name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": 12129,
+      "forks": 707,
+      "stars_today": 651,
+      "built_by": [
+        "kangal-bot",
+        "Golden-Pigeon",
+        "github-actions",
+        "dmmulroy"
+      ],
+      "llm_summary": "终端中的智能多路复用器"
+    },
+    {
+      "owner": "alibaba",
+      "name": "page-agent",
+      "full_name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": 23969,
+      "forks": 2063,
+      "stars_today": 805,
+      "built_by": [
+        "linked-danis",
+        "JasonOA888",
+        "gaomeng1900",
+        "dependabot",
+        "Copilot"
+      ],
+      "llm_summary": "自然语言控制网页界面的智能代理"
+    },
+    {
+      "owner": "harvard-edge",
+      "name": "cs249r_book",
+      "full_name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "stars": 26872,
+      "forks": 3196,
+      "stars_today": 329,
+      "built_by": [
+        "profvjreddi",
+        "claude",
+        "hzeljko",
+        "dependabot",
+        "github-actions"
+      ],
+      "llm_summary": "机器学习系统权威教材"
+    },
+    {
+      "owner": "usestrix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 37201,
+      "forks": 3778,
+      "stars_today": 1114,
+      "built_by": [
+        "bearsyankees",
+        "claude",
+        "octovimmer",
+        "0xallam",
+        "dependabot"
+      ],
+      "llm_summary": "开源AI应用安全渗透测试工具"
+    },
+    {
+      "owner": "hesreallyhim",
+      "name": "awesome-claude-code",
+      "full_name": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "language": "Python",
+      "stars": 48406,
+      "forks": 4235,
+      "stars_today": 148,
+      "built_by": [
+        "claude",
+        "tninja",
+        "Copilot",
+        "github-actions"
+      ],
+      "llm_summary": "Claude Code精选资源与技能集合"
+    },
+    {
+      "owner": "coreyhaines31",
+      "name": "marketingskills",
+      "full_name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 36477,
+      "forks": 5896,
+      "stars_today": 145,
+      "built_by": [
+        "claude",
+        "njcameron",
+        "Jiliac",
+        "basseko"
+      ],
+      "llm_summary": "Claude Code营销技能增强包"
+    },
+    {
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars": 84927,
+      "forks": 4722,
+      "stars_today": 1052,
+      "built_by": [
+        "claude",
+        "vraj00222",
+        "github-actions",
+        "sebastianbreguel"
+      ],
+      "llm_summary": "Claude Code精简语言技能，减65%token"
+    },
+    {
+      "owner": "CoplayDev",
+      "name": "unity-mcp",
+      "full_name": "CoplayDev/unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "language": "C#",
+      "stars": 11961,
+      "forks": 1281,
+      "stars_today": 414,
+      "built_by": [
+        "msanatan",
+        "actions-user",
+        "Scriptwonder",
+        "dsarno",
+        "github-actions"
+      ],
+      "llm_summary": "AI助手与Unity编辑器的智能桥梁"
+    },
+    {
+      "owner": "facebook",
+      "name": "astryx",
+      "full_name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 5942,
+      "forks": 376,
+      "stars_today": 522,
+      "built_by": [
+        "cixzhang",
+        "rubyycheung",
+        "josephfarina",
+        "kentonquatman",
+        "github-actions"
+      ],
+      "llm_summary": "可定制且AI就绪的开源设计系统"
+    },
+    {
+      "owner": "immich-app",
+      "name": "immich",
+      "full_name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": 106146,
+      "forks": 6061,
+      "stars_today": 470,
+      "built_by": [
+        "danieldietzler",
+        "jrasm91",
+        "renovate",
+        "mertalev",
+        "alextran1502"
+      ],
+      "llm_summary": "高性能自托管照片视频管理方案"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 76748,
+      "forks": 10287,
+      "stars_today": 161,
+      "built_by": [
+        "claude",
+        "fr4iser90",
+        "dependabot",
+        "github-actions"
+      ],
+      "llm_summary": "WiFi信号转化为空间智能监测"
+    },
+    {
+      "owner": "gastownhall",
+      "name": "gastown",
+      "full_name": "gastownhall/gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "description": "Gas Town - multi-agent workspace manager",
+      "language": "Go",
+      "stars": 16402,
+      "forks": 1520,
+      "stars_today": 51,
+      "built_by": [
+        "claude",
+        "Thalia-geraghty",
+        "steveyegge",
+        "julianknutsen",
+        "seanbearden"
+      ],
+      "llm_summary": "多代理智能工作空间管理器"
+    },
+    {
+      "owner": "dotnet",
+      "name": "skills",
+      "full_name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 4057,
+      "forks": 304,
+      "stars_today": 246,
+      "built_by": [
+        "JanKrivanek",
+        "Evangelink",
+        "Copilot",
+        "github-actions",
+        "ViktorHofer"
+      ],
+      "llm_summary": "辅助.NET编程的AI技能集合"
+    },
+    {
+      "owner": "OthmanAdi",
+      "name": "planning-with-files",
+      "full_name": "OthmanAdi/planning-with-files",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+      "language": "Python",
+      "stars": 24742,
+      "forks": 2106,
+      "stars_today": 66,
+      "built_by": [
+        "claude",
+        "ebrevdo",
+        "mvanhorn",
+        "kaichen"
+      ],
+      "llm_summary": "AI代理持久化文件规划系统"
+    },
+    {
+      "owner": "steipete",
+      "name": "CodexBar",
+      "full_name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars": 16271,
+      "forks": 1353,
+      "stars_today": 153,
+      "built_by": [
+        "claude",
+        "Yuxin-Qiao",
+        "ratulsarna",
+        "bcharleson"
+      ],
+      "llm_summary": "显示AI编程工具使用统计"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars": 136322,
+      "forks": 21908,
+      "stars_today": 156,
+      "built_by": [
+        "ashwin-ant",
+        "claude",
+        "actions-user",
+        "bcherny",
+        "ant-kurt"
+      ],
+      "llm_summary": "终端中的智能代码理解与执行助手"
+    }
+  ]
+}
