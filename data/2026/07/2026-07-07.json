@@ -1,0 +1,297 @@
+{
+  "date": "2026-07-07",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 51640,
+      "forks": 8412,
+      "stars_today": 1378,
+      "built_by": [
+        "lcebot",
+        "claude",
+        "anonymous619259",
+        "awrreny"
+      ],
+      "llm_summary": "汇集各大AI模型系统提示词"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 70902,
+      "forks": 7677,
+      "stars_today": 1112,
+      "built_by": [
+        "dj2313",
+        "nucliweb",
+        "federicobartoli",
+        "claude"
+      ],
+      "llm_summary": "AI编码助手生产级工程技能库"
+    },
+    {
+      "owner": "Zackriya-Solutions",
+      "name": "meetily",
+      "full_name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "stars": 19473,
+      "forks": 1972,
+      "stars_today": 2494,
+      "built_by": [
+        "sujithatzackriya",
+        "mohammedsafvan",
+        "safvanatzack",
+        "p-s-vishnu",
+        "athulchandroth"
+      ],
+      "llm_summary": "隐私优先的本地AI会议助手"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 77566,
+      "forks": 10417,
+      "stars_today": 470,
+      "built_by": [
+        "github-actions",
+        "fr4iser90",
+        "claude",
+        "dependabot"
+      ],
+      "llm_summary": "WiFi信号实时空间智能监测"
+    },
+    {
+      "owner": "Leonxlnx",
+      "name": "taste-skill",
+      "full_name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "JavaScript",
+      "stars": 59030,
+      "forks": 4020,
+      "stars_today": 1458,
+      "built_by": [
+        "jkk442",
+        "claude",
+        "luojiyin1987",
+        "cursoragent"
+      ],
+      "llm_summary": "提升AI生成内容品质与独特性"
+    },
+    {
+      "owner": "alirezarezvani",
+      "name": "claude-skills",
+      "full_name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "language": "Python",
+      "stars": 21189,
+      "forks": 2843,
+      "stars_today": 610,
+      "built_by": [
+        "ikala-shawn",
+        "fernandezbaptiste",
+        "olgasafonova",
+        "claude"
+      ],
+      "llm_summary": "Claude等多代理技能与命令库"
+    },
+    {
+      "owner": "openai",
+      "name": "codex-plugin-cc",
+      "full_name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars": 26307,
+      "forks": 1578,
+      "stars_today": 906,
+      "built_by": [
+        "dkundel-openai",
+        "zeta987",
+        "claude",
+        "xiaolai",
+        "VOIDXAI"
+      ],
+      "llm_summary": "Claude Code中集成Codex代码审查"
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 49804,
+      "forks": 4147,
+      "stars_today": 458,
+      "built_by": [
+        "j-sperling",
+        "tmchow",
+        "claude",
+        "23241a6749"
+      ],
+      "llm_summary": "跨平台研究并生成主题摘要"
+    },
+    {
+      "owner": "ogulcancelik",
+      "name": "herdr",
+      "full_name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": 12918,
+      "forks": 748,
+      "stars_today": 779,
+      "built_by": [
+        "kangal-bot",
+        "github-actions",
+        "dmmulroy",
+        "Golden-Pigeon"
+      ],
+      "llm_summary": "终端内多AI代理管理器"
+    },
+    {
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "full_name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 4290,
+      "forks": 607,
+      "stars_today": 427,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "赋予Claude视频内容分析能力"
+    },
+    {
+      "owner": "karakeep-app",
+      "name": "karakeep",
+      "full_name": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "language": "TypeScript",
+      "stars": 26919,
+      "forks": 1320,
+      "stars_today": 199,
+      "built_by": [
+        "claude",
+        "xuatz",
+        "esimkowitz",
+        "kamtschatka",
+        "MohamedBassem"
+      ],
+      "llm_summary": "AI增强的全能信息收藏管理"
+    },
+    {
+      "owner": "firecrawl",
+      "name": "firecrawl",
+      "full_name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "stars": 146329,
+      "forks": 8418,
+      "stars_today": 867,
+      "built_by": [
+        "developersdigest",
+        "rafaelsideguide",
+        "mogery",
+        "nickscamara",
+        "abimaelmartell"
+      ],
+      "llm_summary": "大规模网络内容获取API"
+    },
+    {
+      "owner": "steipete",
+      "name": "CodexBar",
+      "full_name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars": 16749,
+      "forks": 1375,
+      "stars_today": 598,
+      "built_by": [
+        "Yuxin-Qiao",
+        "ratulsarna",
+        "claude",
+        "bcharleson"
+      ],
+      "llm_summary": "无需登录的AI工具使用统计"
+    },
+    {
+      "owner": "alibaba",
+      "name": "zvec",
+      "full_name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 13540,
+      "forks": 826,
+      "stars_today": 382,
+      "built_by": [
+        "Cuiyus",
+        "egolearner",
+        "zhourrr",
+        "feihongxu0824",
+        "iaojnh"
+      ],
+      "llm_summary": "轻量高效的进程内向量数据库"
+    },
+    {
+      "owner": "sindresorhus",
+      "name": "awesome",
+      "full_name": "sindresorhus/awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "description": "😎 Awesome lists about all kinds of interesting topics",
+      "language": "Unknown",
+      "stars": 482324,
+      "forks": 35738,
+      "stars_today": 345,
+      "built_by": [
+        "kdeldycke",
+        "davisonio",
+        "arthurvr",
+        "RichardLitt"
+      ],
+      "llm_summary": "精选各类主题的开源资源集合"
+    },
+    {
+      "owner": "gastownhall",
+      "name": "gastown",
+      "full_name": "gastownhall/gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "description": "Gas Town - multi-agent workspace manager",
+      "language": "Go",
+      "stars": 16714,
+      "forks": 1540,
+      "stars_today": 291,
+      "built_by": [
+        "julianknutsen",
+        "claude",
+        "steveyegge",
+        "seanbearden",
+        "Thalia-geraghty"
+      ],
+      "llm_summary": "多AI代理工作空间管理器"
+    }
+  ]
+}
