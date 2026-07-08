@@ -1,0 +1,241 @@
+{
+  "date": "2026-07-08",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars": 11096,
+      "forks": 3704,
+      "stars_today": 2514,
+      "built_by": [
+        "ayobamiseun",
+        "claude",
+        "Yigtwxx",
+        "akhil29897"
+      ],
+      "llm_summary": "AI求职助手，自动评估工作并定制简历求职信"
+    },
+    {
+      "owner": "Zackriya-Solutions",
+      "name": "meetily",
+      "full_name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "stars": 20793,
+      "forks": 2080,
+      "stars_today": 1777,
+      "built_by": [
+        "sujithatzackriya",
+        "mohammedsafvan",
+        "p-s-vishnu",
+        "safvanatzack",
+        "athulchandroth"
+      ],
+      "llm_summary": "本地AI会议助手，快速转录并自动生成会议纪要"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 72202,
+      "forks": 7820,
+      "stars_today": 1317,
+      "built_by": [
+        "federicobartoli",
+        "nucliweb",
+        "dj2313",
+        "claude"
+      ],
+      "llm_summary": "AI编码代理的生产级工程技能库"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 78532,
+      "forks": 10565,
+      "stars_today": 1129,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "fr4iser90",
+        "github-actions"
+      ],
+      "llm_summary": "WiFi信号实时监测人体活动与生命体征"
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 53051,
+      "forks": 8645,
+      "stars_today": 1691,
+      "built_by": [
+        "anonymous619259",
+        "claude",
+        "awrreny",
+        "lcebot"
+      ],
+      "llm_summary": "收集各大AI模型的系统提示词库"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "CubeSandbox",
+      "full_name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars": 8485,
+      "forks": 713,
+      "stars_today": 664,
+      "built_by": [
+        "ls-ggg",
+        "chenhengqi",
+        "lisongqian",
+        "zyl1121",
+        "fslongjin"
+      ],
+      "llm_summary": "AI代理安全轻量级沙箱环境"
+    },
+    {
+      "owner": "AhmadIbrahiim",
+      "name": "Website-downloader",
+      "full_name": "AhmadIbrahiim/Website-downloader",
+      "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+      "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+      "language": "HTML",
+      "stars": 4041,
+      "forks": 988,
+      "stars_today": 140,
+      "built_by": [
+        "Copilot",
+        "dependabot",
+        "squishy9876"
+      ],
+      "llm_summary": "一键下载网站完整源代码及资源"
+    },
+    {
+      "owner": "steipete",
+      "name": "CodexBar",
+      "full_name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars": 17051,
+      "forks": 1388,
+      "stars_today": 376,
+      "built_by": [
+        "bcharleson",
+        "claude",
+        "Yuxin-Qiao",
+        "ratulsarna"
+      ],
+      "llm_summary": "无需登录查看AI代码使用统计"
+    },
+    {
+      "owner": "dotnet",
+      "name": "skills",
+      "full_name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 4317,
+      "forks": 324,
+      "stars_today": 64,
+      "built_by": [
+        "Evangelink",
+        "Copilot",
+        "github-actions",
+        "JanKrivanek",
+        "ViktorHofer"
+      ],
+      "llm_summary": "AI代理.NET与C#编程技能库"
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "full_name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 10065,
+      "forks": 682,
+      "stars_today": 893,
+      "built_by": [
+        "Copilot",
+        "claude",
+        "IceyLiu",
+        "ringringlin",
+        "goworm"
+      ],
+      "llm_summary": "AI专用Office套件，无需安装即可操作文档"
+    },
+    {
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "full_name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 5203,
+      "forks": 664,
+      "stars_today": 965,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "赋予Claude视频分析与理解能力"
+    },
+    {
+      "owner": "kyutai-labs",
+      "name": "pocket-tts",
+      "full_name": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "language": "Python",
+      "stars": 6202,
+      "forks": 648,
+      "stars_today": 531,
+      "built_by": [
+        "darknight054",
+        "vvolhejn",
+        "joshwhiton",
+        "gabrieldemarmiesse",
+        "thataboy"
+      ],
+      "llm_summary": "轻量级CPU文本转语音系统"
+    },
+    {
+      "owner": "hesreallyhim",
+      "name": "awesome-claude-code",
+      "full_name": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "language": "Python",
+      "stars": 49145,
+      "forks": 4282,
+      "stars_today": 144,
+      "built_by": [
+        "tninja",
+        "claude",
+        "Copilot",
+        "github-actions"
+      ],
+      "llm_summary": "Claude Code最佳资源与工具精选"
+    }
+  ]
+}
