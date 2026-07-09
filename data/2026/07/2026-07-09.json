@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-09",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 74220,
+      "forks": 8004,
+      "stars_today": 1297,
+      "built_by": [
+        "federicobartoli",
+        "claude",
+        "dj2313",
+        "nucliweb"
+      ],
+      "llm_summary": "AI编码代理的生产级工程技能"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 79169,
+      "forks": 10651,
+      "stars_today": 799,
+      "built_by": [
+        "github-actions",
+        "fr4iser90",
+        "claude",
+        "dependabot"
+      ],
+      "llm_summary": "WiFi信号实时空间智能与生命监测"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars": 7689,
+      "forks": 711,
+      "stars_today": 318,
+      "built_by": [
+        "akhilesharora",
+        "Huang10q",
+        "YOMXXX",
+        "Maxwell-Code07",
+        "Yuntong8888"
+      ],
+      "llm_summary": "AI代理本地长期记忆四层管道"
+    },
+    {
+      "owner": "prisma",
+      "name": "prisma",
+      "full_name": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "stars": 46583,
+      "forks": 2282,
+      "stars_today": 46,
+      "built_by": [
+        "prisma-bot",
+        "timsuchanek",
+        "renovate",
+        "Jolg42",
+        "nikolasburk"
+      ],
+      "llm_summary": "下一代Node.js与TypeScript的ORM"
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 50784,
+      "forks": 4240,
+      "stars_today": 352,
+      "built_by": [
+        "j-sperling",
+        "23241a6749",
+        "claude",
+        "tmchow"
+      ],
+      "llm_summary": "多平台AI研究主题综合摘要"
+    },
+    {
+      "owner": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": 23440,
+      "forks": 7427,
+      "stars_today": 29,
+      "built_by": [
+        "jessesuen",
+        "alexmt",
+        "crenshaw-dev",
+        "jannfis",
+        "dependabot"
+      ],
+      "llm_summary": "Kubernetes声明式持续部署工具"
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "full_name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 11964,
+      "forks": 812,
+      "stars_today": 1717,
+      "built_by": [
+        "IceyLiu",
+        "Copilot",
+        "ringringlin",
+        "goworm",
+        "claude"
+      ],
+      "llm_summary": "AI代理专用Office自动化工具"
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 54249,
+      "forks": 8830,
+      "stars_today": 1218,
+      "built_by": [
+        "lcebot",
+        "awrreny",
+        "anonymous619259",
+        "claude"
+      ],
+      "llm_summary": "多AI模型系统提示词提取库"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 249875,
+      "forks": 22171,
+      "stars_today": 1116,
+      "built_by": [
+        "arittr",
+        "clkao",
+        "jjshanks",
+        "claude"
+      ],
+      "llm_summary": "有效的代理技能开发框架"
+    },
+    {
+      "owner": "alibaba",
+      "name": "zvec",
+      "full_name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": 14434,
+      "forks": 890,
+      "stars_today": 395,
+      "built_by": [
+        "zhourrr",
+        "feihongxu0824",
+        "egolearner",
+        "iaojnh",
+        "Cuiyus"
+      ],
+      "llm_summary": "轻量级极快进程内向量数据库"
+    },
+    {
+      "owner": "Diolinux",
+      "name": "PhotoGIMP",
+      "full_name": "Diolinux/PhotoGIMP",
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "stars": 15056,
+      "forks": 597,
+      "stars_today": 1125,
+      "built_by": [
+        "gabrielalmir",
+        "Klubuntu",
+        "Levletsplay0",
+        "emsspree"
+      ],
+      "llm_summary": "Photoshop用户GIMP界面补丁"
+    },
+    {
+      "owner": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 6393,
+      "forks": 750,
+      "stars_today": 28,
+      "built_by": [
+        "edgarsskore",
+        "claude",
+        "serg33v",
+        "dmitry-ottic-ai"
+      ],
+      "llm_summary": "Claude终端控制与文件编辑服务器"
+    },
+    {
+      "owner": "huxingyi",
+      "name": "autoremesher",
+      "full_name": "huxingyi/autoremesher",
+      "url": "https://github.com/huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "language": "C++",
+      "stars": 2033,
+      "forks": 153,
+      "stars_today": 296,
+      "built_by": [
+        "animaone"
+      ],
+      "llm_summary": "自动四边形网格重工具"
+    },
+    {
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "full_name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 6088,
+      "forks": 725,
+      "stars_today": 951,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "Claude视频观看与内容提取工具"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "CubeSandbox",
+      "full_name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars": 8954,
+      "forks": 737,
+      "stars_today": 564,
+      "built_by": [
+        "zyl1121",
+        "fslongjin",
+        "ls-ggg",
+        "chenhengqi",
+        "lisongqian"
+      ],
+      "llm_summary": "AI代理即时并发安全沙箱"
+    }
+  ]
+}
