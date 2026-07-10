@@ -1,0 +1,274 @@
+{
+  "date": "2026-07-10",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars": 19169,
+      "forks": 5521,
+      "stars_today": 3716,
+      "built_by": [
+        "ayobamiseun",
+        "akhil29897",
+        "Yigtwxx",
+        "claude"
+      ],
+      "llm_summary": "AI求职助手，自动评估职位与定制简历"
+    },
+    {
+      "owner": "SmartlyDressedGames",
+      "name": "U3-SDK",
+      "full_name": "SmartlyDressedGames/U3-SDK",
+      "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+      "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "language": "C#",
+      "stars": 2061,
+      "forks": 262,
+      "stars_today": 524,
+      "built_by": [
+        "SDGNelson",
+        "MoltonMontro"
+      ],
+      "llm_summary": "免费僵尸生存沙盒游戏Unturned的SDK"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 75936,
+      "forks": 8168,
+      "stars_today": 2554,
+      "built_by": [
+        "claude",
+        "dj2313",
+        "federicobartoli",
+        "nucliweb"
+      ],
+      "llm_summary": "AI编码代理的生产级工程技能集"
+    },
+    {
+      "owner": "VoltAgent",
+      "name": "awesome-design-md",
+      "full_name": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": "Unknown",
+      "stars": 99781,
+      "forks": 11579,
+      "stars_today": 1391,
+      "built_by": [
+        "LeeDoYup",
+        "doanbactam",
+        "necatiozmen",
+        "omeraplak"
+      ],
+      "llm_summary": "品牌设计系统分析，助AI生成匹配UI"
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "full_name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 13519,
+      "forks": 921,
+      "stars_today": 1929,
+      "built_by": [
+        "ringringlin",
+        "claude",
+        "Copilot",
+        "IceyLiu",
+        "goworm"
+      ],
+      "llm_summary": "AI专用Office套件，无需安装即可操作文档"
+    },
+    {
+      "owner": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 6588,
+      "forks": 781,
+      "stars_today": 185,
+      "built_by": [
+        "edgarsskore",
+        "dmitry-ottic-ai",
+        "serg33v",
+        "claude"
+      ],
+      "llm_summary": "Claude终端控制与文件系统操作增强"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-cookbooks",
+      "full_name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 47189,
+      "forks": 5555,
+      "stars_today": 194,
+      "built_by": [
+        "PedramNavid",
+        "claude",
+        "saflamini",
+        "zealoushacker",
+        "alexalbertt"
+      ],
+      "llm_summary": "Claude使用技巧与最佳实践集合"
+    },
+    {
+      "owner": "vxcontrol",
+      "name": "pentagi",
+      "full_name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 19443,
+      "forks": 2626,
+      "stars_today": 535,
+      "built_by": [
+        "claude",
+        "asdek",
+        "sirozha",
+        "cursoragent",
+        "mason5052"
+      ],
+      "llm_summary": "自主AI系统执行复杂渗透测试任务"
+    },
+    {
+      "owner": "unclecode",
+      "name": "crawl4ai",
+      "full_name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars": 71863,
+      "forks": 7379,
+      "stars_today": 215,
+      "built_by": [
+        "aravindkarnam",
+        "SohamKukreti",
+        "claude",
+        "ntohidi"
+      ],
+      "llm_summary": "开源LLM友好的网络爬虫工具"
+    },
+    {
+      "owner": "imthenachoman",
+      "name": "How-To-Secure-A-Linux-Server",
+      "full_name": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+      "description": "An evolving how-to guide for securing a Linux server.",
+      "language": "Unknown",
+      "stars": 29109,
+      "forks": 1939,
+      "stars_today": 243,
+      "built_by": [
+        "moltenbit",
+        "LaurenceJJones",
+        "nidamanx",
+        "hellresistor"
+      ],
+      "llm_summary": "持续更新的Linux服务器安全实践指南"
+    },
+    {
+      "owner": "huxingyi",
+      "name": "autoremesher",
+      "full_name": "huxingyi/autoremesher",
+      "url": "https://github.com/huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "language": "C++",
+      "stars": 2383,
+      "forks": 172,
+      "stars_today": 403,
+      "built_by": [
+        "animaone",
+        "mvanhorn"
+      ],
+      "llm_summary": "自动四边形网格重划分专业工具"
+    },
+    {
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "full_name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 6735,
+      "forks": 772,
+      "stars_today": 718,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "赋予Claude视频观看与分析能力"
+    },
+    {
+      "owner": "prisma",
+      "name": "prisma",
+      "full_name": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "stars": 46917,
+      "forks": 2329,
+      "stars_today": 376,
+      "built_by": [
+        "Jolg42",
+        "prisma-bot",
+        "timsuchanek",
+        "nikolasburk",
+        "renovate"
+      ],
+      "llm_summary": "下一代Node.js/TypeScript多数据库ORM"
+    },
+    {
+      "owner": "kyutai-labs",
+      "name": "pocket-tts",
+      "full_name": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "language": "Python",
+      "stars": 7003,
+      "forks": 703,
+      "stars_today": 235,
+      "built_by": [
+        "joshwhiton",
+        "vvolhejn",
+        "darknight054",
+        "gabrieldemarmiesse",
+        "thataboy"
+      ],
+      "llm_summary": "轻量级CPU友好型文本转语音工具"
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 55191,
+      "forks": 9020,
+      "stars_today": 1125,
+      "built_by": [
+        "lcebot",
+        "anonymous619259",
+        "awrreny",
+        "claude"
+      ],
+      "llm_summary": "主流AI系统提示定期更新集合"
+    }
+  ]
+}
