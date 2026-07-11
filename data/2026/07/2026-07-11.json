@@ -1,0 +1,356 @@
+{
+  "date": "2026-07-11",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 7321,
+      "forks": 931,
+      "stars_today": 328,
+      "built_by": [
+        "edgarsskore",
+        "serg33v",
+        "claude",
+        "dmitry-ottic-ai"
+      ],
+      "llm_summary": "Claude终端控制与文件编辑MCP服务器"
+    },
+    {
+      "owner": "oven-sh",
+      "name": "bun",
+      "full_name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars": 94252,
+      "forks": 4940,
+      "stars_today": 209,
+      "built_by": [
+        "nektro",
+        "robobun",
+        "dylan-conway",
+        "Jarred-Sumner",
+        "autofix-ci"
+      ],
+      "llm_summary": "超快全能JavaScript工具链"
+    },
+    {
+      "owner": "abseil",
+      "name": "abseil-cpp",
+      "full_name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": 17523,
+      "forks": 3194,
+      "stars_today": 89,
+      "built_by": [
+        "derekmauro",
+        "ezbr",
+        "goldvitaly",
+        "dinord"
+      ],
+      "llm_summary": "Google C++通用库集合"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 76840,
+      "forks": 8252,
+      "stars_today": 1116,
+      "built_by": [
+        "dj2313",
+        "nucliweb",
+        "claude",
+        "federicobartoli"
+      ],
+      "llm_summary": "AI编码代理生产级工程技能"
+    },
+    {
+      "owner": "jbeder",
+      "name": "yaml-cpp",
+      "full_name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars": 6082,
+      "forks": 2257,
+      "stars_today": 69,
+      "built_by": [
+        "neheb",
+        "dota17",
+        "SGSSGene",
+        "asmaloney"
+      ],
+      "llm_summary": "C++ YAML解析与生成库"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 164681,
+      "forks": 14169,
+      "stars_today": 1712,
+      "built_by": [
+        "github-actions",
+        "claude"
+      ],
+      "llm_summary": "工程师实用技能集合"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 251805,
+      "forks": 22471,
+      "stars_today": 1013,
+      "built_by": [
+        "arittr",
+        "jjshanks",
+        "clkao",
+        "claude"
+      ],
+      "llm_summary": "代理技能框架与开发方法论"
+    },
+    {
+      "owner": "microsoft",
+      "name": "TypeScript",
+      "full_name": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "TypeScript",
+      "stars": 109781,
+      "forks": 13632,
+      "stars_today": 177,
+      "built_by": [
+        "ahejlsberg",
+        "sandersn",
+        "DanielRosenwasser",
+        "sheetalkamat",
+        "mhegazy"
+      ],
+      "llm_summary": "JavaScript超集，强类型编译器"
+    },
+    {
+      "owner": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": 20616,
+      "forks": 3409,
+      "stars_today": 76,
+      "built_by": [
+        "claremacrae",
+        "horenmar",
+        "ChrisThrasher",
+        "JoeyGrajciar",
+        "philsquared"
+      ],
+      "llm_summary": "现代C++原生测试框架"
+    },
+    {
+      "owner": "chriskohlhoff",
+      "name": "asio",
+      "full_name": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars": 6073,
+      "forks": 1500,
+      "stars_today": 92,
+      "built_by": [
+        "vinipsmaker",
+        "jcelerier",
+        "xavier2k6",
+        "klemens-morgenstern"
+      ],
+      "llm_summary": "C++网络与底层编程库"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars": 8250,
+      "forks": 760,
+      "stars_today": 123,
+      "built_by": [
+        "Yuntong8888",
+        "akhilesharora",
+        "YOMXXX",
+        "Maxwell-Code07",
+        "Huang10q"
+      ],
+      "llm_summary": "AI代理本地长期记忆解决方案"
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 28777,
+      "forks": 3163,
+      "stars_today": 118,
+      "built_by": [
+        "github-actions",
+        "dependabot",
+        "cubic-dev-ai",
+        "claude"
+      ],
+      "llm_summary": "Claude Code配置监控CLI工具"
+    },
+    {
+      "owner": "zeux",
+      "name": "meshoptimizer",
+      "full_name": "zeux/meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "stars": 8026,
+      "forks": 784,
+      "stars_today": 91,
+      "built_by": [
+        "l0calh05t",
+        "mosra",
+        "dtrebilco",
+        "corporateshark"
+      ],
+      "llm_summary": "网格优化库，提升渲染性能"
+    },
+    {
+      "owner": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": 33662,
+      "forks": 2914,
+      "stars_today": 143,
+      "built_by": [
+        "danderson",
+        "andrew-d",
+        "josharian",
+        "raggi",
+        "bradfitz"
+      ],
+      "llm_summary": "简单安全的WireGuard网络工具"
+    },
+    {
+      "owner": "google-labs-code",
+      "name": "stitch-skills",
+      "full_name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": 6754,
+      "forks": 929,
+      "stars_today": 117,
+      "built_by": [
+        "dalmaer",
+        "meeChn",
+        "JLXIA",
+        "vinothsubramanian",
+        "davideast"
+      ],
+      "llm_summary": "兼容多AI的代理技能库"
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "full_name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 14455,
+      "forks": 986,
+      "stars_today": 1224,
+      "built_by": [
+        "claude",
+        "goworm",
+        "IceyLiu",
+        "Copilot",
+        "ringringlin"
+      ],
+      "llm_summary": "AI专用Office文件处理工具"
+    },
+    {
+      "owner": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 49172,
+      "forks": 10675,
+      "stars_today": 172,
+      "built_by": [
+        "mitchellh",
+        "apparentlymart",
+        "stack72",
+        "catsby",
+        "jbardin"
+      ],
+      "llm_summary": "基础设施即代码管理工具"
+    },
+    {
+      "owner": "grpc",
+      "name": "grpc",
+      "full_name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": 45139,
+      "forks": 11322,
+      "stars_today": 78,
+      "built_by": [
+        "jtattermusch",
+        "vjpai",
+        "yashykt",
+        "ctiller",
+        "markdroth"
+      ],
+      "llm_summary": "高性能RPC通信框架"
+    },
+    {
+      "owner": "vercel",
+      "name": "next.js",
+      "full_name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars": 140716,
+      "forks": 31525,
+      "stars_today": 191,
+      "built_by": [
+        "ijjk",
+        "vercel-release-bot",
+        "sokra",
+        "timneutkens",
+        "huozhi"
+      ],
+      "llm_summary": "React全栈开发框架"
+    }
+  ]
+}
