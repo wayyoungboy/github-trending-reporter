@@ -1,0 +1,315 @@
+{
+  "date": "2026-07-13",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "Dicklesworthstone",
+      "name": "destructive_command_guard",
+      "full_name": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars": 2964,
+      "forks": 108,
+      "stars_today": 444,
+      "built_by": [
+        "codex",
+        "claude",
+        "dependabot"
+      ],
+      "llm_summary": "危险命令防护工具，保障系统安全"
+    },
+    {
+      "owner": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 8006,
+      "forks": 985,
+      "stars_today": 210,
+      "built_by": [
+        "dmitry-ottic-ai",
+        "edgarsskore",
+        "claude",
+        "serg33v"
+      ],
+      "llm_summary": "Claude终端控制服务器，增强文件操作能力"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 20612,
+      "forks": 3602,
+      "stars_today": 768,
+      "built_by": [
+        "Elfsa-Miranda",
+        "Teerapat-Vatpitak",
+        "shadowinlife",
+        "claude",
+        "warren618"
+      ],
+      "llm_summary": "个人交易智能代理，辅助投资决策"
+    },
+    {
+      "owner": "PrefectHQ",
+      "name": "prefect",
+      "full_name": "PrefectHQ/prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars": 23163,
+      "forks": 2392,
+      "stars_today": 66,
+      "built_by": [
+        "zanieb",
+        "desertaxle",
+        "zzstoatzz",
+        "pleek91",
+        "cicdw"
+      ],
+      "llm_summary": "Python工作流编排框架，构建弹性数据管道"
+    },
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": 118609,
+      "forks": 17637,
+      "stars_today": 408,
+      "built_by": [
+        "Madhuvod",
+        "libw0430",
+        "claude",
+        "onestardao"
+      ],
+      "llm_summary": "百款可运行AI代理应用，即用即定制"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-cookbooks",
+      "full_name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 48445,
+      "forks": 5734,
+      "stars_today": 459,
+      "built_by": [
+        "claude",
+        "PedramNavid",
+        "alexalbertt",
+        "zealoushacker",
+        "saflamini"
+      ],
+      "llm_summary": "Claude使用教程集，高效实用技巧"
+    },
+    {
+      "owner": "home-assistant",
+      "name": "core",
+      "full_name": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 89086,
+      "forks": 38086,
+      "stars_today": 400,
+      "built_by": [
+        "epenet",
+        "frenck",
+        "emontnemery",
+        "balloob",
+        "bdraco"
+      ],
+      "llm_summary": "开源家庭自动化系统，注重本地控制与隐私"
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": 33819,
+      "forks": 3391,
+      "stars_today": 125,
+      "built_by": [
+        "jakeaturner",
+        "chriscrosstalk",
+        "claude",
+        "cosmistack-bot",
+        "dependabot"
+      ],
+      "llm_summary": "离线生存计算机，集成工具知识与AI"
+    },
+    {
+      "owner": "ColeMurray",
+      "name": "background-agents",
+      "full_name": "ColeMurray/background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "stars": 2268,
+      "forks": 343,
+      "stars_today": 16,
+      "built_by": [
+        "open-inspect",
+        "claude",
+        "dependabot",
+        "duboff"
+      ],
+      "llm_summary": "开源后台代理编码系统，提升开发效率"
+    },
+    {
+      "owner": "k1tbyte",
+      "name": "Wand-Enhancer",
+      "full_name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars": 6976,
+      "forks": 19544,
+      "stars_today": 609,
+      "built_by": [
+        "Kava4",
+        "SunsetMkt",
+        "YifePlayte"
+      ],
+      "llm_summary": "Wand应用增强扩展，提升用户体验与互操作性"
+    },
+    {
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "full_name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 13758,
+      "forks": 2892,
+      "stars_today": 75,
+      "built_by": [
+        "claude",
+        "juliusmarminge",
+        "t3dotgg",
+        "codex",
+        "cursoragent"
+      ],
+      "llm_summary": ""
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 61424,
+      "forks": 10858,
+      "stars_today": 115,
+      "built_by": [
+        "jsemldonado",
+        "KittatamSaisaard",
+        "claude",
+        "arsaboo"
+      ],
+      "llm_summary": "AI对冲基金团队，智能投资决策"
+    },
+    {
+      "owner": "chen08209",
+      "name": "FlClash",
+      "full_name": "chen08209/FlClash",
+      "url": "https://github.com/chen08209/FlClash",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "language": "Dart",
+      "stars": 45240,
+      "forks": 2856,
+      "stars_today": 154,
+      "built_by": [
+        "BIGGASSS",
+        "actions-user",
+        "txyyh"
+      ],
+      "llm_summary": "多平台Clash代理客户端，开源无广告"
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 29250,
+      "forks": 3204,
+      "stars_today": 274,
+      "built_by": [
+        "dependabot",
+        "claude",
+        "github-actions",
+        "cubic-dev-ai"
+      ],
+      "llm_summary": "Claude Code配置监控CLI工具，简化管理"
+    },
+    {
+      "owner": "par274",
+      "name": "sharpemu",
+      "full_name": "par274/sharpemu",
+      "url": "https://github.com/par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "stars": 1290,
+      "forks": 77,
+      "stars_today": 314,
+      "built_by": [
+        "Foued-pro",
+        "MikeSaito",
+        "YkPhysics",
+        "kostyaff"
+      ],
+      "llm_summary": "PS5模拟器实验项目，探索游戏体验"
+    },
+    {
+      "owner": "malisper",
+      "name": "pgrust",
+      "full_name": "malisper/pgrust",
+      "url": "https://github.com/malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars": 2490,
+      "forks": 68,
+      "stars_today": 518,
+      "built_by": [
+        "detail-app",
+        "claude",
+        "github-actions",
+        "BookSock"
+      ],
+      "llm_summary": "Rust重写PostgreSQL，完全兼容官方测试"
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 4313,
+      "forks": 253,
+      "stars_today": 155,
+      "built_by": [
+        "JaySmith502",
+        "Luffixos",
+        "claude",
+        "riccardogiorato"
+      ],
+      "llm_summary": "抗AI设计技能，提升Claude Code等工具体验"
+    }
+  ]
+}
