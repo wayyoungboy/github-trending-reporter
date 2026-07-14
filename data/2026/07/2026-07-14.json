@@ -1,0 +1,191 @@
+{
+  "date": "2026-07-14",
+  "total_repos": 10,
+  "repositories": [
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 66511,
+      "forks": 7002,
+      "stars_today": 1229,
+      "built_by": [
+        "anwarulislam",
+        "izadoesdev",
+        "khanguyen74",
+        "DevloperAmanSingh",
+        "mazeincoding"
+      ],
+      "llm_summary": "开源跨平台CapCut视频编辑器"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 21796,
+      "forks": 3757,
+      "stars_today": 1153,
+      "built_by": [
+        "Teerapat-Vatpitak",
+        "warren618",
+        "Elfsa-Miranda",
+        "shadowinlife",
+        "claude"
+      ],
+      "llm_summary": "AI智能个人交易代理系统"
+    },
+    {
+      "owner": "moeru-ai",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 41899,
+      "forks": 4197,
+      "stars_today": 78,
+      "built_by": [
+        "nekomeowww",
+        "sumimakito",
+        "github-actions",
+        "luoling8192",
+        "shinohara-rin"
+      ],
+      "llm_summary": "自托管AI伴侣，支持游戏与语音交互"
+    },
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": 119659,
+      "forks": 17746,
+      "stars_today": 996,
+      "built_by": [
+        "Madhuvod",
+        "onestardao",
+        "libw0430",
+        "claude"
+      ],
+      "llm_summary": "百款可运行AI代理与RAG应用集合"
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 5185,
+      "forks": 273,
+      "stars_today": 794,
+      "built_by": [
+        "claude",
+        "riccardogiorato",
+        "Luffixos",
+        "JaySmith502"
+      ],
+      "llm_summary": "提升AI代码编辑器设计质感"
+    },
+    {
+      "owner": "Raphire",
+      "name": "Win11Debloat",
+      "full_name": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars": 50897,
+      "forks": 2049,
+      "stars_today": 118,
+      "built_by": [
+        "HetCreep",
+        "tsumi",
+        "SashankBhamidi",
+        "N0tHorizon"
+      ],
+      "llm_summary": "轻量Win系统去臃肿与定制工具"
+    },
+    {
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars": 84784,
+      "forks": 8347,
+      "stars_today": 1095,
+      "built_by": [
+        "Synvoya",
+        "oleksii-tumanov",
+        "safishamsi",
+        "claude",
+        "TPAteeq"
+      ],
+      "llm_summary": "代码知识图谱化智能分析助手"
+    },
+    {
+      "owner": "hasaneyldrm",
+      "name": "exercises-dataset",
+      "full_name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars": 12639,
+      "forks": 1484,
+      "stars_today": 451,
+      "built_by": [
+        "wacko-io",
+        "claude",
+        "alfredo0592",
+        "anderboski"
+      ],
+      "llm_summary": "千级健身动作多媒体数据集"
+    },
+    {
+      "owner": "github",
+      "name": "spec-kit",
+      "full_name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 120624,
+      "forks": 10695,
+      "stars_today": 543,
+      "built_by": [
+        "Copilot",
+        "github-actions",
+        "mnriem",
+        "localden",
+        "claude"
+      ],
+      "llm_summary": "规范驱动开发实践工具包"
+    },
+    {
+      "owner": "coreyhaines31",
+      "name": "marketingskills",
+      "full_name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 38600,
+      "forks": 6167,
+      "stars_today": 299,
+      "built_by": [
+        "claude",
+        "njcameron",
+        "Jiliac",
+        "basseko"
+      ],
+      "llm_summary": "AI代理营销技能增强套件"
+    }
+  ]
+}
