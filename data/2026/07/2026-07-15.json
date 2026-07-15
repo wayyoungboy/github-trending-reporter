@@ -1,0 +1,275 @@
+{
+  "date": "2026-07-15",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": 120843,
+      "forks": 17880,
+      "stars_today": 1106,
+      "built_by": [
+        "claude",
+        "Madhuvod",
+        "onestardao",
+        "libw0430"
+      ],
+      "llm_summary": "百个可运行的AI代理与RAG应用集合"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 170305,
+      "forks": 14652,
+      "stars_today": 1679,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "gabimoncha"
+      ],
+      "llm_summary": "工程师实用技能集，源自Claude配置"
+    },
+    {
+      "owner": "Dicklesworthstone",
+      "name": "destructive_command_guard",
+      "full_name": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars": 4424,
+      "forks": 165,
+      "stars_today": 473,
+      "built_by": [
+        "claude",
+        "codex",
+        "dependabot"
+      ],
+      "llm_summary": "阻止危险git和shell命令的守护工具"
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 69242,
+      "forks": 7214,
+      "stars_today": 4276,
+      "built_by": [
+        "anwarulislam",
+        "izadoesdev",
+        "mazeincoding",
+        "khanguyen74",
+        "DevloperAmanSingh"
+      ],
+      "llm_summary": "开源版CapCut视频编辑器"
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 61891,
+      "forks": 10915,
+      "stars_today": 109,
+      "built_by": [
+        "arsaboo",
+        "KittatamSaisaard",
+        "jsemldonado",
+        "claude"
+      ],
+      "llm_summary": "AI驱动的对冲基金团队"
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 6181,
+      "forks": 354,
+      "stars_today": 1015,
+      "built_by": [
+        "claude",
+        "Luffixos",
+        "JaySmith502",
+        "riccardogiorato"
+      ],
+      "llm_summary": "防止AI生成低质量代码的防护技能"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 22883,
+      "forks": 3929,
+      "stars_today": 1256,
+      "built_by": [
+        "claude",
+        "shadowinlife",
+        "Elfsa-Miranda",
+        "warren618",
+        "Teerapat-Vatpitak"
+      ],
+      "llm_summary": "个人交易智能助手"
+    },
+    {
+      "owner": "Raphire",
+      "name": "Win11Debloat",
+      "full_name": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars": 51722,
+      "forks": 2133,
+      "stars_today": 783,
+      "built_by": [
+        "HetCreep",
+        "N0tHorizon",
+        "SashankBhamidi",
+        "tsumi"
+      ],
+      "llm_summary": "轻量级Win10/11系统清理工具"
+    },
+    {
+      "owner": "hasaneyldrm",
+      "name": "exercises-dataset",
+      "full_name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars": 13544,
+      "forks": 1618,
+      "stars_today": 851,
+      "built_by": [
+        "claude",
+        "alfredo0592",
+        "wacko-io",
+        "anderboski"
+      ],
+      "llm_summary": "1324个健身运动的多语言数据集"
+    },
+    {
+      "owner": "penpot",
+      "name": "penpot",
+      "full_name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "language": "Clojure",
+      "stars": 56170,
+      "forks": 3694,
+      "stars_today": 395,
+      "built_by": [
+        "hirunatan",
+        "Alotor",
+        "EvaMarco",
+        "superalex",
+        "niwinz"
+      ],
+      "llm_summary": "开源设计协作平台，支持可扩展团队"
+    },
+    {
+      "owner": "AIEraDev",
+      "name": "Clypra",
+      "full_name": "AIEraDev/Clypra",
+      "url": "https://github.com/AIEraDev/Clypra",
+      "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "language": "TypeScript",
+      "stars": 2633,
+      "forks": 279,
+      "stars_today": 85,
+      "built_by": [
+        "claude",
+        "cursoragent",
+        "theunavailableguy"
+      ],
+      "llm_summary": "基于Tauri的免费版Capcut功能实现"
+    },
+    {
+      "owner": "par274",
+      "name": "sharpemu",
+      "full_name": "par274/sharpemu",
+      "url": "https://github.com/par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "stars": 2147,
+      "forks": 136,
+      "stars_today": 332,
+      "built_by": [
+        "Spooks4576",
+        "kostyaff",
+        "YkPhysics",
+        "MikeSaito"
+      ],
+      "llm_summary": "实验性PS5模拟器项目"
+    },
+    {
+      "owner": "chenyme",
+      "name": "grok2api",
+      "full_name": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "language": "Go",
+      "stars": 5863,
+      "forks": 1926,
+      "stars_today": 186,
+      "built_by": [
+        "lijirou12",
+        "Soein",
+        "github-actions",
+        "piexian"
+      ],
+      "llm_summary": "Grok多账号API网关"
+    },
+    {
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars": 86422,
+      "forks": 8503,
+      "stars_today": 1851,
+      "built_by": [
+        "safishamsi",
+        "Synvoya",
+        "claude",
+        "TPAteeq",
+        "oleksii-tumanov"
+      ],
+      "llm_summary": "AI编程助手，将代码转为可查询知识图谱"
+    },
+    {
+      "owner": "HenryNdubuaku",
+      "name": "maths-cs-ai-compendium",
+      "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars": 5263,
+      "forks": 702,
+      "stars_today": 112,
+      "built_by": [
+        "nitturkaryash",
+        "KDachev4"
+      ],
+      "llm_summary": "AI/ML研究工程师技能宝典"
+    }
+  ]
+}
