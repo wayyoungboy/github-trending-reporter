@@ -1,0 +1,322 @@
+{
+  "date": "2026-07-17",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "apache",
+      "name": "ossie",
+      "full_name": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars": 915,
+      "forks": 135,
+      "stars_today": 60,
+      "built_by": [
+        "sfc-gh-kbhatia",
+        "claude",
+        "karanasher",
+        "kurtStirewalt",
+        "khush-bhatia"
+      ],
+      "llm_summary": "跨平台语义元数据标准化规范"
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 10957,
+      "forks": 542,
+      "stars_today": 3372,
+      "built_by": [
+        "riccardogiorato",
+        "claude",
+        "Luffixos",
+        "JaySmith502"
+      ],
+      "llm_summary": "AI代码编辑器反垃圾设计技能"
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 74046,
+      "forks": 7485,
+      "stars_today": 3537,
+      "built_by": [
+        "anwarulislam",
+        "DevloperAmanSingh",
+        "izadoesdev",
+        "mazeincoding",
+        "khanguyen74"
+      ],
+      "llm_summary": "开源CapCut视频编辑替代品"
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 35855,
+      "forks": 2993,
+      "stars_today": 77,
+      "built_by": [
+        "mariusandra",
+        "pauldambra",
+        "github-actions",
+        "claude",
+        "Twixes"
+      ],
+      "llm_summary": "自主产品构建与全栈开发者工具"
+    },
+    {
+      "owner": "openinterpreter",
+      "name": "openinterpreter",
+      "full_name": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Rust",
+      "stars": 65991,
+      "forks": 5675,
+      "stars_today": 661,
+      "built_by": [
+        "aibrahim-oai",
+        "bolinfest",
+        "pakrym-oai",
+        "etraut-openai",
+        "jif-oai"
+      ],
+      "llm_summary": "开源模型的智能代码代理"
+    },
+    {
+      "owner": "PrismML-Eng",
+      "name": "Bonsai-demo",
+      "full_name": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "stars": 1525,
+      "forks": 153,
+      "stars_today": 196,
+      "built_by": [
+        "bheyfitch",
+        "Copilot",
+        "claude",
+        "khosravipasha"
+      ],
+      "llm_summary": "Bonsai项目演示与展示"
+    },
+    {
+      "owner": "hasaneyldrm",
+      "name": "exercises-dataset",
+      "full_name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars": 15053,
+      "forks": 1807,
+      "stars_today": 710,
+      "built_by": [
+        "wacko-io",
+        "claude",
+        "anderboski",
+        "umutcakirai"
+      ],
+      "llm_summary": "1324个健身练习的完整数据集"
+    },
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": 122920,
+      "forks": 18127,
+      "stars_today": 923,
+      "built_by": [
+        "libw0430",
+        "onestardao",
+        "Madhuvod",
+        "claude"
+      ],
+      "llm_summary": "百个可运行AI代理与RAG应用"
+    },
+    {
+      "owner": "lobehub",
+      "name": "lobehub",
+      "full_name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "language": "TypeScript",
+      "stars": 80175,
+      "forks": 15613,
+      "stars_today": 71,
+      "built_by": [
+        "arvinxx",
+        "lobehubbot",
+        "tjx666",
+        "claude",
+        "semantic-release-bot"
+      ],
+      "llm_summary": "AI代理7×24小时操作管理平台"
+    },
+    {
+      "owner": "YimMenu",
+      "name": "YimMenuV2",
+      "full_name": "YimMenu/YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "stars": 1506,
+      "forks": 361,
+      "stars_today": 128,
+      "built_by": [
+        "ShinyWasabi",
+        "maybegreat48",
+        "Mr-X-GTA",
+        "playday3008",
+        "Deadlineem"
+      ],
+      "llm_summary": "GTA 5增强版实验性菜单"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 26885,
+      "forks": 3614,
+      "stars_today": 656,
+      "built_by": [
+        "pancacake",
+        "Pinkllow",
+        "github-actions",
+        "tusharkhatriofficial",
+        "claude"
+      ],
+      "llm_summary": "终身个性化智能辅导系统"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 174313,
+      "forks": 14959,
+      "stars_today": 2060,
+      "built_by": [
+        "gabimoncha",
+        "claude",
+        "github-actions"
+      ],
+      "llm_summary": "真实工程师必备技能集"
+    },
+    {
+      "owner": "github",
+      "name": "copilot-sdk",
+      "full_name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": 9648,
+      "forks": 1318,
+      "stars_today": 13,
+      "built_by": [
+        "edburns",
+        "SteveSandersonMS",
+        "github-actions",
+        "stephentoub",
+        "Copilot"
+      ],
+      "llm_summary": "GitHub Copilot多平台集成SDK"
+    },
+    {
+      "owner": "ibelick",
+      "name": "ui-skills",
+      "full_name": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars": 4289,
+      "forks": 181,
+      "stars_today": 178,
+      "built_by": [
+        "arifszn",
+        "saadeghi",
+        "fernandezbaptiste",
+        "claude"
+      ],
+      "llm_summary": "设计工程师必备技能集"
+    },
+    {
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars": 89113,
+      "forks": 8707,
+      "stars_today": 1107,
+      "built_by": [
+        "TPAteeq",
+        "oleksii-tumanov",
+        "claude",
+        "safishamsi",
+        "Synvoya"
+      ],
+      "llm_summary": "代码知识图谱AI助手工具"
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 526342,
+      "forks": 49799,
+      "stars_today": 435,
+      "built_by": [
+        "rohitpaulk",
+        "fake-rookie",
+        "bauripalash",
+        "danistefanovic",
+        "sarupbanskota"
+      ],
+      "llm_summary": "重建技术掌握编程实践"
+    },
+    {
+      "owner": "ossu",
+      "name": "computer-science",
+      "full_name": "ossu/computer-science",
+      "url": "https://github.com/ossu/computer-science",
+      "description": "🎓 Path to a free self-taught education in Computer Science!",
+      "language": "HTML",
+      "stars": 206538,
+      "forks": 25631,
+      "stars_today": 107,
+      "built_by": [
+        "ericdouglas",
+        "joshmhanson",
+        "pulkitkrishna00",
+        "waciumawanjohi",
+        "mkghosh"
+      ],
+      "llm_summary": "免费自学计算机科学路径"
+    }
+  ]
+}
