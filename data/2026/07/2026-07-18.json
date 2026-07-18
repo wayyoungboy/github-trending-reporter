@@ -1,0 +1,253 @@
+{
+  "date": "2026-07-18",
+  "total_repos": 14,
+  "repositories": [
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 527395,
+      "forks": 49907,
+      "stars_today": 1068,
+      "built_by": [
+        "sarupbanskota",
+        "fake-rookie",
+        "danistefanovic",
+        "bauripalash",
+        "rohitpaulk"
+      ]
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 36201,
+      "forks": 3010,
+      "stars_today": 438,
+      "built_by": [
+        "pauldambra",
+        "mariusandra",
+        "github-actions",
+        "claude",
+        "Twixes"
+      ]
+    },
+    {
+      "owner": "HenryNdubuaku",
+      "name": "maths-cs-ai-compendium",
+      "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars": 6632,
+      "forks": 811,
+      "stars_today": 200,
+      "built_by": [
+        "nitturkaryash",
+        "MeGaurav4",
+        "shmWorks",
+        "KDachev4"
+      ]
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 12057,
+      "forks": 601,
+      "stars_today": 1485,
+      "built_by": [
+        "JaySmith502",
+        "Luffixos",
+        "claude",
+        "riccardogiorato"
+      ]
+    },
+    {
+      "owner": "github",
+      "name": "copilot-sdk",
+      "full_name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": 9800,
+      "forks": 1331,
+      "stars_today": 233,
+      "built_by": [
+        "stephentoub",
+        "SteveSandersonMS",
+        "github-actions",
+        "Copilot",
+        "edburns"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "cwc-workshops",
+      "full_name": "anthropics/cwc-workshops",
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1589,
+      "forks": 490,
+      "stars_today": 45,
+      "built_by": [
+        "michael-cohen-io",
+        "jeffcurry-ant",
+        "claude",
+        "felixfbecker",
+        "mroknich"
+      ]
+    },
+    {
+      "owner": "PrismML-Eng",
+      "name": "Bonsai-demo",
+      "full_name": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "stars": 1716,
+      "forks": 167,
+      "stars_today": 278,
+      "built_by": [
+        "bheyfitch",
+        "khosravipasha",
+        "claude",
+        "Copilot"
+      ]
+    },
+    {
+      "owner": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 71541,
+      "forks": 16192,
+      "stars_today": 11,
+      "built_by": [
+        "protobuf-team-bot",
+        "protobuf-github-bot",
+        "mkruskal-google",
+        "haberman",
+        "xfxyjwf"
+      ]
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "full_name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 19765,
+      "forks": 2107,
+      "stars_today": 74,
+      "built_by": [
+        "claude",
+        "michael-denyer",
+        "gzenz",
+        "Minidoracat"
+      ]
+    },
+    {
+      "owner": "docusealco",
+      "name": "docuseal",
+      "full_name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": 17854,
+      "forks": 1771,
+      "stars_today": 91,
+      "built_by": [
+        "omohokcoj",
+        "jbenguira",
+        "AlexBTurchyn",
+        "dependabot",
+        "imchairmanm"
+      ]
+    },
+    {
+      "owner": "openinterpreter",
+      "name": "openinterpreter",
+      "full_name": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Rust",
+      "stars": 66383,
+      "forks": 5705,
+      "stars_today": 431,
+      "built_by": [
+        "bolinfest",
+        "etraut-openai",
+        "pakrym-oai",
+        "aibrahim-oai",
+        "jif-oai"
+      ]
+    },
+    {
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "full_name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": 13321,
+      "forks": 1179,
+      "stars_today": 280,
+      "built_by": [
+        "nicolas-geysse",
+        "claude",
+        "Pringled",
+        "faysou"
+      ]
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 27370,
+      "forks": 3647,
+      "stars_today": 531,
+      "built_by": [
+        "Pinkllow",
+        "github-actions",
+        "claude",
+        "tusharkhatriofficial",
+        "pancacake"
+      ]
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 74890,
+      "forks": 7551,
+      "stars_today": 1074,
+      "built_by": [
+        "mazeincoding",
+        "anwarulislam",
+        "khanguyen74",
+        "DevloperAmanSingh",
+        "izadoesdev"
+      ]
+    }
+  ]
+}
