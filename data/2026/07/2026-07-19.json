@@ -1,0 +1,201 @@
+{
+  "date": "2026-07-19",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "Robbyant",
+      "name": "lingbot-map",
+      "full_name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": 12976,
+      "forks": 1346,
+      "stars_today": 831,
+      "built_by": [
+        "justimyhxu",
+        "LinZhuoChen"
+      ],
+      "llm_summary": "流数据驱动的3D场景重建模型"
+    },
+    {
+      "owner": "apache",
+      "name": "ossie",
+      "full_name": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars": 1281,
+      "forks": 155,
+      "stars_today": 47,
+      "built_by": [
+        "khush-bhatia",
+        "kurtStirewalt",
+        "sfc-gh-kbhatia",
+        "karanasher",
+        "claude"
+      ],
+      "llm_summary": "跨平台语义元数据标准化规范"
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 36604,
+      "forks": 3030,
+      "stars_today": 338,
+      "built_by": [
+        "github-actions",
+        "Twixes",
+        "claude",
+        "pauldambra",
+        "mariusandra"
+      ],
+      "llm_summary": "自主产品开发一站式分析平台"
+    },
+    {
+      "owner": "ibelick",
+      "name": "ui-skills",
+      "full_name": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars": 5041,
+      "forks": 213,
+      "stars_today": 123,
+      "built_by": [
+        "saadeghi",
+        "arifszn",
+        "claude",
+        "fernandezbaptiste"
+      ],
+      "llm_summary": "设计工程师必备技能资源库"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 39117,
+      "forks": 6553,
+      "stars_today": 191,
+      "built_by": [
+        "github-actions",
+        "abhinav-m22",
+        "thereisnotime",
+        "pzy0006"
+      ],
+      "llm_summary": "AI工程从零学习到实践指南"
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "full_name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 20189,
+      "forks": 2125,
+      "stars_today": 355,
+      "built_by": [
+        "gzenz",
+        "michael-denyer",
+        "jaissebastian",
+        "claude"
+      ],
+      "llm_summary": "本地代码智能分析与优化工具"
+    },
+    {
+      "owner": "elder-plinius",
+      "name": "G0DM0D3",
+      "full_name": "elder-plinius/G0DM0D3",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "language": "TypeScript",
+      "stars": 9518,
+      "forks": 2254,
+      "stars_today": 69,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "自由开放的AI对话体验"
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 23341,
+      "forks": 2655,
+      "stars_today": 161,
+      "built_by": [
+        "cursoragent",
+        "eltociear",
+        "claude",
+        "NavodPeiris"
+      ],
+      "llm_summary": "70B大模型低资源高效推理"
+    },
+    {
+      "owner": "KnockOutEZ",
+      "name": "wigolo",
+      "full_name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": 1255,
+      "forks": 84,
+      "stars_today": 203,
+      "built_by": [
+        "YoshiTabletopGamer",
+        "gitcommit90"
+      ],
+      "llm_summary": "本地优先的AI编程助手平台"
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 528297,
+      "forks": 49989,
+      "stars_today": 1126,
+      "built_by": [
+        "bauripalash",
+        "rohitpaulk",
+        "fake-rookie",
+        "sarupbanskota",
+        "danistefanovic"
+      ],
+      "llm_summary": "从零重建技术掌握编程实践"
+    },
+    {
+      "owner": "MoonshotAI",
+      "name": "kimi-cli",
+      "full_name": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": 9503,
+      "forks": 1165,
+      "stars_today": 65,
+      "built_by": [
+        "stdrc",
+        "RealKai42",
+        "dependabot",
+        "n-WN",
+        "xxchan"
+      ],
+      "llm_summary": "智能命令行代码助手"
+    }
+  ]
+}
