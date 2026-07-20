@@ -1,0 +1,355 @@
+{
+  "date": "2026-07-20",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "full_name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars": 6329,
+      "forks": 591,
+      "stars_today": 1734,
+      "built_by": [
+        "TommyHuang2025",
+        "GeeSuth",
+        "devpowerpro",
+        "claude"
+      ],
+      "llm_summary": "AI Agent权威书籍，理论与实践并重"
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "full_name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 21462,
+      "forks": 2195,
+      "stars_today": 663,
+      "built_by": [
+        "jaissebastian",
+        "gzenz",
+        "claude",
+        "michael-denyer"
+      ],
+      "llm_summary": "构建代码智能图谱，提升AI审查效率"
+    },
+    {
+      "owner": "kvcache-ai",
+      "name": "ktransformers",
+      "full_name": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "stars": 18425,
+      "forks": 1455,
+      "stars_today": 360,
+      "built_by": [
+        "qiyuxinlin",
+        "ovowei",
+        "Azure-Tang",
+        "KMSorSMS",
+        "Atream"
+      ],
+      "llm_summary": "异构LLM推理微调优化框架"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 39788,
+      "forks": 6636,
+      "stars_today": 501,
+      "built_by": [
+        "abhinav-m22",
+        "github-actions",
+        "pzy0006",
+        "thereisnotime"
+      ],
+      "llm_summary": "从零开始学习构建AI工程"
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 43458,
+      "forks": 5303,
+      "stars_today": 610,
+      "built_by": [
+        "tomasmach",
+        "selop",
+        "claude",
+        "mvanhorn"
+      ],
+      "llm_summary": "开源AI语音克隆创作工作室"
+    },
+    {
+      "owner": "KnockOutEZ",
+      "name": "wigolo",
+      "full_name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": 1930,
+      "forks": 121,
+      "stars_today": 595,
+      "built_by": [
+        "YoshiTabletopGamer",
+        "gitcommit90"
+      ],
+      "llm_summary": "AI编码代理本地优先搜索工具"
+    },
+    {
+      "owner": "andrewrabert",
+      "name": "jellium-desktop",
+      "full_name": "andrewrabert/jellium-desktop",
+      "url": "https://github.com/andrewrabert/jellium-desktop",
+      "description": "An unofficial desktop client for Jellyfin",
+      "language": "Rust",
+      "stars": 1308,
+      "forks": 110,
+      "stars_today": 43,
+      "built_by": [
+        "gnattu",
+        "rodis120",
+        "renovate",
+        "claude"
+      ],
+      "llm_summary": "Jellyfin非官方桌面客户端"
+    },
+    {
+      "owner": "github",
+      "name": "copilot-sdk",
+      "full_name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": 9976,
+      "forks": 1351,
+      "stars_today": 39,
+      "built_by": [
+        "SteveSandersonMS",
+        "edburns",
+        "Copilot",
+        "stephentoub",
+        "github-actions"
+      ],
+      "llm_summary": "GitHub Copilot多平台集成SDK"
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 36970,
+      "forks": 3055,
+      "stars_today": 411,
+      "built_by": [
+        "Twixes",
+        "mariusandra",
+        "claude",
+        "pauldambra",
+        "github-actions"
+      ],
+      "llm_summary": "自主产品构建与AI可观测性平台"
+    },
+    {
+      "owner": "microsoft",
+      "name": "terminal",
+      "full_name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars": 104205,
+      "forks": 9440,
+      "stars_today": 59,
+      "built_by": [
+        "DHowett",
+        "carlos-zamora",
+        "miniksa",
+        "lhecker",
+        "zadjii-msft"
+      ],
+      "llm_summary": "Windows终端与控制台一体化工具"
+    },
+    {
+      "owner": "AstrBotDevs",
+      "name": "AstrBot",
+      "full_name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars": 36733,
+      "forks": 2547,
+      "stars_today": 83,
+      "built_by": [
+        "zouyonghe",
+        "Raven95676",
+        "RC-CHN",
+        "LIghtJUNction",
+        "Soulter"
+      ],
+      "llm_summary": "多平台集成AI代理助手框架"
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 8963,
+      "forks": 1040,
+      "stars_today": 235,
+      "built_by": [
+        "AlazBatu",
+        "claude",
+        "hongnoul",
+        "FabianAmherd"
+      ],
+      "llm_summary": "高效编码代理工具"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 20256,
+      "forks": 1342,
+      "stars_today": 64,
+      "built_by": [
+        "f-trycua",
+        "claude",
+        "jamesmurdza",
+        "ddupont808",
+        "github-actions"
+      ],
+      "llm_summary": "开源计算机使用扩展与评估平台"
+    },
+    {
+      "owner": "MoonshotAI",
+      "name": "kimi-cli",
+      "full_name": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": 9929,
+      "forks": 1196,
+      "stars_today": 410,
+      "built_by": [
+        "xxchan",
+        "dependabot",
+        "RealKai42",
+        "stdrc",
+        "n-WN"
+      ],
+      "llm_summary": "Kimi代码CLI智能代理工具"
+    },
+    {
+      "owner": "Flowseal",
+      "name": "zapret-discord-youtube",
+      "full_name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 31040,
+      "forks": 2375,
+      "stars_today": 106,
+      "built_by": [
+        "amozebus",
+        "V3nilla",
+        "ekungurov",
+        "fridorin"
+      ],
+      "llm_summary": "Discord与YouTube访问工具"
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 528992,
+      "forks": 50046,
+      "stars_today": 754,
+      "built_by": [
+        "bauripalash",
+        "rohitpaulk",
+        "fake-rookie",
+        "danistefanovic",
+        "sarupbanskota"
+      ],
+      "llm_summary": "从零重建技术掌握编程"
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 23672,
+      "forks": 2682,
+      "stars_today": 358,
+      "built_by": [
+        "eltociear",
+        "claude",
+        "cursoragent",
+        "NavodPeiris"
+      ],
+      "llm_summary": "70B大模型单GPU推理方案"
+    },
+    {
+      "owner": "Canner",
+      "name": "WrenAI",
+      "full_name": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "language": "Python",
+      "stars": 16249,
+      "forks": 1843,
+      "stars_today": 121,
+      "built_by": [
+        "cyyeh",
+        "goldmedal",
+        "andreashimin",
+        "wwwy3y3",
+        "onlyjackfrost"
+      ],
+      "llm_summary": "AI代理生成BI文本转SQL工具"
+    },
+    {
+      "owner": "PKUFlyingPig",
+      "name": "cs-self-learning",
+      "full_name": "PKUFlyingPig/cs-self-learning",
+      "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+      "description": "计算机自学指南",
+      "language": "HTML",
+      "stars": 74226,
+      "forks": 7942,
+      "stars_today": 134,
+      "built_by": [
+        "smxm",
+        "BarbarossaWang",
+        "liudeyuan2021",
+        "taylover2016"
+      ],
+      "llm_summary": "计算机专业自学指南"
+    }
+  ]
+}
