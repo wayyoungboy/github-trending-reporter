@@ -1,0 +1,369 @@
+{
+  "date": "2026-07-22",
+  "total_repos": 21,
+  "repositories": [
+    {
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "full_name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 65592,
+      "forks": 10207,
+      "stars_today": 1295,
+      "built_by": [
+        "SebastienMelki",
+        "claude",
+        "lspassos1",
+        "NewCoder3294"
+      ]
+    },
+    {
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "full_name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars": 14729,
+      "forks": 1379,
+      "stars_today": 4624,
+      "built_by": [
+        "santhreal",
+        "WeZZard",
+        "claude",
+        "phaethix"
+      ]
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "full_name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 24593,
+      "forks": 2355,
+      "stars_today": 1925,
+      "built_by": [
+        "gzenz",
+        "jaissebastian",
+        "claude",
+        "michael-denyer"
+      ]
+    },
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "Unknown",
+      "stars": 6916,
+      "forks": 286,
+      "stars_today": 1866,
+      "built_by": [
+        "isatimur",
+        "seonghobae",
+        "DeJayDev",
+        "ojusave"
+      ]
+    },
+    {
+      "owner": "earthtojake",
+      "name": "text-to-cad",
+      "full_name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": 9163,
+      "forks": 1026,
+      "stars_today": 291,
+      "built_by": [
+        "arronzhang",
+        "vasco3",
+        "claude",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "stars": 10341,
+      "forks": 1137,
+      "stars_today": 843,
+      "built_by": [
+        "AlazBatu",
+        "FabianAmherd",
+        "claude",
+        "hongnoul"
+      ]
+    },
+    {
+      "owner": "oblien",
+      "name": "openship",
+      "full_name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars": 6262,
+      "forks": 452,
+      "stars_today": 1562,
+      "built_by": [
+        "Hydralerne",
+        "inoguerols",
+        "claude",
+        "rizwannur",
+        "Rajioba1"
+      ]
+    },
+    {
+      "owner": "AstrBotDevs",
+      "name": "AstrBot",
+      "full_name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars": 37484,
+      "forks": 2613,
+      "stars_today": 416,
+      "built_by": [
+        "Raven95676",
+        "LIghtJUNction",
+        "Soulter",
+        "zouyonghe",
+        "RC-CHN"
+      ]
+    },
+    {
+      "owner": "every-app",
+      "name": "open-seo",
+      "full_name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": 6621,
+      "forks": 713,
+      "stars_today": 849,
+      "built_by": [
+        "mattmacrocket",
+        "mvanhorn",
+        "bensenescu",
+        "claude",
+        "bookingseo"
+      ]
+    },
+    {
+      "owner": "tradesdontlie",
+      "name": "tradingview-mcp",
+      "full_name": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars": 4851,
+      "forks": 2176,
+      "stars_today": 114,
+      "built_by": [
+        "jawadtazi-dot",
+        "wowkin2",
+        "claude",
+        "xxhanselxx-sudo"
+      ]
+    },
+    {
+      "owner": "AlexsJones",
+      "name": "llmfit",
+      "full_name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars": 30216,
+      "forks": 1844,
+      "stars_today": 129,
+      "built_by": [
+        "dependabot",
+        "three-foxes-in-a-trenchcoat",
+        "claude",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "hyprwm",
+      "name": "Hyprland",
+      "full_name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": 37050,
+      "forks": 1861,
+      "stars_today": 58,
+      "built_by": [
+        "fufexan",
+        "vaxerski",
+        "MightyPlaza",
+        "gulafaran",
+        "UjinT34"
+      ]
+    },
+    {
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "full_name": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 69977,
+      "forks": 7841,
+      "stars_today": 1235,
+      "built_by": [
+        "dwiyatci",
+        "oldmud0",
+        "wopian",
+        "proudindiv"
+      ]
+    },
+    {
+      "owner": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": 37672,
+      "forks": 1775,
+      "stars_today": 271,
+      "built_by": [
+        "ealmloff",
+        "DogeDark",
+        "jkelleyrtp",
+        "rMazeiks",
+        "mrxiaozhuox"
+      ]
+    },
+    {
+      "owner": "langchain-ai",
+      "name": "open_deep_research",
+      "full_name": "langchain-ai/open_deep_research",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "description": "",
+      "language": "Python",
+      "stars": 12245,
+      "forks": 1743,
+      "stars_today": 23,
+      "built_by": [
+        "moritalous",
+        "rlancemartin",
+        "nhuang-lc",
+        "synergiator",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": 23658,
+      "forks": 3160,
+      "stars_today": 2034,
+      "built_by": [
+        "rdself",
+        "dependabot",
+        "oyi77",
+        "claude"
+      ]
+    },
+    {
+      "owner": "agegr",
+      "name": "pi-web",
+      "full_name": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": 1741,
+      "forks": 279,
+      "stars_today": 298,
+      "built_by": [
+        "fallleave",
+        "lifu963",
+        "Kabochar",
+        "zhudatou630"
+      ]
+    },
+    {
+      "owner": "schollz",
+      "name": "croc",
+      "full_name": "schollz/croc",
+      "url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars": 36822,
+      "forks": 1461,
+      "stars_today": 361,
+      "built_by": [
+        "dependabot",
+        "jolheiser",
+        "stefins",
+        "TheQueasle"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "Ontology-Playground",
+      "full_name": "microsoft/Ontology-Playground",
+      "url": "https://github.com/microsoft/Ontology-Playground",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "language": "TypeScript",
+      "stars": 2016,
+      "forks": 246,
+      "stars_today": 355,
+      "built_by": [
+        "RaviChanduEdru",
+        "vaibhavius",
+        "videlalvaro",
+        "dependabot",
+        "bbreugel"
+      ]
+    },
+    {
+      "owner": "dottxt-ai",
+      "name": "outlines",
+      "full_name": "dottxt-ai/outlines",
+      "url": "https://github.com/dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "language": "Python",
+      "stars": 14854,
+      "forks": 800,
+      "stars_today": 65,
+      "built_by": [
+        "rlouf",
+        "RobinPicard",
+        "lapp0",
+        "brandonwillard",
+        "just-cameron"
+      ]
+    },
+    {
+      "owner": "KnockOutEZ",
+      "name": "wigolo",
+      "full_name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": 3163,
+      "forks": 191,
+      "stars_today": 642,
+      "built_by": [
+        "gitcommit90",
+        "YoshiTabletopGamer"
+      ]
+    }
+  ]
+}
