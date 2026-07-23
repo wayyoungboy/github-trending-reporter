@@ -1,0 +1,355 @@
+{
+  "date": "2026-07-23",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "full_name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 69098,
+      "forks": 10551,
+      "stars_today": 4139,
+      "built_by": [
+        "SebastienMelki",
+        "lspassos1",
+        "NewCoder3294",
+        "claude"
+      ],
+      "llm_summary": "AI驱动的全球实时情报监控平台"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 83877,
+      "forks": 11240,
+      "stars_today": 741,
+      "built_by": [
+        "fr4iser90",
+        "dependabot",
+        "github-actions",
+        "claude"
+      ],
+      "llm_summary": "WiFi信号实时空间智能与生命监测"
+    },
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 8340,
+      "forks": 382,
+      "stars_today": 1699,
+      "built_by": [
+        "isatimur",
+        "jabrahamtech",
+        "thejesh23",
+        "claude"
+      ],
+      "llm_summary": "ADHD友好型编程助手输出优化"
+    },
+    {
+      "owner": "schollz",
+      "name": "croc",
+      "full_name": "schollz/croc",
+      "url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars": 37640,
+      "forks": 1488,
+      "stars_today": 739,
+      "built_by": [
+        "jolheiser",
+        "dependabot",
+        "stefins",
+        "TheQueasle"
+      ],
+      "llm_summary": "简单安全的跨设备文件传输工具"
+    },
+    {
+      "owner": "likec4",
+      "name": "likec4",
+      "full_name": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": 4298,
+      "forks": 303,
+      "stars_today": 80,
+      "built_by": [
+        "pavelpykhtin",
+        "davydkov",
+        "sraphaz",
+        "renovate",
+        "cursoragent"
+      ],
+      "llm_summary": "代码驱动的实时软件架构可视化"
+    },
+    {
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "full_name": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 70634,
+      "forks": 7884,
+      "stars_today": 768,
+      "built_by": [
+        "proudindiv",
+        "oldmud0",
+        "wopian",
+        "dwiyatci"
+      ],
+      "llm_summary": "阿波罗11号制导计算机原始源代码"
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 45803,
+      "forks": 5588,
+      "stars_today": 557,
+      "built_by": [
+        "selop",
+        "mvanhorn",
+        "tomasmach",
+        "claude"
+      ],
+      "llm_summary": "开源AI语音克隆与创作平台"
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": 25385,
+      "forks": 3363,
+      "stars_today": 1651,
+      "built_by": [
+        "oyi77",
+        "dependabot",
+        "rdself",
+        "claude"
+      ],
+      "llm_summary": "统一AI网关，连接500+模型与工具"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 32620,
+      "forks": 5601,
+      "stars_today": 137,
+      "built_by": [
+        "AnMakc",
+        "CharlesJ-ABu",
+        "Luciferbobo",
+        "randyy179"
+      ],
+      "llm_summary": "金融市场语言基础模型"
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 68810,
+      "forks": 7807,
+      "stars_today": 163,
+      "built_by": [
+        "sanjay3290",
+        "mellson",
+        "Prat011",
+        "sohamganatra",
+        "claude"
+      ],
+      "llm_summary": "Claude AI工作流定制技能精选"
+    },
+    {
+      "owner": "oblien",
+      "name": "openship",
+      "full_name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars": 7332,
+      "forks": 541,
+      "stars_today": 1302,
+      "built_by": [
+        "Rajioba1",
+        "shuvamk",
+        "claude",
+        "Hydralerne",
+        "santhiprakash"
+      ],
+      "llm_summary": "自托管应用部署一体化平台"
+    },
+    {
+      "owner": "agegr",
+      "name": "pi-web",
+      "full_name": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": 2090,
+      "forks": 310,
+      "stars_today": 314,
+      "built_by": [
+        "lifu963",
+        "zhudatou630",
+        "Kabochar",
+        "fallleave"
+      ],
+      "llm_summary": "pi编码代理的Web可视化界面"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 42286,
+      "forks": 7044,
+      "stars_today": 652,
+      "built_by": [
+        "abhinav-m22",
+        "pzy0006",
+        "github-actions",
+        "thereisnotime"
+      ],
+      "llm_summary": "从零开始的AI工程实践指南"
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "full_name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 25344,
+      "forks": 2393,
+      "stars_today": 882,
+      "built_by": [
+        "michael-denyer",
+        "gzenz",
+        "jaissebastian",
+        "claude"
+      ],
+      "llm_summary": "代码智能图谱，优化AI上下文理解"
+    },
+    {
+      "owner": "dreamhunter2333",
+      "name": "cloudflare_temp_email",
+      "full_name": "dreamhunter2333/cloudflare_temp_email",
+      "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+      "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "language": "TypeScript",
+      "stars": 10814,
+      "forks": 7295,
+      "stars_today": 68,
+      "built_by": [
+        "solarhell",
+        "dependabot",
+        "Bowl42",
+        "claude"
+      ],
+      "llm_summary": "CloudFlare免费临时邮箱服务"
+    },
+    {
+      "owner": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": 38028,
+      "forks": 1786,
+      "stars_today": 420,
+      "built_by": [
+        "rMazeiks",
+        "DogeDark",
+        "mrxiaozhuox",
+        "jkelleyrtp",
+        "ealmloff"
+      ],
+      "llm_summary": "跨平台全栈应用开发框架"
+    },
+    {
+      "owner": "hyprwm",
+      "name": "Hyprland",
+      "full_name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": 37301,
+      "forks": 1871,
+      "stars_today": 356,
+      "built_by": [
+        "fufexan",
+        "gulafaran",
+        "UjinT34",
+        "MightyPlaza",
+        "vaxerski"
+      ],
+      "llm_summary": "高度可定制的美观Wayland合成器"
+    },
+    {
+      "owner": "Pumpkin-MC",
+      "name": "Pumpkin",
+      "full_name": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 8441,
+      "forks": 591,
+      "stars_today": 108,
+      "built_by": [
+        "Bryntet",
+        "Snowiiii",
+        "Purdze",
+        "lukas0008",
+        "kralverde"
+      ],
+      "llm_summary": "高效Minecraft服务器托管平台"
+    },
+    {
+      "owner": "dottxt-ai",
+      "name": "outlines",
+      "full_name": "dottxt-ai/outlines",
+      "url": "https://github.com/dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "language": "Python",
+      "stars": 15111,
+      "forks": 802,
+      "stars_today": 364,
+      "built_by": [
+        "lapp0",
+        "RobinPicard",
+        "rlouf",
+        "just-cameron",
+        "brandonwillard"
+      ],
+      "llm_summary": "AI模型结构化输出工具"
+    }
+  ]
+}
