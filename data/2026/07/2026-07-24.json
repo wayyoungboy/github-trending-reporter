@@ -1,0 +1,269 @@
+{
+  "date": "2026-07-24",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "block",
+      "name": "buzz",
+      "full_name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 7028,
+      "forks": 562,
+      "stars_today": 2162,
+      "built_by": [
+        "klopez4212",
+        "wpfleger96",
+        "wesbillman",
+        "tlongwell-block",
+        "claude"
+      ]
+    },
+    {
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "full_name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 71697,
+      "forks": 10805,
+      "stars_today": 3175,
+      "built_by": [
+        "lspassos1",
+        "SebastienMelki",
+        "NewCoder3294",
+        "claude"
+      ]
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 33088,
+      "forks": 5651,
+      "stars_today": 401,
+      "built_by": [
+        "AnMakc",
+        "randyy179",
+        "CharlesJ-ABu",
+        "Luciferbobo"
+      ]
+    },
+    {
+      "owner": "Pumpkin-MC",
+      "name": "Pumpkin",
+      "full_name": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 8946,
+      "forks": 615,
+      "stars_today": 565,
+      "built_by": [
+        "Bryntet",
+        "Purdze",
+        "kralverde",
+        "lukas0008",
+        "Snowiiii"
+      ]
+    },
+    {
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "full_name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "language": "JavaScript",
+      "stars": 1700,
+      "forks": 93,
+      "stars_today": 247,
+      "built_by": [
+        "section9-lab",
+        "aute",
+        "WUXM5",
+        "braxtonROSE4",
+        "claude"
+      ]
+    },
+    {
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "full_name": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 71126,
+      "forks": 7919,
+      "stars_today": 592,
+      "built_by": [
+        "dwiyatci",
+        "oldmud0",
+        "wopian",
+        "proudindiv"
+      ]
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": 27279,
+      "forks": 3577,
+      "stars_today": 1929,
+      "built_by": [
+        "dependabot",
+        "rdself",
+        "claude",
+        "oyi77"
+      ]
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 69462,
+      "forks": 7856,
+      "stars_today": 636,
+      "built_by": [
+        "Prat011",
+        "mellson",
+        "sanjay3290",
+        "sohamganatra",
+        "claude"
+      ]
+    },
+    {
+      "owner": "earthtojake",
+      "name": "text-to-cad",
+      "full_name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": 10020,
+      "forks": 1099,
+      "stars_today": 230,
+      "built_by": [
+        "vasco3",
+        "github-actions",
+        "claude",
+        "arronzhang"
+      ]
+    },
+    {
+      "owner": "agegr",
+      "name": "pi-web",
+      "full_name": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": 2383,
+      "forks": 327,
+      "stars_today": 315,
+      "built_by": [
+        "lifu963",
+        "Kabochar",
+        "fallleave",
+        "zhudatou630"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 11595,
+      "forks": 797,
+      "stars_today": 180,
+      "built_by": [
+        "chethanuk",
+        "stay-foolish-forever",
+        "claude",
+        "lizhengfeng101",
+        "MuoDoo"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 85242,
+      "forks": 11375,
+      "stars_today": 1708,
+      "built_by": [
+        "github-actions",
+        "fr4iser90",
+        "claude",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "likec4",
+      "name": "likec4",
+      "full_name": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": 4710,
+      "forks": 319,
+      "stars_today": 472,
+      "built_by": [
+        "sraphaz",
+        "davydkov",
+        "cursoragent",
+        "pavelpykhtin",
+        "renovate"
+      ]
+    },
+    {
+      "owner": "Automattic",
+      "name": "harper",
+      "full_name": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": 12354,
+      "forks": 458,
+      "stars_today": 624,
+      "built_by": [
+        "grantlemons",
+        "elijah-potter",
+        "dependabot",
+        "hippietrail",
+        "mcecode"
+      ]
+    },
+    {
+      "owner": "jellyfin",
+      "name": "jellyfin",
+      "full_name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": 54747,
+      "forks": 5165,
+      "stars_today": 66,
+      "built_by": [
+        "Bond-009",
+        "crobibero",
+        "cvium",
+        "joshuaboniface",
+        "LukePulverenti"
+      ]
+    }
+  ]
+}
