@@ -1,0 +1,301 @@
+{
+  "date": "2026-07-25",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "block",
+      "name": "buzz",
+      "full_name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 10052,
+      "forks": 782,
+      "stars_today": 3270,
+      "built_by": [
+        "wesbillman",
+        "klopez4212",
+        "claude",
+        "tlongwell-block",
+        "wpfleger96"
+      ],
+      "llm_summary": "群体思维通信协作平台"
+    },
+    {
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "full_name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 73315,
+      "forks": 10994,
+      "stars_today": 2184,
+      "built_by": [
+        "NewCoder3294",
+        "claude",
+        "SebastienMelki",
+        "lspassos1"
+      ],
+      "llm_summary": "AI驱动的全球实时情报监控平台"
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 70081,
+      "forks": 7905,
+      "stars_today": 663,
+      "built_by": [
+        "mellson",
+        "sanjay3290",
+        "claude",
+        "Prat011",
+        "sohamganatra"
+      ],
+      "llm_summary": "Claude AI工作流定制技能精选集"
+    },
+    {
+      "owner": "Pumpkin-MC",
+      "name": "Pumpkin",
+      "full_name": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 9350,
+      "forks": 633,
+      "stars_today": 473,
+      "built_by": [
+        "lukas0008",
+        "Purdze",
+        "Snowiiii",
+        "kralverde",
+        "Bryntet"
+      ],
+      "llm_summary": "高效快速Minecraft服务器托管方案"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 33500,
+      "forks": 5680,
+      "stars_today": 499,
+      "built_by": [
+        "randyy179",
+        "CharlesJ-ABu",
+        "AnMakc",
+        "Luciferbobo"
+      ],
+      "llm_summary": "Kronos金融市场语言基础模型"
+    },
+    {
+      "owner": "Automattic",
+      "name": "harper",
+      "full_name": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": 13055,
+      "forks": 482,
+      "stars_today": 876,
+      "built_by": [
+        "grantlemons",
+        "hippietrail",
+        "elijah-potter",
+        "dependabot",
+        "mcecode"
+      ],
+      "llm_summary": "离线隐私优先的语法检查工具"
+    },
+    {
+      "owner": "likec4",
+      "name": "likec4",
+      "full_name": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": 5033,
+      "forks": 334,
+      "stars_today": 337,
+      "built_by": [
+        "renovate",
+        "sraphaz",
+        "cursoragent",
+        "pavelpykhtin",
+        "davydkov"
+      ],
+      "llm_summary": "代码驱动的软件架构可视化协作"
+    },
+    {
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "full_name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": 2607,
+      "forks": 123,
+      "stars_today": 880,
+      "built_by": [
+        "section9-lab",
+        "braxtonROSE4",
+        "aute",
+        "claude",
+        "WUXM5"
+      ],
+      "llm_summary": "AI代理网页自动化快速浏览器"
+    },
+    {
+      "owner": "yorukot",
+      "name": "superfile",
+      "full_name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": 19601,
+      "forks": 598,
+      "stars_today": 338,
+      "built_by": [
+        "lazysegtree",
+        "renovate",
+        "nonepork",
+        "AnshumanNeon"
+      ],
+      "llm_summary": "精美现代的终端文件管理工具"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 85962,
+      "forks": 11449,
+      "stars_today": 1022,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "fr4iser90",
+        "dependabot"
+      ],
+      "llm_summary": "WiFi信号实时空间智能与生命监测"
+    },
+    {
+      "owner": "CoreBunch",
+      "name": "Instatic",
+      "full_name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "stars": 4303,
+      "forks": 410,
+      "stars_today": 201,
+      "built_by": [
+        "RemiAsselin42",
+        "mvanhorn",
+        "claude",
+        "DavidBabinec",
+        "hrq-chiuchi"
+      ],
+      "llm_summary": "Webflow等开源替代自托管视觉CMS"
+    },
+    {
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "full_name": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 71411,
+      "forks": 7932,
+      "stars_today": 409,
+      "built_by": [
+        "proudindiv",
+        "wopian",
+        "dwiyatci",
+        "oldmud0"
+      ],
+      "llm_summary": "阿波罗11号指导计算机原始源码"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 186800,
+      "forks": 16029,
+      "stars_today": 2251,
+      "built_by": [
+        "gabimoncha",
+        "claude",
+        "github-actions"
+      ],
+      "llm_summary": "工程师实用技能与开发工具集"
+    },
+    {
+      "owner": "Lordog",
+      "name": "dive-into-llms",
+      "full_name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": 45017,
+      "forks": 5387,
+      "stars_today": 328,
+      "built_by": [
+        "zwhe99",
+        "dongdongzhaoUP",
+        "scofield7419",
+        "cooelf"
+      ],
+      "llm_summary": "大模型编程实践与动手教程"
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": 28881,
+      "forks": 3784,
+      "stars_today": 1841,
+      "built_by": [
+        "claude",
+        "oyi77",
+        "dependabot",
+        "rdself"
+      ],
+      "llm_summary": "免费AI网关连接290+提供商模型"
+    },
+    {
+      "owner": "OtterMind",
+      "name": "Chat2DB",
+      "full_name": "OtterMind/Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "stars": 26341,
+      "forks": 2880,
+      "stars_today": 82,
+      "built_by": [
+        "Chat2DB-Pro",
+        "robinji0",
+        "shanhexi",
+        "JerryFan626",
+        "chat2db-jerry"
+      ],
+      "llm_summary": "AI驱动的热门数据库SQL客户端工具"
+    }
+  ]
+}
