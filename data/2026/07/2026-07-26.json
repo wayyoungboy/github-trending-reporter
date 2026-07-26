@@ -1,0 +1,341 @@
+{
+  "date": "2026-07-26",
+  "total_repos": 18,
+  "repositories": [
+    {
+      "owner": "block",
+      "name": "buzz",
+      "full_name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 11984,
+      "forks": 958,
+      "stars_today": 2491,
+      "built_by": [
+        "wesbillman",
+        "wpfleger96",
+        "claude",
+        "klopez4212",
+        "tlongwell-block"
+      ],
+      "llm_summary": "蜂群思维通信协作平台"
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 12995,
+      "forks": 888,
+      "stars_today": 431,
+      "built_by": [
+        "stay-foolish-forever",
+        "lizhengfeng101",
+        "claude",
+        "chethanuk",
+        "MuoDoo"
+      ],
+      "llm_summary": "阿里级混合架构AI代码审查工具"
+    },
+    {
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "full_name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": 3619,
+      "forks": 176,
+      "stars_today": 986,
+      "built_by": [
+        "WUXM5",
+        "braxtonROSE4",
+        "aute",
+        "claude",
+        "section9-lab"
+      ],
+      "llm_summary": "AI代理快速浏览器，零成本共享登录状态"
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 70600,
+      "forks": 7942,
+      "stars_today": 577,
+      "built_by": [
+        "sanjay3290",
+        "sohamganatra",
+        "mellson",
+        "Prat011",
+        "claude"
+      ],
+      "llm_summary": "Claude AI工作流定制技能资源库"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-cookbooks",
+      "full_name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 49904,
+      "forks": 5898,
+      "stars_today": 132,
+      "built_by": [
+        "alexalbertt",
+        "zealoushacker",
+        "PedramNavid",
+        "claude",
+        "saflamini"
+      ],
+      "llm_summary": "Claude使用技巧与实用方法集"
+    },
+    {
+      "owner": "Automattic",
+      "name": "harper",
+      "full_name": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": 13432,
+      "forks": 512,
+      "stars_today": 503,
+      "built_by": [
+        "grantlemons",
+        "dependabot",
+        "elijah-potter",
+        "hippietrail",
+        "mcecode"
+      ],
+      "llm_summary": "离线隐私优先的快速语法检查器"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 33810,
+      "forks": 5706,
+      "stars_today": 319,
+      "built_by": [
+        "Luciferbobo",
+        "randyy179",
+        "CharlesJ-ABu",
+        "AnMakc"
+      ],
+      "llm_summary": "金融市场语言基础模型"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 261118,
+      "forks": 23301,
+      "stars_today": 479,
+      "built_by": [
+        "arittr",
+        "clkao",
+        "jjshanks",
+        "claude"
+      ],
+      "llm_summary": "有效智能技能框架与开发方法"
+    },
+    {
+      "owner": "Pumpkin-MC",
+      "name": "Pumpkin",
+      "full_name": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 9720,
+      "forks": 656,
+      "stars_today": 358,
+      "built_by": [
+        "Snowiiii",
+        "kralverde",
+        "lukas0008",
+        "Bryntet",
+        "Purdze"
+      ],
+      "llm_summary": "高效快速Minecraft服务器托管"
+    },
+    {
+      "owner": "permissionlesstech",
+      "name": "bitchat",
+      "full_name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars": 28746,
+      "forks": 4302,
+      "stars_today": 1720,
+      "built_by": [
+        "qalandarov",
+        "jackjackbits",
+        "callebtc",
+        "actions-user",
+        "claude"
+      ],
+      "llm_summary": "蓝牙网格聊天，IRC风格体验"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 188306,
+      "forks": 16181,
+      "stars_today": 1740,
+      "built_by": [
+        "github-actions",
+        "gabimoncha",
+        "claude"
+      ],
+      "llm_summary": "工程师实用技能集合"
+    },
+    {
+      "owner": "palmier-io",
+      "name": "palmier-pro",
+      "full_name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars": 12230,
+      "forks": 894,
+      "stars_today": 412,
+      "built_by": [
+        "cursoragent",
+        "mricopeng",
+        "claude",
+        "Ti-03",
+        "htin1"
+      ],
+      "llm_summary": "AI专用macOS视频编辑器"
+    },
+    {
+      "owner": "CoreBunch",
+      "name": "Instatic",
+      "full_name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "stars": 5106,
+      "forks": 481,
+      "stars_today": 426,
+      "built_by": [
+        "mvanhorn",
+        "hrq-chiuchi",
+        "claude",
+        "DavidBabinec",
+        "RemiAsselin42"
+      ],
+      "llm_summary": "开源替代Webflow的静态视觉CMS"
+    },
+    {
+      "owner": "Lordog",
+      "name": "dive-into-llms",
+      "full_name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": 45366,
+      "forks": 5420,
+      "stars_today": 408,
+      "built_by": [
+        "cooelf",
+        "zwhe99",
+        "scofield7419",
+        "dongdongzhaoUP"
+      ],
+      "llm_summary": "大模型编程实践教程"
+    },
+    {
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "full_name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": 14297,
+      "forks": 1269,
+      "stars_today": 86,
+      "built_by": [
+        "faysou",
+        "Pringled",
+        "nicolas-geysse",
+        "claude"
+      ],
+      "llm_summary": "基于TurboQuant的向量索引"
+    },
+    {
+      "owner": "OtterMind",
+      "name": "Chat2DB",
+      "full_name": "OtterMind/Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "stars": 26688,
+      "forks": 2909,
+      "stars_today": 360,
+      "built_by": [
+        "Chat2DB-Pro",
+        "JerryFan626",
+        "shanhexi",
+        "chat2db-jerry",
+        "robinji0"
+      ],
+      "llm_summary": "AI驱动多数据库SQL客户端"
+    },
+    {
+      "owner": "andrewyng",
+      "name": "aisuite",
+      "full_name": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars": 15231,
+      "forks": 1614,
+      "stars_today": 77,
+      "built_by": [
+        "drp8226",
+        "rohitprasad15",
+        "ksolo",
+        "tavinashb",
+        "standsleeping"
+      ],
+      "llm_summary": "统一多生成式AI提供商接口"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 233325,
+      "forks": 35574,
+      "stars_today": 377,
+      "built_by": [
+        "greptile-apps",
+        "pangerlkr",
+        "dependabot",
+        "claude"
+      ],
+      "llm_summary": "AI代理性能优化系统"
+    }
+  ]
+}
