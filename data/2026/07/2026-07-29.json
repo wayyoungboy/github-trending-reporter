@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-29",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 18754,
+      "forks": 2528,
+      "stars_today": 341,
+      "built_by": [
+        "wass08",
+        "open-pascal",
+        "sudhir9297",
+        "claude",
+        "Aymericr"
+      ],
+      "llm_summary": "创建分享3D建筑项目协作平台"
+    },
+    {
+      "owner": "jenkinsci",
+      "name": "jenkins",
+      "full_name": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars": 26080,
+      "forks": 9687,
+      "stars_today": 180,
+      "built_by": [
+        "renovate",
+        "jglick",
+        "kohsuke",
+        "oleg-nenashev",
+        "daniel-beck"
+      ],
+      "llm_summary": "开源持续集成自动化服务器"
+    },
+    {
+      "owner": "moeru-ai",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 44792,
+      "forks": 4451,
+      "stars_today": 797,
+      "built_by": [
+        "github-actions",
+        "nekomeowww",
+        "sumimakito",
+        "luoling8192",
+        "shinohara-rin"
+      ],
+      "llm_summary": "自托管AI伴侣支持实时语音游戏"
+    },
+    {
+      "owner": "andrewyng",
+      "name": "aisuite",
+      "full_name": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars": 15696,
+      "forks": 1657,
+      "stars_today": 62,
+      "built_by": [
+        "drp8226",
+        "tavinashb",
+        "rohitprasad15",
+        "standsleeping",
+        "ksolo"
+      ],
+      "llm_summary": "统一多AI生成接口简化调用"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 234841,
+      "forks": 35785,
+      "stars_today": 636,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "greptile-apps",
+        "pangerlkr"
+      ],
+      "llm_summary": "AI代理性能优化与技能系统"
+    },
+    {
+      "owner": "hello245m",
+      "name": "free-stockdb",
+      "full_name": "hello245m/free-stockdb",
+      "url": "https://github.com/hello245m/free-stockdb",
+      "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+      "language": "HTML",
+      "stars": 1311,
+      "forks": 213,
+      "stars_today": 50,
+      "built_by": [
+        "cursoragent",
+        "AudreyEthan"
+      ],
+      "llm_summary": "A股本地量化数据与回测引擎"
+    },
+    {
+      "owner": "huggingface",
+      "name": "speech-to-speech",
+      "full_name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars": 7285,
+      "forks": 957,
+      "stars_today": 227,
+      "built_by": [
+        "A-Mahla",
+        "eustlb",
+        "claude",
+        "ylacombe",
+        "andimarafioti"
+      ],
+      "llm_summary": "构建本地开源语音交互代理"
+    },
+    {
+      "owner": "virgiliojr94",
+      "name": "book-to-skill",
+      "full_name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 11460,
+      "forks": 1344,
+      "stars_today": 423,
+      "built_by": [
+        "claude",
+        "dex0shubham",
+        "Marcelluxx",
+        "Copilot"
+      ],
+      "llm_summary": "技术书PDF转Claude工作技能"
+    },
+    {
+      "owner": "opengeos",
+      "name": "GeoLibre",
+      "full_name": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars": 3424,
+      "forks": 392,
+      "stars_today": 607,
+      "built_by": [
+        "github-actions",
+        "dependabot",
+        "giswqs",
+        "pre-commit-ci",
+        "amir-rezaei"
+      ],
+      "llm_summary": "轻量级云原生地理数据平台"
+    },
+    {
+      "owner": "paperswithbacktest",
+      "name": "awesome-systematic-trading",
+      "full_name": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars": 9644,
+      "forks": 1297,
+      "stars_today": 309,
+      "built_by": [
+        "ss18",
+        "leftys",
+        "iamjinlei",
+        "jamesmunro",
+        "edarchimbaud"
+      ],
+      "llm_summary": "系统化交易精选资源与策略"
+    },
+    {
+      "owner": "microsoft",
+      "name": "agent-governance-toolkit",
+      "full_name": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "language": "Python",
+      "stars": 5222,
+      "forks": 834,
+      "stars_today": 46,
+      "built_by": [
+        "Copilot",
+        "dependabot",
+        "imran-siddique",
+        "claude",
+        "finnoybu"
+      ],
+      "llm_summary": "AI代理安全与治理工具包"
+    },
+    {
+      "owner": "yorukot",
+      "name": "superfile",
+      "full_name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": 21499,
+      "forks": 698,
+      "stars_today": 662,
+      "built_by": [
+        "AnshumanNeon",
+        "renovate",
+        "lazysegtree",
+        "nonepork"
+      ],
+      "llm_summary": "现代化美观终端文件管理器"
+    },
+    {
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "full_name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 12127,
+      "forks": 1219,
+      "stars_today": 988,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "赋予Claude视频分析理解能力"
+    }
+  ]
+}
