@@ -1,0 +1,322 @@
+{
+  "date": "2026-07-30",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "opengeos",
+      "name": "GeoLibre",
+      "full_name": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars": 4065,
+      "forks": 434,
+      "stars_today": 671,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "pre-commit-ci",
+        "dependabot",
+        "giswqs"
+      ],
+      "llm_summary": "轻量云原生GIS平台，多端地理数据分析"
+    },
+    {
+      "owner": "moeru-ai",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 45398,
+      "forks": 4488,
+      "stars_today": 682,
+      "built_by": [
+        "shinohara-rin",
+        "luoling8192",
+        "github-actions",
+        "nekomeowww",
+        "sumimakito"
+      ],
+      "llm_summary": "自托管AI伴侣，支持实时语音与游戏"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 235595,
+      "forks": 35879,
+      "stars_today": 857,
+      "built_by": [
+        "pangerlkr",
+        "claude",
+        "dependabot",
+        "greptile-apps"
+      ],
+      "llm_summary": "AI代理性能优化系统，提升开发效率"
+    },
+    {
+      "owner": "huggingface",
+      "name": "speech-to-speech",
+      "full_name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars": 7884,
+      "forks": 1001,
+      "stars_today": 827,
+      "built_by": [
+        "claude",
+        "eustlb",
+        "andimarafioti",
+        "ylacombe",
+        "A-Mahla"
+      ],
+      "llm_summary": "开源模型构建本地语音助手"
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "full_name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "language": "Rust",
+      "stars": 13481,
+      "forks": 1478,
+      "stars_today": 640,
+      "built_by": [
+        "claude",
+        "AlazBatu",
+        "hongnoul",
+        "FabianAmherd"
+      ],
+      "llm_summary": "最高内存效率的运行系统"
+    },
+    {
+      "owner": "grokability",
+      "name": "snipe-it",
+      "full_name": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "stars": 14451,
+      "forks": 3903,
+      "stars_today": 164,
+      "built_by": [
+        "Godmartinz",
+        "marcusmoore",
+        "uberbrady",
+        "spencerrlongg",
+        "snipe"
+      ],
+      "llm_summary": "免费开源IT资产管理系统"
+    },
+    {
+      "owner": "deepfakes",
+      "name": "faceswap",
+      "full_name": "deepfakes/faceswap",
+      "url": "https://github.com/deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
+      "language": "Python",
+      "stars": 56301,
+      "forks": 13435,
+      "stars_today": 166,
+      "built_by": [
+        "gdunstone",
+        "kilroythethird",
+        "kvrooman",
+        "Clorr",
+        "torzdf"
+      ],
+      "llm_summary": "全民可用的深度换脸软件"
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 51307,
+      "forks": 5710,
+      "stars_today": 336,
+      "built_by": [
+        "YaoyaoChang",
+        "Copilot",
+        "pengzhiliang",
+        "MSLDCherryPick",
+        "jsoref"
+      ],
+      "llm_summary": "微软开源前沿语音AI技术"
+    },
+    {
+      "owner": "different-ai",
+      "name": "openwork",
+      "full_name": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "stars": 17945,
+      "forks": 1858,
+      "stars_today": 97,
+      "built_by": [
+        "src-opn",
+        "actions-user",
+        "jcllobet",
+        "benjaminshafii",
+        "release-bot"
+      ],
+      "llm_summary": "Claude Cowork开源替代方案"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 263310,
+      "forks": 23512,
+      "stars_today": 616,
+      "built_by": [
+        "clkao",
+        "claude",
+        "arittr",
+        "jjshanks"
+      ],
+      "llm_summary": "智能技能框架与开发方法论"
+    },
+    {
+      "owner": "MoonshotAI",
+      "name": "FlashKDA",
+      "full_name": "MoonshotAI/FlashKDA",
+      "url": "https://github.com/MoonshotAI/FlashKDA",
+      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "language": "Cuda",
+      "stars": 991,
+      "forks": 97,
+      "stars_today": 91,
+      "built_by": [
+        "esp0r",
+        "lyppg",
+        "gau-nernst",
+        "claude"
+      ],
+      "llm_summary": "高性能Kimi Delta注意力内核"
+    },
+    {
+      "owner": "NanmiCoder",
+      "name": "MediaCrawler",
+      "full_name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 59091,
+      "forks": 11676,
+      "stars_today": 154,
+      "built_by": [
+        "2513502304",
+        "gaoxiaobei",
+        "persist-1",
+        "claude"
+      ],
+      "llm_summary": "多平台社交媒体内容爬虫"
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 16024,
+      "forks": 1081,
+      "stars_today": 359,
+      "built_by": [
+        "claude",
+        "chethanuk",
+        "stay-foolish-forever",
+        "lizhengfeng101",
+        "MuoDoo"
+      ],
+      "llm_summary": "阿里巴巴级代码审查工具"
+    },
+    {
+      "owner": "paperswithbacktest",
+      "name": "awesome-systematic-trading",
+      "full_name": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars": 10402,
+      "forks": 1347,
+      "stars_today": 945,
+      "built_by": [
+        "iamjinlei",
+        "leftys",
+        "jamesmunro",
+        "ss18",
+        "edarchimbaud"
+      ],
+      "llm_summary": "系统化交易精选资源库"
+    },
+    {
+      "owner": "maderix",
+      "name": "ANE",
+      "full_name": "maderix/ANE",
+      "url": "https://github.com/maderix/ANE",
+      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "language": "Objective-C",
+      "stars": 7150,
+      "forks": 959,
+      "stars_today": 22,
+      "built_by": [
+        "claude",
+        "guitared",
+        "noreply",
+        "vipuldivyanshu92"
+      ],
+      "llm_summary": "苹果神经引擎神经网络训练工具"
+    },
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 19590,
+      "forks": 2592,
+      "stars_today": 1022,
+      "built_by": [
+        "claude",
+        "Aymericr",
+        "wass08",
+        "sudhir9297",
+        "open-pascal"
+      ],
+      "llm_summary": "3D建筑项目创建与分享工具"
+    },
+    {
+      "owner": "virgiliojr94",
+      "name": "book-to-skill",
+      "full_name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 12790,
+      "forks": 1419,
+      "stars_today": 1421,
+      "built_by": [
+        "Marcelluxx",
+        "claude",
+        "Copilot",
+        "dex0shubham"
+      ],
+      "llm_summary": "技术书籍PDF转AI技能工具"
+    }
+  ]
+}
