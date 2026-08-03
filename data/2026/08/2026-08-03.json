@@ -1,0 +1,281 @@
+{
+  "date": "2026-08-03",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "microsoft",
+      "name": "AI-For-Beginners",
+      "full_name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": 59151,
+      "forks": 11620,
+      "stars_today": 2629,
+      "built_by": [
+        "BethanyJep",
+        "shwars",
+        "jlooper",
+        "skytin1004",
+        "leestott"
+      ],
+      "llm_summary": "12周AI入门课程，零基础学习人工智能"
+    },
+    {
+      "owner": "usekaneo",
+      "name": "kaneo",
+      "full_name": "usekaneo/kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "stars": 6200,
+      "forks": 518,
+      "stars_today": 496,
+      "built_by": [
+        "randoneering",
+        "dependabot",
+        "tinsever",
+        "andrejsshell",
+        "github-actions"
+      ],
+      "llm_summary": "极简开源项目管理，只保留必要功能"
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 25724,
+      "forks": 2888,
+      "stars_today": 819,
+      "built_by": [
+        "NavodPeiris",
+        "eltociear",
+        "claude",
+        "cursoragent"
+      ],
+      "llm_summary": "单4GBGPU运行70B大模型，突破硬件限制"
+    },
+    {
+      "owner": "iv-org",
+      "name": "invidious",
+      "full_name": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "stars": 21995,
+      "forks": 2458,
+      "stars_today": 305,
+      "built_by": [
+        "TheFrenchGhosty",
+        "weblate",
+        "SamantazFox",
+        "syeopite",
+        "omarroth"
+      ],
+      "llm_summary": "YouTube开源替代前端，无广告体验"
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 534923,
+      "forks": 50566,
+      "stars_today": 674,
+      "built_by": [
+        "fake-rookie",
+        "bauripalash",
+        "rohitpaulk",
+        "sarupbanskota",
+        "danistefanovic"
+      ],
+      "llm_summary": "重建热门技术，从零掌握编程精髓"
+    },
+    {
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "full_name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars": 13622,
+      "forks": 2023,
+      "stars_today": 1141,
+      "built_by": [
+        "zhaoxuya",
+        "dhicoc",
+        "doublecurry",
+        "sakukir"
+      ],
+      "llm_summary": "AI驱动的安全技能路由，自动进化工具链"
+    },
+    {
+      "owner": "different-ai",
+      "name": "openwork",
+      "full_name": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "stars": 20353,
+      "forks": 2092,
+      "stars_today": 280,
+      "built_by": [
+        "actions-user",
+        "jcllobet",
+        "release-bot",
+        "benjaminshafii",
+        "src-opn"
+      ],
+      "llm_summary": "Claude Cowork开源替代，协作更自由"
+    },
+    {
+      "owner": "microsoft",
+      "name": "generative-ai-for-beginners",
+      "full_name": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "language": "Jupyter Notebook",
+      "stars": 114818,
+      "forks": 61296,
+      "stars_today": 588,
+      "built_by": [
+        "koreyspace",
+        "dependabot",
+        "john0isaac",
+        "skytin1004",
+        "leestott"
+      ],
+      "llm_summary": "21课掌握生成式AI，零基础入门"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 64756,
+      "forks": 5352,
+      "stars_today": 659,
+      "built_by": [
+        "hymansun",
+        "kadaliao",
+        "nyxst4ck",
+        "claude"
+      ],
+      "llm_summary": "AI代理全网浏览，一键获取多平台信息"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars": 11111,
+      "forks": 1057,
+      "stars_today": 602,
+      "built_by": [
+        "Yuntong8888",
+        "Maxwell-Code07"
+      ],
+      "llm_summary": "AI代理团队记忆中心，共享知识资产"
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 56896,
+      "forks": 4978,
+      "stars_today": 206,
+      "built_by": [
+        "j-sperling",
+        "23241a6749",
+        "claude",
+        "tmchow"
+      ],
+      "llm_summary": "AI代理多平台研究，智能生成主题摘要"
+    },
+    {
+      "owner": "NomaDamas",
+      "name": "k-skill",
+      "full_name": "NomaDamas/k-skill",
+      "url": "https://github.com/NomaDamas/k-skill",
+      "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+      "language": "JavaScript",
+      "stars": 6899,
+      "forks": 810,
+      "stars_today": 177,
+      "built_by": [
+        "taeyoung1005",
+        "Mineru98",
+        "vkehfdl1",
+        "claude",
+        "github-actions"
+      ],
+      "llm_summary": "韩国人专属AI技能集，本土化体验"
+    },
+    {
+      "owner": "HarbourMasters",
+      "name": "Lighthouse",
+      "full_name": "HarbourMasters/Lighthouse",
+      "url": "https://github.com/HarbourMasters/Lighthouse",
+      "description": "",
+      "language": "C",
+      "stars": 223,
+      "forks": 18,
+      "stars_today": 65,
+      "built_by": [
+        "Caladius",
+        "JeodC",
+        "Malkierian",
+        "scorched11",
+        "Fredomato"
+      ]
+    },
+    {
+      "owner": "antirez",
+      "name": "ds4",
+      "full_name": "antirez/ds4",
+      "url": "https://github.com/antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "language": "C",
+      "stars": 20015,
+      "forks": 1776,
+      "stars_today": 139,
+      "built_by": [
+        "cv",
+        "claude",
+        "mitsuhiko",
+        "jackygurui"
+      ],
+      "llm_summary": "DeepSeek 4本地推理引擎，多平台支持"
+    },
+    {
+      "owner": "esengine",
+      "name": "DeepSeek-Reasonix",
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars": 29108,
+      "forks": 1873,
+      "stars_today": 333,
+      "built_by": [
+        "lifu963",
+        "cursoragent",
+        "ttmouse",
+        "SivanCola"
+      ],
+      "llm_summary": "DeepSeek原生终端AI编码助手，稳定运行"
+    }
+  ]
+}
