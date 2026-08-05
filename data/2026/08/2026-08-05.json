@@ -1,0 +1,340 @@
+{
+  "date": "2026-08-05",
+  "total_repos": 18,
+  "repositories": [
+    {
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars": 13694,
+      "forks": 1285,
+      "stars_today": 1111,
+      "built_by": [
+        "Yuntong8888",
+        "Maxwell-Code07"
+      ],
+      "llm_summary": "AI代理团队记忆中心，共享重用知识资产"
+    },
+    {
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "full_name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars": 17955,
+      "forks": 2461,
+      "stars_today": 2297,
+      "built_by": [
+        "doublecurry",
+        "dhicoc",
+        "sakukir",
+        "zhaoxuya"
+      ],
+      "llm_summary": "AI驱动安全技能路由，支持多种AI客户端"
+    },
+    {
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "full_name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": 10087,
+      "forks": 661,
+      "stars_today": 2540,
+      "built_by": [
+        "claude",
+        "rth",
+        "abimaelmartell",
+        "cursoragent",
+        "bryan"
+      ],
+      "llm_summary": "快速智能PDF检查与文本提取工具"
+    },
+    {
+      "owner": "uber",
+      "name": "ADR",
+      "full_name": "uber/ADR",
+      "url": "https://github.com/uber/ADR",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "language": "Python",
+      "stars": 696,
+      "forks": 69,
+      "stars_today": 148,
+      "built_by": [
+        "cmvan",
+        "cm-howard",
+        "dependabot",
+        "barisozbas",
+        "lghupan"
+      ],
+      "llm_summary": "企业AI代理安全监控与保护工具"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 266509,
+      "forks": 23830,
+      "stars_today": 653,
+      "built_by": [
+        "jjshanks",
+        "claude",
+        "clkao",
+        "arittr"
+      ],
+      "llm_summary": "实用的代理技能开发框架方法论"
+    },
+    {
+      "owner": "microsoft",
+      "name": "generative-ai-for-beginners",
+      "full_name": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "language": "Jupyter Notebook",
+      "stars": 116289,
+      "forks": 61552,
+      "stars_today": 783,
+      "built_by": [
+        "john0isaac",
+        "leestott",
+        "dependabot",
+        "koreyspace",
+        "skytin1004"
+      ],
+      "llm_summary": "21节课带你入门生成式AI开发"
+    },
+    {
+      "owner": "cypress-io",
+      "name": "cypress",
+      "full_name": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars": 50803,
+      "forks": 3628,
+      "stars_today": 11,
+      "built_by": [
+        "chrisbreiding",
+        "flotwig",
+        "renovate-bot",
+        "jennifer-shehane",
+        "brian-mann"
+      ],
+      "llm_summary": "快速可靠的浏览器应用测试工具"
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 28413,
+      "forks": 3067,
+      "stars_today": 1711,
+      "built_by": [
+        "claude",
+        "NavodPeiris",
+        "cursoragent",
+        "eltociear"
+      ],
+      "llm_summary": "单4GB GPU运行70B大模型推理"
+    },
+    {
+      "owner": "webpack",
+      "name": "webpack",
+      "full_name": "webpack/webpack",
+      "url": "https://github.com/webpack/webpack",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+      "language": "JavaScript",
+      "stars": 65941,
+      "forks": 9528,
+      "stars_today": 10,
+      "built_by": [
+        "sokra",
+        "TheLarkInn",
+        "dependabot",
+        "alexander-akait",
+        "dependabot-preview"
+      ],
+      "llm_summary": "JavaScript模块打包与代码分割工具"
+    },
+    {
+      "owner": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": 29380,
+      "forks": 5372,
+      "stars_today": 10,
+      "built_by": [
+        "DanielChabrowski",
+        "mguludag",
+        "sylveon",
+        "Gabi120"
+      ],
+      "llm_summary": "高性能快速C++日志记录库"
+    },
+    {
+      "owner": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": 108067,
+      "forks": 6306,
+      "stars_today": 31,
+      "built_by": [
+        "littledivy",
+        "ry",
+        "nayeemrmn",
+        "dsherret",
+        "bartlomieju"
+      ],
+      "llm_summary": "现代JavaScript/TypeScript运行时环境"
+    },
+    {
+      "owner": "usekaneo",
+      "name": "kaneo",
+      "full_name": "usekaneo/kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "stars": 7310,
+      "forks": 579,
+      "stars_today": 559,
+      "built_by": [
+        "github-actions",
+        "tinsever",
+        "andrejsshell",
+        "dependabot",
+        "randoneering"
+      ],
+      "llm_summary": "简约高效的开源项目管理工具"
+    },
+    {
+      "owner": "livekit",
+      "name": "agents",
+      "full_name": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "language": "Python",
+      "stars": 12424,
+      "forks": 3483,
+      "stars_today": 432,
+      "built_by": [
+        "tinalenguyen",
+        "theomonnom",
+        "longcw",
+        "keepingitneil",
+        "davidzhao"
+      ],
+      "llm_summary": "实时语音AI代理构建框架"
+    },
+    {
+      "owner": "angular",
+      "name": "angular",
+      "full_name": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "language": "TypeScript",
+      "stars": 100838,
+      "forks": 27401,
+      "stars_today": 13,
+      "built_by": [
+        "devversion",
+        "angular-robot",
+        "petebacondarwin",
+        "crisbeto",
+        "gkalpak"
+      ],
+      "llm_summary": "企业级Web应用开发框架"
+    },
+    {
+      "owner": "tailwindlabs",
+      "name": "tailwindcss",
+      "full_name": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "stars": 96493,
+      "forks": 5533,
+      "stars_today": 52,
+      "built_by": [
+        "RobinMalfait",
+        "thecrypticace",
+        "reinink",
+        "adamwathan",
+        "depfu"
+      ],
+      "llm_summary": "实用优先CSS快速UI开发框架"
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 19353,
+      "forks": 2409,
+      "stars_today": 320,
+      "built_by": [
+        "claude",
+        "antoinersx",
+        "ShawnPana",
+        "gregpr07",
+        "miguel-heygen"
+      ],
+      "llm_summary": "AI驱动的视频编码编辑工具"
+    },
+    {
+      "owner": "esengine",
+      "name": "DeepSeek-Reasonix",
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars": 30814,
+      "forks": 1983,
+      "stars_today": 922,
+      "built_by": [
+        "ttmouse",
+        "cursoragent",
+        "lifu963",
+        "SivanCola"
+      ],
+      "llm_summary": "终端DeepSeek原生AI编码代理"
+    },
+    {
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "full_name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": 23884,
+      "forks": 1958,
+      "stars_today": 40,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "tmchow",
+        "mvanhorn",
+        "kieranklaassen"
+      ],
+      "llm_summary": "多平台AI编码工程官方插件"
+    }
+  ]
+}
