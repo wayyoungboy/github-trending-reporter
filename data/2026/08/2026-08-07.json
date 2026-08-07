@@ -1,0 +1,239 @@
+{
+  "date": "2026-08-07",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars": 16476,
+      "forks": 1484,
+      "stars_today": 1057,
+      "built_by": [
+        "Maxwell-Code07",
+        "Yuntong8888"
+      ],
+      "llm_summary": "团队级AI记忆中心，实现智能资产共享"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 82985,
+      "forks": 8896,
+      "stars_today": 593,
+      "built_by": [
+        "federicobartoli",
+        "claude",
+        "nucliweb",
+        "dj2313"
+      ],
+      "llm_summary": "AI编码代理的生产级工程技能库"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "computer",
+      "full_name": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars": 4853,
+      "forks": 242,
+      "stars_today": 2802,
+      "built_by": [
+        "dependabot",
+        "ghostwriternr",
+        "ndisidore",
+        "aron-cf",
+        "mattzcarey"
+      ],
+      "llm_summary": "为AI代理提供完整计算机功能"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 207173,
+      "forks": 17895,
+      "stars_today": 1873,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "gabimoncha"
+      ],
+      "llm_summary": "工程师实用技能库，源自实践"
+    },
+    {
+      "owner": "goauthentik",
+      "name": "authentik",
+      "full_name": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": 23144,
+      "forks": 1775,
+      "stars_today": 138,
+      "built_by": [
+        "BeryJu",
+        "transifex-integration",
+        "rissson",
+        "dependabot",
+        "authentik-automation"
+      ],
+      "llm_summary": "身份验证的粘合剂，简化集成"
+    },
+    {
+      "owner": "huangruiteng",
+      "name": "loopx",
+      "full_name": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "stars": 2904,
+      "forks": 219,
+      "stars_today": 847,
+      "built_by": [
+        "ZaynJarvis",
+        "Ray0907",
+        "Hoey041",
+        "cocolord"
+      ],
+      "llm_summary": "轻量级AI代理团队循环工程内核"
+    },
+    {
+      "owner": "google",
+      "name": "guava",
+      "full_name": "google/guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": 51645,
+      "forks": 11163,
+      "stars_today": 13,
+      "built_by": [
+        "lowasser",
+        "copybara-service",
+        "kluever",
+        "cgdecker",
+        "cpovirk"
+      ],
+      "llm_summary": "Google核心Java库，提升开发效率"
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 77153,
+      "forks": 17427,
+      "stars_today": 134,
+      "built_by": [
+        "keminshu"
+      ],
+      "llm_summary": "全学段PDF教材资源，一站式获取"
+    },
+    {
+      "owner": "Significant-Gravitas",
+      "name": "AutoGPT",
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars": 186033,
+      "forks": 46055,
+      "stars_today": 37,
+      "built_by": [
+        "ntindle",
+        "Auto-GPT-Bot",
+        "Swiftyos",
+        "Pwuts",
+        "majdyz"
+      ],
+      "llm_summary": "人人可用的AI构建工具平台"
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "full_name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 29054,
+      "forks": 2686,
+      "stars_today": 237,
+      "built_by": [
+        "HsiangNianian",
+        "claude",
+        "jaissebastian",
+        "gzenz"
+      ],
+      "llm_summary": "本地代码智能图，提升审查效率"
+    },
+    {
+      "owner": "esengine",
+      "name": "DeepSeek-Reasonix",
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars": 32471,
+      "forks": 2100,
+      "stars_today": 888,
+      "built_by": [
+        "SivanCola",
+        "lifu963",
+        "cursoragent",
+        "ttmouse"
+      ],
+      "llm_summary": "DeepSeek原生AI编码终端代理"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 268126,
+      "forks": 23965,
+      "stars_today": 858,
+      "built_by": [
+        "clkao",
+        "claude",
+        "jjshanks",
+        "arittr"
+      ],
+      "llm_summary": "代理技能框架与开发方法论"
+    },
+    {
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "full_name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": 12500,
+      "forks": 840,
+      "stars_today": 1190,
+      "built_by": [
+        "claude",
+        "cursoragent",
+        "MADENIYOU",
+        "abimaelmartell",
+        "rth"
+      ],
+      "llm_summary": "快速PDF检查与文本提取库"
+    }
+  ]
+}
