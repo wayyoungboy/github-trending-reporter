@@ -1,0 +1,313 @@
+{
+  "date": "2026-08-08",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "full_name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 6535,
+      "forks": 520,
+      "stars_today": 2293,
+      "built_by": [
+        "kevinjosethomas",
+        "alexzhang13",
+        "samsja",
+        "sethkarten",
+        "snimu"
+      ],
+      "llm_summary": "自我改进的AI代理，优化编码与自主任务"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 83903,
+      "forks": 8965,
+      "stars_today": 1131,
+      "built_by": [
+        "federicobartoli",
+        "nucliweb",
+        "Liyuk",
+        "claude"
+      ],
+      "llm_summary": "AI编码代理的生产级工程技能库"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "computer",
+      "full_name": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars": 5718,
+      "forks": 289,
+      "stars_today": 872,
+      "built_by": [
+        "aron-cf",
+        "ghostwriternr",
+        "mattzcarey",
+        "dependabot",
+        "ndisidore"
+      ],
+      "llm_summary": "为AI代理赋予计算机操作能力"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 208820,
+      "forks": 18024,
+      "stars_today": 2152,
+      "built_by": [
+        "github-actions",
+        "gabimoncha",
+        "claude"
+      ],
+      "llm_summary": "工程师必备的实用技能集合"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 268747,
+      "forks": 23998,
+      "stars_today": 782,
+      "built_by": [
+        "arittr",
+        "jjshanks",
+        "claude",
+        "clkao"
+      ],
+      "llm_summary": "实用的代理技能开发框架"
+    },
+    {
+      "owner": "goauthentik",
+      "name": "authentik",
+      "full_name": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": 23598,
+      "forks": 1804,
+      "stars_today": 530,
+      "built_by": [
+        "transifex-integration",
+        "authentik-automation",
+        "dependabot",
+        "BeryJu",
+        "rissson"
+      ],
+      "llm_summary": "统一身份认证解决方案"
+    },
+    {
+      "owner": "semantica-agi",
+      "name": "semantica",
+      "full_name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 2347,
+      "forks": 305,
+      "stars_today": 122,
+      "built_by": [
+        "ZohaibHassan16",
+        "claude",
+        "Sameer6305",
+        "KaifAhmad1",
+        "dependabot"
+      ],
+      "llm_summary": "图原生AI系统基础设施"
+    },
+    {
+      "owner": "666ghj",
+      "name": "MiroFish",
+      "full_name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": 70508,
+      "forks": 10988,
+      "stars_today": 141,
+      "built_by": [
+        "harshitanand",
+        "github-actions",
+        "Ghostubborn",
+        "anupamme"
+      ],
+      "llm_summary": "简洁通用的群体智能预测引擎"
+    },
+    {
+      "owner": "chenyme",
+      "name": "grok2api",
+      "full_name": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "stars": 7141,
+      "forks": 2170,
+      "stars_today": 55,
+      "built_by": [
+        "piexian",
+        "Soein",
+        "lijirou12",
+        "Huan-zhaojun"
+      ],
+      "llm_summary": "Grok多账户API统一网关"
+    },
+    {
+      "owner": "jdx",
+      "name": "mise",
+      "full_name": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": 32069,
+      "forks": 1332,
+      "stars_today": 135,
+      "built_by": [
+        "autofix-ci",
+        "mise-en-dev",
+        "renovate",
+        "claude"
+      ],
+      "llm_summary": "开发环境统一管理工具"
+    },
+    {
+      "owner": "Significant-Gravitas",
+      "name": "AutoGPT",
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars": 186322,
+      "forks": 46061,
+      "stars_today": 355,
+      "built_by": [
+        "Pwuts",
+        "ntindle",
+        "majdyz",
+        "Auto-GPT-Bot",
+        "Swiftyos"
+      ],
+      "llm_summary": "人人可用的AI自主构建平台"
+    },
+    {
+      "owner": "google",
+      "name": "guava",
+      "full_name": "google/guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": 51763,
+      "forks": 11173,
+      "stars_today": 152,
+      "built_by": [
+        "cgdecker",
+        "copybara-service",
+        "lowasser",
+        "kluever",
+        "cpovirk"
+      ],
+      "llm_summary": "Google Java核心功能库"
+    },
+    {
+      "owner": "unclebob",
+      "name": "swarm-forge",
+      "full_name": "unclebob/swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "language": "Clojure",
+      "stars": 1831,
+      "forks": 201,
+      "stars_today": 81,
+      "built_by": [
+        "janschill",
+        "LupusDei",
+        "claude"
+      ],
+      "llm_summary": "多AI代理协调工具"
+    },
+    {
+      "owner": "denoland",
+      "name": "celld",
+      "full_name": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars": 2207,
+      "forks": 62,
+      "stars_today": 516,
+      "built_by": [
+        "wperron",
+        "magurotuna",
+        "ry"
+      ],
+      "llm_summary": "自托管分布式持久对象服务"
+    },
+    {
+      "owner": "K2SOsint",
+      "name": "Legendary_OSINT",
+      "full_name": "K2SOsint/Legendary_OSINT",
+      "url": "https://github.com/K2SOsint/Legendary_OSINT",
+      "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "language": "Unknown",
+      "stars": 1428,
+      "forks": 189,
+      "stars_today": 109,
+      "built_by": [
+        "alievinfo",
+        "stanfrbd"
+      ],
+      "llm_summary": "开源情报调查工具资源库"
+    },
+    {
+      "owner": "pranshuparmar",
+      "name": "witr",
+      "full_name": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "stars": 19749,
+      "forks": 639,
+      "stars_today": 234,
+      "built_by": [
+        "chojs23",
+        "gaod",
+        "claude"
+      ],
+      "llm_summary": "进程溯源追踪工具"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "full_name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 16252,
+      "forks": 1289,
+      "stars_today": 327,
+      "built_by": [
+        "jsondai",
+        "martinvarelaj",
+        "holtskinner",
+        "helloeve",
+        "cloud-ix-copybara"
+      ],
+      "llm_summary": "Google产品AI代理技能库"
+    }
+  ]
+}
