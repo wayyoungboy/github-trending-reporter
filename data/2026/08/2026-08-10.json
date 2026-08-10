@@ -1,0 +1,228 @@
+{
+  "date": "2026-08-10",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "full_name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 11107,
+      "forks": 1154,
+      "stars_today": 2356,
+      "built_by": [
+        "sethkarten",
+        "samsja",
+        "snimu",
+        "kevinjosethomas",
+        "alexzhang13"
+      ],
+      "llm_summary": "自我改进的AI代理，助力编码工作流"
+    },
+    {
+      "owner": "vitali87",
+      "name": "code-graph-rag",
+      "full_name": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": 2987,
+      "forks": 520,
+      "stars_today": 96,
+      "built_by": [
+        "dependabot",
+        "github-actions",
+        "ZuebeyirEser",
+        "claude"
+      ],
+      "llm_summary": "AI知识图谱助力多语言代码库智能编辑"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 140687,
+      "forks": 22982,
+      "stars_today": 858,
+      "built_by": [
+        "4shil",
+        "Hotragn",
+        "epowelljr",
+        "claude"
+      ],
+      "llm_summary": "专业AI代理集合，覆盖多种任务领域"
+    },
+    {
+      "owner": "pranshuparmar",
+      "name": "witr",
+      "full_name": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "stars": 20667,
+      "forks": 726,
+      "stars_today": 210,
+      "built_by": [
+        "gaod",
+        "chojs23",
+        "claude"
+      ],
+      "llm_summary": "追踪系统进程、端口等资源来源"
+    },
+    {
+      "owner": "google-deepmind",
+      "name": "weathernext",
+      "full_name": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "description": "",
+      "language": "Python",
+      "stars": 7090,
+      "forks": 938,
+      "stars_today": 86,
+      "built_by": [
+        "voctav",
+        "danielsuo",
+        "alvarosg",
+        "mjwillson",
+        "andrewlkd"
+      ],
+      "llm_summary": "下一代天气预测AI模型系统"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 85141,
+      "forks": 9162,
+      "stars_today": 680,
+      "built_by": [
+        "federicobartoli",
+        "Liyuk",
+        "claude",
+        "nucliweb"
+      ],
+      "llm_summary": "AI编码代理生产级工程技能库"
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 61194,
+      "forks": 51997,
+      "stars_today": 306,
+      "built_by": [
+        "birdxs",
+        "Activer007",
+        "freesme",
+        "massif-01"
+      ],
+      "llm_summary": "多市场股票智能分析，零成本定时运行"
+    },
+    {
+      "owner": "goauthentik",
+      "name": "authentik",
+      "full_name": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": 24276,
+      "forks": 1858,
+      "stars_today": 310,
+      "built_by": [
+        "rissson",
+        "authentik-automation",
+        "transifex-integration",
+        "dependabot",
+        "BeryJu"
+      ],
+      "llm_summary": "身份验证集成解决方案"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "full_name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 17231,
+      "forks": 1393,
+      "stars_today": 528,
+      "built_by": [
+        "martinvarelaj",
+        "jsondai",
+        "holtskinner",
+        "cloud-ix-copybara",
+        "helloeve"
+      ],
+      "llm_summary": "Google产品AI代理技能集合"
+    },
+    {
+      "owner": "Comfy-Org",
+      "name": "ComfyUI",
+      "full_name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars": 125526,
+      "forks": 14842,
+      "stars_today": 365,
+      "built_by": [
+        "pythongosssss",
+        "bigcat88",
+        "rattus128",
+        "comfyui-wiki",
+        "comfyanonymous"
+      ],
+      "llm_summary": "模块化扩散模型图形界面系统"
+    },
+    {
+      "owner": "harveyai",
+      "name": "harvey-labs",
+      "full_name": "harveyai/harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "language": "Python",
+      "stars": 827,
+      "forks": 176,
+      "stars_today": 47,
+      "built_by": [
+        "ngrupen",
+        "calvinqi",
+        "spencerp",
+        "claude",
+        "JulioPereyra93"
+      ],
+      "llm_summary": "法律工作AI代理能力评估基准"
+    },
+    {
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "full_name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 17660,
+      "forks": 4011,
+      "stars_today": 163,
+      "built_by": [
+        "t3dotgg",
+        "juliusmarminge",
+        "claude",
+        "cursoragent",
+        "codex"
+      ],
+      "llm_summary": "TypeScript代码开发工具集"
+    }
+  ]
+}
