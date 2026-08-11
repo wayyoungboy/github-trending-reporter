@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-11",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "semantica-agi",
+      "name": "semantica",
+      "full_name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 4103,
+      "forks": 482,
+      "stars_today": 970,
+      "built_by": [
+        "Sameer6305",
+        "ZohaibHassan16",
+        "dependabot",
+        "KaifAhmad1",
+        "claude"
+      ]
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 141832,
+      "forks": 23136,
+      "stars_today": 1349,
+      "built_by": [
+        "4shil",
+        "claude",
+        "epowelljr",
+        "Hotragn"
+      ]
+    },
+    {
+      "owner": "NanmiCoder",
+      "name": "MediaCrawler",
+      "full_name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 61022,
+      "forks": 12010,
+      "stars_today": 259,
+      "built_by": [
+        "claude",
+        "gaoxiaobei",
+        "2513502304",
+        "persist-1"
+      ]
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 85743,
+      "forks": 9227,
+      "stars_today": 659,
+      "built_by": [
+        "Liyuk",
+        "nucliweb",
+        "claude",
+        "federicobartoli"
+      ]
+    },
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 76488,
+      "forks": 14209,
+      "stars_today": 198,
+      "built_by": [
+        "devinfoley",
+        "forgottendev",
+        "Paperclip-Paperclip",
+        "cryppadotta",
+        "claude"
+      ]
+    },
+    {
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "full_name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 13074,
+      "forks": 1326,
+      "stars_today": 2642,
+      "built_by": [
+        "samsja",
+        "alexzhang13",
+        "kevinjosethomas",
+        "sethkarten",
+        "snimu"
+      ]
+    },
+    {
+      "owner": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": 65256,
+      "forks": 3119,
+      "stars_today": 56,
+      "built_by": [
+        "linusg",
+        "awesomekling",
+        "kalenikaliaksandr",
+        "AtkinsSJ",
+        "trflynn89"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 89371,
+      "forks": 11891,
+      "stars_today": 154,
+      "built_by": [
+        "dependabot",
+        "github-actions",
+        "claude",
+        "proffesor-for-testing"
+      ]
+    },
+    {
+      "owner": "danielmiessler",
+      "name": "LifeOS",
+      "full_name": "danielmiessler/LifeOS",
+      "url": "https://github.com/danielmiessler/LifeOS",
+      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "language": "TypeScript",
+      "stars": 17913,
+      "forks": 2365,
+      "stars_today": 315,
+      "built_by": [
+        "christauff",
+        "ksylvan",
+        "claude",
+        "kaimagnus"
+      ]
+    },
+    {
+      "owner": "firecrawl",
+      "name": "firecrawl",
+      "full_name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "stars": 165076,
+      "forks": 9287,
+      "stars_today": 835,
+      "built_by": [
+        "mogery",
+        "firecrawl-spring",
+        "rafaelsideguide",
+        "nickscamara",
+        "abimaelmartell"
+      ]
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 97218,
+      "forks": 18734,
+      "stars_today": 177,
+      "built_by": [
+        "EdwardoSunny",
+        "luohy15",
+        "CadeYu",
+        "Yijia-Xiao",
+        "claude"
+      ]
+    },
+    {
+      "owner": "google-deepmind",
+      "name": "weathernext",
+      "full_name": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "description": "",
+      "language": "Python",
+      "stars": 7354,
+      "forks": 954,
+      "stars_today": 325,
+      "built_by": [
+        "mjwillson",
+        "voctav",
+        "andrewlkd",
+        "alvarosg",
+        "danielsuo"
+      ]
+    },
+    {
+      "owner": "vitali87",
+      "name": "code-graph-rag",
+      "full_name": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": 3533,
+      "forks": 547,
+      "stars_today": 682,
+      "built_by": [
+        "ZuebeyirEser",
+        "dependabot",
+        "github-actions",
+        "claude"
+      ]
+    },
+    {
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "full_name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 18030,
+      "forks": 4076,
+      "stars_today": 389,
+      "built_by": [
+        "t3dotgg",
+        "cursoragent",
+        "codex",
+        "claude",
+        "juliusmarminge"
+      ]
+    },
+    {
+      "owner": "Comfy-Org",
+      "name": "ComfyUI",
+      "full_name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars": 126323,
+      "forks": 14901,
+      "stars_today": 922,
+      "built_by": [
+        "comfyui-wiki",
+        "bigcat88",
+        "pythongosssss",
+        "rattus128",
+        "comfyanonymous"
+      ]
+    },
+    {
+      "owner": "opa334",
+      "name": "Dopamine",
+      "full_name": "opa334/Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "language": "C",
+      "stars": 6024,
+      "forks": 6193,
+      "stars_today": 111,
+      "built_by": [
+        "staturnzz",
+        "tomt000",
+        "kok3shidoll",
+        "alfiecg24"
+      ]
+    }
+  ]
+}
