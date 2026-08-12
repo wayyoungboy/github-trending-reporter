@@ -1,0 +1,322 @@
+{
+  "date": "2026-08-12",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 143246,
+      "forks": 23274,
+      "stars_today": 958,
+      "built_by": [
+        "4shil",
+        "claude",
+        "Hotragn",
+        "epowelljr"
+      ],
+      "llm_summary": "一站式AI代理系统，各领域专家任你用"
+    },
+    {
+      "owner": "semantica-agi",
+      "name": "semantica",
+      "full_name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 4894,
+      "forks": 529,
+      "stars_today": 893,
+      "built_by": [
+        "ZohaibHassan16",
+        "KaifAhmad1",
+        "claude",
+        "Sameer6305",
+        "dependabot"
+      ],
+      "llm_summary": "图原生AI基础设施，构建可问责系统"
+    },
+    {
+      "owner": "nvm-sh",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": 94491,
+      "forks": 10354,
+      "stars_today": 22,
+      "built_by": [
+        "PeterDaveHello",
+        "ljharb",
+        "creationix",
+        "lukechilds",
+        "koenpunt"
+      ],
+      "llm_summary": "Node.js版本管理器，轻松切换多版本"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 86224,
+      "forks": 9265,
+      "stars_today": 578,
+      "built_by": [
+        "federicobartoli",
+        "nucliweb",
+        "claude",
+        "Liyuk"
+      ],
+      "llm_summary": "AI编码代理的生产级工程技能库"
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 62135,
+      "forks": 52428,
+      "stars_today": 243,
+      "built_by": [
+        "massif-01",
+        "Activer007",
+        "birdxs",
+        "freesme"
+      ],
+      "llm_summary": "LLM驱动多市场股票智能分析系统"
+    },
+    {
+      "owner": "vitali87",
+      "name": "code-graph-rag",
+      "full_name": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": 3819,
+      "forks": 561,
+      "stars_today": 341,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "ZuebeyirEser",
+        "github-actions"
+      ],
+      "llm_summary": "AI与知识图谱助力代码库智能理解编辑"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 168133,
+      "forks": 20032,
+      "stars_today": 485,
+      "built_by": [
+        "klazuka",
+        "rlancemartin",
+        "ericharmeling",
+        "claude",
+        "maheshmurag"
+      ],
+      "llm_summary": "AI代理技能的公共资源库"
+    },
+    {
+      "owner": "3b1b",
+      "name": "manim",
+      "full_name": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": 90179,
+      "forks": 7480,
+      "stars_today": 197,
+      "built_by": [
+        "eulertour",
+        "bhbr",
+        "YishiMichael",
+        "TonyCrane"
+      ],
+      "llm_summary": "数学教育视频动画引擎，可视化抽象概念"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 34723,
+      "forks": 4420,
+      "stars_today": 812,
+      "built_by": [
+        "tusharkhatriofficial",
+        "Pinkllow",
+        "pancacake",
+        "github-actions",
+        "claude"
+      ],
+      "llm_summary": "终身个性化AI辅导系统"
+    },
+    {
+      "owner": "stablyai",
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "language": "TypeScript",
+      "stars": 42791,
+      "forks": 2983,
+      "stars_today": 875,
+      "built_by": [
+        "orca-ide",
+        "nwparker",
+        "AmethystLiang",
+        "brennanb2025",
+        "Jinwoo-H"
+      ],
+      "llm_summary": "并行代理开发环境，多平台运行编码代理"
+    },
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 77170,
+      "forks": 14249,
+      "stars_today": 748,
+      "built_by": [
+        "Paperclip-Paperclip",
+        "forgottendev",
+        "devinfoley",
+        "claude",
+        "cryppadotta"
+      ],
+      "llm_summary": "开源代理管理工作应用，提升团队效率"
+    },
+    {
+      "owner": "huggingface",
+      "name": "transformers",
+      "full_name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars": 163810,
+      "forks": 34201,
+      "stars_today": 80,
+      "built_by": [
+        "LysandreJik",
+        "sgugger",
+        "patrickvonplaten",
+        "thomwolf",
+        "ydshieh"
+      ],
+      "llm_summary": "多模态最先进机器学习模型框架"
+    },
+    {
+      "owner": "harveyai",
+      "name": "harvey-labs",
+      "full_name": "harveyai/harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "language": "Python",
+      "stars": 1082,
+      "forks": 195,
+      "stars_today": 28,
+      "built_by": [
+        "claude",
+        "ngrupen",
+        "calvinqi",
+        "spencerp",
+        "JulioPereyra93"
+      ],
+      "llm_summary": "法律工作代理能力评估基准"
+    },
+    {
+      "owner": "jaywcjlove",
+      "name": "awesome-mac",
+      "full_name": "jaywcjlove/awesome-mac",
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "language": "Swift",
+      "stars": 110476,
+      "forks": 8416,
+      "stars_today": 298,
+      "built_by": [
+        "heldev",
+        "alichtman",
+        "xcv58",
+        "github-actions"
+      ],
+      "llm_summary": "高质量macOS软件系统化收集平台"
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 47345,
+      "forks": 5900,
+      "stars_today": 458,
+      "built_by": [
+        "yiyabo",
+        "claude",
+        "0xDevNinja",
+        "xucailiang"
+      ],
+      "llm_summary": "开源代理式视频制作系统，AI助手变工作室"
+    },
+    {
+      "owner": "practical-tutorials",
+      "name": "project-based-learning",
+      "full_name": "practical-tutorials/project-based-learning",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "language": "Python",
+      "stars": 278449,
+      "forks": 35779,
+      "stars_today": 401,
+      "built_by": [
+        "bobeff",
+        "sayands",
+        "enkeyz",
+        "olucode",
+        "tuvtran"
+      ],
+      "llm_summary": "项目式学习教程精选列表"
+    },
+    {
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "full_name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 14111,
+      "forks": 1458,
+      "stars_today": 1138,
+      "built_by": [
+        "snimu",
+        "sethkarten",
+        "alexzhang13",
+        "samsja",
+        "kevinjosethomas"
+      ],
+      "llm_summary": "自改进RLM代理，优化编码与自主任务"
+    }
+  ]
+}
