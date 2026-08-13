@@ -1,0 +1,321 @@
+{
+  "date": "2026-08-13",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": 10467,
+      "forks": 675,
+      "stars_today": 2855,
+      "built_by": [
+        "daanmlab",
+        "parveen0029",
+        "mvanhorn",
+        "web-flow"
+      ],
+      "llm_summary": "29种高质量自包含编辑图表"
+    },
+    {
+      "owner": "macro-inc",
+      "name": "macro",
+      "full_name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": 1823,
+      "forks": 225,
+      "stars_today": 227,
+      "built_by": [
+        "evanhutnik",
+        "sedson",
+        "whutchinson98",
+        "synoet",
+        "gbirman"
+      ],
+      "llm_summary": "团队协作与AI记忆统一工作空间"
+    },
+    {
+      "owner": "semantica-agi",
+      "name": "semantica",
+      "full_name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 5724,
+      "forks": 624,
+      "stars_today": 845,
+      "built_by": [
+        "claude",
+        "ZohaibHassan16",
+        "dependabot",
+        "Sameer6305",
+        "KaifAhmad1"
+      ],
+      "llm_summary": "图形原生AI系统基础架构"
+    },
+    {
+      "owner": "stablyai",
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "language": "TypeScript",
+      "stars": 43898,
+      "forks": 3057,
+      "stars_today": 1235,
+      "built_by": [
+        "orca-ide",
+        "Jinwoo-H",
+        "brennanb2025",
+        "nwparker",
+        "AmethystLiang"
+      ],
+      "llm_summary": "多平台AI代理开发环境"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 144574,
+      "forks": 23418,
+      "stars_today": 1873,
+      "built_by": [
+        "claude",
+        "epowelljr",
+        "Hotragn",
+        "4shil"
+      ],
+      "llm_summary": "专业AI代理一站式解决方案"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 36943,
+      "forks": 6150,
+      "stars_today": 266,
+      "built_by": [
+        "CharlesJ-ABu",
+        "AnMakc",
+        "randyy179",
+        "Luciferbobo"
+      ],
+      "llm_summary": "金融市场语言基础模型"
+    },
+    {
+      "owner": "NanmiCoder",
+      "name": "MediaCrawler",
+      "full_name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 61975,
+      "forks": 12125,
+      "stars_today": 215,
+      "built_by": [
+        "claude",
+        "persist-1",
+        "gaoxiaobei",
+        "2513502304"
+      ],
+      "llm_summary": "多平台社交媒体数据爬取工具"
+    },
+    {
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "full_name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "stars": 45588,
+      "forks": 3716,
+      "stars_today": 476,
+      "built_by": [
+        "claude",
+        "WodenJay",
+        "shenqili",
+        "shandianchengzi"
+      ],
+      "llm_summary": "AI智能生成专业PowerPoint"
+    },
+    {
+      "owner": "infiniflow",
+      "name": "ragflow",
+      "full_name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "stars": 87552,
+      "forks": 10310,
+      "stars_today": 139,
+      "built_by": [
+        "cike8899",
+        "yuzhichang",
+        "JinHai-CN",
+        "KevinHuSh",
+        "writinwaters"
+      ],
+      "llm_summary": "RAG引擎增强LLM上下文能力"
+    },
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 77741,
+      "forks": 14299,
+      "stars_today": 571,
+      "built_by": [
+        "Paperclip-Paperclip",
+        "cryppadotta",
+        "devinfoley",
+        "forgottendev",
+        "claude"
+      ],
+      "llm_summary": "企业级AI代理管理工具"
+    },
+    {
+      "owner": "NVIDIA-NeMo",
+      "name": "Switchyard",
+      "full_name": "NVIDIA-NeMo/Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "",
+      "language": "Rust",
+      "stars": 828,
+      "forks": 86,
+      "stars_today": 421,
+      "built_by": [
+        "nachiketb-nvidia",
+        "grahamking",
+        "ayushag-nv",
+        "elyasmnvidian",
+        "ryan-lempka"
+      ],
+      "llm_summary": "NVIDIA NeMo转换处理工具"
+    },
+    {
+      "owner": "ZuodaoTech",
+      "name": "everyone-can-use-english",
+      "full_name": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "language": "TypeScript",
+      "stars": 36078,
+      "forks": 5027,
+      "stars_today": 86,
+      "built_by": [
+        "lyricat",
+        "an-lee",
+        "divisey",
+        "zgw010",
+        "xiaolai"
+      ],
+      "llm_summary": "人人可用的英语学习平台"
+    },
+    {
+      "owner": "smicallef",
+      "name": "spiderfoot",
+      "full_name": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "stars": 20350,
+      "forks": 3300,
+      "stars_today": 74,
+      "built_by": [
+        "leotrubach",
+        "bcoles",
+        "krishnasism",
+        "amrawadk"
+      ],
+      "llm_summary": "自动化开源情报收集工具"
+    },
+    {
+      "owner": "localsend",
+      "name": "localsend",
+      "full_name": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "stars": 87816,
+      "forks": 4872,
+      "stars_today": 213,
+      "built_by": [
+        "gidano",
+        "ShlomoCode",
+        "TheGB0077",
+        "sergd88",
+        "Tienisto"
+      ],
+      "llm_summary": "跨平台文件传输AirDrop替代"
+    },
+    {
+      "owner": "Lightricks",
+      "name": "LTX-2",
+      "full_name": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "stars": 8713,
+      "forks": 1397,
+      "stars_today": 65,
+      "built_by": [
+        "github-actions",
+        "AlexeyKravtsov1987",
+        "michaellightricks"
+      ],
+      "llm_summary": "音视频生成模型训练工具包"
+    },
+    {
+      "owner": "embabel",
+      "name": "embabel-agent",
+      "full_name": "embabel/embabel-agent",
+      "url": "https://github.com/embabel/embabel-agent",
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "language": "Kotlin",
+      "stars": 4226,
+      "forks": 411,
+      "stars_today": 40,
+      "built_by": [
+        "johnsonr",
+        "jasperblues",
+        "alexheifetz",
+        "poutsma",
+        "igordayen"
+      ],
+      "llm_summary": "JVM环境代理开发框架"
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "full_name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars": 4231,
+      "forks": 304,
+      "stars_today": 315,
+      "built_by": [
+        "jakmro",
+        "kar-m",
+        "justinl66",
+        "HenryNdubuaku",
+        "ncylich"
+      ],
+      "llm_summary": "轻量级基础模型适配小型设备"
+    }
+  ]
+}
