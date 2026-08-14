@@ -1,0 +1,319 @@
+{
+  "date": "2026-08-14",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": 14575,
+      "forks": 878,
+      "stars_today": 4475,
+      "built_by": [
+        "Mr-Neutr0n",
+        "web-flow",
+        "mvanhorn",
+        "parveen0029"
+      ],
+      "llm_summary": "Claude Code专用29种图表类型"
+    },
+    {
+      "owner": "semantica-agi",
+      "name": "semantica",
+      "full_name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 6679,
+      "forks": 701,
+      "stars_today": 713,
+      "built_by": [
+        "ZohaibHassan16",
+        "Sameer6305",
+        "KaifAhmad1",
+        "dependabot",
+        "claude"
+      ],
+      "llm_summary": "图原生AI系统基础设施"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 169031,
+      "forks": 20127,
+      "stars_today": 312,
+      "built_by": [
+        "claude",
+        "maheshmurag",
+        "ericharmeling",
+        "rlancemartin",
+        "klazuka"
+      ],
+      "llm_summary": "AI代理技能公共资源库"
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "full_name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars": 4960,
+      "forks": 334,
+      "stars_today": 769,
+      "built_by": [
+        "kar-m",
+        "ncylich",
+        "HenryNdubuaku",
+        "jakmro",
+        "justinl66"
+      ],
+      "llm_summary": "14MB轻量级小型设备模型"
+    },
+    {
+      "owner": "altic-dev",
+      "name": "FluidVoice",
+      "full_name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "language": "Swift",
+      "stars": 9857,
+      "forks": 662,
+      "stars_today": 76,
+      "built_by": [
+        "postoso",
+        "BarathwajAnandan",
+        "claude",
+        "grohith327"
+      ],
+      "llm_summary": "macOS最快本地听写应用"
+    },
+    {
+      "owner": "unslothai",
+      "name": "unsloth",
+      "full_name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": 71063,
+      "forks": 6406,
+      "stars_today": 328,
+      "built_by": [
+        "shimmyshimmer",
+        "Datta0",
+        "danielhanchen",
+        "pre-commit-ci",
+        "wasimysaid"
+      ],
+      "llm_summary": "本地LLM和扩散模型训练UI"
+    },
+    {
+      "owner": "macro-inc",
+      "name": "macro",
+      "full_name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": 2606,
+      "forks": 276,
+      "stars_today": 1239,
+      "built_by": [
+        "synoet",
+        "sedson",
+        "evanhutnik",
+        "whutchinson98",
+        "gbirman"
+      ],
+      "llm_summary": "团队统一AI工作空间"
+    },
+    {
+      "owner": "megadose",
+      "name": "holehe",
+      "full_name": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "stars": 12426,
+      "forks": 1668,
+      "stars_today": 195,
+      "built_by": [
+        "byt3loss",
+        "Eriys",
+        "novitae",
+        "mxrch"
+      ],
+      "llm_summary": "邮箱网站使用情况检测工具"
+    },
+    {
+      "owner": "smicallef",
+      "name": "spiderfoot",
+      "full_name": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "stars": 20677,
+      "forks": 3315,
+      "stars_today": 283,
+      "built_by": [
+        "amrawadk",
+        "leotrubach",
+        "krishnasism",
+        "bcoles"
+      ],
+      "llm_summary": "自动化开源情报收集工具"
+    },
+    {
+      "owner": "NVIDIA-NeMo",
+      "name": "Switchyard",
+      "full_name": "NVIDIA-NeMo/Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "language": "Rust",
+      "stars": 1219,
+      "forks": 108,
+      "stars_today": 408,
+      "built_by": [
+        "nachiketb-nvidia",
+        "ayushag-nv",
+        "ryan-lempka",
+        "grahamking",
+        "elyasmnvidian"
+      ],
+      "llm_summary": "LLM应用跨模型路由工具"
+    },
+    {
+      "owner": "holaboss-ai",
+      "name": "holaOS",
+      "full_name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "language": "TypeScript",
+      "stars": 6604,
+      "forks": 600,
+      "stars_today": 241,
+      "built_by": [
+        "JeliPenguin",
+        "dependabot",
+        "claude",
+        "jotyy",
+        "jeffreyliimerch"
+      ],
+      "llm_summary": "开源一站式AI代理工作空间"
+    },
+    {
+      "owner": "kepano",
+      "name": "obsidian-skills",
+      "full_name": "kepano/obsidian-skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+      "language": "Unknown",
+      "stars": 45759,
+      "forks": 3296,
+      "stars_today": 292,
+      "built_by": [
+        "thibaultmol",
+        "Ethereal49",
+        "claude",
+        "chiahsien"
+      ],
+      "llm_summary": "Obsidian代理技能扩展"
+    },
+    {
+      "owner": "3b1b",
+      "name": "manim",
+      "full_name": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": 90867,
+      "forks": 7531,
+      "stars_today": 176,
+      "built_by": [
+        "TonyCrane",
+        "eulertour",
+        "bhbr",
+        "YishiMichael"
+      ],
+      "llm_summary": "数学教育视频动画引擎"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 145190,
+      "forks": 23487,
+      "stars_today": 778,
+      "built_by": [
+        "4shil",
+        "claude",
+        "Hotragn",
+        "epowelljr"
+      ],
+      "llm_summary": "完整AI代理专家集合"
+    },
+    {
+      "owner": "Lightricks",
+      "name": "LTX-2",
+      "full_name": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "stars": 8916,
+      "forks": 1407,
+      "stars_today": 205,
+      "built_by": [
+        "michaellightricks",
+        "AlexeyKravtsov1987",
+        "github-actions"
+      ],
+      "llm_summary": "LTX-2音视频模型训练工具"
+    },
+    {
+      "owner": "lightningpixel",
+      "name": "modly",
+      "full_name": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+      "language": "TypeScript",
+      "stars": 5419,
+      "forks": 574,
+      "stars_today": 118,
+      "built_by": [
+        "iammojogo-sudo",
+        "jokrasno",
+        "Lorchie",
+        "DrHepa"
+      ],
+      "llm_summary": "本地AI图像转3D模型工具"
+    },
+    {
+      "owner": "infiniflow",
+      "name": "ragflow",
+      "full_name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "stars": 88020,
+      "forks": 10353,
+      "stars_today": 465,
+      "built_by": [
+        "JinHai-CN",
+        "KevinHuSh",
+        "writinwaters",
+        "cike8899",
+        "yuzhichang"
+      ],
+      "llm_summary": "领先开源RAG引擎"
+    }
+  ]
+}
