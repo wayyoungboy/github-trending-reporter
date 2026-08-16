@@ -1,0 +1,249 @@
+{
+  "date": "2026-08-16",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "cordiverse",
+      "name": "cordis",
+      "full_name": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars": 4070,
+      "forks": 200,
+      "stars_today": 599,
+      "built_by": [
+        "undefined-moe",
+        "imccyu",
+        "shigma",
+        "CyanChanges",
+        "Hieuzest"
+      ],
+      "llm_summary": "时空组合元框架，灵活构建应用组件"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": 18613,
+      "forks": 1120,
+      "stars_today": 1607,
+      "built_by": [
+        "web-flow",
+        "Mr-Neutr0n",
+        "mvanhorn",
+        "parveen0029"
+      ],
+      "llm_summary": "29种高质量图表类型，无需依赖"
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 2950,
+      "forks": 233,
+      "stars_today": 149,
+      "built_by": [
+        "ericzakariasson",
+        "cursoragent",
+        "SamSokolin",
+        "n2parko",
+        "poteto"
+      ],
+      "llm_summary": "Cursor官方插件规范与扩展"
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "full_name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars": 6065,
+      "forks": 405,
+      "stars_today": 547,
+      "built_by": [
+        "ncylich",
+        "HenryNdubuaku",
+        "kar-m",
+        "jakmro",
+        "justinl66"
+      ],
+      "llm_summary": "14MB轻量级基础模型，适配小型设备"
+    },
+    {
+      "owner": "unslothai",
+      "name": "unsloth",
+      "full_name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": 72048,
+      "forks": 6494,
+      "stars_today": 434,
+      "built_by": [
+        "Datta0",
+        "shimmyshimmer",
+        "danielhanchen",
+        "wasimysaid",
+        "pre-commit-ci"
+      ],
+      "llm_summary": "本地大模型训练UI，支持多种模型"
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 460169,
+      "forks": 50854,
+      "stars_today": 2260,
+      "built_by": [
+        "ArindamOSS",
+        "jbrooksuk",
+        "davemachado",
+        "matheusfelipeog",
+        "pawelborkar"
+      ],
+      "llm_summary": "免费API资源集合，开发者必备"
+    },
+    {
+      "owner": "MakazhanAlpamys",
+      "name": "Soup",
+      "full_name": "MakazhanAlpamys/Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "language": "Python",
+      "stars": 1660,
+      "forks": 263,
+      "stars_today": 297,
+      "built_by": [
+        "Deadpool2000",
+        "claude",
+        "AmirF194",
+        "CODING-DARSH"
+      ],
+      "llm_summary": "YAML配置微调LLM，低资源高效训练"
+    },
+    {
+      "owner": "github",
+      "name": "spec-kit",
+      "full_name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 129197,
+      "forks": 11549,
+      "stars_today": 892,
+      "built_by": [
+        "Copilot",
+        "github-actions",
+        "claude",
+        "localden",
+        "mnriem"
+      ],
+      "llm_summary": "规范驱动开发工具包，快速上手"
+    },
+    {
+      "owner": "megadose",
+      "name": "holehe",
+      "full_name": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "stars": 13116,
+      "forks": 1742,
+      "stars_today": 382,
+      "built_by": [
+        "mxrch",
+        "byt3loss",
+        "novitae",
+        "Eriys"
+      ],
+      "llm_summary": "检测邮箱使用情况，找回账号信息"
+    },
+    {
+      "owner": "altic-dev",
+      "name": "FluidVoice",
+      "full_name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 -https://x.com/fluidvoiceapp",
+      "language": "Swift",
+      "stars": 10327,
+      "forks": 699,
+      "stars_today": 104,
+      "built_by": [
+        "postoso",
+        "claude",
+        "BarathwajAnandan",
+        "grohith327"
+      ],
+      "llm_summary": "最快macOS听写应用，本地AI增强"
+    },
+    {
+      "owner": "ToolJet",
+      "name": "ToolJet",
+      "full_name": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": 39537,
+      "forks": 5295,
+      "stars_today": 544,
+      "built_by": [
+        "adishM98",
+        "Navaneeth-pk",
+        "johnsoncherian",
+        "arpitnath",
+        "gsmithun4"
+      ],
+      "llm_summary": "企业级应用构建平台，AI驱动开发"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 47352,
+      "forks": 4393,
+      "stars_today": 118,
+      "built_by": [
+        "claude",
+        "hito0512",
+        "omerarslan0",
+        "yuh-yang",
+        "AiMiDi"
+      ],
+      "llm_summary": "软件代理化工具，提升命令行体验"
+    },
+    {
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "full_name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars": 10960,
+      "forks": 559,
+      "stars_today": 545,
+      "built_by": [
+        "section9-lab",
+        "aute",
+        "claude",
+        "braxtonROSE4",
+        "WUXM5"
+      ],
+      "llm_summary": "AI代理浏览器自动化，零配置共享状态"
+    }
+  ]
+}
