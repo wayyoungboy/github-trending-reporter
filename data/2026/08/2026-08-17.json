@@ -1,0 +1,139 @@
+{
+  "date": "2026-08-17",
+  "total_repos": 7,
+  "repositories": [
+    {
+      "owner": "cordiverse",
+      "name": "cordis",
+      "full_name": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars": 4716,
+      "forks": 249,
+      "stars_today": 720,
+      "built_by": [
+        "CyanChanges",
+        "undefined-moe",
+        "imccyu",
+        "shigma",
+        "Hieuzest"
+      ],
+      "llm_summary": "时空可组合性的TypeScript元框架系统"
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "full_name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 25375,
+      "forks": 2589,
+      "stars_today": 270,
+      "built_by": [
+        "ryanrhughes",
+        "tahayvr",
+        "dhh",
+        "pomartel",
+        "claude"
+      ],
+      "llm_summary": "美观现代且固执己见的Linux发行版"
+    },
+    {
+      "owner": "unslothai",
+      "name": "unsloth",
+      "full_name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": 72572,
+      "forks": 6545,
+      "stars_today": 572,
+      "built_by": [
+        "Datta0",
+        "wasimysaid",
+        "danielhanchen",
+        "pre-commit-ci",
+        "shimmyshimmer"
+      ],
+      "llm_summary": "本地化运行训练多种AI模型的工具"
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 83887,
+      "forks": 8283,
+      "stars_today": 150,
+      "built_by": [
+        "khanguyen74",
+        "anwarulislam",
+        "mazeincoding",
+        "DevloperAmanSingh",
+        "izadoesdev"
+      ],
+      "llm_summary": "CapCut的开源视频编辑替代方案"
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 461746,
+      "forks": 51006,
+      "stars_today": 1588,
+      "built_by": [
+        "pawelborkar",
+        "ArindamOSS",
+        "matheusfelipeog",
+        "jbrooksuk",
+        "davemachado"
+      ],
+      "llm_summary": "免费API资源的集体列表网站"
+    },
+    {
+      "owner": "ToolJet",
+      "name": "ToolJet",
+      "full_name": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": 40025,
+      "forks": 5330,
+      "stars_today": 452,
+      "built_by": [
+        "adishM98",
+        "gsmithun4",
+        "arpitnath",
+        "Navaneeth-pk",
+        "johnsoncherian"
+      ],
+      "llm_summary": "企业内部工具和AI代理构建平台"
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "full_name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars": 6563,
+      "forks": 433,
+      "stars_today": 443,
+      "built_by": [
+        "justinl66",
+        "HenryNdubuaku",
+        "kar-m",
+        "ncylich",
+        "jakmro"
+      ],
+      "llm_summary": "轻量级基础模型适配小型设备端"
+    }
+  ]
+}
