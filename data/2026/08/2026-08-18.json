@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-18",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 106009,
+      "forks": 16113,
+      "stars_today": 1189,
+      "built_by": [
+        "pcbntt",
+        "claude",
+        "yyhhyyyyyy",
+        "vuisme"
+      ],
+      "llm_summary": "AI一键生成高清短视频，自动化工作流"
+    },
+    {
+      "owner": "usestrix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 54163,
+      "forks": 5797,
+      "stars_today": 598,
+      "built_by": [
+        "devin-ai-integration",
+        "claude",
+        "bearsyankees",
+        "dependabot",
+        "0xallam"
+      ],
+      "llm_summary": "AI驱动的开源渗透测试工具"
+    },
+    {
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars": 25911,
+      "forks": 3371,
+      "stars_today": 120,
+      "built_by": [
+        "faysou",
+        "limx0",
+        "filipmacek",
+        "cjdsellers",
+        "davidsblom"
+      ],
+      "llm_summary": "生产级Rust原生交易引擎"
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 2050,
+      "forks": 193,
+      "stars_today": 207,
+      "built_by": [
+        "wblech",
+        "rthiago",
+        "djalmajr",
+        "claude"
+      ],
+      "llm_summary": "AI代理长期记忆解决方案"
+    },
+    {
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 28421,
+      "forks": 3446,
+      "stars_today": 198,
+      "built_by": [
+        "claude",
+        "juliosuas",
+        "valorisa",
+        "andrewibrah"
+      ],
+      "llm_summary": "AI代理网络安全技能库"
+    },
+    {
+      "owner": "AlexsJones",
+      "name": "llmfit",
+      "full_name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars": 32264,
+      "forks": 2000,
+      "stars_today": 198,
+      "built_by": [
+        "three-foxes-in-a-trenchcoat",
+        "dependabot",
+        "github-actions",
+        "claude"
+      ],
+      "llm_summary": "一键检测硬件支持的AI模型"
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": 64637,
+      "forks": 12650,
+      "stars_today": 218,
+      "built_by": [
+        "Scott-Emberson",
+        "Schlaflied",
+        "abankar1",
+        "claude"
+      ],
+      "llm_summary": "AI驱动的本地化求职助手"
+    },
+    {
+      "owner": "jundot",
+      "name": "omlx",
+      "full_name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 18986,
+      "forks": 1644,
+      "stars_today": 78,
+      "built_by": [
+        "github-actions",
+        "cfbraun",
+        "JimStenstrom",
+        "claude"
+      ],
+      "llm_summary": "Apple Silicon优化的LLM推理服务"
+    },
+    {
+      "owner": "immich-app",
+      "name": "immich",
+      "full_name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": 111152,
+      "forks": 6574,
+      "stars_today": 175,
+      "built_by": [
+        "alextran1502",
+        "jrasm91",
+        "shenlong-tanwen",
+        "danieldietzler",
+        "renovate"
+      ],
+      "llm_summary": "高性能自托管照片视频管理"
+    },
+    {
+      "owner": "cordiverse",
+      "name": "cordis",
+      "full_name": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars": 5578,
+      "forks": 296,
+      "stars_today": 957,
+      "built_by": [
+        "undefined-moe",
+        "imccyu",
+        "shigma",
+        "Hieuzest",
+        "CyanChanges"
+      ],
+      "llm_summary": "时空组合的元框架"
+    },
+    {
+      "owner": "agalwood",
+      "name": "Motrix",
+      "full_name": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars": 53073,
+      "forks": 4927,
+      "stars_today": 344,
+      "built_by": [
+        "dicarne",
+        "Raistlin916",
+        "shatyuka",
+        "kant"
+      ],
+      "llm_summary": "全功能下载管理工具"
+    }
+  ]
+}
