@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-19",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 108526,
+      "forks": 16475,
+      "stars_today": 2304,
+      "built_by": [
+        "vuisme",
+        "pcbntt",
+        "claude",
+        "yyhhyyyyyy"
+      ],
+      "llm_summary": "AI一键生成高清短视频"
+    },
+    {
+      "owner": "chaitanyagiri",
+      "name": "munder-difflin",
+      "full_name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": 2030,
+      "forks": 239,
+      "stars_today": 306,
+      "built_by": [
+        "qschmick",
+        "github-actions",
+        "claude",
+        "pdurlej"
+      ],
+      "llm_summary": "本地多智能体协同框架"
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 2721,
+      "forks": 232,
+      "stars_today": 648,
+      "built_by": [
+        "djalmajr",
+        "wblech",
+        "claude",
+        "rthiago"
+      ],
+      "llm_summary": "AI代理长期记忆解决方案"
+    },
+    {
+      "owner": "volcengine",
+      "name": "OpenViking",
+      "full_name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": 29374,
+      "forks": 2305,
+      "stars_today": 213,
+      "built_by": [
+        "r266-tech",
+        "qin-ctx",
+        "claude",
+        "zhoujh01",
+        "ZaynJarvis"
+      ],
+      "llm_summary": "AI代理自进化上下文数据库"
+    },
+    {
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 29188,
+      "forks": 3494,
+      "stars_today": 730,
+      "built_by": [
+        "andrewibrah",
+        "claude",
+        "valorisa",
+        "juliosuas"
+      ],
+      "llm_summary": "AI网络安全技能结构化库"
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 464553,
+      "forks": 51316,
+      "stars_today": 1005,
+      "built_by": [
+        "pawelborkar",
+        "davemachado",
+        "matheusfelipeog",
+        "ArindamOSS",
+        "jbrooksuk"
+      ],
+      "llm_summary": "免费API集合与分类"
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "full_name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 26422,
+      "forks": 2688,
+      "stars_today": 356,
+      "built_by": [
+        "tahayvr",
+        "dhh",
+        "claude",
+        "pomartel",
+        "ryanrhughes"
+      ],
+      "llm_summary": "现代化美观定制Linux发行版"
+    },
+    {
+      "owner": "agalwood",
+      "name": "Motrix",
+      "full_name": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars": 53657,
+      "forks": 4949,
+      "stars_today": 609,
+      "built_by": [
+        "Raistlin916",
+        "dicarne",
+        "kant",
+        "shatyuka"
+      ],
+      "llm_summary": "全功能多协议下载工具"
+    },
+    {
+      "owner": "NawfalMotii79",
+      "name": "PLFM_RADAR",
+      "full_name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": 24299,
+      "forks": 5587,
+      "stars_today": 192,
+      "built_by": [
+        "shaun0927",
+        "3aLaee",
+        "joyshmitz",
+        "JJassonn69"
+      ],
+      "llm_summary": "开源低成本相控阵雷达系统"
+    },
+    {
+      "owner": "jundot",
+      "name": "omlx",
+      "full_name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 19394,
+      "forks": 1669,
+      "stars_today": 370,
+      "built_by": [
+        "JimStenstrom",
+        "github-actions",
+        "claude",
+        "cfbraun"
+      ],
+      "llm_summary": "Apple Silicon高效LLM推理服务"
+    },
+    {
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "full_name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars": 39107,
+      "forks": 4311,
+      "stars_today": 543,
+      "built_by": [
+        "thejesh23",
+        "santhreal",
+        "whanyu1212",
+        "claude"
+      ],
+      "llm_summary": "AI Agent设计原理与实践指南"
+    },
+    {
+      "owner": "genlayerlabs",
+      "name": "genlayer-project-boilerplate",
+      "full_name": "genlayerlabs/genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 15938,
+      "forks": 801,
+      "stars_today": 535,
+      "built_by": [
+        "albert-mr",
+        "JoaquinBN",
+        "cristiam86",
+        "danieljrc888",
+        "MuncleUscles"
+      ],
+      "llm_summary": "项目快速开发模板库"
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 84776,
+      "forks": 8352,
+      "stars_today": 192,
+      "built_by": [
+        "anwarulislam",
+        "khanguyen74",
+        "DevloperAmanSingh",
+        "izadoesdev",
+        "mazeincoding"
+      ],
+      "llm_summary": "开源版CapCut视频编辑器"
+    }
+  ]
+}
