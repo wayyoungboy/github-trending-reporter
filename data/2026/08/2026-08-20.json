@@ -1,0 +1,242 @@
+{
+  "date": "2026-08-20",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 110640,
+      "forks": 16784,
+      "stars_today": 2221,
+      "built_by": [
+        "claude",
+        "vuisme",
+        "yyhhyyyyyy",
+        "pcbntt"
+      ],
+      "llm_summary": "AI一键生成高清短视频"
+    },
+    {
+      "owner": "volcengine",
+      "name": "OpenViking",
+      "full_name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": 30177,
+      "forks": 2335,
+      "stars_today": 804,
+      "built_by": [
+        "r266-tech",
+        "zhoujh01",
+        "claude",
+        "ZaynJarvis",
+        "qin-ctx"
+      ],
+      "llm_summary": "AI代理自进化上下文数据库"
+    },
+    {
+      "owner": "chaitanyagiri",
+      "name": "munder-difflin",
+      "full_name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": 2687,
+      "forks": 321,
+      "stars_today": 795,
+      "built_by": [
+        "claude",
+        "pdurlej",
+        "qschmick",
+        "github-actions"
+      ],
+      "llm_summary": "本地多代理协作框架"
+    },
+    {
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 29836,
+      "forks": 3537,
+      "stars_today": 766,
+      "built_by": [
+        "andrewibrah",
+        "claude",
+        "valorisa",
+        "juliosuas"
+      ],
+      "llm_summary": "AI代理网络安全技能库"
+    },
+    {
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars": 26441,
+      "forks": 3419,
+      "stars_today": 80,
+      "built_by": [
+        "cjdsellers",
+        "davidsblom",
+        "filipmacek",
+        "faysou",
+        "limx0"
+      ],
+      "llm_summary": "Rust原生确定性交易引擎"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 223793,
+      "forks": 19253,
+      "stars_today": 1894,
+      "built_by": [
+        "claude",
+        "gabimoncha",
+        "github-actions"
+      ],
+      "llm_summary": "工程师实用技能集合"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 274264,
+      "forks": 24555,
+      "stars_today": 557,
+      "built_by": [
+        "claude",
+        "arittr",
+        "jjshanks",
+        "clkao"
+      ],
+      "llm_summary": "有效的代理技能开发框架"
+    },
+    {
+      "owner": "jundot",
+      "name": "omlx",
+      "full_name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 19834,
+      "forks": 1690,
+      "stars_today": 472,
+      "built_by": [
+        "claude",
+        "JimStenstrom",
+        "cfbraun",
+        "github-actions"
+      ],
+      "llm_summary": "Apple Silicon LLM推理服务器"
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": 65786,
+      "forks": 12739,
+      "stars_today": 198,
+      "built_by": [
+        "abankar1",
+        "claude",
+        "Schlaflied",
+        "Scott-Emberson"
+      ],
+      "llm_summary": "AI驱动的求职自动化工具"
+    },
+    {
+      "owner": "immich-app",
+      "name": "immich",
+      "full_name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": 111871,
+      "forks": 6628,
+      "stars_today": 128,
+      "built_by": [
+        "jrasm91",
+        "renovate",
+        "danieldietzler",
+        "alextran1502",
+        "shenlong-tanwen"
+      ],
+      "llm_summary": "高性能自托管照片视频管理"
+    },
+    {
+      "owner": "amadeusprotocol",
+      "name": "node",
+      "full_name": "amadeusprotocol/node",
+      "url": "https://github.com/amadeusprotocol/node",
+      "description": "",
+      "language": "Rust",
+      "stars": 4540,
+      "forks": 85,
+      "stars_today": 1397,
+      "built_by": [
+        "valentynfaychuk",
+        "vans163",
+        "sdancer",
+        "claude",
+        "Talentnodes"
+      ]
+    },
+    {
+      "owner": "marceloprates",
+      "name": "prettymaps",
+      "full_name": "marceloprates/prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "language": "Python",
+      "stars": 13112,
+      "forks": 658,
+      "stars_today": 63,
+      "built_by": [
+        "G21-Goose",
+        "chrieke",
+        "arichnad",
+        "github-actions"
+      ],
+      "llm_summary": "OpenStreetMap美观地图绘制"
+    },
+    {
+      "owner": "genlayerlabs",
+      "name": "genlayer-project-boilerplate",
+      "full_name": "genlayerlabs/genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 16224,
+      "forks": 809,
+      "stars_today": 430,
+      "built_by": [
+        "JoaquinBN",
+        "cristiam86",
+        "MuncleUscles",
+        "albert-mr",
+        "danieljrc888"
+      ]
+    }
+  ]
+}
