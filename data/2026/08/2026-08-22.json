@@ -1,0 +1,319 @@
+{
+  "date": "2026-08-22",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 229488,
+      "forks": 19614,
+      "stars_today": 3362,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "gabimoncha"
+      ],
+      "llm_summary": "工程师实用技能库，源自实战经验"
+    },
+    {
+      "owner": "mahlernim",
+      "name": "google-timeline-visualizer",
+      "full_name": "mahlernim/google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "language": "Kotlin",
+      "stars": 2218,
+      "forks": 254,
+      "stars_today": 1053,
+      "built_by": [
+        "claude",
+        "Irishsmurf",
+        "petercpg",
+        "fede1608"
+      ],
+      "llm_summary": "Google位置历史可视化，呈现年度旅行轨迹"
+    },
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 113905,
+      "forks": 17285,
+      "stars_today": 1201,
+      "built_by": [
+        "claude",
+        "pcbntt",
+        "vuisme",
+        "yyhhyyyyyy"
+      ],
+      "llm_summary": "AI自动化生成高清短视频，一键操作"
+    },
+    {
+      "owner": "AprilNEA",
+      "name": "OpenLogi",
+      "full_name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars": 12931,
+      "forks": 351,
+      "stars_today": 1380,
+      "built_by": [
+        "tagawa0525",
+        "davidbudnick",
+        "cserby",
+        "aprilnea"
+      ],
+      "llm_summary": "本地化罗技设备配置，无账户无遥测"
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 38290,
+      "forks": 3232,
+      "stars_today": 335,
+      "built_by": [
+        "pauldambra",
+        "Gilbert09",
+        "claude",
+        "github-actions",
+        "Twixes"
+      ],
+      "llm_summary": "AI驱动产品分析平台，全方位优化体验"
+    },
+    {
+      "owner": "microsoft",
+      "name": "TypeScript",
+      "full_name": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "Go",
+      "stars": 110374,
+      "forks": 13741,
+      "stars_today": 65,
+      "built_by": [
+        "sandersn",
+        "mhegazy",
+        "sheetalkamat",
+        "ahejlsberg",
+        "DanielRosenwasser"
+      ],
+      "llm_summary": "JavaScript超集，提供类型安全编译"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 275656,
+      "forks": 24645,
+      "stars_today": 790,
+      "built_by": [
+        "clkao",
+        "claude",
+        "jjshanks",
+        "arittr"
+      ],
+      "llm_summary": "实用代理技能框架与开发方法论"
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": 67443,
+      "forks": 12869,
+      "stars_today": 921,
+      "built_by": [
+        "claude",
+        "abankar1",
+        "Scott-Emberson",
+        "Schlaflied"
+      ],
+      "llm_summary": "本地化AI求职助手，智能评估职位"
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 4399,
+      "forks": 366,
+      "stars_today": 388,
+      "built_by": [
+        "SamSokolin",
+        "ericzakariasson",
+        "n2parko",
+        "cursoragent",
+        "poteto"
+      ],
+      "llm_summary": "Cursor官方插件规范与扩展"
+    },
+    {
+      "owner": "modular",
+      "name": "modular",
+      "full_name": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "stars": 28684,
+      "forks": 3053,
+      "stars_today": 913,
+      "built_by": [
+        "abduld",
+        "lattner",
+        "keith",
+        "JoeLoser",
+        "atomicapple0"
+      ],
+      "llm_summary": "Mojo语言开发平台，集成MAX工具"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 241788,
+      "forks": 36656,
+      "stars_today": 357,
+      "built_by": [
+        "claude",
+        "haelyra",
+        "dependabot",
+        "pangerlkr"
+      ],
+      "llm_summary": "AI代理性能优化系统，提升开发效率"
+    },
+    {
+      "owner": "TryGhost",
+      "name": "Ghost",
+      "full_name": "TryGhost/Ghost",
+      "url": "https://github.com/TryGhost/Ghost",
+      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+      "language": "JavaScript",
+      "stars": 54882,
+      "forks": 11903,
+      "stars_today": 32,
+      "built_by": [
+        "ErisDS",
+        "renovate",
+        "renovate-bot",
+        "allouis",
+        "kevinansfield"
+      ],
+      "llm_summary": "现代独立出版平台，支持会员订阅"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 68643,
+      "forks": 8244,
+      "stars_today": 140,
+      "built_by": [
+        "claude",
+        "alexx-ftw",
+        "dajiaohuang",
+        "proffesor-for-testing"
+      ],
+      "llm_summary": "多代理协作平台，构建智能对话系统"
+    },
+    {
+      "owner": "apache",
+      "name": "maka",
+      "full_name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars": 2015,
+      "forks": 240,
+      "stars_today": 148,
+      "built_by": [
+        "hqhq1025",
+        "jackwener",
+        "likun666661",
+        "Astro-Han",
+        "M4n5ter"
+      ],
+      "llm_summary": "本地优先AI代理工作空间，仅追加日志记录"
+    },
+    {
+      "owner": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 71769,
+      "forks": 16236,
+      "stars_today": 4,
+      "built_by": [
+        "protobuf-github-bot",
+        "mkruskal-google",
+        "haberman",
+        "xfxyjwf",
+        "protobuf-team-bot"
+      ],
+      "llm_summary": "Google高效数据交换格式"
+    },
+    {
+      "owner": "elder-plinius",
+      "name": "OBLITERATUS",
+      "full_name": "elder-plinius/OBLITERATUS",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "language": "Python",
+      "stars": 7787,
+      "forks": 1432,
+      "stars_today": 63,
+      "built_by": [
+        "ajmeese7",
+        "StellaAthena",
+        "brianbell-x",
+        "jmagly"
+      ],
+      "llm_summary": "打破束缚，释放个人自由"
+    },
+    {
+      "owner": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": 21445,
+      "forks": 4148,
+      "stars_today": 5,
+      "built_by": [
+        "edgchen1",
+        "skottmckay",
+        "fs-eire",
+        "tianleiwu",
+        "yuslepukhin"
+      ],
+      "llm_summary": "跨平台高性能ML推理加速器"
+    }
+  ]
+}
