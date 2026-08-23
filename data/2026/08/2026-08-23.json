@@ -1,0 +1,321 @@
+{
+  "date": "2026-08-23",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 113368,
+      "forks": 17364,
+      "stars_today": 1544,
+      "built_by": [
+        "bolinfest",
+        "aibrahim-oai",
+        "jif-oai",
+        "etraut-openai",
+        "pakrym-oai"
+      ],
+      "llm_summary": "轻量级终端编程助手，提升开发效率"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 232042,
+      "forks": 19809,
+      "stars_today": 2683,
+      "built_by": [
+        "gabimoncha",
+        "claude",
+        "github-actions"
+      ],
+      "llm_summary": "工程师实用技能库，直接来自实践"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 242170,
+      "forks": 36701,
+      "stars_today": 411,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "haelyra",
+        "pangerlkr"
+      ],
+      "llm_summary": "AI代理性能优化系统，提升多平台效率"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 276191,
+      "forks": 24699,
+      "stars_today": 592,
+      "built_by": [
+        "jjshanks",
+        "claude",
+        "clkao",
+        "arittr"
+      ],
+      "llm_summary": "有效的代理技能框架，优化软件开发流程"
+    },
+    {
+      "owner": "Wei-Shaw",
+      "name": "sub2api",
+      "full_name": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "stars": 38784,
+      "forks": 8039,
+      "stars_today": 278,
+      "built_by": [
+        "IanShaw027",
+        "claude",
+        "wucm667",
+        "touwaeriol"
+      ],
+      "llm_summary": "AI服务统一接入平台，支持共享订阅"
+    },
+    {
+      "owner": "makeplane",
+      "name": "plane",
+      "full_name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": 57223,
+      "forks": 5442,
+      "stars_today": 263,
+      "built_by": [
+        "sriramveeraghanta",
+        "anmolsinghbhatia",
+        "pablohashescobar",
+        "aaryan610",
+        "NarayanBavisetti"
+      ],
+      "llm_summary": "现代化项目管理平台，替代Jira等工具"
+    },
+    {
+      "owner": "n8n-io",
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": 201813,
+      "forks": 60302,
+      "stars_today": 149,
+      "built_by": [
+        "ivov",
+        "janober",
+        "RicardoE105",
+        "claude",
+        "netroy"
+      ],
+      "llm_summary": "AI原生工作流自动化平台，可视化构建"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "stars": 142535,
+      "forks": 22838,
+      "stars_today": 127,
+      "built_by": [
+        "ashwin-ant",
+        "bcherny",
+        "claude",
+        "actions-user",
+        "ant-kurt"
+      ],
+      "llm_summary": "终端AI编程助手，理解代码库提升效率"
+    },
+    {
+      "owner": "AprilNEA",
+      "name": "OpenLogi",
+      "full_name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars": 13940,
+      "forks": 373,
+      "stars_today": 959,
+      "built_by": [
+        "cserby",
+        "tagawa0525",
+        "aprilnea",
+        "davidbudnick"
+      ],
+      "llm_summary": "本地化罗技设备管理工具，无账户无追踪"
+    },
+    {
+      "owner": "modular",
+      "name": "modular",
+      "full_name": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "stars": 28843,
+      "forks": 3066,
+      "stars_today": 395,
+      "built_by": [
+        "lattner",
+        "atomicapple0",
+        "abduld",
+        "keith",
+        "JoeLoser"
+      ],
+      "llm_summary": "模块化AI开发平台，包含MAX与Mojo"
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 205304,
+      "forks": 21007,
+      "stars_today": 315,
+      "built_by": [
+        "back1ply",
+        "szkocot",
+        "herobrine19",
+        "forrestchang",
+        "claude"
+      ],
+      "llm_summary": "Claude Code行为优化指南，避免LLM编程陷阱"
+    },
+    {
+      "owner": "mahlernim",
+      "name": "google-timeline-visualizer",
+      "full_name": "mahlernim/google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "language": "Kotlin",
+      "stars": 2565,
+      "forks": 301,
+      "stars_today": 441,
+      "built_by": [
+        "petercpg",
+        "claude",
+        "fede1608",
+        "AhmaadKaleeem"
+      ],
+      "llm_summary": "谷歌位置历史可视化工具，展示年度行程"
+    },
+    {
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "full_name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 133907,
+      "forks": 14028,
+      "stars_today": 829,
+      "built_by": [
+        "Skxxtz",
+        "TraderStf",
+        "FatGrizzly",
+        "thispsj"
+      ],
+      "llm_summary": "DevOps免费服务列表，助力基础设施开发"
+    },
+    {
+      "owner": "microsoft",
+      "name": "TypeScript",
+      "full_name": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "Go",
+      "stars": 110538,
+      "forks": 13745,
+      "stars_today": 104,
+      "built_by": [
+        "sandersn",
+        "ahejlsberg",
+        "DanielRosenwasser",
+        "mhegazy",
+        "sheetalkamat"
+      ],
+      "llm_summary": "JavaScript超集，编译为纯净JS代码"
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 4663,
+      "forks": 382,
+      "stars_today": 286,
+      "built_by": [
+        "SamSokolin",
+        "n2parko",
+        "poteto",
+        "cursoragent",
+        "ericzakariasson"
+      ],
+      "llm_summary": "Cursor插件规范与官方插件集合"
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 38615,
+      "forks": 3244,
+      "stars_today": 286,
+      "built_by": [
+        "github-actions",
+        "Gilbert09",
+        "claude",
+        "Twixes",
+        "pauldambra"
+      ],
+      "llm_summary": "AI驱动产品开发平台，全方位监控与分析"
+    },
+    {
+      "owner": "Tencent",
+      "name": "AI-Infra-Guard",
+      "full_name": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "language": "Python",
+      "stars": 5494,
+      "forks": 518,
+      "stars_today": 150,
+      "built_by": [
+        "aigsec",
+        "zonalalala",
+        "boy-hack",
+        "rocie799",
+        "y3oZ"
+      ],
+      "llm_summary": "AI安全红队测试平台，全方位安全评估"
+    }
+  ]
+}
