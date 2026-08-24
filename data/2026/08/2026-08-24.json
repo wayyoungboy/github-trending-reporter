@@ -1,0 +1,338 @@
+{
+  "date": "2026-08-24",
+  "total_repos": 18,
+  "repositories": [
+    {
+      "owner": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 115162,
+      "forks": 17563,
+      "stars_today": 2715,
+      "built_by": [
+        "etraut-openai",
+        "bolinfest",
+        "pakrym-oai",
+        "jif-oai",
+        "aibrahim-oai"
+      ],
+      "llm_summary": "轻量级终端编程助手，提升编码效率"
+    },
+    {
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": 12702,
+      "forks": 1427,
+      "stars_today": 401,
+      "built_by": [
+        "sscodeai",
+        "claude",
+        "LengShangbai",
+        "ImgBotApp"
+      ],
+      "llm_summary": "工业级提示词引擎，470+案例模板库"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 233846,
+      "forks": 19945,
+      "stars_today": 2447,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "gabimoncha"
+      ],
+      "llm_summary": "工程师实用技能库，直接可用"
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "full_name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 29128,
+      "forks": 2960,
+      "stars_today": 750,
+      "built_by": [
+        "dhh",
+        "tahayvr",
+        "pomartel",
+        "claude",
+        "ryanrhughes"
+      ],
+      "llm_summary": "美观现代的Linux发行版"
+    },
+    {
+      "owner": "AprilNEA",
+      "name": "OpenLogi",
+      "full_name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "stars": 14936,
+      "forks": 399,
+      "stars_today": 1009,
+      "built_by": [
+        "github-actions",
+        "cserby",
+        "davidbudnick",
+        "aprilnea"
+      ],
+      "llm_summary": "本地罗技设备管理工具，无需账户"
+    },
+    {
+      "owner": "block",
+      "name": "buzz",
+      "full_name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 30103,
+      "forks": 3826,
+      "stars_today": 410,
+      "built_by": [
+        "wesbillman",
+        "klopez4212",
+        "tlongwell-block",
+        "claude",
+        "wpfleger96"
+      ],
+      "llm_summary": "群体思维通信协作平台"
+    },
+    {
+      "owner": "apache",
+      "name": "maka",
+      "full_name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars": 2352,
+      "forks": 269,
+      "stars_today": 51,
+      "built_by": [
+        "hqhq1025",
+        "jackwener",
+        "M4n5ter",
+        "Astro-Han",
+        "likun666661"
+      ],
+      "llm_summary": "本地优先AI代理工作空间，记录操作日志"
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars": 47961,
+      "forks": 7891,
+      "stars_today": 1081,
+      "built_by": [
+        "rishiskhare",
+        "dependabot",
+        "cursoragent",
+        "claude"
+      ],
+      "llm_summary": "免费使用Claude等AI编码工具"
+    },
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "language": "Rust",
+      "stars": 36741,
+      "forks": 3670,
+      "stars_today": 39,
+      "built_by": [
+        "senamakel",
+        "M3gA-Mind",
+        "claude",
+        "graycyrus",
+        "medullabot"
+      ],
+      "llm_summary": "个人超级AI，本地记忆与智能调度"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 242554,
+      "forks": 36719,
+      "stars_today": 427,
+      "built_by": [
+        "haelyra",
+        "dependabot",
+        "claude",
+        "pangerlkr"
+      ],
+      "llm_summary": "代理性能优化系统，提升AI工具效率"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 69069,
+      "forks": 8273,
+      "stars_today": 131,
+      "built_by": [
+        "alexx-ftw",
+        "proffesor-for-testing",
+        "claude",
+        "dajiaohuang"
+      ],
+      "llm_summary": "智能代理元控制平台，协调多代理系统"
+    },
+    {
+      "owner": "VoltAgent",
+      "name": "awesome-agent-skills",
+      "full_name": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "language": "Unknown",
+      "stars": 31288,
+      "forks": 3363,
+      "stars_today": 156,
+      "built_by": [
+        "Shasikhan",
+        "necatiozmen",
+        "claude",
+        "kriptoburak",
+        "noelo"
+      ],
+      "llm_summary": "1000+代理技能库，多平台兼容"
+    },
+    {
+      "owner": "virgiliojr94",
+      "name": "book-to-skill",
+      "full_name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 24657,
+      "forks": 2580,
+      "stars_today": 417,
+      "built_by": [
+        "Copilot",
+        "dex0shubham",
+        "claude",
+        "Hotragn"
+      ],
+      "llm_summary": "技术书籍转Claude技能，边学边用"
+    },
+    {
+      "owner": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": 65957,
+      "forks": 3126,
+      "stars_today": 78,
+      "built_by": [
+        "jjlin",
+        "mprasil",
+        "BlackDex",
+        "stefan0xC"
+      ],
+      "llm_summary": "Rust编写的Bitwarden兼容服务器"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-community",
+      "full_name": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "Python",
+      "stars": 942,
+      "forks": 126,
+      "stars_today": 225,
+      "built_by": [
+        "bryan-anthropic",
+        "tobinsouth",
+        "ThariqS",
+        "claude",
+        "github-actions"
+      ],
+      "llm_summary": "Claude社区插件市场，扩展功能"
+    },
+    {
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "full_name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 134423,
+      "forks": 14062,
+      "stars_today": 615,
+      "built_by": [
+        "TraderStf",
+        "thispsj",
+        "Skxxtz",
+        "FatGrizzly"
+      ],
+      "llm_summary": "免费开发运维服务资源列表"
+    },
+    {
+      "owner": "Comfy-Org",
+      "name": "ComfyUI",
+      "full_name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars": 129385,
+      "forks": 15255,
+      "stars_today": 201,
+      "built_by": [
+        "comfyui-wiki",
+        "comfyanonymous",
+        "pythongosssss",
+        "rattus128",
+        "bigcat88"
+      ],
+      "llm_summary": "强大模块化扩散模型图形界面"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 234986,
+      "forks": 47344,
+      "stars_today": 454,
+      "built_by": [
+        "benbarclay",
+        "OutThisLife",
+        "kshitijk4poor",
+        "teknium1",
+        "claude"
+      ],
+      "llm_summary": "与用户共同成长的智能代理"
+    }
+  ]
+}
