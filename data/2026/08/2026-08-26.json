@@ -1,0 +1,284 @@
+{
+  "date": "2026-08-26",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": 17736,
+      "forks": 1835,
+      "stars_today": 1698,
+      "built_by": [
+        "LengShangbai",
+        "sscodeai",
+        "claude",
+        "ImgBotApp"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-community",
+      "full_name": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "Python",
+      "stars": 1746,
+      "forks": 178,
+      "stars_today": 351,
+      "built_by": [
+        "tobinsouth",
+        "github-actions",
+        "claude",
+        "bryan-anthropic",
+        "ThariqS"
+      ]
+    },
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars": 35264,
+      "forks": 12135,
+      "stars_today": 1265,
+      "built_by": [
+        "claude",
+        "ayobamiseun",
+        "oscarbol09",
+        "LeoWinston-9596"
+      ]
+    },
+    {
+      "owner": "apache",
+      "name": "maka",
+      "full_name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "stars": 3328,
+      "forks": 330,
+      "stars_today": 543,
+      "built_by": [
+        "likun666661",
+        "jackwener",
+        "M4n5ter",
+        "Astro-Han",
+        "hqhq1025"
+      ]
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 100245,
+      "forks": 19352,
+      "stars_today": 218,
+      "built_by": [
+        "EdwardoSunny",
+        "claude",
+        "CadeYu",
+        "Yijia-Xiao",
+        "luohy15"
+      ]
+    },
+    {
+      "owner": "AgriciDaniel",
+      "name": "claude-obsidian",
+      "full_name": "AgriciDaniel/claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "language": "Python",
+      "stars": 12711,
+      "forks": 1380,
+      "stars_today": 813,
+      "built_by": [
+        "claude"
+      ]
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 48965,
+      "forks": 8564,
+      "stars_today": 569,
+      "built_by": [
+        "github-actions",
+        "thejesh23",
+        "abhinav-m22",
+        "thereisnotime"
+      ]
+    },
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "language": "Rust",
+      "stars": 37770,
+      "forks": 3735,
+      "stars_today": 542,
+      "built_by": [
+        "M3gA-Mind",
+        "senamakel",
+        "graycyrus",
+        "claude",
+        "medullabot"
+      ]
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "full_name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 31259,
+      "forks": 3180,
+      "stars_today": 1083,
+      "built_by": [
+        "ryanrhughes",
+        "tahayvr",
+        "omarchybot",
+        "dhh",
+        "claude"
+      ]
+    },
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "stars": 134225,
+      "forks": 19742,
+      "stars_today": 161,
+      "built_by": [
+        "claude",
+        "thejesh23",
+        "onestardao",
+        "Madhuvod"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 207202,
+      "forks": 21144,
+      "stars_today": 830,
+      "built_by": [
+        "herobrine19",
+        "back1ply",
+        "claude",
+        "szkocot",
+        "forrestchang"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 118103,
+      "forks": 17995,
+      "stars_today": 1181,
+      "built_by": [
+        "pakrym-oai",
+        "bolinfest",
+        "aibrahim-oai",
+        "jif-oai",
+        "etraut-openai"
+      ]
+    },
+    {
+      "owner": "marin-community",
+      "name": "marin",
+      "full_name": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "language": "Python",
+      "stars": 2101,
+      "forks": 192,
+      "stars_today": 231,
+      "built_by": [
+        "rjpower",
+        "abhinavg4",
+        "BabyChouSr",
+        "ravwojdyla",
+        "dlwh"
+      ]
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 111010,
+      "forks": 6098,
+      "stars_today": 982,
+      "built_by": [
+        "dhedhialy",
+        "claude",
+        "Lakshya77089",
+        "ousamabenyounes"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 34089,
+      "forks": 3869,
+      "stars_today": 55,
+      "built_by": [
+        "tobinsouth",
+        "github-actions",
+        "claude",
+        "k6l3",
+        "bryan-anthropic"
+      ]
+    },
+    {
+      "owner": "asciimoo",
+      "name": "hister",
+      "full_name": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars": 2773,
+      "forks": 122,
+      "stars_today": 98,
+      "built_by": [
+        "4evy",
+        "Shadowbee27",
+        "dependabot",
+        "ISSOtm"
+      ]
+    }
+  ]
+}
