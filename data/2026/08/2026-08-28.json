@@ -1,0 +1,351 @@
+{
+  "date": "2026-08-28",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 9319,
+      "forks": 1991,
+      "stars_today": 1984,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "浏览器实时卫星模拟，3D地球空间情报"
+    },
+    {
+      "owner": "zedeus",
+      "name": "nitter",
+      "full_name": "zedeus/nitter",
+      "url": "https://github.com/zedeus/nitter",
+      "description": "Alternative Twitter front-end",
+      "language": "Nim",
+      "stars": 14001,
+      "forks": 1160,
+      "stars_today": 71,
+      "built_by": [
+        "jackyzy823",
+        "setenforce0",
+        "LainLayer",
+        "PeterDaveHello"
+      ],
+      "llm_summary": "Twitter开源替代前端界面"
+    },
+    {
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": 23680,
+      "forks": 2351,
+      "stars_today": 2096,
+      "built_by": [
+        "claude",
+        "ImgBotApp",
+        "sscodeai",
+        "LengShangbai"
+      ],
+      "llm_summary": "工业级GPT提示词引擎与模板库"
+    },
+    {
+      "owner": "tt-a1i",
+      "name": "archify",
+      "full_name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars": 24816,
+      "forks": 1592,
+      "stars_today": 4239,
+      "built_by": [
+        "claude",
+        "sunsunsun-java",
+        "cursoragent",
+        "YunyueLi"
+      ],
+      "llm_summary": "AI架构图生成工具，支持多种图表类型"
+    },
+    {
+      "owner": "JetBrains",
+      "name": "go-modern-guidelines",
+      "full_name": "JetBrains/go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "language": "Go",
+      "stars": 2332,
+      "forks": 69,
+      "stars_today": 300,
+      "built_by": [
+        "endigma",
+        "Splatjov",
+        "raeperd",
+        "nikitakuchur",
+        "simpletonDL"
+      ],
+      "llm_summary": "AI编写现代Go代码的指南"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 34791,
+      "forks": 3920,
+      "stars_today": 292,
+      "built_by": [
+        "tobinsouth",
+        "github-actions",
+        "claude",
+        "k6l3",
+        "bryan-anthropic"
+      ],
+      "llm_summary": "Anthropic官方Claude插件目录"
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 35555,
+      "forks": 3417,
+      "stars_today": 498,
+      "built_by": [
+        "cursoragent",
+        "github-actions",
+        "TKassis",
+        "claude",
+        "borealBytes"
+      ],
+      "llm_summary": "AI科学家技能库，覆盖多学科领域"
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 114526,
+      "forks": 6258,
+      "stars_today": 1613,
+      "built_by": [
+        "claude",
+        "ousamabenyounes",
+        "dhedhialy",
+        "Lakshya77089"
+      ],
+      "llm_summary": "AI代码优化工具，减少编写代码量"
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 52725,
+      "forks": 6582,
+      "stars_today": 1292,
+      "built_by": [
+        "claude",
+        "yiyabo",
+        "0xDevNinja",
+        "xucailiang"
+      ],
+      "llm_summary": "开源AI视频制作系统，全流程支持"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 50367,
+      "forks": 8750,
+      "stars_today": 552,
+      "built_by": [
+        "abhinav-m22",
+        "thejesh23",
+        "github-actions",
+        "thereisnotime"
+      ],
+      "llm_summary": "从零开始学习AI工程实践"
+    },
+    {
+      "owner": "ConardLi",
+      "name": "garden-skills",
+      "full_name": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "language": "CSS",
+      "stars": 11448,
+      "forks": 1418,
+      "stars_today": 415,
+      "built_by": [
+        "cursoragent",
+        "github-actions",
+        "eltociear"
+      ],
+      "llm_summary": "开源AI技能集合，多功能集成"
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "JavaScript",
+      "stars": 92399,
+      "forks": 8122,
+      "stars_today": 143,
+      "built_by": [
+        "claude",
+        "ousamabenyounes",
+        "rodboev",
+        "Copilot"
+      ],
+      "llm_summary": "AI代理会话持久化上下文管理"
+    },
+    {
+      "owner": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 39087,
+      "forks": 10866,
+      "stars_today": 9,
+      "built_by": [
+        "copybara-github",
+        "derekmauro",
+        "kuzkry",
+        "gennadiycivil"
+      ],
+      "llm_summary": "Google官方C++测试框架"
+    },
+    {
+      "owner": "AgriciDaniel",
+      "name": "claude-obsidian",
+      "full_name": "AgriciDaniel/claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "language": "Python",
+      "stars": 14182,
+      "forks": 1431,
+      "stars_today": 634,
+      "built_by": [
+        "claude",
+        "cd59edc5e941ba92783589b343d27a933_fnmap",
+        "codex"
+      ],
+      "llm_summary": "Obsidian的AI知识图谱构建工具"
+    },
+    {
+      "owner": "marin-community",
+      "name": "marin",
+      "full_name": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "language": "Python",
+      "stars": 2757,
+      "forks": 232,
+      "stars_today": 255,
+      "built_by": [
+        "BabyChouSr",
+        "ravwojdyla",
+        "rjpower",
+        "abhinavg4",
+        "dlwh"
+      ],
+      "llm_summary": "基础模型研发开源框架"
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 73725,
+      "forks": 8449,
+      "stars_today": 130,
+      "built_by": [
+        "sohamganatra",
+        "mellson",
+        "Prat011",
+        "claude",
+        "sanjay3290"
+      ],
+      "llm_summary": "Claude技能精选与工作流定制"
+    },
+    {
+      "owner": "actions",
+      "name": "checkout",
+      "full_name": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
+      "language": "TypeScript",
+      "stars": 8757,
+      "forks": 2751,
+      "stars_today": 8,
+      "built_by": [
+        "thboop",
+        "jww3",
+        "dependabot",
+        "ericsciple",
+        "cory-miller"
+      ],
+      "llm_summary": "GitHub仓库检出Action工具"
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 87598,
+      "forks": 8642,
+      "stars_today": 478,
+      "built_by": [
+        "mazeincoding",
+        "izadoesdev",
+        "khanguyen74",
+        "DevloperAmanSingh",
+        "anwarulislam"
+      ],
+      "llm_summary": "开源CapCut视频编辑替代品"
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 101424,
+      "forks": 19492,
+      "stars_today": 229,
+      "built_by": [
+        "CadeYu",
+        "EdwardoSunny",
+        "luohy15",
+        "Yijia-Xiao",
+        "claude"
+      ],
+      "llm_summary": "AI多代理金融交易框架"
+    }
+  ]
+}
