@@ -1,0 +1,373 @@
+{
+  "date": "2026-08-29",
+  "total_repos": 20,
+  "repositories": [
+    {
+      "owner": "tt-a1i",
+      "name": "archify",
+      "full_name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars": 28072,
+      "forks": 1776,
+      "stars_today": 4562,
+      "built_by": [
+        "cursoragent",
+        "YunyueLi",
+        "sunsunsun-java",
+        "claude"
+      ],
+      "llm_summary": "创建专业架构图表，支持动画与导出功能"
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 36840,
+      "forks": 3500,
+      "stars_today": 720,
+      "built_by": [
+        "TKassis",
+        "claude",
+        "cursoragent",
+        "github-actions",
+        "borealBytes"
+      ],
+      "llm_summary": "赋予AI科学家能力，覆盖多学科数据库"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 35093,
+      "forks": 3938,
+      "stars_today": 457,
+      "built_by": [
+        "k6l3",
+        "claude",
+        "github-actions",
+        "bryan-anthropic",
+        "tobinsouth"
+      ],
+      "llm_summary": "官方高质量Claude插件目录"
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 11313,
+      "forks": 2290,
+      "stars_today": 3829,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "浏览器中的真实数据卫星模拟器"
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 46197,
+      "forks": 5105,
+      "stars_today": 202,
+      "built_by": [
+        "azizur100389",
+        "claude",
+        "magyargergo",
+        "dependabot"
+      ],
+      "llm_summary": "浏览器端代码知识图谱创建工具"
+    },
+    {
+      "owner": "JetBrains",
+      "name": "go-modern-guidelines",
+      "full_name": "JetBrains/go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "language": "Go",
+      "stars": 2645,
+      "forks": 79,
+      "stars_today": 574,
+      "built_by": [
+        "Splatjov",
+        "simpletonDL",
+        "raeperd",
+        "nikitakuchur",
+        "endigma"
+      ],
+      "llm_summary": "指导AI编写现代Go代码"
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 53436,
+      "forks": 6660,
+      "stars_today": 1144,
+      "built_by": [
+        "xucailiang",
+        "yiyabo",
+        "claude",
+        "0xDevNinja"
+      ],
+      "llm_summary": "开源AI视频制作系统，打造完整工作室"
+    },
+    {
+      "owner": "abi",
+      "name": "screenshot-to-code",
+      "full_name": "abi/screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "language": "Python",
+      "stars": 75645,
+      "forks": 9223,
+      "stars_today": 326,
+      "built_by": [
+        "kachbit",
+        "sweep-ai-deprecated",
+        "clean99",
+        "claude"
+      ],
+      "llm_summary": "截图一键转换为干净代码"
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 6008,
+      "forks": 480,
+      "stars_today": 246,
+      "built_by": [
+        "cursoragent",
+        "ericzakariasson",
+        "poteto",
+        "roshansada",
+        "n2parko"
+      ],
+      "llm_summary": "Cursor插件规范与官方插件库"
+    },
+    {
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": 24411,
+      "forks": 2410,
+      "stars_today": 1687,
+      "built_by": [
+        "LengShangbai",
+        "sscodeai",
+        "claude",
+        "ImgBotApp"
+      ],
+      "llm_summary": "工业级提示词引擎与模板库"
+    },
+    {
+      "owner": "tailscale",
+      "name": "tailcat",
+      "full_name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "language": "Go",
+      "stars": 2867,
+      "forks": 78,
+      "stars_today": 965,
+      "built_by": [
+        "raggi",
+        "bradfitz",
+        "danderson",
+        "jwhited",
+        "andrew-d"
+      ],
+      "llm_summary": "基于Tailscale的netcat替代工具"
+    },
+    {
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 73391,
+      "forks": 8015,
+      "stars_today": 191,
+      "built_by": [
+        "dragonmacher",
+        "ghidra1",
+        "nsadeveloper789",
+        "caheckman",
+        "ryanmkurtz"
+      ],
+      "llm_summary": "官方软件逆向工程框架"
+    },
+    {
+      "owner": "swoole",
+      "name": "typephp",
+      "full_name": "swoole/typephp",
+      "url": "https://github.com/swoole/typephp",
+      "description": "Compile PHP to Native Binaries",
+      "language": "PHP",
+      "stars": 831,
+      "forks": 40,
+      "stars_today": 188,
+      "built_by": [
+        "AlessioGiacobbe",
+        "NathanFreeman",
+        "hafung",
+        "Yurunsoft",
+        "matyhtf"
+      ],
+      "llm_summary": "将PHP编译为原生二进制文件"
+    },
+    {
+      "owner": "marin-community",
+      "name": "marin",
+      "full_name": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "language": "Python",
+      "stars": 2920,
+      "forks": 240,
+      "stars_today": 236,
+      "built_by": [
+        "BabyChouSr",
+        "dlwh",
+        "ravwojdyla",
+        "rjpower",
+        "abhinavg4"
+      ],
+      "llm_summary": "基础模型研发开源框架"
+    },
+    {
+      "owner": "tashfeenahmed",
+      "name": "freellmapi",
+      "full_name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "stars": 21709,
+      "forks": 3070,
+      "stars_today": 433,
+      "built_by": [
+        "OhOkThisIsFine",
+        "claude",
+        "tashdroid",
+        "suantea"
+      ],
+      "llm_summary": "统一接口访问635个免费LLM端点"
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 50004,
+      "forks": 3504,
+      "stars_today": 67,
+      "built_by": [
+        "Lightning00Blade",
+        "dependabot",
+        "browser-automation-bot",
+        "yulunz",
+        "OrKoN"
+      ],
+      "llm_summary": "面向AI编码的Chrome开发者工具"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 50683,
+      "forks": 8784,
+      "stars_today": 703,
+      "built_by": [
+        "abhinav-m22",
+        "thereisnotime",
+        "thejesh23",
+        "github-actions"
+      ],
+      "llm_summary": "从零开始学习AI工程"
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 115553,
+      "forks": 6320,
+      "stars_today": 1396,
+      "built_by": [
+        "ousamabenyounes",
+        "dhedhialy",
+        "Lakshya77089",
+        "claude"
+      ],
+      "llm_summary": "让AI像懒散高级开发者一样思考"
+    },
+    {
+      "owner": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 39197,
+      "forks": 10873,
+      "stars_today": 156,
+      "built_by": [
+        "copybara-github",
+        "gennadiycivil",
+        "kuzkry",
+        "derekmauro"
+      ],
+      "llm_summary": "Google官方测试与模拟框架"
+    },
+    {
+      "owner": "livekit",
+      "name": "agents",
+      "full_name": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "language": "Python",
+      "stars": 13384,
+      "forks": 3634,
+      "stars_today": 22,
+      "built_by": [
+        "keepingitneil",
+        "longcw",
+        "tinalenguyen",
+        "theomonnom",
+        "davidzhao"
+      ],
+      "llm_summary": "构建实时语音AI代理的框架"
+    }
+  ]
+}
