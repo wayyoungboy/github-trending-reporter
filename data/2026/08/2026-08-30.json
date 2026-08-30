@@ -1,0 +1,356 @@
+{
+  "date": "2026-08-30",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "tt-a1i",
+      "name": "archify",
+      "full_name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars": 31324,
+      "forks": 1945,
+      "stars_today": 3902,
+      "built_by": [
+        "sunsunsun-java",
+        "cursoragent",
+        "YunyueLi",
+        "claude"
+      ],
+      "llm_summary": "生成可验证的架构与工作流程图"
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 12703,
+      "forks": 2517,
+      "stars_today": 1855,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "实时空间情报3D可视化平台"
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 38005,
+      "forks": 3583,
+      "stars_today": 1587,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "borealBytes",
+        "TKassis",
+        "cursoragent"
+      ],
+      "llm_summary": "AI科学家技能库，覆盖多领域科学"
+    },
+    {
+      "owner": "tailscale",
+      "name": "tailcat",
+      "full_name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "language": "Go",
+      "stars": 3558,
+      "forks": 106,
+      "stars_today": 789,
+      "built_by": [
+        "andrew-d",
+        "jwhited",
+        "bradfitz",
+        "raggi",
+        "danderson"
+      ],
+      "llm_summary": "基于Tailscale的安全网络传输工具"
+    },
+    {
+      "owner": "THU-MAIC",
+      "name": "OpenMAIC",
+      "full_name": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": 22370,
+      "forks": 4328,
+      "stars_today": 907,
+      "built_by": [
+        "YizukiAme",
+        "claude",
+        "cosarah",
+        "wyuc",
+        "ly-wang19"
+      ],
+      "llm_summary": "一键沉浸式多代理学习平台"
+    },
+    {
+      "owner": "p-e-w",
+      "name": "heretic",
+      "full_name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": 28731,
+      "forks": 3165,
+      "stars_today": 150,
+      "built_by": [
+        "dependabot",
+        "anrp",
+        "Vinay-Umrethe",
+        "spikymoth"
+      ],
+      "llm_summary": "自动移除AI语言模型审查限制"
+    },
+    {
+      "owner": "bigskysoftware",
+      "name": "htmx",
+      "full_name": "bigskysoftware/htmx",
+      "url": "https://github.com/bigskysoftware/htmx",
+      "description": "</> htmx - high power tools for HTML",
+      "language": "JavaScript",
+      "stars": 49132,
+      "forks": 1640,
+      "stars_today": 32,
+      "built_by": [
+        "alexpetros",
+        "benpate",
+        "1cg",
+        "bencroker",
+        "Telroshan"
+      ],
+      "llm_summary": "增强HTML功能的高效工具"
+    },
+    {
+      "owner": "JetBrains",
+      "name": "go-modern-guidelines",
+      "full_name": "JetBrains/go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "language": "Go",
+      "stars": 2881,
+      "forks": 81,
+      "stars_today": 303,
+      "built_by": [
+        "nikitakuchur",
+        "raeperd",
+        "simpletonDL",
+        "endigma",
+        "Splatjov"
+      ],
+      "llm_summary": "AI编写现代Go代码的指南"
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 73947,
+      "forks": 8470,
+      "stars_today": 73,
+      "built_by": [
+        "sohamganatra",
+        "claude",
+        "Prat011",
+        "mellson",
+        "sanjay3290"
+      ],
+      "llm_summary": "Claude AI工作流定制精选资源"
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 54121,
+      "forks": 6719,
+      "stars_today": 806,
+      "built_by": [
+        "xucailiang",
+        "0xDevNinja",
+        "yiyabo",
+        "claude"
+      ],
+      "llm_summary": "AI助手一键变视频制作工作室"
+    },
+    {
+      "owner": "every-app",
+      "name": "open-seo",
+      "full_name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": 14681,
+      "forks": 1759,
+      "stars_today": 517,
+      "built_by": [
+        "jeremypenguin-max",
+        "bookingseo",
+        "mvanhorn",
+        "claude",
+        "bensenescu"
+      ],
+      "llm_summary": "开源SEO分析替代工具"
+    },
+    {
+      "owner": "Osmantic",
+      "name": "ODS",
+      "full_name": "Osmantic/ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "language": "Python",
+      "stars": 4963,
+      "forks": 741,
+      "stars_today": 35,
+      "built_by": [
+        "claude",
+        "SSignall",
+        "gabsprogrammer",
+        "Lightheartdevs",
+        "yasinBursali"
+      ],
+      "llm_summary": "个人电脑一键变AI服务器"
+    },
+    {
+      "owner": "abi",
+      "name": "screenshot-to-code",
+      "full_name": "abi/screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "language": "Python",
+      "stars": 76075,
+      "forks": 9262,
+      "stars_today": 550,
+      "built_by": [
+        "sweep-ai-deprecated",
+        "clean99",
+        "kachbit",
+        "claude"
+      ],
+      "llm_summary": "截图一键转换为代码"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 35433,
+      "forks": 3959,
+      "stars_today": 358,
+      "built_by": [
+        "k6l3",
+        "claude",
+        "github-actions",
+        "bryan-anthropic",
+        "tobinsouth"
+      ],
+      "llm_summary": "官方Claude代码插件精选目录"
+    },
+    {
+      "owner": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 39328,
+      "forks": 10878,
+      "stars_today": 128,
+      "built_by": [
+        "derekmauro",
+        "copybara-github",
+        "kuzkry",
+        "gennadiycivil"
+      ],
+      "llm_summary": "Google官方测试与模拟框架"
+    },
+    {
+      "owner": "actions",
+      "name": "checkout",
+      "full_name": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
+      "language": "TypeScript",
+      "stars": 8805,
+      "forks": 2756,
+      "stars_today": 5,
+      "built_by": [
+        "dependabot",
+        "jww3",
+        "cory-miller",
+        "thboop",
+        "ericsciple"
+      ],
+      "llm_summary": "GitHub仓库检出便捷工具"
+    },
+    {
+      "owner": "kaifcodec",
+      "name": "user-scanner",
+      "full_name": "kaifcodec/user-scanner",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting.",
+      "language": "Python",
+      "stars": 3598,
+      "forks": 411,
+      "stars_today": 39,
+      "built_by": [
+        "json-hunter07",
+        "VamatoHD",
+        "brunolm",
+        "kristoisberg"
+      ],
+      "llm_summary": "用户信息深度OSINT扫描工具"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 90739,
+      "forks": 9710,
+      "stars_today": 196,
+      "built_by": [
+        "nucliweb",
+        "federicobartoli",
+        "Liyuk",
+        "claude"
+      ],
+      "llm_summary": "AI编码代理生产级工程技能"
+    },
+    {
+      "owner": "workweave",
+      "name": "router",
+      "full_name": "workweave/router",
+      "url": "https://github.com/workweave/router",
+      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+      "language": "Go",
+      "stars": 2775,
+      "forks": 77,
+      "stars_today": 284,
+      "built_by": [
+        "aminsamir45",
+        "claude",
+        "steventohme",
+        "devin-ai-integration",
+        "a-churchill"
+      ],
+      "llm_summary": "智能路由降低AI模型成本40-70%"
+    }
+  ]
+}
