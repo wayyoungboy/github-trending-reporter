@@ -1,0 +1,262 @@
+{
+  "date": "2026-09-02",
+  "total_repos": 14,
+  "repositories": [
+    {
+      "owner": "Gitlawb",
+      "name": "openclaude",
+      "full_name": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 31352,
+      "forks": 8951,
+      "stars_today": 80,
+      "built_by": [
+        "claude",
+        "0xfandom",
+        "chioarub",
+        "kevincodex1",
+        "jatmn"
+      ],
+      "llm_summary": "跨平台Claude代码助手，支持多种工具"
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "full_name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 44943,
+      "forks": 3551,
+      "stars_today": 193,
+      "built_by": [
+        "2023Anita",
+        "claude",
+        "ktao732084-arch",
+        "madtriceps"
+      ],
+      "llm_summary": "Claude学术研究全流程技能库"
+    },
+    {
+      "owner": "THU-MAIC",
+      "name": "OpenMAIC",
+      "full_name": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": 29578,
+      "forks": 4982,
+      "stars_today": 3128,
+      "built_by": [
+        "claude",
+        "cosarah",
+        "wyuc",
+        "ly-wang19",
+        "YizukiAme"
+      ],
+      "llm_summary": "一键开启多智能体互动学习体验"
+    },
+    {
+      "owner": "iv-org",
+      "name": "invidious",
+      "full_name": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "stars": 23785,
+      "forks": 2674,
+      "stars_today": 577,
+      "built_by": [
+        "TheFrenchGhosty",
+        "weblate",
+        "syeopite",
+        "omarroth",
+        "SamantazFox"
+      ],
+      "llm_summary": "YouTube的隐私友好替代前端"
+    },
+    {
+      "owner": "jingyaogong",
+      "name": "minimind",
+      "full_name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars": 57144,
+      "forks": 7429,
+      "stars_today": 1005,
+      "built_by": [
+        "wangzhaode",
+        "readlnh",
+        "TKiteRunner",
+        "iomgaa-ycz"
+      ],
+      "llm_summary": "2小时训练6400万参数LLM"
+    },
+    {
+      "owner": "3b1b",
+      "name": "manim",
+      "full_name": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": 92586,
+      "forks": 7620,
+      "stars_today": 86,
+      "built_by": [
+        "bhbr",
+        "eulertour",
+        "TonyCrane",
+        "YishiMichael"
+      ],
+      "llm_summary": "数学可视化动画引擎"
+    },
+    {
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "full_name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": 17966,
+      "forks": 1223,
+      "stars_today": 541,
+      "built_by": [
+        "claude",
+        "MADENIYOU",
+        "cursoragent",
+        "abimaelmartell",
+        "rth"
+      ],
+      "llm_summary": "智能PDF分类与文本提取库"
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 22991,
+      "forks": 2816,
+      "stars_today": 472,
+      "built_by": [
+        "claude",
+        "ShawnPana",
+        "sidorovanthon",
+        "gregpr07",
+        "antoinersx"
+      ],
+      "llm_summary": "编程代理视频编辑工具"
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 41579,
+      "forks": 3829,
+      "stars_today": 912,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "cursoragent",
+        "TKassis",
+        "borealBytes"
+      ],
+      "llm_summary": "AI科学家技能库，覆盖多学科领域"
+    },
+    {
+      "owner": "handsomestWei",
+      "name": "patent-disclosure-skill",
+      "full_name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "stars": 6753,
+      "forks": 762,
+      "stars_today": 501,
+      "built_by": [
+        "917Dhj",
+        "xiaofengShi",
+        "dajiaohuang"
+      ],
+      "llm_summary": "中国专利挖掘与交底书编写助手"
+    },
+    {
+      "owner": "VoltAgent",
+      "name": "awesome-design-md",
+      "full_name": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": "Unknown",
+      "stars": 112838,
+      "forks": 12775,
+      "stars_today": 323,
+      "built_by": [
+        "necatiozmen",
+        "omeraplak",
+        "LeeDoYup",
+        "doanbactam"
+      ],
+      "llm_summary": "品牌设计系统与智能UI生成"
+    },
+    {
+      "owner": "averygan",
+      "name": "reclip",
+      "full_name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "stars": 7704,
+      "forks": 1318,
+      "stars_today": 56,
+      "built_by": [
+        "AmanoSpica",
+        "claude",
+        "jouls0217"
+      ],
+      "llm_summary": "轻量级多网站视频下载器"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 245790,
+      "forks": 37089,
+      "stars_today": 623,
+      "built_by": [
+        "haelyra",
+        "claude",
+        "pangerlkr",
+        "dependabot"
+      ],
+      "llm_summary": "AI代理性能优化系统"
+    },
+    {
+      "owner": "unclecode",
+      "name": "crawl4ai",
+      "full_name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars": 80879,
+      "forks": 8358,
+      "stars_today": 145,
+      "built_by": [
+        "ntohidi",
+        "SohamKukreti",
+        "aravindkarnam",
+        "claude"
+      ],
+      "llm_summary": "LLM友好型开源网络爬虫"
+    }
+  ]
+}
