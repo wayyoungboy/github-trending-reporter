@@ -1,0 +1,356 @@
+{
+  "date": "2026-09-03",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": 24307,
+      "forks": 2986,
+      "stars_today": 14,
+      "built_by": [
+        "phprus",
+        "alexezeder",
+        "DanielaE",
+        "dependabot",
+        "vitaut"
+      ],
+      "llm_summary": "现代C++格式化库，高效输出文本"
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 29891,
+      "forks": 2867,
+      "stars_today": 343,
+      "built_by": [
+        "JustinGuese",
+        "rajatsen91",
+        "darkpowerxo",
+        "siriuz42",
+        "misha-chertushkin"
+      ],
+      "llm_summary": "谷歌时间序列预测模型，精准预判未来"
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 121713,
+      "forks": 6577,
+      "stars_today": 1354,
+      "built_by": [
+        "claude",
+        "dhedhialy",
+        "ousamabenyounes",
+        "Lakshya77089"
+      ],
+      "llm_summary": "AI代理模拟资深开发者，编写更少代码"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 14866,
+      "forks": 2117,
+      "stars_today": 832,
+      "built_by": [
+        "claude",
+        "velixio",
+        "bultodepapas",
+        "paoloantinori"
+      ],
+      "llm_summary": "开源本地语音工具，支持646种语言处理"
+    },
+    {
+      "owner": "sngyai",
+      "name": "Sequoia-X",
+      "full_name": "sngyai/Sequoia-X",
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "language": "Python",
+      "stars": 6127,
+      "forks": 1253,
+      "stars_today": 63,
+      "built_by": [
+        "claude",
+        "ethqunzhong",
+        "dependabot",
+        "YipKo"
+      ],
+      "llm_summary": "A股自动选股系统，智能扫描技术形态"
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 50672,
+      "forks": 3555,
+      "stars_today": 148,
+      "built_by": [
+        "Lightning00Blade",
+        "browser-automation-bot",
+        "OrKoN",
+        "dependabot",
+        "yulunz"
+      ],
+      "llm_summary": "Chrome开发者工具，专为编码代理设计"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 240158,
+      "forks": 49147,
+      "stars_today": 533,
+      "built_by": [
+        "claude",
+        "kshitijk4poor",
+        "teknium1",
+        "benbarclay",
+        "OutThisLife"
+      ],
+      "llm_summary": "智能代理随用户需求共同成长"
+    },
+    {
+      "owner": "superlinked",
+      "name": "sie",
+      "full_name": "superlinked/sie",
+      "url": "https://github.com/superlinked/sie",
+      "description": "Open-source inference server and production cluster for all the models your agent needs.",
+      "language": "Python",
+      "stars": 3083,
+      "forks": 299,
+      "stars_today": 60,
+      "built_by": [
+        "slrelease",
+        "fm1320",
+        "kembala",
+        "github-actions",
+        "svonava"
+      ],
+      "llm_summary": "代理模型开源推理服务器，高效部署"
+    },
+    {
+      "owner": "pacifio",
+      "name": "atlas",
+      "full_name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars": 2921,
+      "forks": 191,
+      "stars_today": 888,
+      "built_by": [
+        "uzayer",
+        "dependabot",
+        "ahammadnafiz",
+        "Ukaykhingmarma28"
+      ],
+      "llm_summary": "代理源码控制，统一管理多编码代理"
+    },
+    {
+      "owner": "zyronon",
+      "name": "TypeWords",
+      "full_name": "zyronon/TypeWords",
+      "url": "https://github.com/zyronon/TypeWords",
+      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "language": "Vue",
+      "stars": 9349,
+      "forks": 1132,
+      "stars_today": 21,
+      "built_by": [
+        "wysha-object",
+        "hamburgerV",
+        "Muxy1108",
+        "SMGoro"
+      ],
+      "llm_summary": "英语练习工具，逐字进步提升"
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "full_name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 45591,
+      "forks": 3585,
+      "stars_today": 799,
+      "built_by": [
+        "claude",
+        "2023Anita",
+        "madtriceps",
+        "ktao732084-arch"
+      ],
+      "llm_summary": "Claude Code学术研究技能，完整流程支持"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 246385,
+      "forks": 37157,
+      "stars_today": 516,
+      "built_by": [
+        "haelyra",
+        "claude",
+        "dependabot",
+        "pangerlkr"
+      ],
+      "llm_summary": "代理性能优化系统，提升AI工具效率"
+    },
+    {
+      "owner": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 71941,
+      "forks": 16271,
+      "stars_today": 18,
+      "built_by": [
+        "xfxyjwf",
+        "haberman",
+        "protobuf-team-bot",
+        "mkruskal-google",
+        "protobuf-github-bot"
+      ],
+      "llm_summary": "谷歌数据交换格式，高效序列化"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "portless",
+      "full_name": "vercel-labs/portless",
+      "url": "https://github.com/vercel-labs/portless",
+      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "language": "TypeScript",
+      "stars": 11799,
+      "forks": 383,
+      "stars_today": 73,
+      "built_by": [
+        "claude",
+        "gerardbalaoro",
+        "tomdale",
+        "ctate",
+        "Railly"
+      ],
+      "llm_summary": "稳定命名本地URL，替代端口号"
+    },
+    {
+      "owner": "blader",
+      "name": "humanizer",
+      "full_name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 40474,
+      "forks": 3498,
+      "stars_today": 374,
+      "built_by": [
+        "claude",
+        "wilu222",
+        "mvanhorn",
+        "warp-agent"
+      ],
+      "llm_summary": "消除AI生成文本痕迹，更自然表达"
+    },
+    {
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "stars": 102665,
+      "forks": 5971,
+      "stars_today": 238,
+      "built_by": [
+        "claude",
+        "sebastianbreguel",
+        "hunleyd",
+        "github-actions"
+      ],
+      "llm_summary": "简化语言风格，减少65%token使用"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 245301,
+      "forks": 20859,
+      "stars_today": 1166,
+      "built_by": [
+        "claude",
+        "gabimoncha",
+        "github-actions"
+      ],
+      "llm_summary": "工程师实用技能集，提升开发效率"
+    },
+    {
+      "owner": "Gitlawb",
+      "name": "openclaude",
+      "full_name": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 32014,
+      "forks": 8998,
+      "stars_today": 775,
+      "built_by": [
+        "claude",
+        "0xfandom",
+        "kevincodex1",
+        "chioarub",
+        "jatmn"
+      ],
+      "llm_summary": "跨平台运行Claude，兼容各种环境"
+    },
+    {
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "full_name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": 18543,
+      "forks": 1246,
+      "stars_today": 586,
+      "built_by": [
+        "claude",
+        "cursoragent",
+        "MADENIYOU",
+        "abimaelmartell",
+        "rth"
+      ],
+      "llm_summary": "快速PDF检查分类，智能识别文本类型"
+    }
+  ]
+}
