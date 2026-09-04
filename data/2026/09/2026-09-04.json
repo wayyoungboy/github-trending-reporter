@@ -1,0 +1,331 @@
+{
+  "date": "2026-09-04",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": 25120,
+      "forks": 3017,
+      "stars_today": 963,
+      "built_by": [
+        "dependabot",
+        "vitaut",
+        "DanielaE",
+        "alexezeder",
+        "phprus"
+      ]
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 247543,
+      "forks": 20988,
+      "stars_today": 1601,
+      "built_by": [
+        "claude",
+        "gabimoncha",
+        "github-actions"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 240883,
+      "forks": 49359,
+      "stars_today": 774,
+      "built_by": [
+        "teknium1",
+        "benbarclay",
+        "OutThisLife",
+        "claude",
+        "kshitijk4poor"
+      ]
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 123534,
+      "forks": 6674,
+      "stars_today": 2128,
+      "built_by": [
+        "claude",
+        "dhedhialy",
+        "ousamabenyounes",
+        "Lakshya77089"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 173687,
+      "forks": 20607,
+      "stars_today": 281,
+      "built_by": [
+        "rlancemartin",
+        "klazuka",
+        "ericharmeling",
+        "claude",
+        "kswan-wk"
+      ]
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 247252,
+      "forks": 37259,
+      "stars_today": 751,
+      "built_by": [
+        "haelyra",
+        "claude",
+        "dependabot",
+        "pangerlkr"
+      ]
+    },
+    {
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "stars": 103133,
+      "forks": 5995,
+      "stars_today": 543,
+      "built_by": [
+        "claude",
+        "Alot1z",
+        "github-actions",
+        "hunleyd"
+      ]
+    },
+    {
+      "owner": "blader",
+      "name": "humanizer",
+      "full_name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 41555,
+      "forks": 3553,
+      "stars_today": 1208,
+      "built_by": [
+        "warp-agent",
+        "claude",
+        "wilu222",
+        "mvanhorn"
+      ]
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 30720,
+      "forks": 2934,
+      "stars_today": 1618,
+      "built_by": [
+        "darkpowerxo",
+        "rajatsen91",
+        "JustinGuese",
+        "siriuz42",
+        "misha-chertushkin"
+      ]
+    },
+    {
+      "owner": "averygan",
+      "name": "reclip",
+      "full_name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "stars": 8409,
+      "forks": 1366,
+      "stars_today": 88,
+      "built_by": [
+        "jouls0217",
+        "AmanoSpica",
+        "claude"
+      ]
+    },
+    {
+      "owner": "bannedbook",
+      "name": "fanqiang",
+      "full_name": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars": 52229,
+      "forks": 8479,
+      "stars_today": 522,
+      "built_by": [
+        "crazyetiii"
+      ]
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 92047,
+      "forks": 9812,
+      "stars_today": 264,
+      "built_by": [
+        "Liyuk",
+        "nucliweb",
+        "federicobartoli",
+        "claude"
+      ]
+    },
+    {
+      "owner": "ByteByteGoHq",
+      "name": "system-design-101",
+      "full_name": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "language": "Unknown",
+      "stars": 88376,
+      "forks": 9823,
+      "stars_today": 171,
+      "built_by": [
+        "Stephanvs",
+        "LombardiDaniel",
+        "nilbuild",
+        "alastairp",
+        "slam"
+      ]
+    },
+    {
+      "owner": "magnitudedev",
+      "name": "magnitude",
+      "full_name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "stars": 1973,
+      "forks": 143,
+      "stars_today": 161,
+      "built_by": [
+        "fabianhug",
+        "github-actions",
+        "thrgreenwald",
+        "nicolasdmolina",
+        "anerli"
+      ]
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "full_name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 46007,
+      "forks": 3603,
+      "stars_today": 496,
+      "built_by": [
+        "claude",
+        "ktao732084-arch",
+        "2023Anita",
+        "madtriceps"
+      ]
+    },
+    {
+      "owner": "Gitlawb",
+      "name": "openclaude",
+      "full_name": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 32361,
+      "forks": 9019,
+      "stars_today": 451,
+      "built_by": [
+        "kevincodex1",
+        "jatmn",
+        "chioarub",
+        "0xfandom",
+        "claude"
+      ]
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 16343,
+      "forks": 2214,
+      "stars_today": 1672,
+      "built_by": [
+        "paoloantinori",
+        "claude",
+        "bultodepapas",
+        "velixio"
+      ]
+    },
+    {
+      "owner": "f",
+      "name": "prompts.chat",
+      "full_name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "stars": 169031,
+      "forks": 21765,
+      "stars_today": 168,
+      "built_by": [
+        "sinansonmez",
+        "ersinkoc",
+        "giorgiop",
+        "devisasari"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 281365,
+      "forks": 25206,
+      "stars_today": 462,
+      "built_by": [
+        "jjshanks",
+        "arittr",
+        "claude",
+        "clkao"
+      ]
+    }
+  ]
+}
