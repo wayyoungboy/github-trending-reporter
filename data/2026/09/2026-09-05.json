@@ -1,0 +1,295 @@
+{
+  "date": "2026-09-05",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 250481,
+      "forks": 21167,
+      "stars_today": 2758,
+      "built_by": [
+        "gabimoncha",
+        "github-actions",
+        "claude"
+      ]
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 126128,
+      "forks": 6770,
+      "stars_today": 1679,
+      "built_by": [
+        "ousamabenyounes",
+        "Lakshya77089",
+        "dhedhialy",
+        "claude"
+      ]
+    },
+    {
+      "owner": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": 25476,
+      "forks": 3035,
+      "stars_today": 688,
+      "built_by": [
+        "phprus",
+        "vitaut",
+        "dependabot",
+        "DanielaE",
+        "alexezeder"
+      ]
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 248548,
+      "forks": 37464,
+      "stars_today": 1135,
+      "built_by": [
+        "haelyra",
+        "pangerlkr",
+        "dependabot",
+        "claude"
+      ]
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 174147,
+      "forks": 20643,
+      "stars_today": 511,
+      "built_by": [
+        "claude",
+        "klazuka",
+        "rlancemartin",
+        "kswan-wk",
+        "ericharmeling"
+      ]
+    },
+    {
+      "owner": "blader",
+      "name": "humanizer",
+      "full_name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 42751,
+      "forks": 3609,
+      "stars_today": 1130,
+      "built_by": [
+        "wilu222",
+        "warp-agent",
+        "mvanhorn",
+        "claude"
+      ]
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 241511,
+      "forks": 49568,
+      "stars_today": 720,
+      "built_by": [
+        "benbarclay",
+        "kshitijk4poor",
+        "claude",
+        "OutThisLife",
+        "teknium1"
+      ]
+    },
+    {
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "stars": 103589,
+      "forks": 6007,
+      "stars_today": 501,
+      "built_by": [
+        "hunleyd",
+        "Alot1z",
+        "github-actions",
+        "claude"
+      ]
+    },
+    {
+      "owner": "magnitudedev",
+      "name": "magnitude",
+      "full_name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "stars": 2520,
+      "forks": 185,
+      "stars_today": 391,
+      "built_by": [
+        "anerli",
+        "lloydgreenwald",
+        "github-actions",
+        "thrgreenwald",
+        "fabianhug"
+      ]
+    },
+    {
+      "owner": "bikini",
+      "name": "exploitarium",
+      "full_name": "bikini/exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "language": "Python",
+      "stars": 4521,
+      "forks": 1242,
+      "stars_today": 74,
+      "built_by": [
+        "we-tech-company"
+      ]
+    },
+    {
+      "owner": "bannedbook",
+      "name": "fanqiang",
+      "full_name": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars": 52794,
+      "forks": 8527,
+      "stars_today": 730,
+      "built_by": [
+        "crazyetiii"
+      ]
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 18047,
+      "forks": 2361,
+      "stars_today": 1345,
+      "built_by": [
+        "velixio",
+        "paoloantinori",
+        "bultodepapas",
+        "claude"
+      ]
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 31067,
+      "forks": 2960,
+      "stars_today": 342,
+      "built_by": [
+        "rajatsen91",
+        "darkpowerxo",
+        "misha-chertushkin",
+        "JustinGuese",
+        "siriuz42"
+      ]
+    },
+    {
+      "owner": "radixark",
+      "name": "miles",
+      "full_name": "radixark/miles",
+      "url": "https://github.com/radixark/miles",
+      "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+      "language": "Python",
+      "stars": 2559,
+      "forks": 446,
+      "stars_today": 64,
+      "built_by": [
+        "fzyzcjy",
+        "Zhichenzzz",
+        "Shi-Dong",
+        "guapisolo",
+        "yueming-yuan"
+      ]
+    },
+    {
+      "owner": "anomalyco",
+      "name": "opencode",
+      "full_name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 204154,
+      "forks": 26634,
+      "stars_today": 345,
+      "built_by": [
+        "rekram1-node",
+        "opencode-agent",
+        "adamdotdevin",
+        "thdxr",
+        "actions-user"
+      ]
+    },
+    {
+      "owner": "clshortfuse",
+      "name": "renodx",
+      "full_name": "clshortfuse/renodx",
+      "url": "https://github.com/clshortfuse/renodx",
+      "description": "Renovation Engine for DirectX Games",
+      "language": "HLSL",
+      "stars": 3539,
+      "forks": 139,
+      "stars_today": 261,
+      "built_by": [
+        "OopyDoopy",
+        "MohannedElfatih",
+        "akuru-q",
+        "mqhaji"
+      ]
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 30966,
+      "forks": 1986,
+      "stars_today": 437,
+      "built_by": [
+        "web-flow",
+        "parveen0029",
+        "mvanhorn",
+        "0xDarkMatter"
+      ]
+    }
+  ]
+}
