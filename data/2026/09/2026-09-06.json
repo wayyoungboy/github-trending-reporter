@@ -1,0 +1,296 @@
+{
+  "date": "2026-09-06",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 252714,
+      "forks": 21326,
+      "stars_today": 2692,
+      "built_by": [
+        "claude",
+        "gabimoncha",
+        "github-actions"
+      ],
+      "llm_summary": "提供真实工程师必备的实用技能"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 249955,
+      "forks": 37618,
+      "stars_today": 1314,
+      "built_by": [
+        "dependabot",
+        "haelyra",
+        "pangerlkr",
+        "claude"
+      ],
+      "llm_summary": "AI代理性能优化与多功能集成系统"
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 128005,
+      "forks": 6848,
+      "stars_today": 2845,
+      "built_by": [
+        "claude",
+        "ousamabenyounes",
+        "Lakshya77089",
+        "dhedhialy"
+      ],
+      "llm_summary": "让AI代理像懒散高级开发者一样思考"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 242040,
+      "forks": 49730,
+      "stars_today": 575,
+      "built_by": [
+        "claude",
+        "OutThisLife",
+        "benbarclay",
+        "kshitijk4poor",
+        "teknium1"
+      ],
+      "llm_summary": "与你共同成长的智能代理系统"
+    },
+    {
+      "owner": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": 25574,
+      "forks": 3043,
+      "stars_today": 134,
+      "built_by": [
+        "DanielaE",
+        "vitaut",
+        "dependabot",
+        "alexezeder",
+        "phprus"
+      ],
+      "llm_summary": "现代C++代码格式化库"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 174582,
+      "forks": 20675,
+      "stars_today": 475,
+      "built_by": [
+        "claude",
+        "klazuka",
+        "kswan-wk",
+        "rlancemartin",
+        "ericharmeling"
+      ],
+      "llm_summary": "Anthropic代理技能公共存储库"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 31717,
+      "forks": 2044,
+      "stars_today": 855,
+      "built_by": [
+        "0xDarkMatter",
+        "parveen0029",
+        "web-flow",
+        "mvanhorn"
+      ],
+      "llm_summary": "38种高质量AI工具图表设计"
+    },
+    {
+      "owner": "anomalyco",
+      "name": "opencode",
+      "full_name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 204700,
+      "forks": 26705,
+      "stars_today": 725,
+      "built_by": [
+        "rekram1-node",
+        "actions-user",
+        "adamdotdevin",
+        "opencode-agent",
+        "thdxr"
+      ],
+      "llm_summary": "开源AI编码代理工具"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 70708,
+      "forks": 8419,
+      "stars_today": 136,
+      "built_by": [
+        "claude",
+        "dajiaohuang",
+        "proffesor-for-testing",
+        "alexx-ftw"
+      ],
+      "llm_summary": "智能代理元协调与多系统集成"
+    },
+    {
+      "owner": "humanlayer",
+      "name": "skills",
+      "full_name": "humanlayer/skills",
+      "url": "https://github.com/humanlayer/skills",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 2729,
+      "forks": 77,
+      "stars_today": 442,
+      "built_by": [
+        "dexhorthy",
+        "claude",
+        "K-Mistele"
+      ],
+      "llm_summary": "人类层级代理技能集合"
+    },
+    {
+      "owner": "blader",
+      "name": "humanizer",
+      "full_name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 43507,
+      "forks": 3647,
+      "stars_today": 990,
+      "built_by": [
+        "warp-agent",
+        "claude",
+        "wilu222",
+        "mvanhorn"
+      ],
+      "llm_summary": "消除AI文本痕迹的智能工具"
+    },
+    {
+      "owner": "BraveOPotato",
+      "name": "FckSignups",
+      "full_name": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "language": "TypeScript",
+      "stars": 2907,
+      "forks": 199,
+      "stars_today": 68,
+      "built_by": [
+        "HoangTran0410",
+        "Moamal-2000",
+        "AnandSundar",
+        "mbj36"
+      ],
+      "llm_summary": "免注册开源浏览器工具列表"
+    },
+    {
+      "owner": "WorldFlowAI",
+      "name": "everything-claude-code",
+      "full_name": "WorldFlowAI/everything-claude-code",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "language": "JavaScript",
+      "stars": 2374,
+      "forks": 363,
+      "stars_today": 95,
+      "built_by": [
+        "claude",
+        "gzb1128",
+        "zerx-lab",
+        "affaan-m",
+        "zbennett10"
+      ],
+      "llm_summary": "Claude Code全方位开发工具集"
+    },
+    {
+      "owner": "magnitudedev",
+      "name": "magnitude",
+      "full_name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "stars": 3233,
+      "forks": 232,
+      "stars_today": 674,
+      "built_by": [
+        "lloydgreenwald",
+        "fabianhug",
+        "github-actions",
+        "thrgreenwald",
+        "anerli"
+      ],
+      "llm_summary": "本地AI模型推理与代理集成"
+    },
+    {
+      "owner": "bikini",
+      "name": "exploitarium",
+      "full_name": "bikini/exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "language": "Python",
+      "stars": 4714,
+      "forks": 1253,
+      "stars_today": 230,
+      "built_by": [
+        "we-tech-company"
+      ],
+      "llm_summary": "公共漏洞利用与研究存档"
+    },
+    {
+      "owner": "nvm-sh",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+      "language": "Shell",
+      "stars": 94925,
+      "forks": 10424,
+      "stars_today": 22,
+      "built_by": [
+        "lukechilds",
+        "creationix",
+        "PeterDaveHello",
+        "koenpunt",
+        "ljharb"
+      ],
+      "llm_summary": "Node.js多版本管理工具"
+    }
+  ]
+}
