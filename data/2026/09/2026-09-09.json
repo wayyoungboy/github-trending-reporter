@@ -1,0 +1,285 @@
+{
+  "date": "2026-09-09",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 30746,
+      "forks": 1868,
+      "stars_today": 656,
+      "built_by": [
+        "thejesh23",
+        "claude",
+        "commie70",
+        "SillyDark"
+      ]
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 34956,
+      "forks": 2209,
+      "stars_today": 710,
+      "built_by": [
+        "claude",
+        "parveen0029",
+        "web-flow",
+        "mvanhorn"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "skills",
+      "full_name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 26542,
+      "forks": 1779,
+      "stars_today": 490,
+      "built_by": [
+        "gverma-openai",
+        "quuu",
+        "ae-openai",
+        "dkundel-openai",
+        "vb-openai"
+      ]
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 254356,
+      "forks": 38115,
+      "stars_today": 1427,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "haelyra",
+        "pangerlkr"
+      ]
+    },
+    {
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "full_name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 47819,
+      "forks": 4395,
+      "stars_today": 2627,
+      "built_by": [
+        "vanceingalls",
+        "ukimsanov",
+        "miguel-heygen",
+        "claude",
+        "jrusso1020"
+      ]
+    },
+    {
+      "owner": "coreyhaines31",
+      "name": "marketingskills",
+      "full_name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 48864,
+      "forks": 7497,
+      "stars_today": 666,
+      "built_by": [
+        "claude",
+        "njcameron",
+        "basseko",
+        "Jiliac"
+      ]
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 283408,
+      "forks": 25369,
+      "stars_today": 452,
+      "built_by": [
+        "claude",
+        "jjshanks",
+        "arittr",
+        "clkao"
+      ]
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 211495,
+      "forks": 21472,
+      "stars_today": 333,
+      "built_by": [
+        "back1ply",
+        "claude",
+        "szkocot",
+        "herobrine19",
+        "forrestchang"
+      ]
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 181746,
+      "forks": 13350,
+      "stars_today": 2047,
+      "built_by": [
+        "PetrAPConsulting",
+        "l-lumin",
+        "gagb",
+        "sugatoray",
+        "afourney"
+      ]
+    },
+    {
+      "owner": "jo-inc",
+      "name": "camofox-browser",
+      "full_name": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "language": "JavaScript",
+      "stars": 10547,
+      "forks": 1055,
+      "stars_today": 871,
+      "built_by": [
+        "claude",
+        "skyfallsin",
+        "leoneparise",
+        "mvanhorn",
+        "epicsagas"
+      ]
+    },
+    {
+      "owner": "MoonTechLab",
+      "name": "LunaTV",
+      "full_name": "MoonTechLab/LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "language": "TypeScript",
+      "stars": 10204,
+      "forks": 9049,
+      "stars_today": 505,
+      "built_by": [
+        "JohnsonRan",
+        "github-actions",
+        "claude",
+        "senshinya",
+        "1411430556"
+      ]
+    },
+    {
+      "owner": "browser-use",
+      "name": "browser-use",
+      "full_name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "Agents that use the browser.",
+      "language": "Python",
+      "stars": 113556,
+      "forks": 12493,
+      "stars_today": 228,
+      "built_by": [
+        "MagMueller",
+        "gregpr07",
+        "mertunsall",
+        "pirate",
+        "sauravpanda"
+      ]
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 21425,
+      "forks": 1545,
+      "stars_today": 651,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "ousamabenyounes",
+        "ipedro"
+      ]
+    },
+    {
+      "owner": "The-Swarm-Corporation",
+      "name": "AutoHedge",
+      "full_name": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "language": "Python",
+      "stars": 5733,
+      "forks": 841,
+      "stars_today": 494,
+      "built_by": [
+        "dependabot",
+        "kyegomez"
+      ]
+    },
+    {
+      "owner": "viarotel-org",
+      "name": "escrcpy",
+      "full_name": "viarotel-org/escrcpy",
+      "url": "https://github.com/viarotel-org/escrcpy",
+      "description": "📱 Display and control your Android device graphically with scrcpy.",
+      "language": "JavaScript",
+      "stars": 11419,
+      "forks": 797,
+      "stars_today": 178,
+      "built_by": [
+        "dainamiter",
+        "ahmed-0011",
+        "viarotel",
+        "salmanmkc",
+        "reindex-ot"
+      ]
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "full_name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 5826,
+      "forks": 802,
+      "stars_today": 105,
+      "built_by": [
+        "gverma-openai",
+        "ashwinm-oai",
+        "cching-openai",
+        "vb-openai",
+        "Aismit"
+      ]
+    }
+  ]
+}
