@@ -1,0 +1,296 @@
+{
+  "date": "2026-09-11",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 38507,
+      "forks": 2208,
+      "stars_today": 3882,
+      "built_by": [
+        "commie70",
+        "thejesh23",
+        "SillyDark",
+        "claude"
+      ],
+      "llm_summary": "ADHD友好的编程代理输出工具"
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 24465,
+      "forks": 5074,
+      "stars_today": 1762,
+      "built_by": [
+        "ethanstoner",
+        "yangsongsf",
+        "claude",
+        "prajwal-raj"
+      ],
+      "llm_summary": "实时卫星数据3D地球模拟器"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 284734,
+      "forks": 25471,
+      "stars_today": 732,
+      "built_by": [
+        "jjshanks",
+        "arittr",
+        "claude",
+        "clkao"
+      ],
+      "llm_summary": "实用代理技能开发框架"
+    },
+    {
+      "owner": "alsk1992",
+      "name": "CloddsBot",
+      "full_name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars": 1691,
+      "forks": 259,
+      "stars_today": 277,
+      "built_by": [
+        "claude",
+        "nox-oss",
+        "dajiaohuang",
+        "dependabot"
+      ],
+      "llm_summary": "跨千市场开源AI交易代理"
+    },
+    {
+      "owner": "Tencent",
+      "name": "teamai-cli",
+      "full_name": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "stars": 3838,
+      "forks": 250,
+      "stars_today": 841,
+      "built_by": [
+        "claude",
+        "cursoragent",
+        "jeff-r2026",
+        "Eyre921",
+        "m0Nst3r873"
+      ],
+      "llm_summary": "团队AI原生开发工具"
+    },
+    {
+      "owner": "AlexsJones",
+      "name": "llmfit",
+      "full_name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars": 35769,
+      "forks": 2269,
+      "stars_today": 258,
+      "built_by": [
+        "github-actions",
+        "three-foxes-in-a-trenchcoat",
+        "claude",
+        "dependabot"
+      ],
+      "llm_summary": "一键检测硬件支持的模型"
+    },
+    {
+      "owner": "liquidslr",
+      "name": "system-design-notes",
+      "full_name": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "language": "Unknown",
+      "stars": 18834,
+      "forks": 3486,
+      "stars_today": 900,
+      "built_by": [
+        "emmadonjo",
+        "stym01"
+      ],
+      "llm_summary": "系统设计面试指南笔记"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 37810,
+      "forks": 2396,
+      "stars_today": 1294,
+      "built_by": [
+        "mvanhorn",
+        "claude",
+        "web-flow",
+        "parveen0029"
+      ],
+      "llm_summary": "38种Claude专用编辑图表"
+    },
+    {
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "language": "JavaScript",
+      "stars": 30889,
+      "forks": 2995,
+      "stars_today": 962,
+      "built_by": [
+        "sscodeai",
+        "claude",
+        "ImgBotApp",
+        "LengShangbai"
+      ],
+      "llm_summary": "GPT图像生成提示词库"
+    },
+    {
+      "owner": "armory3d",
+      "name": "armorpaint",
+      "full_name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars": 4434,
+      "forks": 522,
+      "stars_today": 72,
+      "built_by": [
+        "shiena",
+        "luboslenco",
+        "Xephobia",
+        "lidorY",
+        "MathemanFlo"
+      ],
+      "llm_summary": "专业纹理绘制工具"
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "language": "TypeScript",
+      "stars": 64280,
+      "forks": 8998,
+      "stars_today": 626,
+      "built_by": [
+        "dependabot",
+        "claude",
+        "backryun",
+        "oyi77"
+      ],
+      "llm_summary": "统一接入352个AI提供商网关"
+    },
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 27488,
+      "forks": 3012,
+      "stars_today": 98,
+      "built_by": [
+        "ZacharyZcR",
+        "claude",
+        "monotophic",
+        "steve-m"
+      ],
+      "llm_summary": "轻量级运行前沿MoE模型"
+    },
+    {
+      "owner": "THU-MAIC",
+      "name": "OpenMAIC",
+      "full_name": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": 35371,
+      "forks": 5643,
+      "stars_today": 837,
+      "built_by": [
+        "claude",
+        "cosarah",
+        "YizukiAme",
+        "wyuc",
+        "ly-wang19"
+      ],
+      "llm_summary": "一键获取多代理学习体验"
+    },
+    {
+      "owner": "nashsu",
+      "name": "llm_wiki",
+      "full_name": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars": 18155,
+      "forks": 2100,
+      "stars_today": 142,
+      "built_by": [
+        "chuenchen309",
+        "skfan135",
+        "claude",
+        "AndrewDongminYoo"
+      ],
+      "llm_summary": "增量构建文档知识库"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "skills",
+      "full_name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars": 31176,
+      "forks": 2663,
+      "stars_today": 122,
+      "built_by": [
+        "claude",
+        "huozhi",
+        "jonathanhefner",
+        "github-actions",
+        "quuu"
+      ],
+      "llm_summary": "开放代理技能工具"
+    },
+    {
+      "owner": "vastsa",
+      "name": "PI-Desktop",
+      "full_name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars": 2334,
+      "forks": 194,
+      "stars_today": 624,
+      "built_by": [
+        "yg2224",
+        "claude",
+        "BioYue",
+        "Tioit-Wang"
+      ],
+      "llm_summary": "本地AI编码代理桌面应用"
+    }
+  ]
+}
