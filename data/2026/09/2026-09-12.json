@@ -1,0 +1,297 @@
+{
+  "date": "2026-09-12",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 41962,
+      "forks": 2371,
+      "stars_today": 3463,
+      "built_by": [
+        "thejesh23",
+        "claude",
+        "SillyDark",
+        "commie70"
+      ],
+      "llm_summary": "ADHD友好编程助手，简洁呈现答案"
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 27218,
+      "forks": 5568,
+      "stars_today": 3680,
+      "built_by": [
+        "samehkhamis",
+        "Tom-Neverwinter",
+        "claude",
+        "manjunath22466"
+      ],
+      "llm_summary": "真实数据3D地球空间情报可视化"
+    },
+    {
+      "owner": "nab138",
+      "name": "iloader",
+      "full_name": "nab138/iloader",
+      "url": "https://github.com/nab138/iloader",
+      "description": "User friendly sideloader",
+      "language": "TypeScript",
+      "stars": 2919,
+      "forks": 203,
+      "stars_today": 50,
+      "built_by": [
+        "baocreata",
+        "CelloSerenity",
+        "se2crid",
+        "okinaau"
+      ],
+      "llm_summary": "用户友好型应用侧载工具"
+    },
+    {
+      "owner": "melgarafael",
+      "name": "DeskcommCRM",
+      "full_name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": 1372,
+      "forks": 499,
+      "stars_today": 152,
+      "built_by": [
+        "rafaelmelgaco",
+        "claude",
+        "JowaniOrantes",
+        "jmpo"
+      ],
+      "llm_summary": "开源AI销售CRM系统，支持WhatsApp集成"
+    },
+    {
+      "owner": "vastsa",
+      "name": "PI-Desktop",
+      "full_name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars": 2795,
+      "forks": 219,
+      "stars_today": 552,
+      "built_by": [
+        "claude",
+        "Tioit-Wang",
+        "BioYue",
+        "yg2224"
+      ],
+      "llm_summary": "本地优先AI编码代理桌面应用"
+    },
+    {
+      "owner": "armory3d",
+      "name": "armorpaint",
+      "full_name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars": 4738,
+      "forks": 534,
+      "stars_today": 350,
+      "built_by": [
+        "shiena",
+        "lidorY",
+        "luboslenco",
+        "Xephobia",
+        "MathemanFlo"
+      ],
+      "llm_summary": "专业3D纹理绘制工具"
+    },
+    {
+      "owner": "alsk1992",
+      "name": "CloddsBot",
+      "full_name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars": 2168,
+      "forks": 282,
+      "stars_today": 626,
+      "built_by": [
+        "dajiaohuang",
+        "dependabot",
+        "claude",
+        "nox-oss"
+      ],
+      "llm_summary": "多市场AI交易代理，自动执行策略"
+    },
+    {
+      "owner": "nashsu",
+      "name": "llm_wiki",
+      "full_name": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars": 18766,
+      "forks": 2135,
+      "stars_today": 647,
+      "built_by": [
+        "skfan135",
+        "chuenchen309",
+        "claude",
+        "AndrewDongminYoo"
+      ],
+      "llm_summary": "自动构建互连知识库的文档工具"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 285392,
+      "forks": 25520,
+      "stars_today": 729,
+      "built_by": [
+        "jjshanks",
+        "arittr",
+        "claude",
+        "clkao"
+      ],
+      "llm_summary": "高效代理技能开发框架"
+    },
+    {
+      "owner": "Sonarr",
+      "name": "Sonarr",
+      "full_name": "Sonarr/Sonarr",
+      "url": "https://github.com/Sonarr/Sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "stars": 15746,
+      "forks": 1949,
+      "stars_today": 191,
+      "built_by": [
+        "mynameisbogdan",
+        "markus101",
+        "kayone",
+        "Qstick",
+        "Taloth"
+      ],
+      "llm_summary": "智能媒体资源自动管理工具"
+    },
+    {
+      "owner": "jihe520",
+      "name": "MathModelAgent",
+      "full_name": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "stars": 4873,
+      "forks": 393,
+      "stars_today": 129,
+      "built_by": [
+        "YangChengyi-dev",
+        "claude",
+        "HP-Patience",
+        "MuWinds"
+      ],
+      "llm_summary": "自动完成数学建模并生成论文"
+    },
+    {
+      "owner": "p1neappleXpress",
+      "name": "OpenFlux",
+      "full_name": "p1neappleXpress/OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Go",
+      "stars": 1162,
+      "forks": 88,
+      "stars_today": 198,
+      "built_by": [
+        "iamfinist",
+        "dajiaohuang"
+      ],
+      "llm_summary": "可插拔网络传输TCP隧道工具"
+    },
+    {
+      "owner": "jordan-gibbs",
+      "name": "hyperresearch",
+      "full_name": "jordan-gibbs/hyperresearch",
+      "url": "https://github.com/jordan-gibbs/hyperresearch",
+      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "language": "Python",
+      "stars": 2645,
+      "forks": 259,
+      "stars_today": 153,
+      "built_by": [
+        "fduple",
+        "polonuim210",
+        "claude",
+        "synqing"
+      ],
+      "llm_summary": "代理驱动的网络研究知识库"
+    },
+    {
+      "owner": "alphaXiv",
+      "name": "OpenResearch",
+      "full_name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars": 1306,
+      "forks": 94,
+      "stars_today": 120,
+      "built_by": [
+        "sfabbro",
+        "claude",
+        "rehaanahmad2013",
+        "sox8502",
+        "myles332"
+      ],
+      "llm_summary": "多模型并行研究代理框架"
+    },
+    {
+      "owner": "github",
+      "name": "spec-kit",
+      "full_name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 135785,
+      "forks": 12201,
+      "stars_today": 1015,
+      "built_by": [
+        "mnriem",
+        "github-actions",
+        "claude",
+        "localden",
+        "Copilot"
+      ],
+      "llm_summary": "规范驱动开发入门工具包"
+    },
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "language": "TypeScript",
+      "stars": 23636,
+      "forks": 2943,
+      "stars_today": 106,
+      "built_by": [
+        "claude",
+        "sudhir9297",
+        "wass08",
+        "Aymericr",
+        "open-pascal"
+      ],
+      "llm_summary": "AI辅助3D建筑编辑器"
+    }
+  ]
+}
