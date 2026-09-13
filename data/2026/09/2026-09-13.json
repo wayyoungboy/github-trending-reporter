@@ -1,0 +1,282 @@
+{
+  "date": "2026-09-13",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 30021,
+      "forks": 6037,
+      "stars_today": 2265,
+      "built_by": [
+        "samehkhamis",
+        "manjunath22466",
+        "claude",
+        "Tom-Neverwinter"
+      ]
+    },
+    {
+      "owner": "melgarafael",
+      "name": "DeskcommCRM",
+      "full_name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": 1829,
+      "forks": 556,
+      "stars_today": 504,
+      "built_by": [
+        "rafaelmelgaco",
+        "jmpo",
+        "claude",
+        "JowaniOrantes"
+      ]
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "language": "JavaScript",
+      "stars": 65446,
+      "forks": 10740,
+      "stars_today": 217,
+      "built_by": [
+        "awrreny",
+        "anonymous619259",
+        "claude",
+        "lcebot"
+      ]
+    },
+    {
+      "owner": "nab138",
+      "name": "iloader",
+      "full_name": "nab138/iloader",
+      "url": "https://github.com/nab138/iloader",
+      "description": "User friendly sideloader",
+      "language": "TypeScript",
+      "stars": 3094,
+      "forks": 211,
+      "stars_today": 209,
+      "built_by": [
+        "se2crid",
+        "okinaau",
+        "CelloSerenity",
+        "baocreata"
+      ]
+    },
+    {
+      "owner": "Flowseal",
+      "name": "zapret-discord-youtube",
+      "full_name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 33212,
+      "forks": 2540,
+      "stars_today": 65,
+      "built_by": [
+        "amozebus",
+        "ekungurov",
+        "fridorin",
+        "V3nilla"
+      ]
+    },
+    {
+      "owner": "jihe520",
+      "name": "MathModelAgent",
+      "full_name": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "stars": 5144,
+      "forks": 403,
+      "stars_today": 262,
+      "built_by": [
+        "MuWinds",
+        "YangChengyi-dev",
+        "claude",
+        "HP-Patience"
+      ]
+    },
+    {
+      "owner": "Sonarr",
+      "name": "Sonarr",
+      "full_name": "Sonarr/Sonarr",
+      "url": "https://github.com/Sonarr/Sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "stars": 15933,
+      "forks": 1953,
+      "stars_today": 227,
+      "built_by": [
+        "mynameisbogdan",
+        "Taloth",
+        "kayone",
+        "Qstick",
+        "markus101"
+      ]
+    },
+    {
+      "owner": "alsk1992",
+      "name": "CloddsBot",
+      "full_name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars": 2522,
+      "forks": 312,
+      "stars_today": 376,
+      "built_by": [
+        "nox-oss",
+        "claude",
+        "dajiaohuang",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "yuliskov",
+      "name": "SmartTube",
+      "full_name": "yuliskov/SmartTube",
+      "url": "https://github.com/yuliskov/SmartTube",
+      "description": "Browse media content with your own rules on Android TV",
+      "language": "Java",
+      "stars": 33228,
+      "forks": 2015,
+      "stars_today": 136,
+      "built_by": [
+        "Resshi",
+        "mapi68",
+        "foreveryoungforty",
+        "mpama2016"
+      ]
+    },
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "stars": 137646,
+      "forks": 20236,
+      "stars_today": 230,
+      "built_by": [
+        "Madhuvod",
+        "claude",
+        "onestardao",
+        "thejesh23"
+      ]
+    },
+    {
+      "owner": "p1neappleXpress",
+      "name": "OpenFlux",
+      "full_name": "p1neappleXpress/OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Go",
+      "stars": 1409,
+      "forks": 104,
+      "stars_today": 355,
+      "built_by": [
+        "saharev",
+        "claude",
+        "dajiaohuang",
+        "mkukarin01"
+      ]
+    },
+    {
+      "owner": "armory3d",
+      "name": "armorpaint",
+      "full_name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars": 4919,
+      "forks": 548,
+      "stars_today": 237,
+      "built_by": [
+        "MathemanFlo",
+        "lidorY",
+        "luboslenco",
+        "shiena",
+        "Xephobia"
+      ]
+    },
+    {
+      "owner": "SnailSploit",
+      "name": "Claude-Red",
+      "full_name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars": 3619,
+      "forks": 555,
+      "stars_today": 113,
+      "built_by": [
+        "yogesh-tessl",
+        "claude",
+        "LvL23HT",
+        "IzenJ"
+      ]
+    },
+    {
+      "owner": "multimodal-art-projection",
+      "name": "YuE",
+      "full_name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars": 7311,
+      "forks": 825,
+      "stars_today": 210,
+      "built_by": [
+        "Skrill2001",
+        "hf-lin",
+        "a43992899",
+        "Yiming-Liang",
+        "yongyizang"
+      ]
+    },
+    {
+      "owner": "max-sixty",
+      "name": "worktrunk",
+      "full_name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars": 7252,
+      "forks": 256,
+      "stars_today": 54,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "worktrunk-bot",
+        "dependabot"
+      ]
+    },
+    {
+      "owner": "vxcontrol",
+      "name": "pentagi",
+      "full_name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 23474,
+      "forks": 3062,
+      "stars_today": 189,
+      "built_by": [
+        "claude",
+        "cursoragent",
+        "asdek",
+        "mason5052",
+        "sirozha"
+      ]
+    }
+  ]
+}
