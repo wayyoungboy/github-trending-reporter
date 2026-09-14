@@ -1,0 +1,336 @@
+{
+  "date": "2026-09-14",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 29996,
+      "forks": 3254,
+      "stars_today": 868,
+      "built_by": [
+        "steve-m",
+        "ZacharyZcR",
+        "claude",
+        "monotophic"
+      ]
+    },
+    {
+      "owner": "ever-co",
+      "name": "ever-gauzy",
+      "full_name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "language": "TypeScript",
+      "stars": 5182,
+      "forks": 949,
+      "stars_today": 191,
+      "built_by": [
+        "claude",
+        "AlexTasev",
+        "rahul-rocket",
+        "evereq",
+        "adkif"
+      ]
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 32039,
+      "forks": 6429,
+      "stars_today": 2680,
+      "built_by": [
+        "samehkhamis",
+        "Tom-Neverwinter",
+        "daikaginza",
+        "claude"
+      ]
+    },
+    {
+      "owner": "tech-leads-club",
+      "name": "agent-skills",
+      "full_name": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": 5694,
+      "forks": 500,
+      "stars_today": 265,
+      "built_by": [
+        "felipfr",
+        "may-santos",
+        "edmarpaulino",
+        "waldemarnt",
+        "tech-leads-club-release-bot"
+      ]
+    },
+    {
+      "owner": "melgarafael",
+      "name": "DeskcommCRM",
+      "full_name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": 2232,
+      "forks": 601,
+      "stars_today": 432,
+      "built_by": [
+        "JowaniOrantes",
+        "jmpo",
+        "rafaelmelgaco",
+        "claude"
+      ]
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 58519,
+      "forks": 7364,
+      "stars_today": 380,
+      "built_by": [
+        "yiyabo",
+        "0xDevNinja",
+        "claude",
+        "xucailiang"
+      ]
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "language": "JavaScript",
+      "stars": 66103,
+      "forks": 10808,
+      "stars_today": 706,
+      "built_by": [
+        "awrreny",
+        "lcebot",
+        "anonymous619259",
+        "claude"
+      ]
+    },
+    {
+      "owner": "vxcontrol",
+      "name": "pentagi",
+      "full_name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 24025,
+      "forks": 3099,
+      "stars_today": 590,
+      "built_by": [
+        "claude",
+        "cursoragent",
+        "mason5052",
+        "sirozha",
+        "asdek"
+      ]
+    },
+    {
+      "owner": "multimodal-art-projection",
+      "name": "YuE",
+      "full_name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars": 7801,
+      "forks": 867,
+      "stars_today": 487,
+      "built_by": [
+        "hf-lin",
+        "yongyizang",
+        "Yiming-Liang",
+        "a43992899",
+        "Skrill2001"
+      ]
+    },
+    {
+      "owner": "yuliskov",
+      "name": "SmartTube",
+      "full_name": "yuliskov/SmartTube",
+      "url": "https://github.com/yuliskov/SmartTube",
+      "description": "Browse media content with your own rules on Android TV",
+      "language": "Java",
+      "stars": 33467,
+      "forks": 2035,
+      "stars_today": 233,
+      "built_by": [
+        "Resshi",
+        "mapi68",
+        "mpama2016",
+        "foreveryoungforty"
+      ]
+    },
+    {
+      "owner": "alphaXiv",
+      "name": "OpenResearch",
+      "full_name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars": 2121,
+      "forks": 144,
+      "stars_today": 289,
+      "built_by": [
+        "claude",
+        "dajiaohuang",
+        "rehaanahmad2013",
+        "myles332",
+        "sox8502"
+      ]
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 27014,
+      "forks": 3333,
+      "stars_today": 2632,
+      "built_by": [
+        "velixio",
+        "psiberfunk",
+        "paoloantinori",
+        "claude"
+      ]
+    },
+    {
+      "owner": "SnailSploit",
+      "name": "Claude-Red",
+      "full_name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars": 4194,
+      "forks": 593,
+      "stars_today": 506,
+      "built_by": [
+        "IzenJ",
+        "yogesh-tessl",
+        "claude",
+        "LvL23HT"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 23617,
+      "forks": 1750,
+      "stars_today": 443,
+      "built_by": [
+        "chethanuk",
+        "lizhengfeng101",
+        "claude",
+        "stay-foolish-forever",
+        "wu21-web"
+      ]
+    },
+    {
+      "owner": "jihe520",
+      "name": "MathModelAgent",
+      "full_name": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "stars": 5385,
+      "forks": 411,
+      "stars_today": 246,
+      "built_by": [
+        "HP-Patience",
+        "YangChengyi-dev",
+        "MuWinds",
+        "claude"
+      ]
+    },
+    {
+      "owner": "tonhowtf",
+      "name": "omniget",
+      "full_name": "tonhowtf/omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "Rust",
+      "stars": 11746,
+      "forks": 1027,
+      "stars_today": 507,
+      "built_by": [
+        "cursoragent",
+        "D0n-A",
+        "claude",
+        "InstaZDLL"
+      ]
+    },
+    {
+      "owner": "jiji262",
+      "name": "douyin-downloader",
+      "full_name": "jiji262/douyin-downloader",
+      "url": "https://github.com/jiji262/douyin-downloader",
+      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+      "language": "Python",
+      "stars": 11431,
+      "forks": 1755,
+      "stars_today": 452,
+      "built_by": [
+        "craft-agents-bot",
+        "dennistodo",
+        "greptile-apps",
+        "claude"
+      ]
+    },
+    {
+      "owner": "Swordfish90",
+      "name": "cool-retro-term",
+      "full_name": "Swordfish90/cool-retro-term",
+      "url": "https://github.com/Swordfish90/cool-retro-term",
+      "description": "A good looking terminal emulator which mimics the old cathode display...",
+      "language": "QML",
+      "stars": 26244,
+      "forks": 1017,
+      "stars_today": 57,
+      "built_by": [
+        "probonopd",
+        "kz6fittycent",
+        "rbanffy",
+        "KAMiKAZOW"
+      ]
+    },
+    {
+      "owner": "huggingface",
+      "name": "transformers",
+      "full_name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars": 165571,
+      "forks": 34559,
+      "stars_today": 152,
+      "built_by": [
+        "thomwolf",
+        "sgugger",
+        "ydshieh",
+        "patrickvonplaten",
+        "LysandreJik"
+      ]
+    }
+  ]
+}
