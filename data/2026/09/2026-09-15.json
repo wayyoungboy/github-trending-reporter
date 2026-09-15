@@ -1,0 +1,356 @@
+{
+  "date": "2026-09-15",
+  "total_repos": 20,
+  "repositories": [
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 32212,
+      "forks": 3394,
+      "stars_today": 2173,
+      "built_by": [
+        "claude",
+        "steve-m",
+        "monotophic",
+        "ZacharyZcR"
+      ]
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 25976,
+      "forks": 1878,
+      "stars_today": 1571,
+      "built_by": [
+        "lizhengfeng101",
+        "wu21-web",
+        "claude",
+        "stay-foolish-forever",
+        "chethanuk"
+      ]
+    },
+    {
+      "owner": "multimodal-art-projection",
+      "name": "YuE",
+      "full_name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars": 8421,
+      "forks": 912,
+      "stars_today": 559,
+      "built_by": [
+        "yongyizang",
+        "Yiming-Liang",
+        "a43992899",
+        "Skrill2001",
+        "hf-lin"
+      ]
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 29371,
+      "forks": 3566,
+      "stars_today": 2776,
+      "built_by": [
+        "claude",
+        "psiberfunk",
+        "paoloantinori",
+        "velixio"
+      ]
+    },
+    {
+      "owner": "666ghj",
+      "name": "MiroFish",
+      "full_name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": 73227,
+      "forks": 11292,
+      "stars_today": 560,
+      "built_by": [
+        "anupamme",
+        "github-actions",
+        "Ghostubborn",
+        "harshitanand"
+      ]
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 81379,
+      "forks": 7082,
+      "stars_today": 651,
+      "built_by": [
+        "claude",
+        "kadaliao",
+        "hymansun",
+        "nyxst4ck"
+      ]
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "language": "JavaScript",
+      "stars": 66827,
+      "forks": 10875,
+      "stars_today": 764,
+      "built_by": [
+        "claude",
+        "awrreny",
+        "lcebot",
+        "anonymous619259"
+      ]
+    },
+    {
+      "owner": "rlaope",
+      "name": "oh-my-hermes",
+      "full_name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "stars": 2095,
+      "forks": 163,
+      "stars_today": 77,
+      "built_by": [
+        "claude",
+        "frirenai",
+        "sisyphus-dev-ai",
+        "sionic-khope"
+      ]
+    },
+    {
+      "owner": "localsend",
+      "name": "localsend",
+      "full_name": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "stars": 91371,
+      "forks": 5097,
+      "stars_today": 251,
+      "built_by": [
+        "Tienisto",
+        "TheGB0077",
+        "gidano",
+        "sergd88",
+        "ShlomoCode"
+      ]
+    },
+    {
+      "owner": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": 67544,
+      "forks": 3213,
+      "stars_today": 115,
+      "built_by": [
+        "jjlin",
+        "stefan0xC",
+        "BlackDex",
+        "mprasil"
+      ]
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 106200,
+      "forks": 20313,
+      "stars_today": 745,
+      "built_by": [
+        "EdwardoSunny",
+        "luohy15",
+        "Yijia-Xiao",
+        "CadeYu",
+        "claude"
+      ]
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 93884,
+      "forks": 12436,
+      "stars_today": 383,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "dependabot",
+        "proffesor-for-testing"
+      ]
+    },
+    {
+      "owner": "tech-leads-club",
+      "name": "agent-skills",
+      "full_name": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": 6087,
+      "forks": 519,
+      "stars_today": 512,
+      "built_by": [
+        "edmarpaulino",
+        "may-santos",
+        "felipfr",
+        "tech-leads-club-release-bot",
+        "waldemarnt"
+      ]
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "full_name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 37404,
+      "forks": 4250,
+      "stars_today": 216,
+      "built_by": [
+        "VoxInstruct",
+        "bcsdcox",
+        "Labmem-Zhouyx",
+        "liuxin99",
+        "a710128"
+      ]
+    },
+    {
+      "owner": "huggingface",
+      "name": "transformers",
+      "full_name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars": 166009,
+      "forks": 34579,
+      "stars_today": 536,
+      "built_by": [
+        "patrickvonplaten",
+        "sgugger",
+        "LysandreJik",
+        "thomwolf",
+        "ydshieh"
+      ]
+    },
+    {
+      "owner": "ever-co",
+      "name": "ever-gauzy",
+      "full_name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "language": "TypeScript",
+      "stars": 6026,
+      "forks": 987,
+      "stars_today": 1130,
+      "built_by": [
+        "rahul-rocket",
+        "AlexTasev",
+        "evereq",
+        "claude",
+        "adkif"
+      ]
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "stars": 36935,
+      "forks": 3687,
+      "stars_today": 40,
+      "built_by": [
+        "dependabot",
+        "cosmistack-bot",
+        "jakeaturner",
+        "chriscrosstalk",
+        "claude"
+      ]
+    },
+    {
+      "owner": "reconurge",
+      "name": "flowsint",
+      "full_name": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars": 8374,
+      "forks": 1028,
+      "stars_today": 280,
+      "built_by": [
+        "Ghraven",
+        "dextmorgn",
+        "gustavorps",
+        "z3rodaycve",
+        "rachit367"
+      ]
+    },
+    {
+      "owner": "peetzweg",
+      "name": "opendisplay",
+      "full_name": "peetzweg/opendisplay",
+      "url": "https://github.com/peetzweg/opendisplay",
+      "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "language": "Swift",
+      "stars": 3627,
+      "forks": 251,
+      "stars_today": 229,
+      "built_by": [
+        "claude",
+        "jlfwong",
+        "github-actions",
+        "kdbhalala"
+      ]
+    },
+    {
+      "owner": "SnailSploit",
+      "name": "Claude-Red",
+      "full_name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars": 4793,
+      "forks": 633,
+      "stars_today": 579,
+      "built_by": [
+        "claude",
+        "yogesh-tessl",
+        "LvL23HT",
+        "IzenJ"
+      ]
+    }
+  ]
+}
