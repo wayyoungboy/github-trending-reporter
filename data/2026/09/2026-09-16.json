@@ -1,0 +1,264 @@
+{
+  "date": "2026-09-16",
+  "total_repos": 14,
+  "repositories": [
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 28837,
+      "forks": 2060,
+      "stars_today": 2756,
+      "built_by": [
+        "chethanuk",
+        "wu21-web",
+        "lizhengfeng101",
+        "claude",
+        "stay-foolish-forever"
+      ],
+      "llm_summary": "阿里巴巴高效企业级代码审查工具"
+    },
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 33956,
+      "forks": 3550,
+      "stars_today": 2026,
+      "built_by": [
+        "monotophic",
+        "steve-m",
+        "ZacharyZcR",
+        "claude"
+      ],
+      "llm_summary": "轻量级运行前沿MoE模型引擎"
+    },
+    {
+      "owner": "ever-co",
+      "name": "ever-gauzy",
+      "full_name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "language": "TypeScript",
+      "stars": 6717,
+      "forks": 1033,
+      "stars_today": 634,
+      "built_by": [
+        "AlexTasev",
+        "adkif",
+        "evereq",
+        "rahul-rocket",
+        "claude"
+      ],
+      "llm_summary": "开源全能企业管理平台"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 31095,
+      "forks": 3708,
+      "stars_today": 2072,
+      "built_by": [
+        "paoloantinori",
+        "psiberfunk",
+        "velixio",
+        "claude"
+      ],
+      "llm_summary": "本地化多语言语音处理工具"
+    },
+    {
+      "owner": "Homebrew",
+      "name": "BrewUI",
+      "full_name": "Homebrew/BrewUI",
+      "url": "https://github.com/Homebrew/BrewUI",
+      "description": "📺 Homebrew's official macOS GUI",
+      "language": "Swift",
+      "stars": 1422,
+      "forks": 31,
+      "stars_today": 271,
+      "built_by": [
+        "ZhongRuoyu",
+        "BrewTestBot",
+        "graeme",
+        "MikeMcQuaid",
+        "claude"
+      ],
+      "llm_summary": "Homebrew官方macOS图形界面"
+    },
+    {
+      "owner": "melgarafael",
+      "name": "DeskcommCRM",
+      "full_name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": 2873,
+      "forks": 685,
+      "stars_today": 193,
+      "built_by": [
+        "JowaniOrantes",
+        "jmpo",
+        "IanCouto",
+        "claude"
+      ],
+      "llm_summary": "开源AI销售操作系统"
+    },
+    {
+      "owner": "alphaXiv",
+      "name": "OpenResearch",
+      "full_name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars": 3435,
+      "forks": 226,
+      "stars_today": 531,
+      "built_by": [
+        "rehaanahmad2013",
+        "myles332",
+        "dajiaohuang",
+        "sox8502",
+        "claude"
+      ],
+      "llm_summary": "AI代理研究工具"
+    },
+    {
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 76774,
+      "forks": 8470,
+      "stars_today": 725,
+      "built_by": [
+        "ghidra1",
+        "caheckman",
+        "ryanmkurtz",
+        "nsadeveloper789",
+        "dragonmacher"
+      ],
+      "llm_summary": "软件逆向工程框架"
+    },
+    {
+      "owner": "danny-avila",
+      "name": "LibreChat",
+      "full_name": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "stars": 43876,
+      "forks": 9028,
+      "stars_today": 254,
+      "built_by": [
+        "dustinhealy",
+        "berry-13",
+        "github-actions",
+        "wtlyu"
+      ],
+      "llm_summary": "多功能开源ChatGPT替代品"
+    },
+    {
+      "owner": "pacifio",
+      "name": "atlas",
+      "full_name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars": 4659,
+      "forks": 281,
+      "stars_today": 91,
+      "built_by": [
+        "uzayer",
+        "Ukaykhingmarma28",
+        "claude",
+        "ahammadnafiz"
+      ],
+      "llm_summary": "AI代理源代码管理工具"
+    },
+    {
+      "owner": "MG1937",
+      "name": "ASC",
+      "full_name": "MG1937/ASC",
+      "url": "https://github.com/MG1937/ASC",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "language": "Python",
+      "stars": 1219,
+      "forks": 200,
+      "stars_today": 129,
+      "built_by": [
+        "jygzyc",
+        "0Chencc",
+        "TsingShui",
+        "ZacharyZcR"
+      ],
+      "llm_summary": "快速Android反编译前端"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 94852,
+      "forks": 10065,
+      "stars_today": 307,
+      "built_by": [
+        "federicobartoli",
+        "HMAKT99",
+        "nucliweb",
+        "claude"
+      ],
+      "llm_summary": "AI代理工程技能库"
+    },
+    {
+      "owner": "tonhowtf",
+      "name": "omniget",
+      "full_name": "tonhowtf/omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "Rust",
+      "stars": 13009,
+      "forks": 1103,
+      "stars_today": 258,
+      "built_by": [
+        "InstaZDLL",
+        "cursoragent",
+        "D0n-A",
+        "claude"
+      ],
+      "llm_summary": "多平台内容下载工具"
+    },
+    {
+      "owner": "earendil-works",
+      "name": "pi",
+      "full_name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars": 105783,
+      "forks": 13295,
+      "stars_today": 458,
+      "built_by": [
+        "mitsuhiko",
+        "cristinaponcela",
+        "davidbrai",
+        "christianklotz",
+        "badlogic"
+      ],
+      "llm_summary": "AI代理开发工具包"
+    }
+  ]
+}
