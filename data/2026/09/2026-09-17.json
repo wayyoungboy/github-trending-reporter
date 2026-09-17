@@ -1,0 +1,395 @@
+{
+  "date": "2026-09-17",
+  "total_repos": 21,
+  "repositories": [
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 32168,
+      "forks": 2273,
+      "stars_today": 3231,
+      "built_by": [
+        "stay-foolish-forever",
+        "lizhengfeng101",
+        "claude",
+        "chethanuk",
+        "wu21-web"
+      ],
+      "llm_summary": "阿里巴巴级代码审查工具，结合LLM智能代理"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 7455,
+      "forks": 430,
+      "stars_today": 927,
+      "built_by": [
+        "literally-dan",
+        "CooperSheroy",
+        "kennysarnoski-jarvis"
+      ],
+      "llm_summary": "多阶段安全审计技能，提供机器可读结果"
+    },
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 35091,
+      "forks": 3688,
+      "stars_today": 1546,
+      "built_by": [
+        "monotophic",
+        "steve-m",
+        "claude",
+        "ZacharyZcR"
+      ],
+      "llm_summary": "纯C实现MoE模型运行器，零依赖高效"
+    },
+    {
+      "owner": "abue-ammar",
+      "name": "tinycast",
+      "full_name": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "stars": 5652,
+      "forks": 273,
+      "stars_today": 1179,
+      "built_by": [
+        "mickyyy68",
+        "notsoshu",
+        "list-jonas",
+        "mathieusouflis"
+      ],
+      "llm_summary": "小巧macOS启动器，支持热键与剪贴板历史"
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 54432,
+      "forks": 6792,
+      "stars_today": 417,
+      "built_by": [
+        "mvanhorn",
+        "tomasmach",
+        "claude",
+        "selop"
+      ],
+      "llm_summary": "开源AI语音工作室，克隆听写创作一体化"
+    },
+    {
+      "owner": "Lakr233",
+      "name": "vphone-cli",
+      "full_name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "stars": 13384,
+      "forks": 1591,
+      "stars_today": 547,
+      "built_by": [
+        "mpass99",
+        "zqxwce",
+        "claude",
+        "TastyHeadphones"
+      ],
+      "llm_summary": "命令行电话工具，简洁高效通信"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 24313,
+      "forks": 2923,
+      "stars_today": 110,
+      "built_by": [
+        "jordanecker-ant",
+        "bryan-anthropic",
+        "github-actions",
+        "claude",
+        "mattpic-ant"
+      ],
+      "llm_summary": "知识工作者Claude协作插件库"
+    },
+    {
+      "owner": "ever-co",
+      "name": "ever-gauzy",
+      "full_name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "language": "TypeScript",
+      "stars": 7355,
+      "forks": 1090,
+      "stars_today": 778,
+      "built_by": [
+        "adkif",
+        "AlexTasev",
+        "claude",
+        "rahul-rocket",
+        "evereq"
+      ],
+      "llm_summary": "开源企业管理平台，集成ERP/CRM/HRM/ATS/PM"
+    },
+    {
+      "owner": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": 30897,
+      "forks": 3213,
+      "stars_today": 58,
+      "built_by": [
+        "dae",
+        "abdnh",
+        "Arthur-Milchior",
+        "RumovZ",
+        "hgiesel"
+      ],
+      "llm_summary": "智能间隔重复记忆卡片，高效学习助手"
+    },
+    {
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 77878,
+      "forks": 8618,
+      "stars_today": 1059,
+      "built_by": [
+        "dragonmacher",
+        "ghidra1",
+        "caheckman",
+        "nsadeveloper789",
+        "ryanmkurtz"
+      ],
+      "llm_summary": "NSA软件逆向工程分析框架"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 145558,
+      "forks": 23493,
+      "stars_today": 165,
+      "built_by": [
+        "actions-user",
+        "poteat",
+        "claude",
+        "bcherny",
+        "ant-kurt"
+      ],
+      "llm_summary": "终端智能编码助手，自然语言交互"
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 50623,
+      "forks": 4814,
+      "stars_today": 260,
+      "built_by": [
+        "pre-commit-ci",
+        "onuralpszr",
+        "github-actions",
+        "SkalskiP",
+        "Borda"
+      ],
+      "llm_summary": "可重用计算机视觉工具集"
+    },
+    {
+      "owner": "alphaXiv",
+      "name": "OpenResearch",
+      "full_name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars": 4470,
+      "forks": 277,
+      "stars_today": 1017,
+      "built_by": [
+        "myles332",
+        "dajiaohuang",
+        "sox8502",
+        "claude",
+        "rehaanahmad2013"
+      ],
+      "llm_summary": "编码代理转研究工具，智能研究助手"
+    },
+    {
+      "owner": "supabase",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 109774,
+      "forks": 14048,
+      "stars_today": 120,
+      "built_by": [
+        "saltcod",
+        "kiwicopple",
+        "joshenlim",
+        "alaister",
+        "MildTomato"
+      ],
+      "llm_summary": "Postgres开发平台，构建应用专用数据库"
+    },
+    {
+      "owner": "rlaope",
+      "name": "oh-my-hermes",
+      "full_name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "stars": 2581,
+      "forks": 184,
+      "stars_today": 80,
+      "built_by": [
+        "frirenai",
+        "claude",
+        "sisyphus-dev-ai",
+        "sionic-khope"
+      ],
+      "llm_summary": "Hermes Agent一体化智能插件"
+    },
+    {
+      "owner": "Tencent",
+      "name": "WeKnora",
+      "full_name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars": 25430,
+      "forks": 3487,
+      "stars_today": 1197,
+      "built_by": [
+        "begoniezhao",
+        "dependabot",
+        "voidkey",
+        "claude",
+        "lyingbug"
+      ],
+      "llm_summary": "腾讯LLM知识平台，文档转智能代理"
+    },
+    {
+      "owner": "SnailSploit",
+      "name": "Claude-Red",
+      "full_name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars": 5799,
+      "forks": 743,
+      "stars_today": 367,
+      "built_by": [
+        "IzenJ",
+        "yogesh-tessl",
+        "claude",
+        "LvL23HT"
+      ],
+      "llm_summary": "Claude安全攻击技能库，专家级方法论"
+    },
+    {
+      "owner": "multimodal-art-projection",
+      "name": "YuE",
+      "full_name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars": 9396,
+      "forks": 1012,
+      "stars_today": 332,
+      "built_by": [
+        "yongyizang",
+        "a43992899",
+        "Yiming-Liang",
+        "hf-lin",
+        "Skrill2001"
+      ],
+      "llm_summary": "前沿音乐生成器，符号规划与翻唱"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 95500,
+      "forks": 10113,
+      "stars_today": 658,
+      "built_by": [
+        "federicobartoli",
+        "nucliweb",
+        "claude",
+        "HMAKT99"
+      ],
+      "llm_summary": "AI编码代理生产级工程技能"
+    },
+    {
+      "owner": "cline",
+      "name": "cline",
+      "full_name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "stars": 68399,
+      "forks": 7386,
+      "stars_today": 112,
+      "built_by": [
+        "saoudrizwan",
+        "abeatrix",
+        "BarreiroT",
+        "celestial-vault",
+        "arafatkatze"
+      ],
+      "llm_summary": "自主编码代理，多形态开发助手"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 260355,
+      "forks": 38970,
+      "stars_today": 1057,
+      "built_by": [
+        "dependabot",
+        "claude",
+        "haelyra",
+        "pangerlkr"
+      ],
+      "llm_summary": "代理性能优化系统，提升AI编码效能"
+    }
+  ]
+}
