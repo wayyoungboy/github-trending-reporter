@@ -1,0 +1,379 @@
+{
+  "date": "2026-09-18",
+  "total_repos": 20,
+  "repositories": [
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 34963,
+      "forks": 2482,
+      "stars_today": 3286,
+      "built_by": [
+        "lizhengfeng101",
+        "chethanuk",
+        "wu21-web",
+        "stay-foolish-forever",
+        "claude"
+      ],
+      "llm_summary": "AI辅助代码审查工具，高效精准"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 10792,
+      "forks": 574,
+      "stars_today": 3607,
+      "built_by": [
+        "kennysarnoski-jarvis",
+        "CooperSheroy",
+        "literally-dan"
+      ],
+      "llm_summary": "多阶段安全审计技能，机器可读发现"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 95890,
+      "forks": 10148,
+      "stars_today": 680,
+      "built_by": [
+        "nucliweb",
+        "claude",
+        "federicobartoli",
+        "HMAKT99"
+      ],
+      "llm_summary": "AI编码代理生产级技能集"
+    },
+    {
+      "owner": "Tencent",
+      "name": "BrowserSkill",
+      "full_name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "stars": 4288,
+      "forks": 300,
+      "stars_today": 1302,
+      "built_by": [
+        "Ljy-0827",
+        "TencentXiaowei",
+        "cursoragent",
+        "iuyo5678",
+        "BB-fat"
+      ],
+      "llm_summary": "AI代理控制真实浏览器，不干扰工作"
+    },
+    {
+      "owner": "alphaXiv",
+      "name": "OpenResearch",
+      "full_name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars": 4994,
+      "forks": 307,
+      "stars_today": 939,
+      "built_by": [
+        "sox8502",
+        "dajiaohuang",
+        "myles332",
+        "claude",
+        "rehaanahmad2013"
+      ],
+      "llm_summary": "AI编码代理转研究助手"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 145903,
+      "forks": 23644,
+      "stars_today": 538,
+      "built_by": [
+        "actions-user",
+        "bcherny",
+        "ant-kurt",
+        "poteat",
+        "claude"
+      ],
+      "llm_summary": "终端内AI编码助手，自然语言交互"
+    },
+    {
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 78542,
+      "forks": 8686,
+      "stars_today": 912,
+      "built_by": [
+        "ryanmkurtz",
+        "ghidra1",
+        "caheckman",
+        "dragonmacher",
+        "nsadeveloper789"
+      ],
+      "llm_summary": "国家安全局开发的逆向工程框架"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 24599,
+      "forks": 2946,
+      "stars_today": 287,
+      "built_by": [
+        "github-actions",
+        "jordanecker-ant",
+        "mattpic-ant",
+        "bryan-anthropic",
+        "claude"
+      ],
+      "llm_summary": "Claude知识工作插件开源库"
+    },
+    {
+      "owner": "Tencent",
+      "name": "WeKnora",
+      "full_name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars": 26342,
+      "forks": 3563,
+      "stars_today": 1125,
+      "built_by": [
+        "voidkey",
+        "dependabot",
+        "claude",
+        "lyingbug",
+        "begoniezhao"
+      ],
+      "llm_summary": "文档转智能知识问答平台"
+    },
+    {
+      "owner": "abue-ammar",
+      "name": "tinycast",
+      "full_name": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "stars": 6178,
+      "forks": 287,
+      "stars_today": 739,
+      "built_by": [
+        "mickyyy68",
+        "notsoshu",
+        "list-jonas",
+        "mathieusouflis"
+      ],
+      "llm_summary": "小巧macOS启动器与剪贴板历史"
+    },
+    {
+      "owner": "cilium",
+      "name": "cilium",
+      "full_name": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": 25283,
+      "forks": 4074,
+      "stars_today": 111,
+      "built_by": [
+        "jrajahalme",
+        "aanm",
+        "tklauser",
+        "joestringer",
+        "tgraf"
+      ],
+      "llm_summary": "eBPF网络、安全与可观测性"
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": 54887,
+      "forks": 6829,
+      "stars_today": 667,
+      "built_by": [
+        "claude",
+        "selop",
+        "tomasmach",
+        "mvanhorn"
+      ],
+      "llm_summary": "开源AI语音克隆与创作工具"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 261224,
+      "forks": 39105,
+      "stars_today": 1171,
+      "built_by": [
+        "haelyra",
+        "claude",
+        "dependabot",
+        "pangerlkr"
+      ],
+      "llm_summary": "AI代理性能优化系统"
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 50822,
+      "forks": 4829,
+      "stars_today": 329,
+      "built_by": [
+        "github-actions",
+        "pre-commit-ci",
+        "Borda",
+        "onuralpszr",
+        "SkalskiP"
+      ],
+      "llm_summary": "可重用计算机视觉工具集"
+    },
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 35782,
+      "forks": 3760,
+      "stars_today": 873,
+      "built_by": [
+        "steve-m",
+        "claude",
+        "monotophic",
+        "ZacharyZcR"
+      ],
+      "llm_summary": "轻量级MoE模型，纯C实现"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "Octop",
+      "full_name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars": 3508,
+      "forks": 366,
+      "stars_today": 367,
+      "built_by": [
+        "cursoragent",
+        "jubaoliang",
+        "Pandakingxbc",
+        "jubaoliang-tencent",
+        "liukewia"
+      ],
+      "llm_summary": "多用户自托管AI助手"
+    },
+    {
+      "owner": "ever-co",
+      "name": "ever-gauzy",
+      "full_name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "language": "TypeScript",
+      "stars": 7570,
+      "forks": 1123,
+      "stars_today": 470,
+      "built_by": [
+        "evereq",
+        "rahul-rocket",
+        "AlexTasev",
+        "adkif",
+        "claude"
+      ],
+      "llm_summary": "开源全栈企业管理平台"
+    },
+    {
+      "owner": "cline",
+      "name": "cline",
+      "full_name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "stars": 68578,
+      "forks": 7415,
+      "stars_today": 380,
+      "built_by": [
+        "BarreiroT",
+        "arafatkatze",
+        "abeatrix",
+        "celestial-vault",
+        "saoudrizwan"
+      ],
+      "llm_summary": "自主编码代理SDK与扩展"
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 14878,
+      "forks": 1487,
+      "stars_today": 145,
+      "built_by": [
+        "mafredri",
+        "Emyrk",
+        "kylecarbs",
+        "johnstcn",
+        "dependabot"
+      ],
+      "llm_summary": "开发者与代理的安全环境"
+    },
+    {
+      "owner": "n8n-io",
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": 205044,
+      "forks": 60748,
+      "stars_today": 281,
+      "built_by": [
+        "ivov",
+        "RicardoE105",
+        "janober",
+        "netroy",
+        "claude"
+      ],
+      "llm_summary": "AI赋能工作流自动化平台"
+    }
+  ]
+}
