@@ -1,0 +1,321 @@
+{
+  "date": "2026-09-19",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 13839,
+      "forks": 741,
+      "stars_today": 3006,
+      "built_by": [
+        "kennysarnoski-jarvis",
+        "CooperSheroy",
+        "literally-dan"
+      ],
+      "llm_summary": "多阶段安全审计工具，提供机器可读验证结果"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 146327,
+      "forks": 23797,
+      "stars_today": 444,
+      "built_by": [
+        "poteat",
+        "bcherny",
+        "claude",
+        "actions-user",
+        "ant-kurt"
+      ],
+      "llm_summary": "终端中的AI编码助手，理解代码库，自然语言交互"
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 36731,
+      "forks": 2616,
+      "stars_today": 2704,
+      "built_by": [
+        "stay-foolish-forever",
+        "chethanuk",
+        "claude",
+        "lizhengfeng101",
+        "wu21-web"
+      ],
+      "llm_summary": "安全高效的混合架构代码审查工具，精确行级评论"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 262108,
+      "forks": 39219,
+      "stars_today": 958,
+      "built_by": [
+        "haelyra",
+        "claude",
+        "pangerlkr",
+        "dependabot"
+      ],
+      "llm_summary": "AI编码代理性能优化系统，提升开发效率"
+    },
+    {
+      "owner": "Tencent",
+      "name": "BrowserSkill",
+      "full_name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "stars": 5344,
+      "forks": 370,
+      "stars_today": 1306,
+      "built_by": [
+        "cursoragent",
+        "BB-fat",
+        "iuyo5678",
+        "TencentXiaowei",
+        "Ljy-0827"
+      ],
+      "llm_summary": "AI代理浏览器自动化工具，不干扰用户工作"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 96432,
+      "forks": 10198,
+      "stars_today": 675,
+      "built_by": [
+        "federicobartoli",
+        "claude",
+        "HMAKT99",
+        "nucliweb"
+      ],
+      "llm_summary": "AI编码代理生产级工程技能库"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "Octop",
+      "full_name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "stars": 3978,
+      "forks": 412,
+      "stars_today": 569,
+      "built_by": [
+        "cursoragent",
+        "Pandakingxbc",
+        "jubaoliang-tencent",
+        "jubaoliang",
+        "liukewia"
+      ],
+      "llm_summary": "自托管多用户多代理AI助手平台"
+    },
+    {
+      "owner": "Fission-AI",
+      "name": "OpenSpec",
+      "full_name": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "stars": 69379,
+      "forks": 4750,
+      "stars_today": 296,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "clay-good",
+        "openspec-release-bot",
+        "TabishB"
+      ],
+      "llm_summary": "AI编码助手规范驱动开发工具"
+    },
+    {
+      "owner": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": 31219,
+      "forks": 3237,
+      "stars_today": 174,
+      "built_by": [
+        "Arthur-Milchior",
+        "RumovZ",
+        "abdnh",
+        "dae",
+        "hgiesel"
+      ],
+      "llm_summary": "智能间隔重复记忆闪卡系统"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 24894,
+      "forks": 2972,
+      "stars_today": 299,
+      "built_by": [
+        "mattpic-ant",
+        "jordanecker-ant",
+        "github-actions",
+        "claude",
+        "bryan-anthropic"
+      ],
+      "llm_summary": "Claude Cowork知识工作者插件集合"
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "full_name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 30311,
+      "forks": 2641,
+      "stars_today": 140,
+      "built_by": [
+        "CodeTorso",
+        "Dhravya",
+        "MaheshtheDev",
+        "ved015",
+        "yxshv"
+      ],
+      "llm_summary": "极快可扩展的AI内存上下文引擎"
+    },
+    {
+      "owner": "tradesdontlie",
+      "name": "tradingview-mcp",
+      "full_name": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars": 6481,
+      "forks": 2717,
+      "stars_today": 79,
+      "built_by": [
+        "wowkin2",
+        "claude",
+        "xxhanselxx-sudo",
+        "jawadtazi-dot"
+      ],
+      "llm_summary": "AI辅助TradingView图表分析自动化工具"
+    },
+    {
+      "owner": "rustfs",
+      "name": "rustfs",
+      "full_name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "stars": 33190,
+      "forks": 1483,
+      "stars_today": 267,
+      "built_by": [
+        "houseme",
+        "overtrue",
+        "heihutu",
+        "weisd",
+        "cxymds"
+      ],
+      "llm_summary": "开源S3兼容高性能对象存储系统"
+    },
+    {
+      "owner": "supabase",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 110165,
+      "forks": 14308,
+      "stars_today": 120,
+      "built_by": [
+        "saltcod",
+        "alaister",
+        "MildTomato",
+        "kiwicopple",
+        "joshenlim"
+      ],
+      "llm_summary": "Postgres开发平台，构建Web移动AI应用"
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 15313,
+      "forks": 1504,
+      "stars_today": 478,
+      "built_by": [
+        "kylecarbs",
+        "mafredri",
+        "johnstcn",
+        "dependabot",
+        "Emyrk"
+      ],
+      "llm_summary": "开发者与代理的安全开发环境"
+    },
+    {
+      "owner": "ahmedkhaleel2004",
+      "name": "gitdiagram",
+      "full_name": "ahmedkhaleel2004/gitdiagram",
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+      "language": "TypeScript",
+      "stars": 16479,
+      "forks": 1256,
+      "stars_today": 152,
+      "built_by": [
+        "dependabot",
+        "claude",
+        "martin226"
+      ],
+      "llm_summary": "GitHub仓库免费快速交互式图表工具"
+    },
+    {
+      "owner": "asciimoo",
+      "name": "hister",
+      "full_name": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars": 4979,
+      "forks": 206,
+      "stars_today": 889,
+      "built_by": [
+        "ISSOtm",
+        "4evy",
+        "dependabot",
+        "Shadowbee27"
+      ],
+      "llm_summary": "个人私有搜索引擎"
+    }
+  ]
+}
