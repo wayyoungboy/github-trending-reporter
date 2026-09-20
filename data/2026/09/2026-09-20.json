@@ -1,0 +1,281 @@
+{
+  "date": "2026-09-20",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 16515,
+      "forks": 905,
+      "stars_today": 3155,
+      "built_by": [
+        "literally-dan",
+        "kennysarnoski-jarvis",
+        "CooperSheroy"
+      ],
+      "llm_summary": "安全审计编码技能，提供机器可读结果"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 24489,
+      "forks": 1683,
+      "stars_today": 859,
+      "built_by": [
+        "github-actions",
+        "r33drichards",
+        "f-trycua",
+        "claude",
+        "ddupont808"
+      ],
+      "llm_summary": "开源计算机使用驱动，跨OS基准测试工具"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 97092,
+      "forks": 10245,
+      "stars_today": 556,
+      "built_by": [
+        "nucliweb",
+        "claude",
+        "HMAKT99",
+        "federicobartoli"
+      ],
+      "llm_summary": "AI编码代理生产级工程技能集"
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 15646,
+      "forks": 1524,
+      "stars_today": 402,
+      "built_by": [
+        "dependabot",
+        "johnstcn",
+        "kylecarbs",
+        "Emyrk",
+        "mafredri"
+      ],
+      "llm_summary": "开发者与代理的安全环境工具"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 146746,
+      "forks": 23942,
+      "stars_today": 483,
+      "built_by": [
+        "bcherny",
+        "claude",
+        "poteat",
+        "ant-kurt",
+        "actions-user"
+      ],
+      "llm_summary": "终端AI编码助手，理解代码库提效"
+    },
+    {
+      "owner": "Open-Dev-Society",
+      "name": "OpenStock",
+      "full_name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 16118,
+      "forks": 2092,
+      "stars_today": 472,
+      "built_by": [
+        "ravixalgorithm",
+        "chinnsenn",
+        "nb-src",
+        "coderabbitai",
+        "keshav-005"
+      ],
+      "llm_summary": "免费开源市场数据追踪与分析平台"
+    },
+    {
+      "owner": "higgsfield-ai",
+      "name": "higgsfield",
+      "full_name": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "stars": 4989,
+      "forks": 917,
+      "stars_today": 196,
+      "built_by": [
+        "zxcjhg",
+        "higgsfield",
+        "arpanetus",
+        "dependabot"
+      ],
+      "llm_summary": "大规模模型训练GPU编排框架"
+    },
+    {
+      "owner": "docling-project",
+      "name": "docling",
+      "full_name": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "language": "Python",
+      "stars": 67106,
+      "forks": 4835,
+      "stars_today": 129,
+      "built_by": [
+        "github-actions",
+        "vagenas",
+        "ceberam",
+        "cau-git",
+        "dolfim-ibm"
+      ],
+      "llm_summary": "文档预处理工具，适配生成式AI"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 12036,
+      "forks": 1119,
+      "stars_today": 31,
+      "built_by": [
+        "github-actions",
+        "antoniovicente",
+        "ghedo",
+        "LPardue",
+        "traviscibot"
+      ],
+      "llm_summary": "HTTP/3和QUIC协议的Rust实现"
+    },
+    {
+      "owner": "asciimoo",
+      "name": "hister",
+      "full_name": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars": 5254,
+      "forks": 220,
+      "stars_today": 420,
+      "built_by": [
+        "Shadowbee27",
+        "ISSOtm",
+        "dependabot",
+        "4evy"
+      ],
+      "llm_summary": "自托管个人搜索引擎工具"
+    },
+    {
+      "owner": "ruanyf",
+      "name": "weekly",
+      "full_name": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "Unknown",
+      "stars": 103238,
+      "forks": 4427,
+      "stars_today": 98,
+      "built_by": [
+        "luhuadong",
+        "fanofxiaofeng",
+        "keepwow",
+        "eltsai"
+      ],
+      "llm_summary": "科技爱好者周刊，每周五更新"
+    },
+    {
+      "owner": "ZuodaoTech",
+      "name": "everyone-can-use-english",
+      "full_name": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "language": "TypeScript",
+      "stars": 37865,
+      "forks": 5210,
+      "stars_today": 48,
+      "built_by": [
+        "zgw010",
+        "divisey",
+        "xiaolai",
+        "an-lee",
+        "lyricat"
+      ],
+      "llm_summary": "英语学习资源共享平台"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 25151,
+      "forks": 2997,
+      "stars_today": 281,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "bryan-anthropic",
+        "jordanecker-ant",
+        "mattpic-ant"
+      ],
+      "llm_summary": "知识工作者Claude插件开源集合"
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "full_name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "language": "Python",
+      "stars": 11630,
+      "forks": 743,
+      "stars_today": 234,
+      "built_by": [
+        "ncylich",
+        "kar-m",
+        "justinl66",
+        "LeonSGP43",
+        "HenryNdubuaku"
+      ],
+      "llm_summary": "轻量级AI模型，适配小型设备"
+    },
+    {
+      "owner": "yynxxxxx",
+      "name": "Codex-X",
+      "full_name": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars": 3418,
+      "forks": 450,
+      "stars_today": 32,
+      "built_by": [
+        "muzimu"
+      ],
+      "llm_summary": "OpenAI Codex可视化管理工具"
+    }
+  ]
+}
