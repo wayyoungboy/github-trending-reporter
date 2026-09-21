@@ -1,0 +1,244 @@
+{
+  "date": "2026-09-21",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 263826,
+      "forks": 39469,
+      "stars_today": 826,
+      "built_by": [
+        "haelyra",
+        "pangerlkr",
+        "claude",
+        "dependabot"
+      ],
+      "llm_summary": "AI代理性能优化系统，支持多种编码工具"
+    },
+    {
+      "owner": "BuilderIO",
+      "name": "agent-native",
+      "full_name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": 5268,
+      "forks": 494,
+      "stars_today": 98,
+      "built_by": [
+        "builder-io-integration",
+        "builderio-bot",
+        "3mdistal",
+        "steve8708",
+        "github-actions"
+      ],
+      "llm_summary": "构建智能代理应用的开发框架"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 18121,
+      "forks": 1012,
+      "stars_today": 2428,
+      "built_by": [
+        "kennysarnoski-jarvis",
+        "literally-dan",
+        "CooperSheroy"
+      ],
+      "llm_summary": "多阶段安全审计技能，提供可验证结果"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 25201,
+      "forks": 1737,
+      "stars_today": 1018,
+      "built_by": [
+        "f-trycua",
+        "ddupont808",
+        "claude",
+        "r33drichards",
+        "github-actions"
+      ],
+      "llm_summary": "开源计算机使用2.0，跨OS群组与基准"
+    },
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 35407,
+      "forks": 5251,
+      "stars_today": 260,
+      "built_by": [
+        "tobinsouth",
+        "mihilmy",
+        "viveknair",
+        "manar-ant",
+        "cxyback"
+      ],
+      "llm_summary": "Anthropic金融服务解决方案"
+    },
+    {
+      "owner": "paperless-ngx",
+      "name": "paperless-ngx",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "stars": 45605,
+      "forks": 3149,
+      "stars_today": 57,
+      "built_by": [
+        "danielquinn",
+        "shamoon",
+        "dependabot",
+        "paperlessngx-bot",
+        "stumpylog"
+      ],
+      "llm_summary": "社区支持的超强文档管理系统"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 147172,
+      "forks": 24072,
+      "stars_today": 419,
+      "built_by": [
+        "bcherny",
+        "poteat",
+        "ant-kurt",
+        "claude",
+        "actions-user"
+      ],
+      "llm_summary": "终端智能编码助手，理解代码库"
+    },
+    {
+      "owner": "mihail911",
+      "name": "modern-software-dev-assignments",
+      "full_name": "mihail911/modern-software-dev-assignments",
+      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "language": "Python",
+      "stars": 4583,
+      "forks": 1012,
+      "stars_today": 172,
+      "built_by": [
+        "febielin"
+      ],
+      "llm_summary": "斯坦福现代软件开发课程作业"
+    },
+    {
+      "owner": "higgsfield-ai",
+      "name": "higgsfield",
+      "full_name": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "stars": 5411,
+      "forks": 958,
+      "stars_today": 465,
+      "built_by": [
+        "arpanetus",
+        "dependabot",
+        "higgsfield",
+        "zxcjhg"
+      ],
+      "llm_summary": "容错GPU编排，支持万亿参数模型训练"
+    },
+    {
+      "owner": "Open-Dev-Society",
+      "name": "OpenStock",
+      "full_name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 16895,
+      "forks": 2139,
+      "stars_today": 755,
+      "built_by": [
+        "ravixalgorithm",
+        "coderabbitai",
+        "chinnsenn",
+        "nb-src",
+        "keshav-005"
+      ],
+      "llm_summary": "开源免费市场平台，实时价格跟踪"
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 16085,
+      "forks": 1544,
+      "stars_today": 379,
+      "built_by": [
+        "mafredri",
+        "Emyrk",
+        "dependabot",
+        "johnstcn",
+        "kylecarbs"
+      ],
+      "llm_summary": "开发者与代理的安全环境"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "json-render",
+      "full_name": "vercel-labs/json-render",
+      "url": "https://github.com/vercel-labs/json-render",
+      "description": "The Generative UI framework",
+      "language": "TypeScript",
+      "stars": 17378,
+      "forks": 924,
+      "stars_today": 291,
+      "built_by": [
+        "ctate",
+        "Railly",
+        "claude",
+        "lucianfialho",
+        "github-actions"
+      ],
+      "llm_summary": "生成式UI开发框架"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 97740,
+      "forks": 10297,
+      "stars_today": 736,
+      "built_by": [
+        "HMAKT99",
+        "federicobartoli",
+        "claude",
+        "nucliweb"
+      ],
+      "llm_summary": "AI编码代理的生产级工程技能"
+    }
+  ]
+}
