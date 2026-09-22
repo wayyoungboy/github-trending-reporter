@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-22",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "BuilderIO",
+      "name": "agent-native",
+      "full_name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": 5978,
+      "forks": 545,
+      "stars_today": 607,
+      "built_by": [
+        "steve8708",
+        "builderio-bot",
+        "builder-io-integration",
+        "3mdistal",
+        "github-actions"
+      ],
+      "llm_summary": "构建智能代理应用的开发框架"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 25737,
+      "forks": 1769,
+      "stars_today": 609,
+      "built_by": [
+        "ddupont808",
+        "r33drichards",
+        "claude",
+        "f-trycua",
+        "github-actions"
+      ],
+      "llm_summary": "开源跨平台计算机使用扩展方案"
+    },
+    {
+      "owner": "Open-Dev-Society",
+      "name": "OpenStock",
+      "full_name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 17825,
+      "forks": 2204,
+      "stars_today": 844,
+      "built_by": [
+        "nb-src",
+        "keshav-005",
+        "chinnsenn",
+        "ravixalgorithm",
+        "coderabbitai"
+      ],
+      "llm_summary": "开源免费的实时股票市场平台"
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 7744,
+      "forks": 523,
+      "stars_today": 167,
+      "built_by": [
+        "claude",
+        "wblech",
+        "djalmajr",
+        "samirhvbr"
+      ],
+      "llm_summary": "代理CLI长期记忆与跨厂商协作方案"
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 16450,
+      "forks": 1566,
+      "stars_today": 460,
+      "built_by": [
+        "kylecarbs",
+        "dependabot",
+        "mafredri",
+        "johnstcn",
+        "Emyrk"
+      ],
+      "llm_summary": "开发者与代理的安全环境平台"
+    },
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 35865,
+      "forks": 5269,
+      "stars_today": 424,
+      "built_by": [
+        "tobinsouth",
+        "mihilmy",
+        "manar-ant",
+        "cxyback",
+        "viveknair"
+      ],
+      "llm_summary": "Anthropic金融服务Python工具包"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 12378,
+      "forks": 1135,
+      "stars_today": 32,
+      "built_by": [
+        "LPardue",
+        "traviscibot",
+        "antoniovicente",
+        "ghedo",
+        "github-actions"
+      ],
+      "llm_summary": "QUIC传输协议与HTTP/3的Rust实现"
+    },
+    {
+      "owner": "mvt-project",
+      "name": "mvt",
+      "full_name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": 13628,
+      "forks": 1329,
+      "stars_today": 169,
+      "built_by": [
+        "besendorf",
+        "dependabot",
+        "DonnchaC",
+        "botherder",
+        "Te-k"
+      ],
+      "llm_summary": "移动设备安全取证分析工具"
+    },
+    {
+      "owner": "zhouxiaoka",
+      "name": "autoclip",
+      "full_name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "language": "Python",
+      "stars": 8319,
+      "forks": 1576,
+      "stars_today": 250,
+      "built_by": [
+        "claude",
+        "cursoragent",
+        "mitsa-ng"
+      ],
+      "llm_summary": "AI智能视频高光提取剪辑工具"
+    },
+    {
+      "owner": "ruanyf",
+      "name": "weekly",
+      "full_name": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "Unknown",
+      "stars": 104038,
+      "forks": 4452,
+      "stars_today": 182,
+      "built_by": [
+        "luhuadong",
+        "fanofxiaofeng",
+        "keepwow",
+        "eltsai"
+      ],
+      "llm_summary": "每周五发布的科技爱好者周刊"
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "stars": 37907,
+      "forks": 3769,
+      "stars_today": 394,
+      "built_by": [
+        "jakeaturner",
+        "chriscrosstalk",
+        "dependabot",
+        "claude",
+        "cosmistack-bot"
+      ],
+      "llm_summary": "离线知识教育服务器与本地AI"
+    },
+    {
+      "owner": "yynxxxxx",
+      "name": "Codex-X",
+      "full_name": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars": 3716,
+      "forks": 465,
+      "stars_today": 50,
+      "built_by": [
+        "muzimu"
+      ],
+      "llm_summary": "OpenAI Codex可视化管理跨平台工具"
+    }
+  ]
+}
