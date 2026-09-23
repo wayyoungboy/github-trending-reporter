@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-23",
+  "total_repos": 8,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 36401,
+      "forks": 5322,
+      "stars_today": 438,
+      "built_by": [
+        "viveknair",
+        "cxyback",
+        "tobinsouth",
+        "mihilmy",
+        "manar-ant"
+      ],
+      "llm_summary": "Anthropic金融服务的Python解决方案"
+    },
+    {
+      "owner": "agent-substrate",
+      "name": "substrate",
+      "full_name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars": 3015,
+      "forks": 387,
+      "stars_today": 245,
+      "built_by": [
+        "thockin",
+        "juli4n",
+        "BenTheElder",
+        "HavenXia",
+        "zoez7"
+      ],
+      "llm_summary": "智能代理系统的核心Go框架"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 15528,
+      "forks": 1385,
+      "stars_today": 255,
+      "built_by": [
+        "Dushusir",
+        "jikkai",
+        "wpxp123456",
+        "wzhudev",
+        "DR-Univer"
+      ],
+      "llm_summary": "AI代理的全功能办公套件平台"
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 31156,
+      "forks": 3545,
+      "stars_today": 64,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "github-actions"
+      ],
+      "llm_summary": "Claude Code的配置监控CLI工具"
+    },
+    {
+      "owner": "google",
+      "name": "ax",
+      "full_name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": 7715,
+      "forks": 360,
+      "stars_today": 2305,
+      "built_by": [
+        "rakyll",
+        "joycel-github",
+        "wjjclaud",
+        "anj-s",
+        "zbl94"
+      ],
+      "llm_summary": "Google的智能代理编排运行时"
+    },
+    {
+      "owner": "mvt-project",
+      "name": "mvt",
+      "full_name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": 14149,
+      "forks": 1361,
+      "stars_today": 441,
+      "built_by": [
+        "DonnchaC",
+        "botherder",
+        "Te-k",
+        "besendorf",
+        "dependabot"
+      ],
+      "llm_summary": "移动设备安全取证分析工具包"
+    },
+    {
+      "owner": "superdesigndev",
+      "name": "treg",
+      "full_name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "stars": 2266,
+      "forks": 220,
+      "stars_today": 230,
+      "built_by": [
+        "shehjad-dev",
+        "stonexer",
+        "claude",
+        "unclecode",
+        "JayZeeDesign"
+      ],
+      "llm_summary": "智能代理工具的开源路由器"
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 25898,
+      "forks": 3120,
+      "stars_today": 191,
+      "built_by": [
+        "gregpr07",
+        "claude",
+        "sidorovanthon",
+        "antoinersx",
+        "ShawnPana"
+      ],
+      "llm_summary": "编程代理视频编辑处理工具"
+    }
+  ]
+}
