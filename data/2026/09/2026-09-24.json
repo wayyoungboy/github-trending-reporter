@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-24",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 36982,
+      "forks": 5381,
+      "stars_today": 664,
+      "built_by": [
+        "manar-ant",
+        "tobinsouth",
+        "cxyback",
+        "viveknair",
+        "mihilmy"
+      ],
+      "llm_summary": "Anthropic金融领域AI服务工具集"
+    },
+    {
+      "owner": "google",
+      "name": "ax",
+      "full_name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": 9161,
+      "forks": 439,
+      "stars_today": 1543,
+      "built_by": [
+        "zbl94",
+        "rakyll",
+        "anj-s",
+        "wjjclaud",
+        "joycel-github"
+      ],
+      "llm_summary": "Google开源智能体编排运行时"
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 31521,
+      "forks": 3579,
+      "stars_today": 389,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "dependabot"
+      ],
+      "llm_summary": "Claude Code配置监控CLI工具"
+    },
+    {
+      "owner": "BuilderIO",
+      "name": "agent-native",
+      "full_name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": 6580,
+      "forks": 587,
+      "stars_today": 87,
+      "built_by": [
+        "github-actions",
+        "3mdistal",
+        "steve8708",
+        "builder-io-integration",
+        "builderio-bot"
+      ],
+      "llm_summary": "智能体应用开发框架"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 290723,
+      "forks": 26014,
+      "stars_today": 474,
+      "built_by": [
+        "clkao",
+        "claude",
+        "gaurav0107",
+        "arittr"
+      ],
+      "llm_summary": "智能体技能开发实用框架"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 16377,
+      "forks": 1440,
+      "stars_today": 1142,
+      "built_by": [
+        "wzhudev",
+        "jikkai",
+        "DR-Univer",
+        "Dushusir",
+        "wpxp123456"
+      ],
+      "llm_summary": "AI代理一站式办公套件"
+    },
+    {
+      "owner": "Open-Dev-Society",
+      "name": "OpenStock",
+      "full_name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 18868,
+      "forks": 2289,
+      "stars_today": 344,
+      "built_by": [
+        "nb-src",
+        "chinnsenn",
+        "keshav-005",
+        "coderabbitai",
+        "ravixalgorithm"
+      ],
+      "llm_summary": "免费开源股票市场分析平台"
+    },
+    {
+      "owner": "agent-substrate",
+      "name": "substrate",
+      "full_name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars": 3525,
+      "forks": 416,
+      "stars_today": 558,
+      "built_by": [
+        "HavenXia",
+        "zoez7",
+        "BenTheElder",
+        "thockin",
+        "juli4n"
+      ],
+      "llm_summary": "智能体核心基础系统"
+    },
+    {
+      "owner": "strands-agents",
+      "name": "harness-sdk",
+      "full_name": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "language": "Python",
+      "stars": 7876,
+      "forks": 1203,
+      "stars_today": 115,
+      "built_by": [
+        "strands-agent",
+        "zastrowm",
+        "pgrayy",
+        "dependabot",
+        "yonib05"
+      ],
+      "llm_summary": "生产级AI代理控制SDK"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 49964,
+      "forks": 4602,
+      "stars_today": 57,
+      "built_by": [
+        "yuh-yang",
+        "hito0512",
+        "AiMiDi",
+        "omerarslan0",
+        "claude"
+      ],
+      "llm_summary": "软件智能体原生转换工具"
+    },
+    {
+      "owner": "superdesigndev",
+      "name": "treg",
+      "full_name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "stars": 2745,
+      "forks": 242,
+      "stars_today": 506,
+      "built_by": [
+        "stonexer",
+        "JayZeeDesign",
+        "unclecode",
+        "claude",
+        "shehjad-dev"
+      ],
+      "llm_summary": "代理工具OpenRouter服务"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 70369,
+      "forks": 4271,
+      "stars_today": 304,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "abdulwahabone",
+        "cursoragent"
+      ],
+      "llm_summary": "AI设计能力提升语言"
+    },
+    {
+      "owner": "mvt-project",
+      "name": "mvt",
+      "full_name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": 14495,
+      "forks": 1382,
+      "stars_today": 543,
+      "built_by": [
+        "botherder",
+        "besendorf",
+        "dependabot",
+        "DonnchaC",
+        "Te-k"
+      ],
+      "llm_summary": "移动设备安全取证工具包"
+    },
+    {
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "full_name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 44593,
+      "forks": 3640,
+      "stars_today": 190,
+      "built_by": [
+        "CaptainMittens",
+        "shanemccarron-maker",
+        "claude",
+        "dependabot"
+      ],
+      "llm_summary": "高性能代码智能索引服务器"
+    },
+    {
+      "owner": "harry7557558",
+      "name": "spirula-studio",
+      "full_name": "harry7557558/spirula-studio",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "language": "C++",
+      "stars": 753,
+      "forks": 56,
+      "stars_today": 69,
+      "built_by": [
+        "ev5unleash",
+        "MotivaCG",
+        "tutudoudou",
+        "debsahu"
+      ],
+      "llm_summary": "跨平台3D高斯散射训练器"
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 26530,
+      "forks": 3168,
+      "stars_today": 746,
+      "built_by": [
+        "sidorovanthon",
+        "ShawnPana",
+        "claude",
+        "antoinersx",
+        "gregpr07"
+      ],
+      "llm_summary": "编程代理视频编辑工具"
+    },
+    {
+      "owner": "TNT-Likely",
+      "name": "PanWatch",
+      "full_name": "TNT-Likely/PanWatch",
+      "url": "https://github.com/TNT-Likely/PanWatch",
+      "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "language": "Python",
+      "stars": 1545,
+      "forks": 300,
+      "stars_today": 95,
+      "built_by": [
+        "ContantLearn",
+        "andyaa423"
+      ],
+      "llm_summary": "自托管AI多市场盯盘助手"
+    }
+  ]
+}
