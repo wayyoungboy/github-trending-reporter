@@ -1,0 +1,298 @@
+{
+  "date": "2026-09-26",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 85082,
+      "forks": 15242,
+      "stars_today": 2109,
+      "built_by": [
+        "devinfoley",
+        "Paperclip-Paperclip",
+        "claude",
+        "nickyleach",
+        "cryppadotta"
+      ],
+      "llm_summary": "工作代理管理开源应用"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 36952,
+      "forks": 4153,
+      "stars_today": 83,
+      "built_by": [
+        "github-actions",
+        "bryan-anthropic",
+        "tobinsouth",
+        "jordanecker-ant",
+        "claude"
+      ],
+      "llm_summary": "官方Claude高质量插件目录"
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "full_name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 29876,
+      "forks": 3161,
+      "stars_today": 1653,
+      "built_by": [
+        "nicoloboschi",
+        "cdbartholomew",
+        "benfrank241",
+        "r266-tech",
+        "claude"
+      ],
+      "llm_summary": "AI代理智能自主学习记忆系统"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 291690,
+      "forks": 26107,
+      "stars_today": 468,
+      "built_by": [
+        "claude",
+        "gaurav0107",
+        "arittr",
+        "clkao"
+      ],
+      "llm_summary": "实用AI代理技能开发框架"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 269761,
+      "forks": 22733,
+      "stars_today": 583,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "gabimoncha"
+      ],
+      "llm_summary": "工程师实用AI代理技能集"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 18468,
+      "forks": 1574,
+      "stars_today": 1050,
+      "built_by": [
+        "wpxp123456",
+        "jikkai",
+        "wzhudev",
+        "Dushusir",
+        "DR-Univer"
+      ],
+      "llm_summary": "AI代理一体化办公运行时"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 178343,
+      "forks": 21114,
+      "stars_today": 189,
+      "built_by": [
+        "klazuka",
+        "rlancemartin",
+        "cj-ant",
+        "ericharmeling",
+        "claude"
+      ],
+      "llm_summary": "官方代理技能公开资源库"
+    },
+    {
+      "owner": "androoAGI",
+      "name": "starnet",
+      "full_name": "androoAGI/starnet",
+      "url": "https://github.com/androoAGI/starnet",
+      "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "language": "JavaScript",
+      "stars": 500,
+      "forks": 96,
+      "stars_today": 93,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "本地优先桌面AI代理平台"
+    },
+    {
+      "owner": "derv82",
+      "name": "wifit3",
+      "full_name": "derv82/wifit3",
+      "url": "https://github.com/derv82/wifit3",
+      "description": "Wifite but USB-only & cross-platform.",
+      "language": "Python",
+      "stars": 954,
+      "forks": 87,
+      "stars_today": 183,
+      "built_by": [
+        "xxcosita3czxx",
+        "laxdog",
+        "pzlabuda",
+        "francisuk1989"
+      ],
+      "llm_summary": "跨平台USB无线网络工具"
+    },
+    {
+      "owner": "kelseyhightower",
+      "name": "kubernetes-the-hard-way",
+      "full_name": "kelseyhightower/kubernetes-the-hard-way",
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "description": "Bootstrap Kubernetes the hard way. No scripts.",
+      "language": "Unknown",
+      "stars": 50131,
+      "forks": 15920,
+      "stars_today": 119,
+      "built_by": [
+        "ksingh7",
+        "0x5d",
+        "elsonrodriguez",
+        "amouat"
+      ],
+      "llm_summary": "无脚本硬核Kubernetes部署"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 57566,
+      "forks": 10033,
+      "stars_today": 1177,
+      "built_by": [
+        "claude",
+        "abhinav-m22",
+        "thereisnotime",
+        "github-actions"
+      ],
+      "llm_summary": "AI工程从零学习构建部署"
+    },
+    {
+      "owner": "shy3130",
+      "name": "tick-stock-panel",
+      "full_name": "shy3130/tick-stock-panel",
+      "url": "https://github.com/shy3130/tick-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "language": "Python",
+      "stars": 5145,
+      "forks": 1258,
+      "stars_today": 44,
+      "built_by": [
+        "intfoo",
+        "kevin9327",
+        "thinkbuf",
+        "claude"
+      ],
+      "llm_summary": "自托管A股量化分析工作台"
+    },
+    {
+      "owner": "google",
+      "name": "ax",
+      "full_name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": 11542,
+      "forks": 555,
+      "stars_today": 1379,
+      "built_by": [
+        "anj-s",
+        "zbl94",
+        "rakyll",
+        "joycel-github",
+        "wjjclaud"
+      ],
+      "llm_summary": "Google开放代理编排运行时"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "Model-Optimizer",
+      "full_name": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "language": "Python",
+      "stars": 4490,
+      "forks": 653,
+      "stars_today": 359,
+      "built_by": [
+        "kevalmorabia97",
+        "cjluo-nv",
+        "shengliangxu",
+        "ajrasane",
+        "h-guo18"
+      ],
+      "llm_summary": "深度学习模型统一优化库"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 71227,
+      "forks": 4311,
+      "stars_today": 306,
+      "built_by": [
+        "abdulwahabone",
+        "cursoragent",
+        "claude",
+        "github-actions"
+      ],
+      "llm_summary": "提升AI设计能力的设计语言"
+    },
+    {
+      "owner": "openbao",
+      "name": "openbao",
+      "full_name": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "language": "Go",
+      "stars": 7748,
+      "forks": 586,
+      "stars_today": 49,
+      "built_by": [
+        "cipherboy",
+        "vishalnayak",
+        "hc-github-team-secure-vault-core",
+        "armon",
+        "jefferai"
+      ],
+      "llm_summary": "敏感数据管理分发解决方案"
+    }
+  ]
+}
