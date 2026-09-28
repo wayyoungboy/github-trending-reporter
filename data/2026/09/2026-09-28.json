@@ -1,0 +1,171 @@
+{
+  "date": "2026-09-28",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 90166,
+      "forks": 15689,
+      "stars_today": 2401,
+      "built_by": [
+        "cryppadotta",
+        "nickyleach",
+        "devinfoley",
+        "Paperclip-Paperclip",
+        "claude"
+      ],
+      "llm_summary": "工作代理管理的开源必备工具"
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "full_name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 37578,
+      "forks": 4863,
+      "stars_today": 4520,
+      "built_by": [
+        "cdbartholomew",
+        "nicoloboschi",
+        "r266-tech",
+        "benfrank241",
+        "claude"
+      ],
+      "llm_summary": "智能代理记忆学习系统"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 40378,
+      "forks": 4795,
+      "stars_today": 3086,
+      "built_by": [
+        "kevin9327",
+        "jaketame",
+        "velixio",
+        "claude"
+      ],
+      "llm_summary": "开源本地语音克隆与处理工具"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 59420,
+      "forks": 10249,
+      "stars_today": 790,
+      "built_by": [
+        "thereisnotime",
+        "abhinav-m22",
+        "github-actions",
+        "claude"
+      ],
+      "llm_summary": "AI工程从零开始的实践指南"
+    },
+    {
+      "owner": "InfinityLoop1308",
+      "name": "PipePipe",
+      "full_name": "InfinityLoop1308/PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "language": "Shell",
+      "stars": 6617,
+      "forks": 223,
+      "stars_today": 242,
+      "built_by": [
+        "Korb",
+        "Priveetee",
+        "wh201906",
+        "yurtpage"
+      ],
+      "llm_summary": "Android开源自由网络访问工具"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "scriptc",
+      "full_name": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
+      "language": "TypeScript",
+      "stars": 5436,
+      "forks": 142,
+      "stars_today": 102,
+      "built_by": [
+        "HagegeR",
+        "jimmyhmiller",
+        "ryoppippi",
+        "mmamedel",
+        "ctate"
+      ],
+      "llm_summary": "TypeScript转原生代码编译器"
+    },
+    {
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars": 1046,
+      "forks": 106,
+      "stars_today": 114,
+      "built_by": [
+        "agentS",
+        "danielkuykendall23-boop",
+        "mattik",
+        "claude"
+      ],
+      "llm_summary": "Claude与Codex多代理协同系统"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 20499,
+      "forks": 1724,
+      "stars_today": 895,
+      "built_by": [
+        "jikkai",
+        "wpxp123456",
+        "Dushusir",
+        "DR-Univer",
+        "wzhudev"
+      ],
+      "llm_summary": "AI代理一站式办公集成平台"
+    },
+    {
+      "owner": "willfaust",
+      "name": "Madeira",
+      "full_name": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars": 843,
+      "forks": 152,
+      "stars_today": 83,
+      "built_by": [
+        "125hz",
+        "codex",
+        "claude"
+      ],
+      "llm_summary": "iOS设备运行Windows游戏工具"
+    }
+  ]
+}
