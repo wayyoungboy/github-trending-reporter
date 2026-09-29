@@ -1,0 +1,154 @@
+{
+  "date": "2026-09-29",
+  "total_repos": 8,
+  "repositories": [
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 44576,
+      "forks": 5132,
+      "stars_today": 3221,
+      "built_by": [
+        "velixio",
+        "claude",
+        "kevin9327",
+        "jaketame"
+      ],
+      "llm_summary": "开源本地语音处理工具，支持646种语言"
+    },
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 93095,
+      "forks": 15915,
+      "stars_today": 3197,
+      "built_by": [
+        "Paperclip-Paperclip",
+        "devinfoley",
+        "cryppadotta",
+        "claude",
+        "nickyleach"
+      ],
+      "llm_summary": "开源AI代理工作管理工具"
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "full_name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 41224,
+      "forks": 5562,
+      "stars_today": 4561,
+      "built_by": [
+        "cdbartholomew",
+        "r266-tech",
+        "benfrank241",
+        "nicoloboschi",
+        "claude"
+      ],
+      "llm_summary": "AI代理学习型记忆系统"
+    },
+    {
+      "owner": "NawfalMotii79",
+      "name": "PLFM_RADAR",
+      "full_name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": 25809,
+      "forks": 5888,
+      "stars_today": 158,
+      "built_by": [
+        "JJassonn69",
+        "joyshmitz",
+        "3aLaee",
+        "shaun0927"
+      ],
+      "llm_summary": "开源低成本10.5GHz相控阵雷达"
+    },
+    {
+      "owner": "cs341-illinois",
+      "name": "coursebook",
+      "full_name": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "stars": 2580,
+      "forks": 242,
+      "stars_today": 195,
+      "built_by": [
+        "angrave",
+        "PradyumnaShome",
+        "aneeshdurg",
+        "bhuvy2",
+        "ekcom"
+      ],
+      "llm_summary": "伊利诺伊大学系统编程开源教材"
+    },
+    {
+      "owner": "byoungd",
+      "name": "up",
+      "full_name": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "stars": 64852,
+      "forks": 6525,
+      "stars_today": 327,
+      "built_by": [
+        "WMXPY",
+        "overtrue",
+        "fakesnow",
+        "holtenko"
+      ],
+      "llm_summary": "韩先凯的人生与AI学习指南"
+    },
+    {
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars": 1814,
+      "forks": 144,
+      "stars_today": 734,
+      "built_by": [
+        "claude",
+        "agentS",
+        "mvdpoel",
+        "mattik"
+      ],
+      "llm_summary": "Claude与Codex多代理协同系统"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 21354,
+      "forks": 1808,
+      "stars_today": 1099,
+      "built_by": [
+        "Dushusir",
+        "DR-Univer",
+        "wzhudev",
+        "wpxp123456",
+        "jikkai"
+      ],
+      "llm_summary": "AI代理全功能办公套件"
+    }
+  ]
+}
