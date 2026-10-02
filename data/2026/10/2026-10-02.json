@@ -1,0 +1,272 @@
+{
+  "date": "2026-10-02",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 150639,
+      "forks": 8086,
+      "stars_today": 1194,
+      "built_by": [
+        "Lakshya77089",
+        "claude",
+        "dhedhialy",
+        "ousamabenyounes"
+      ],
+      "llm_summary": "AI代理智能编程，减少代码编写"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 273998,
+      "forks": 23003,
+      "stars_today": 883,
+      "built_by": [
+        "gabimoncha",
+        "github-actions",
+        "claude"
+      ],
+      "llm_summary": "工程师实用技能集，源自真实开发经验"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "OpenShell",
+      "full_name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 14068,
+      "forks": 1631,
+      "stars_today": 2456,
+      "built_by": [
+        "miyoungc",
+        "pimlock",
+        "drew",
+        "johntmyers",
+        "elezar"
+      ],
+      "llm_summary": "AI代理安全私有运行时环境"
+    },
+    {
+      "owner": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": 6872,
+      "forks": 1807,
+      "stars_today": 112,
+      "built_by": [
+        "paulb777",
+        "ncooke3",
+        "wilhuff",
+        "ryanwilson",
+        "andrewheard"
+      ],
+      "llm_summary": "苹果应用开发Firebase SDK工具集"
+    },
+    {
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "stars": 3780,
+      "forks": 251,
+      "stars_today": 642,
+      "built_by": [
+        "rudycelekli",
+        "nvtoan0201-swe",
+        "claude",
+        "korallis"
+      ],
+      "llm_summary": "构建多AI代理协作网络，共享上下文"
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 9335,
+      "forks": 884,
+      "stars_today": 150,
+      "built_by": [
+        "roshansada",
+        "cursoragent",
+        "minupalaniappan",
+        "poteto",
+        "ericzakariasson"
+      ],
+      "llm_summary": "Cursor编辑器插件规范与官方插件"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 294024,
+      "forks": 26298,
+      "stars_today": 455,
+      "built_by": [
+        "gaurav0107",
+        "claude",
+        "clkao",
+        "arittr"
+      ],
+      "llm_summary": "AI代理技能框架与高效开发方法"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 24811,
+      "forks": 1786,
+      "stars_today": 362,
+      "built_by": [
+        "ousamabenyounes",
+        "github-actions",
+        "claude",
+        "ipedro"
+      ],
+      "llm_summary": "AI编码上下文优化，跨平台路由集成"
+    },
+    {
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "full_name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 55403,
+      "forks": 5023,
+      "stars_today": 627,
+      "built_by": [
+        "claude",
+        "jrusso1020",
+        "miguel-heygen",
+        "ukimsanov",
+        "vanceingalls"
+      ],
+      "llm_summary": "HTML编写视频渲染，专为AI代理设计"
+    },
+    {
+      "owner": "earendil-works",
+      "name": "pi",
+      "full_name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars": 111284,
+      "forks": 14135,
+      "stars_today": 298,
+      "built_by": [
+        "cristinaponcela",
+        "mitsuhiko",
+        "davidbrai",
+        "badlogic",
+        "christianklotz"
+      ],
+      "llm_summary": "AI代理工具包，统一LLM接口与循环"
+    },
+    {
+      "owner": "tile-ai",
+      "name": "tilelang",
+      "full_name": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "language": "Python",
+      "stars": 8137,
+      "forks": 818,
+      "stars_today": 163,
+      "built_by": [
+        "SiriusNEO",
+        "LeiWang1999",
+        "xwhzz",
+        "Rachmanino",
+        "chengyupku"
+      ],
+      "llm_summary": "高性能计算内核开发专用语言"
+    },
+    {
+      "owner": "pablostanley",
+      "name": "yoinks",
+      "full_name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 2995,
+      "forks": 282,
+      "stars_today": 361,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "终端视频下载工具，无广告干扰"
+    },
+    {
+      "owner": "HunxByts",
+      "name": "GhostTrack",
+      "full_name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": 16449,
+      "forks": 2259,
+      "stars_today": 368,
+      "built_by": [
+        "bakaemon"
+      ],
+      "llm_summary": "位置与手机号追踪实用工具"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 73746,
+      "forks": 4441,
+      "stars_today": 495,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "cursoragent",
+        "abdulwahabone"
+      ],
+      "llm_summary": "AI控制台设计语言优化工具"
+    },
+    {
+      "owner": "Friedrich-M",
+      "name": "UniMate",
+      "full_name": "Friedrich-M/UniMate",
+      "url": "https://github.com/Friedrich-M/UniMate",
+      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "language": "Python",
+      "stars": 1098,
+      "forks": 102,
+      "stars_today": 217,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "统一骨骼动画模型，SIGGRAPH亚洲2026"
+    }
+  ]
+}
