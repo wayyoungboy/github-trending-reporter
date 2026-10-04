@@ -1,0 +1,353 @@
+{
+  "date": "2026-10-04",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 153567,
+      "forks": 8247,
+      "stars_today": 1281,
+      "built_by": [
+        "ousamabenyounes",
+        "claude",
+        "Lakshya77089",
+        "dhedhialy"
+      ],
+      "llm_summary": "AI代理智能代码生成工具"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 75408,
+      "forks": 4519,
+      "stars_today": 699,
+      "built_by": [
+        "abdulwahabone",
+        "claude",
+        "cursoragent",
+        "github-actions"
+      ],
+      "llm_summary": "AI设计语言提升工具"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 272318,
+      "forks": 40664,
+      "stars_today": 897,
+      "built_by": [
+        "dependabot",
+        "claude",
+        "pangerlkr",
+        "haelyra"
+      ],
+      "llm_summary": "AI代理性能优化系统"
+    },
+    {
+      "owner": "Effect-TS",
+      "name": "effect",
+      "full_name": "Effect-TS/effect",
+      "url": "https://github.com/Effect-TS/effect",
+      "description": "Build production-ready applications in TypeScript",
+      "language": "TypeScript",
+      "stars": 16849,
+      "forks": 815,
+      "stars_today": 302,
+      "built_by": [
+        "gcanti",
+        "mikearnaldi",
+        "tim-smart",
+        "github-actions",
+        "fubhy"
+      ],
+      "llm_summary": "TypeScript生产级应用框架"
+    },
+    {
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "stars": 109566,
+      "forks": 6338,
+      "stars_today": 507,
+      "built_by": [
+        "claude",
+        "AmirF194",
+        "hunleyd",
+        "github-actions"
+      ],
+      "llm_summary": "AI代理原始语言优化工具"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 89924,
+      "forks": 7910,
+      "stars_today": 1696,
+      "built_by": [
+        "claude",
+        "nyxst4ck",
+        "kadaliao",
+        "hymansun"
+      ],
+      "llm_summary": "AI网络信息获取工具"
+    },
+    {
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "full_name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 24733,
+      "forks": 6446,
+      "stars_today": 252,
+      "built_by": [
+        "t3dotgg",
+        "codex",
+        "juliusmarminge",
+        "claude",
+        "maria-rcks"
+      ],
+      "llm_summary": "TypeScript全栈开发框架"
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 95642,
+      "forks": 8462,
+      "stars_today": 79,
+      "built_by": [
+        "cursoragent",
+        "claude",
+        "rodboev",
+        "Copilot"
+      ],
+      "llm_summary": "AI代理跨会话记忆工具"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "cloudflare-os",
+      "full_name": "cloudflare/cloudflare-os",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "language": "TypeScript",
+      "stars": 10599,
+      "forks": 1284,
+      "stars_today": 85,
+      "built_by": [
+        "jonesphillip",
+        "kentonv",
+        "bjesus",
+        "Maximo-Guk",
+        "ndisidore"
+      ],
+      "llm_summary": "云原生AI代理工作空间"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 100880,
+      "forks": 10598,
+      "stars_today": 252,
+      "built_by": [
+        "nucliweb",
+        "claude",
+        "federicobartoli",
+        "ayobamiseun"
+      ],
+      "llm_summary": "AI编码代理工程技能库"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 294944,
+      "forks": 26358,
+      "stars_today": 577,
+      "built_by": [
+        "clkao",
+        "claude",
+        "arittr",
+        "gaurav0107"
+      ],
+      "llm_summary": "AI代理技能开发框架"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 275417,
+      "forks": 23111,
+      "stars_today": 751,
+      "built_by": [
+        "gabimoncha",
+        "claude",
+        "github-actions"
+      ],
+      "llm_summary": "工程师实用技能集"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 25264,
+      "forks": 1807,
+      "stars_today": 256,
+      "built_by": [
+        "ousamabenyounes",
+        "claude",
+        "ipedro",
+        "github-actions"
+      ],
+      "llm_summary": "AI代理上下文优化工具"
+    },
+    {
+      "owner": "earendil-works",
+      "name": "pi",
+      "full_name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars": 112193,
+      "forks": 14233,
+      "stars_today": 408,
+      "built_by": [
+        "mitsuhiko",
+        "cristinaponcela",
+        "davidbrai",
+        "badlogic",
+        "christianklotz"
+      ],
+      "llm_summary": "AI代理全功能工具包"
+    },
+    {
+      "owner": "getsentry",
+      "name": "sentry",
+      "full_name": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "language": "Python",
+      "stars": 45222,
+      "forks": 4899,
+      "stars_today": 214,
+      "built_by": [
+        "scttcper",
+        "billyvg",
+        "dcramer",
+        "markstory",
+        "evanpurkhiser"
+      ],
+      "llm_summary": "开发者错误跟踪工具"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 149244,
+      "forks": 25394,
+      "stars_today": 128,
+      "built_by": [
+        "ant-kurt",
+        "claude",
+        "poteat",
+        "actions-user",
+        "bcherny"
+      ],
+      "llm_summary": "终端AI智能编码助手"
+    },
+    {
+      "owner": "jamwithai",
+      "name": "production-agentic-rag-course",
+      "full_name": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": "",
+      "language": "Python",
+      "stars": 9420,
+      "forks": 2071,
+      "stars_today": 193,
+      "built_by": [
+        "shantanu156",
+        "MubashirAziz1"
+      ],
+      "llm_summary": "生产级AI代理RAG课程"
+    },
+    {
+      "owner": "meituan-longcat",
+      "name": "LongCat-Video",
+      "full_name": "meituan-longcat/LongCat-Video",
+      "url": "https://github.com/meituan-longcat/LongCat-Video",
+      "description": "",
+      "language": "Python",
+      "stars": 8784,
+      "forks": 1528,
+      "stars_today": 44,
+      "built_by": [
+        "SonicZun",
+        "Chizuruscom",
+        "GFENGG",
+        "lychee0324",
+        "lile839"
+      ],
+      "llm_summary": "视频处理AI工具"
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 91658,
+      "forks": 9059,
+      "stars_today": 232,
+      "built_by": [
+        "izadoesdev",
+        "khanguyen74",
+        "mazeincoding",
+        "DevloperAmanSingh",
+        "anwarulislam"
+      ],
+      "llm_summary": "开源视频编辑工具"
+    }
+  ]
+}
