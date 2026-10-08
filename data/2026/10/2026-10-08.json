@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-08",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 16306,
+      "forks": 1692,
+      "stars_today": 4655,
+      "built_by": [
+        "kaoru0822-kitauji",
+        "N0zoM1z0",
+        "rudycelekli",
+        "claude"
+      ],
+      "llm_summary": "智能代理反向工程工具，深入分析应用与二进制文件"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 279830,
+      "forks": 23457,
+      "stars_today": 1403,
+      "built_by": [
+        "github-actions",
+        "gabimoncha",
+        "claude"
+      ],
+      "llm_summary": "工程师实用技能集，源自真实开发经验"
+    },
+    {
+      "owner": "boykopovar",
+      "name": "AnyPS5",
+      "full_name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 11031,
+      "forks": 835,
+      "stars_today": 2716,
+      "built_by": [
+        "adriadam10",
+        "SamG-Coder",
+        "oneandonlydean",
+        "claude"
+      ],
+      "llm_summary": "PS5游戏自动移植工具，支持Linux与Windows平台"
+    },
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 55252,
+      "forks": 3164,
+      "stars_today": 619,
+      "built_by": [
+        "commie70",
+        "thejesh23",
+        "SillyDark",
+        "claude"
+      ],
+      "llm_summary": "ADHD友好型编程助手，提供清晰简洁的输出"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 45149,
+      "forks": 2902,
+      "stars_today": 825,
+      "built_by": [
+        "claude",
+        "parveen0029",
+        "mvanhorn",
+        "github-actions"
+      ],
+      "llm_summary": "42种专业图表设计，无阴影Mermaid替代方案"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 102920,
+      "forks": 10777,
+      "stars_today": 677,
+      "built_by": [
+        "claude",
+        "ayobamiseun",
+        "nucliweb",
+        "federicobartoli"
+      ],
+      "llm_summary": "AI编码代理生产级工程技能集"
+    },
+    {
+      "owner": "EpicGames",
+      "name": "raddebugger",
+      "full_name": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": 7905,
+      "forks": 384,
+      "stars_today": 90,
+      "built_by": [
+        "NikitaSmith057",
+        "NikitaAtEpic",
+        "ryanfleury",
+        "mmozeiko",
+        "andreymlv"
+      ],
+      "llm_summary": "原生多进程图形调试器，用户模式运行"
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 97833,
+      "forks": 8607,
+      "stars_today": 578,
+      "built_by": [
+        "rodboev",
+        "rudycelekli",
+        "claude",
+        "cursoragent"
+      ],
+      "llm_summary": "AI代理跨会话持久化记忆，智能压缩上下文"
+    },
+    {
+      "owner": "manaflow-ai",
+      "name": "cmux",
+      "full_name": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "language": "Swift",
+      "stars": 27894,
+      "forks": 2463,
+      "stars_today": 44,
+      "built_by": [
+        "teamleaderleo",
+        "claude",
+        "austinywang",
+        "lawrencecchen",
+        "azooz2003-bit"
+      ],
+      "llm_summary": "支持垂直标签的macOS终端，专为AI代理设计"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "Rust",
+      "stars": 28817,
+      "forks": 2041,
+      "stars_today": 228,
+      "built_by": [
+        "github-actions",
+        "f-trycua",
+        "claude",
+        "r33drichards",
+        "ddupont808"
+      ],
+      "llm_summary": "开源计算机使用扩展框架，跨平台基准测试"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 26142,
+      "forks": 1571,
+      "stars_today": 576,
+      "built_by": [
+        "CooperSheroy",
+        "literally-dan",
+        "kennysarnoski-jarvis"
+      ],
+      "llm_summary": "多阶段安全审计技能，机器可读验证结果"
+    },
+    {
+      "owner": "tester-army",
+      "name": "e2e",
+      "full_name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "stars": 7630,
+      "forks": 346,
+      "stars_today": 1390,
+      "built_by": [
+        "dependabot",
+        "DeryFerd",
+        "okwasniewski",
+        "szymonrybczak",
+        "kacperkapusciak"
+      ],
+      "llm_summary": "下一代Web与移动应用端到端测试框架"
+    },
+    {
+      "owner": "DuarteSantos8",
+      "name": "openGym",
+      "full_name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "language": "JavaScript",
+      "stars": 7132,
+      "forks": 924,
+      "stars_today": 1493,
+      "built_by": [
+        "Space-Hermes",
+        "sgoendoer",
+        "claude",
+        "kurktchiev"
+      ],
+      "llm_summary": "自托管健身追踪器，全面训练计划与肌肉分析"
+    }
+  ]
+}
