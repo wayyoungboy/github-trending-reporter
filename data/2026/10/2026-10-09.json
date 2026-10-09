@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-09",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "boykopovar",
+      "name": "AnyPS5",
+      "full_name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 16364,
+      "forks": 1296,
+      "stars_today": 4669,
+      "built_by": [
+        "adriadam10",
+        "claude",
+        "SamG-Coder",
+        "oneandonlydean"
+      ],
+      "llm_summary": "PS5游戏自动移植至多平台工具"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 46621,
+      "forks": 2965,
+      "stars_today": 1160,
+      "built_by": [
+        "github-actions",
+        "parveen0029",
+        "mvanhorn",
+        "claude"
+      ],
+      "llm_summary": "42种自包含编辑图表设计"
+    },
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 28940,
+      "forks": 3400,
+      "stars_today": 7738,
+      "built_by": [
+        "N0zoM1z0",
+        "rudycelekli",
+        "kaoru0822-kitauji",
+        "claude"
+      ],
+      "llm_summary": "代理驱动的全方位逆向工程工具"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 281308,
+      "forks": 23576,
+      "stars_today": 1774,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "gabimoncha"
+      ],
+      "llm_summary": "工程师实用技能集"
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 98605,
+      "forks": 8645,
+      "stars_today": 670,
+      "built_by": [
+        "rudycelekli",
+        "rodboev",
+        "claude",
+        "cursoragent"
+      ],
+      "llm_summary": "AI压缩代理跨会话持久上下文"
+    },
+    {
+      "owner": "EpicGames",
+      "name": "raddebugger",
+      "full_name": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": 8155,
+      "forks": 391,
+      "stars_today": 279,
+      "built_by": [
+        "NikitaSmith057",
+        "andreymlv",
+        "mmozeiko",
+        "ryanfleury",
+        "NikitaAtEpic"
+      ],
+      "llm_summary": "原生多进程图形化调试器"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 27719,
+      "forks": 3214,
+      "stars_today": 392,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "jordanecker-ant",
+        "mattpic-ant",
+        "bryan-anthropic"
+      ],
+      "llm_summary": "知识工作者Claude协作插件库"
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 8405,
+      "forks": 1210,
+      "stars_today": 2103,
+      "built_by": [
+        "Quicksticks-oss",
+        "ArEnSc",
+        "wilwong",
+        "echelon",
+        "bflatastic"
+      ],
+      "llm_summary": "艺术家定向创作引擎"
+    },
+    {
+      "owner": "liquidslr",
+      "name": "system-design-notes",
+      "full_name": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "language": "Unknown",
+      "stars": 24781,
+      "forks": 4619,
+      "stars_today": 393,
+      "built_by": [
+        "stym01",
+        "emmadonjo"
+      ],
+      "llm_summary": "系统设计面试内部指南笔记"
+    }
+  ]
+}
