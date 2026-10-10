@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-10",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 49927,
+      "forks": 8667,
+      "stars_today": 14927,
+      "built_by": [
+        "N0zoM1z0",
+        "rudycelekli",
+        "claude",
+        "kaoru0822-kitauji"
+      ],
+      "llm_summary": "智能逆向工程工具，深入应用与二进制分析"
+    },
+    {
+      "owner": "boykopovar",
+      "name": "AnyPS5",
+      "full_name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 22810,
+      "forks": 1874,
+      "stars_today": 5868,
+      "built_by": [
+        "oneandonlydean",
+        "claude",
+        "SamG-Coder",
+        "adriadam10"
+      ],
+      "llm_summary": "PS5游戏自动移植工具，支持Linux与Windows"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 282923,
+      "forks": 23708,
+      "stars_today": 1687,
+      "built_by": [
+        "github-actions",
+        "gabimoncha",
+        "claude"
+      ],
+      "llm_summary": "工程师实用技能集，源自实战经验"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 48047,
+      "forks": 3043,
+      "stars_today": 1739,
+      "built_by": [
+        "github-actions",
+        "parveen0029",
+        "mvanhorn",
+        "claude"
+      ],
+      "llm_summary": "42种专业图表设计，自包含HTML+SVG实现"
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 45369,
+      "forks": 3274,
+      "stars_today": 326,
+      "built_by": [
+        "lizhengfeng101",
+        "stay-foolish-forever",
+        "Qiyuanqiii",
+        "chethanuk",
+        "wu21-web"
+      ],
+      "llm_summary": "阿里级代码审查工具，结合LLM代理与多语言规则"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 28333,
+      "forks": 3250,
+      "stars_today": 709,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "mattpic-ant",
+        "bryan-anthropic",
+        "jordanecker-ant"
+      ],
+      "llm_summary": "Claude知识工作插件库，提升工作效率"
+    },
+    {
+      "owner": "BerriAI",
+      "name": "litellm",
+      "full_name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "language": "Python",
+      "stars": 60718,
+      "forks": 12196,
+      "stars_today": 95,
+      "built_by": [
+        "yuneng-berri",
+        "mateo-berri",
+        "ishaan-jaff",
+        "devin-ai-integration",
+        "Sameerlite"
+      ],
+      "llm_summary": "轻量级AI网关，支持百种大模型API调用"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 104077,
+      "forks": 10871,
+      "stars_today": 436,
+      "built_by": [
+        "ayobamiseun",
+        "nucliweb",
+        "claude",
+        "federicobartoli"
+      ],
+      "llm_summary": "AI编码代理生产级工程技能集"
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 11837,
+      "forks": 1795,
+      "stars_today": 3752,
+      "built_by": [
+        "Quicksticks-oss",
+        "echelon",
+        "wilwong",
+        "bflatastic",
+        "ArEnSc"
+      ],
+      "llm_summary": "艺术家创作引擎，专为设计师与电影人打造"
+    },
+    {
+      "owner": "Robbyant",
+      "name": "lingbot-map",
+      "full_name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "language": "Python",
+      "stars": 17764,
+      "forks": 1955,
+      "stars_today": 110,
+      "built_by": [
+        "justimyhxu",
+        "claude",
+        "LinZhuoChen"
+      ],
+      "llm_summary": "几何上下文变换器，实现流式3D重建"
+    },
+    {
+      "owner": "twostraws",
+      "name": "SwiftUI-Agent-Skill",
+      "full_name": "twostraws/SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "language": "Unknown",
+      "stars": 5509,
+      "forks": 197,
+      "stars_today": 65,
+      "built_by": [
+        "Jeehut",
+        "GLinnik21"
+      ],
+      "llm_summary": "SwiftUI代理技能，适配多种AI开发工具"
+    }
+  ]
+}
