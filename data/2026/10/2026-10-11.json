@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-11",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 75114,
+      "forks": 15961,
+      "stars_today": 25793,
+      "built_by": [
+        "claude",
+        "kaoru0822-kitauji",
+        "rudycelekli",
+        "N0zoM1z0"
+      ],
+      "llm_summary": "智能逆向工程工具，解析应用至二进制文件"
+    },
+    {
+      "owner": "boykopovar",
+      "name": "AnyPS5",
+      "full_name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 27124,
+      "forks": 2280,
+      "stars_today": 5805,
+      "built_by": [
+        "oneandonlydean",
+        "SamG-Coder",
+        "claude",
+        "adriadam10"
+      ],
+      "llm_summary": "PS5游戏自动移植至Linux和Windows工具"
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 14719,
+      "forks": 2326,
+      "stars_today": 3222,
+      "built_by": [
+        "Quicksticks-oss",
+        "wilwong",
+        "echelon",
+        "bflatastic",
+        "ArEnSc"
+      ],
+      "llm_summary": "艺术家与创作者的精准创作引擎"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 49059,
+      "forks": 3101,
+      "stars_today": 1190,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "mvanhorn",
+        "parveen0029"
+      ],
+      "llm_summary": "AI代码助手专用图表设计库"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 26363,
+      "forks": 1899,
+      "stars_today": 178,
+      "built_by": [
+        "github-actions",
+        "ipedro",
+        "claude",
+        "ousamabenyounes"
+      ],
+      "llm_summary": "AI编程代理上下文优化与跨平台路由"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 284643,
+      "forks": 23819,
+      "stars_today": 1736,
+      "built_by": [
+        "github-actions",
+        "gabimoncha",
+        "claude"
+      ],
+      "llm_summary": "工程师实用技能集合与工具"
+    },
+    {
+      "owner": "flutter",
+      "name": "flutter",
+      "full_name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": 179564,
+      "forks": 33606,
+      "stars_today": 88,
+      "built_by": [
+        "abarth",
+        "skia-flutter-autoroll",
+        "Hixie",
+        "jason-simmons",
+        "engine-flutter-autoroll"
+      ],
+      "llm_summary": "跨平台移动应用快速开发框架"
+    },
+    {
+      "owner": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": 200746,
+      "forks": 78969,
+      "stars_today": 26,
+      "built_by": [
+        "hawkinsp",
+        "tensorflower-gardener",
+        "ezhulenev",
+        "akuegel",
+        "mihaimaruseac"
+      ],
+      "llm_summary": "面向所有人的开源机器学习框架"
+    },
+    {
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "full_name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "stars": 59569,
+      "forks": 4697,
+      "stars_today": 461,
+      "built_by": [
+        "WodenJay",
+        "kevindesuyo",
+        "claude",
+        "shenqili"
+      ],
+      "llm_summary": "AI智能生成专业PowerPoint演示文稿"
+    },
+    {
+      "owner": "pytorch",
+      "name": "pytorch",
+      "full_name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": 104163,
+      "forks": 31960,
+      "stars_today": 84,
+      "built_by": [
+        "ezyang",
+        "zou3519",
+        "cyyever",
+        "malfet",
+        "pytorchmergebot"
+      ],
+      "llm_summary": "Python动态神经网络GPU加速框架"
+    },
+    {
+      "owner": "huggingface",
+      "name": "transformers",
+      "full_name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars": 167306,
+      "forks": 34802,
+      "stars_today": 96,
+      "built_by": [
+        "patrickvonplaten",
+        "LysandreJik",
+        "thomwolf",
+        "sgugger",
+        "ydshieh"
+      ],
+      "llm_summary": "多模态最先进机器学习模型框架"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 28857,
+      "forks": 3283,
+      "stars_today": 625,
+      "built_by": [
+        "github-actions",
+        "mattpic-ant",
+        "claude",
+        "jordanecker-ant",
+        "bryan-anthropic"
+      ],
+      "llm_summary": "Claude Cowork知识工作插件库"
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 218345,
+      "forks": 21986,
+      "stars_today": 278,
+      "built_by": [
+        "herobrine19",
+        "back1ply",
+        "szkocot",
+        "forrestchang",
+        "claude"
+      ],
+      "llm_summary": "基于专家观察的Claude Code行为优化"
+    }
+  ]
+}
