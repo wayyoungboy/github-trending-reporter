@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-12",
+  "total_repos": 8,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 111817,
+      "forks": 24925,
+      "stars_today": 25599,
+      "built_by": [
+        "claude",
+        "N0zoM1z0",
+        "kaoru0822-kitauji",
+        "rudycelekli"
+      ],
+      "llm_summary": "智能逆向工程工具，解析应用至二进制"
+    },
+    {
+      "owner": "boykopovar",
+      "name": "AnyPS5",
+      "full_name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 30463,
+      "forks": 2624,
+      "stars_today": 3952,
+      "built_by": [
+        "claude",
+        "MarcZX100",
+        "adriadam10",
+        "oneandonlydean"
+      ],
+      "llm_summary": "PS5游戏自动移植至Linux与Windows"
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 18420,
+      "forks": 3013,
+      "stars_today": 2957,
+      "built_by": [
+        "bflatastic",
+        "wilwong",
+        "Quicksticks-oss",
+        "echelon",
+        "ArEnSc"
+      ],
+      "llm_summary": "艺术家专属创意设计与制作引擎"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 50632,
+      "forks": 3214,
+      "stars_today": 1083,
+      "built_by": [
+        "claude",
+        "mvanhorn",
+        "parveen0029",
+        "github-actions"
+      ],
+      "llm_summary": "AI编程助手专业图表设计工具集"
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 51915,
+      "forks": 10403,
+      "stars_today": 886,
+      "built_by": [
+        "claude",
+        "samehkhamis",
+        "manjunath22466",
+        "asturksever"
+      ],
+      "llm_summary": "真实数据驱动的3D地球空间情报模拟器"
+    },
+    {
+      "owner": "pytorch",
+      "name": "pytorch",
+      "full_name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": 104568,
+      "forks": 32154,
+      "stars_today": 315,
+      "built_by": [
+        "cyyever",
+        "zou3519",
+        "malfet",
+        "ezyang",
+        "pytorchmergebot"
+      ],
+      "llm_summary": "Python深度学习框架，GPU加速神经网络"
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 36618,
+      "forks": 3821,
+      "stars_today": 548,
+      "built_by": [
+        "claude",
+        "cursoragent",
+        "NavodPeiris",
+        "eltociear"
+      ],
+      "llm_summary": "单4GB GPU运行70B大模型推理"
+    },
+    {
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "full_name": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 74311,
+      "forks": 8111,
+      "stars_today": 466,
+      "built_by": [
+        "wopian",
+        "dwiyatci",
+        "oldmud0",
+        "proudindiv"
+      ],
+      "llm_summary": "阿波罗11号制导计算机原始源代码"
+    }
+  ]
+}
