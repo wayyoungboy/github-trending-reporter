@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-13",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 168136,
+      "forks": 39966,
+      "stars_today": 45327,
+      "built_by": [
+        "rudycelekli",
+        "N0zoM1z0",
+        "kaoru0822-kitauji",
+        "claude"
+      ],
+      "llm_summary": "智能逆向工程工具，解析应用与二进制文件"
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 53988,
+      "forks": 10643,
+      "stars_today": 1895,
+      "built_by": [
+        "manjunath22466",
+        "claude",
+        "asturksever",
+        "samehkhamis"
+      ],
+      "llm_summary": "浏览器中的真实卫星数据3D地球模拟器"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 27454,
+      "forks": 1953,
+      "stars_today": 246,
+      "built_by": [
+        "ousamabenyounes",
+        "github-actions",
+        "ipedro",
+        "claude"
+      ],
+      "llm_summary": "AI编码代理上下文优化，大幅减少工具输出"
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 22700,
+      "forks": 3640,
+      "stars_today": 4095,
+      "built_by": [
+        "bflatastic",
+        "wilwong",
+        "ArEnSc",
+        "Quicksticks-oss",
+        "echelon"
+      ],
+      "llm_summary": "专为艺术家打造的专业创作引擎"
+    },
+    {
+      "owner": "open-webui",
+      "name": "open-webui",
+      "full_name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "language": "Python",
+      "stars": 155213,
+      "forks": 22655,
+      "stars_today": 157,
+      "built_by": [
+        "tjbck",
+        "cheahjs",
+        "ShirasawaSama",
+        "Classic298",
+        "silentoplayz"
+      ],
+      "llm_summary": "支持多AI服务的友好用户界面"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 52924,
+      "forks": 3346,
+      "stars_today": 2081,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "rudycelekli",
+        "parveen0029"
+      ],
+      "llm_summary": "AI代码助手专用44种图表设计工具"
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 37675,
+      "forks": 3882,
+      "stars_today": 879,
+      "built_by": [
+        "cursoragent",
+        "claude",
+        "eltociear",
+        "NavodPeiris"
+      ],
+      "llm_summary": "单4GB GPU实现大模型2.8T参数推理"
+    },
+    {
+      "owner": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": 40976,
+      "forks": 3816,
+      "stars_today": 97,
+      "built_by": [
+        "XsquirrelC",
+        "younesbelkada",
+        "isHuangXin",
+        "potassiummmm",
+        "tsong-ms"
+      ],
+      "llm_summary": "1位大模型的高效官方推理框架"
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars": 59369,
+      "forks": 9345,
+      "stars_today": 626,
+      "built_by": [
+        "cursoragent",
+        "dependabot",
+        "Tanishq-1",
+        "claude"
+      ],
+      "llm_summary": "免费使用多种AI编码工具，海量token"
+    }
+  ]
+}
