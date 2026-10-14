@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-14",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 211476,
+      "forks": 51944,
+      "stars_today": 54679,
+      "built_by": [
+        "claude",
+        "rudycelekli",
+        "N0zoM1z0",
+        "kaoru0822-kitauji"
+      ],
+      "llm_summary": "智能逆向工程工具，解析应用与二进制文件"
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 55556,
+      "forks": 10850,
+      "stars_today": 1961,
+      "built_by": [
+        "samehkhamis",
+        "claude",
+        "manjunath22466",
+        "asturksever"
+      ],
+      "llm_summary": "真实数据驱动的3D地球空间情报模拟器"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 63620,
+      "forks": 7069,
+      "stars_today": 1748,
+      "built_by": [
+        "kevin9327",
+        "claude",
+        "velixio",
+        "jaketame"
+      ],
+      "llm_summary": "开源本地语音工具，支持646种语言多场景应用"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 28335,
+      "forks": 1997,
+      "stars_today": 969,
+      "built_by": [
+        "ousamabenyounes",
+        "github-actions",
+        "ipedro",
+        "claude"
+      ],
+      "llm_summary": "AI编程上下文优化，大幅减少工具输出内存占用"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 54311,
+      "forks": 3442,
+      "stars_today": 1815,
+      "built_by": [
+        "parveen0029",
+        "github-actions",
+        "rudycelekli",
+        "claude"
+      ],
+      "llm_summary": "44种专业图表设计，适配主流AI编程助手"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "skills",
+      "full_name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars": 34589,
+      "forks": 2953,
+      "stars_today": 190,
+      "built_by": [
+        "quuu",
+        "github-actions",
+        "jonathanhefner",
+        "huozhi",
+        "claude"
+      ],
+      "llm_summary": "开放代理技能工具，npx命令快速调用"
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 38392,
+      "forks": 3927,
+      "stars_today": 1001,
+      "built_by": [
+        "cursoragent",
+        "eltociear",
+        "claude",
+        "NavodPeiris"
+      ],
+      "llm_summary": "单4GB GPU实现2.8T参数大模型推理"
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 25930,
+      "forks": 4070,
+      "stars_today": 4081,
+      "built_by": [
+        "Quicksticks-oss",
+        "echelon",
+        "ArEnSc",
+        "bflatastic",
+        "wilwong"
+      ],
+      "llm_summary": "艺术家专用创意工艺引擎，助力创作"
+    },
+    {
+      "owner": "xtool-org",
+      "name": "xtool",
+      "full_name": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars": 9520,
+      "forks": 406,
+      "stars_today": 1198,
+      "built_by": [
+        "reklis",
+        "erikbdev",
+        "kabiroberai",
+        "mvanhorn",
+        "pawlowskialex"
+      ],
+      "llm_summary": "跨平台Xcode替代，多系统iOS应用开发"
+    }
+  ]
+}
