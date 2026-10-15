@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-15",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 244947,
+      "forks": 61238,
+      "stars_today": 41034,
+      "built_by": [
+        "rudycelekli",
+        "N0zoM1z0",
+        "kaoru0822-kitauji",
+        "claude"
+      ],
+      "llm_summary": "智能逆向工程，深入解析应用与二进制"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 66580,
+      "forks": 7334,
+      "stars_today": 3538,
+      "built_by": [
+        "kevin9327",
+        "velixio",
+        "claude",
+        "jaketame"
+      ],
+      "llm_summary": "开源本地语音工作室，支持646种语言"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 29201,
+      "forks": 2047,
+      "stars_today": 947,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "ousamabenyounes",
+        "ipedro"
+      ],
+      "llm_summary": "AI编程代理上下文优化，提升效率98%"
+    },
+    {
+      "owner": "nvm-sh",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars": 95472,
+      "forks": 10519,
+      "stars_today": 52,
+      "built_by": [
+        "ljharb",
+        "lukechilds",
+        "creationix",
+        "koenpunt",
+        "PeterDaveHello"
+      ],
+      "llm_summary": "Node版本管理器，轻松切换多版本"
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 49436,
+      "forks": 4425,
+      "stars_today": 163,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "timothykassis",
+        "cursoragent",
+        "borealBytes"
+      ],
+      "llm_summary": "AI科学家技能库，25万科学家信赖"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 52570,
+      "forks": 4774,
+      "stars_today": 103,
+      "built_by": [
+        "yuh-yang",
+        "claude",
+        "omerarslan0",
+        "AiMiDi",
+        "hito0512"
+      ],
+      "llm_summary": "让所有软件具备代理原生能力"
+    },
+    {
+      "owner": "ifixai-ai",
+      "name": "iFixAi",
+      "full_name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "language": "Python",
+      "stars": 27538,
+      "forks": 1508,
+      "stars_today": 2109,
+      "built_by": [
+        "github-actions",
+        "Sebabaian",
+        "n-papaioannou",
+        "rudycelekli",
+        "stefyi-4355"
+      ],
+      "llm_summary": "AI代理独立审计，120秒验证功能"
+    },
+    {
+      "owner": "vxcontrol",
+      "name": "pentagi",
+      "full_name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 29606,
+      "forks": 4443,
+      "stars_today": 1025,
+      "built_by": [
+        "mason5052",
+        "claude",
+        "cursoragent",
+        "asdek",
+        "sirozha"
+      ],
+      "llm_summary": "自主AI渗透测试系统，执行复杂任务"
+    },
+    {
+      "owner": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 120075,
+      "forks": 18701,
+      "stars_today": 207,
+      "built_by": [
+        "RalfJung",
+        "matthiaskrgr",
+        "bors",
+        "matklad",
+        "GuillaumeGomez"
+      ],
+      "llm_summary": "构建可靠高效软件的系统编程语言"
+    },
+    {
+      "owner": "xtool-org",
+      "name": "xtool",
+      "full_name": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars": 10931,
+      "forks": 500,
+      "stars_today": 1502,
+      "built_by": [
+        "reklis",
+        "pawlowskialex",
+        "erikbdev",
+        "kabiroberai",
+        "mvanhorn"
+      ],
+      "llm_summary": "跨平台Xcode替代，多系统构建iOS应用"
+    },
+    {
+      "owner": "ntdevlabs",
+      "name": "tiny11builder",
+      "full_name": "ntdevlabs/tiny11builder",
+      "url": "https://github.com/ntdevlabs/tiny11builder",
+      "description": "WinUI app for building smaller, customized Windows 11 images.",
+      "language": "C#",
+      "stars": 20267,
+      "forks": 1556,
+      "stars_today": 139,
+      "built_by": [
+        "Karl-WE",
+        "szepeviktor",
+        "eugenesan",
+        "Miiraak"
+      ],
+      "llm_summary": "定制精简Windows 11映像工具"
+    },
+    {
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 87620,
+      "forks": 9776,
+      "stars_today": 1008,
+      "built_by": [
+        "dragonmacher",
+        "ghidra1",
+        "nsadeveloper789",
+        "ryanmkurtz",
+        "caheckman"
+      ],
+      "llm_summary": "NSA开源软件逆向工程框架"
+    }
+  ]
+}
