@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-16",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 272521,
+      "forks": 68506,
+      "stars_today": 32314,
+      "built_by": [
+        "rudycelekli",
+        "kaoru0822-kitauji",
+        "claude",
+        "N0zoM1z0"
+      ],
+      "llm_summary": "智能逆向工程神器，从应用到二进制全解析"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 39194,
+      "forks": 4333,
+      "stars_today": 307,
+      "built_by": [
+        "bryan-anthropic",
+        "github-actions",
+        "tobinsouth",
+        "jordanecker-ant",
+        "claude"
+      ],
+      "llm_summary": "Claude官方高质量代码插件库"
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 50562,
+      "forks": 4498,
+      "stars_today": 1091,
+      "built_by": [
+        "cursoragent",
+        "borealBytes",
+        "github-actions",
+        "timothykassis",
+        "claude"
+      ],
+      "llm_summary": "AI科学家技能库，全球25万科学家首选"
+    },
+    {
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "stars": 112617,
+      "forks": 6525,
+      "stars_today": 433,
+      "built_by": [
+        "AmirF194",
+        "claude",
+        "github-actions",
+        "nikpushkarski"
+      ],
+      "llm_summary": "原始语言编程，减少65%令牌消耗"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 69232,
+      "forks": 7578,
+      "stars_today": 3024,
+      "built_by": [
+        "claude",
+        "velixio",
+        "jaketame",
+        "kevin9327"
+      ],
+      "llm_summary": "开源ElevenLabs替代，支持646种语言"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 299961,
+      "forks": 26789,
+      "stars_today": 582,
+      "built_by": [
+        "clkao",
+        "gaurav0107",
+        "claude",
+        "arittr"
+      ],
+      "llm_summary": "有效代理技能框架与开发方法论"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 75171,
+      "forks": 8935,
+      "stars_today": 147,
+      "built_by": [
+        "rudycelekli",
+        "claude",
+        "proffesor-for-testing"
+      ],
+      "llm_summary": "原始代理工具，智能多群体协作平台"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 29822,
+      "forks": 2084,
+      "stars_today": 904,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "ousamabenyounes",
+        "ipedro"
+      ],
+      "llm_summary": "AI编码上下文优化，工具输出减98%"
+    },
+    {
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 88853,
+      "forks": 9922,
+      "stars_today": 1369,
+      "built_by": [
+        "ghidra1",
+        "nsadeveloper789",
+        "caheckman",
+        "dragonmacher",
+        "ryanmkurtz"
+      ],
+      "llm_summary": "美国国安局软件逆向工程框架"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 280462,
+      "forks": 41710,
+      "stars_today": 1013,
+      "built_by": [
+        "dependabot",
+        "claude",
+        "haelyra",
+        "montjeffrey"
+      ],
+      "llm_summary": "代理工具性能优化系统，多平台支持"
+    },
+    {
+      "owner": "lightseekorg",
+      "name": "tokenspeed",
+      "full_name": "lightseekorg/tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "language": "Python",
+      "stars": 2515,
+      "forks": 337,
+      "stars_today": 30,
+      "built_by": [
+        "nperrin-fr",
+        "lightseek-bot",
+        "borontion",
+        "antiagainst",
+        "longcat-ia-team"
+      ],
+      "llm_summary": "光速LLM推理引擎，极速响应"
+    },
+    {
+      "owner": "xerj-org",
+      "name": "xerj",
+      "full_name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "language": "Rust",
+      "stars": 5746,
+      "forks": 311,
+      "stars_today": 715,
+      "built_by": [
+        "Vinz2168",
+        "thomas-villani",
+        "claude",
+        "buger"
+      ],
+      "llm_summary": "AI数据搜索新方式，比grep省40倍令牌"
+    }
+  ]
+}
