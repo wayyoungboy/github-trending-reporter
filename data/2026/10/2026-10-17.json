@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-17",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 40645,
+      "forks": 4404,
+      "stars_today": 1552,
+      "built_by": [
+        "claude",
+        "mhegazy",
+        "bryan-anthropic",
+        "github-actions",
+        "jordanecker-ant"
+      ],
+      "llm_summary": "官方Claude高质量插件目录"
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 51550,
+      "forks": 4565,
+      "stars_today": 1158,
+      "built_by": [
+        "claude",
+        "timothykassis",
+        "cursoragent",
+        "github-actions",
+        "borealBytes"
+      ],
+      "llm_summary": "AI科学家技能库，赋能科研创新"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 281565,
+      "forks": 41863,
+      "stars_today": 1057,
+      "built_by": [
+        "haelyra",
+        "claude",
+        "montjeffrey",
+        "dependabot"
+      ],
+      "llm_summary": "AI代理性能优化系统，提升开发效率"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 53538,
+      "forks": 4853,
+      "stars_today": 281,
+      "built_by": [
+        "claude",
+        "omerarslan0",
+        "yuh-yang",
+        "AiMiDi",
+        "hito0512"
+      ],
+      "llm_summary": "软件代理化，提升交互体验"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 30255,
+      "forks": 2130,
+      "stars_today": 449,
+      "built_by": [
+        "ipedro",
+        "claude",
+        "ousamabenyounes",
+        "github-actions"
+      ],
+      "llm_summary": "AI编码上下文优化，提升性能效率"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 75659,
+      "forks": 8968,
+      "stars_today": 672,
+      "built_by": [
+        "proffesor-for-testing",
+        "claude",
+        "rudycelekli"
+      ],
+      "llm_summary": "智能代理协调系统，构建对话AI"
+    },
+    {
+      "owner": "android",
+      "name": "skills",
+      "full_name": "android/skills",
+      "url": "https://github.com/android/skills",
+      "description": "",
+      "language": "Kotlin",
+      "stars": 8096,
+      "forks": 537,
+      "stars_today": 36,
+      "built_by": [
+        "bentrengrove",
+        "vinishavathwani",
+        "android-devrel-github-bot",
+        "simona-anomis",
+        "JoseAlcerreca"
+      ],
+      "llm_summary": "Android平台技能框架"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 300706,
+      "forks": 26846,
+      "stars_today": 973,
+      "built_by": [
+        "clkao",
+        "arittr",
+        "claude",
+        "gaurav0107"
+      ],
+      "llm_summary": "有效代理技能框架，提升开发效率"
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 11984,
+      "forks": 1163,
+      "stars_today": 278,
+      "built_by": [
+        "poteto",
+        "minupalaniappan",
+        "cursoragent",
+        "ericzakariasson",
+        "roshansada"
+      ],
+      "llm_summary": "Cursor官方插件规范与库"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 71321,
+      "forks": 7803,
+      "stars_today": 2301,
+      "built_by": [
+        "claude",
+        "velixio",
+        "jaketame",
+        "kevin9327"
+      ],
+      "llm_summary": "开源语音处理工具，支持多语言"
+    },
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars": 48583,
+      "forks": 16647,
+      "stars_today": 898,
+      "built_by": [
+        "oscarbol09",
+        "claude",
+        "jakob1379",
+        "ayobamiseun"
+      ],
+      "llm_summary": "AI求职助手，自动化申请流程"
+    },
+    {
+      "owner": "hmjz100",
+      "name": "LinkSwift",
+      "full_name": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "language": "JavaScript",
+      "stars": 23770,
+      "forks": 1442,
+      "stars_today": 538,
+      "built_by": [
+        "bilili-syy",
+        "DeepslateQAQ",
+        "MisaLiu",
+        "Night-stars-1"
+      ],
+      "llm_summary": "多网盘下载地址获取工具"
+    },
+    {
+      "owner": "xerj-org",
+      "name": "xerj",
+      "full_name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "language": "Rust",
+      "stars": 6982,
+      "forks": 356,
+      "stars_today": 1648,
+      "built_by": [
+        "claude",
+        "buger",
+        "thomas-villani",
+        "Vinz2168"
+      ],
+      "llm_summary": "AI数据搜索新方式，高效索引"
+    }
+  ]
+}
