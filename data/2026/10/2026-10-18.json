@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-18",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 41820,
+      "forks": 4467,
+      "stars_today": 1397,
+      "built_by": [
+        "bryan-anthropic",
+        "mhegazy",
+        "github-actions",
+        "claude",
+        "jordanecker-ant"
+      ],
+      "llm_summary": "官方高质量Claude Code插件目录"
+    },
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars": 50509,
+      "forks": 16951,
+      "stars_today": 1365,
+      "built_by": [
+        "ayobamiseun",
+        "jakob1379",
+        "oscarbol09",
+        "claude"
+      ],
+      "llm_summary": "本地运行的AI求职应用框架"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 282554,
+      "forks": 41990,
+      "stars_today": 1145,
+      "built_by": [
+        "haelyra",
+        "dependabot",
+        "montjeffrey",
+        "claude"
+      ],
+      "llm_summary": "AI代理性能优化系统"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 54090,
+      "forks": 4906,
+      "stars_today": 574,
+      "built_by": [
+        "omerarslan0",
+        "yuh-yang",
+        "AiMiDi",
+        "hito0512",
+        "claude"
+      ],
+      "llm_summary": "软件代理原生化的CLI中心"
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 52281,
+      "forks": 4630,
+      "stars_today": 878,
+      "built_by": [
+        "borealBytes",
+        "cursoragent",
+        "github-actions",
+        "claude",
+        "timothykassis"
+      ],
+      "llm_summary": "AI代理科学技能库"
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 9945,
+      "forks": 721,
+      "stars_today": 178,
+      "built_by": [
+        "viniciusdsandrade",
+        "djalmajr",
+        "claude",
+        "everton-dgn"
+      ],
+      "llm_summary": "代理编码长期记忆解决方案"
+    },
+    {
+      "owner": "android",
+      "name": "skills",
+      "full_name": "android/skills",
+      "url": "https://github.com/android/skills",
+      "description": "",
+      "language": "Kotlin",
+      "stars": 8444,
+      "forks": 555,
+      "stars_today": 355,
+      "built_by": [
+        "android-devrel-github-bot",
+        "vinishavathwani",
+        "bentrengrove",
+        "simona-anomis",
+        "JoseAlcerreca"
+      ],
+      "llm_summary": "Android智能技能开发框架"
+    },
+    {
+      "owner": "stablyai",
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars": 95476,
+      "forks": 6114,
+      "stars_today": 830,
+      "built_by": [
+        "nwparker",
+        "orca-ide",
+        "AmethystLiang",
+        "Jinwoo-H",
+        "brennanb2025"
+      ],
+      "llm_summary": "多平台代理运行系统"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 151793,
+      "forks": 26880,
+      "stars_today": 179,
+      "built_by": [
+        "poteat",
+        "ant-kurt",
+        "actions-user",
+        "claude",
+        "bcherny"
+      ],
+      "llm_summary": "终端智能编码助手"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 73477,
+      "forks": 8042,
+      "stars_today": 2125,
+      "built_by": [
+        "velixio",
+        "kevin9327",
+        "jaketame",
+        "claude"
+      ],
+      "llm_summary": "开源语音克隆与处理工具"
+    },
+    {
+      "owner": "anomalyco",
+      "name": "opencode",
+      "full_name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 215419,
+      "forks": 28865,
+      "stars_today": 438,
+      "built_by": [
+        "rekram1-node",
+        "opencode-agent",
+        "adamdotdevin",
+        "kitlangton",
+        "thdxr"
+      ],
+      "llm_summary": "开源编码代理工具"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 76101,
+      "forks": 9002,
+      "stars_today": 420,
+      "built_by": [
+        "rudycelekli",
+        "claude",
+        "proffesor-for-testing"
+      ],
+      "llm_summary": "多代理协调与智能系统"
+    },
+    {
+      "owner": "xerj-org",
+      "name": "xerj",
+      "full_name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "language": "Rust",
+      "stars": 7843,
+      "forks": 417,
+      "stars_today": 1160,
+      "built_by": [
+        "thomas-villani",
+        "Vinz2168",
+        "claude",
+        "buger"
+      ],
+      "llm_summary": "AI高效数据搜索工具"
+    }
+  ]
+}
