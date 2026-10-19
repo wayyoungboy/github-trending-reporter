@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-19",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars": 53514,
+      "forks": 17429,
+      "stars_today": 2232,
+      "built_by": [
+        "rudycelekli",
+        "oscarbol09",
+        "claude",
+        "ayobamiseun"
+      ],
+      "llm_summary": "AI求职助手，自动化简历与面试准备"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 42762,
+      "forks": 4538,
+      "stars_today": 1175,
+      "built_by": [
+        "jordanecker-ant",
+        "mhegazy",
+        "github-actions",
+        "claude",
+        "bryan-anthropic"
+      ],
+      "llm_summary": "官方Claude插件目录，高质量扩展"
+    },
+    {
+      "owner": "anomalyco",
+      "name": "opencode",
+      "full_name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 216691,
+      "forks": 29010,
+      "stars_today": 1414,
+      "built_by": [
+        "adamdotdevin",
+        "rekram1-node",
+        "thdxr",
+        "kitlangton",
+        "opencode-agent"
+      ],
+      "llm_summary": "开源智能编码代理助手"
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 12778,
+      "forks": 1258,
+      "stars_today": 350,
+      "built_by": [
+        "cursoragent",
+        "minupalaniappan",
+        "roshansada",
+        "ericzakariasson",
+        "poteto"
+      ],
+      "llm_summary": "Cursor编辑器官方插件规范库"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 76574,
+      "forks": 9056,
+      "stars_today": 513,
+      "built_by": [
+        "rudycelekli",
+        "proffesor-for-testing",
+        "claude"
+      ],
+      "llm_summary": "多代理协作平台，构建智能工作流"
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 10552,
+      "forks": 754,
+      "stars_today": 512,
+      "built_by": [
+        "djalmajr",
+        "viniciusdsandrade",
+        "everton-dgn",
+        "claude"
+      ],
+      "llm_summary": "AI代理长期记忆，促进跨平台交接"
+    },
+    {
+      "owner": "stablyai",
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars": 96797,
+      "forks": 6180,
+      "stars_today": 1146,
+      "built_by": [
+        "orca-ide",
+        "brennanb2025",
+        "AmethystLiang",
+        "Jinwoo-H",
+        "nwparker"
+      ],
+      "llm_summary": "多代理统一运行平台，跨设备支持"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 54650,
+      "forks": 4950,
+      "stars_today": 589,
+      "built_by": [
+        "yuh-yang",
+        "omerarslan0",
+        "claude",
+        "hito0512",
+        "AiMiDi"
+      ],
+      "llm_summary": "软件代理化改造，统一CLI入口"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 75586,
+      "forks": 8280,
+      "stars_today": 2082,
+      "built_by": [
+        "jaketame",
+        "velixio",
+        "kevin9327",
+        "claude"
+      ],
+      "llm_summary": "开源语音处理，支持多语言克隆"
+    },
+    {
+      "owner": "android",
+      "name": "skills",
+      "full_name": "android/skills",
+      "url": "https://github.com/android/skills",
+      "description": "",
+      "language": "Kotlin",
+      "stars": 8810,
+      "forks": 568,
+      "stars_today": 375,
+      "built_by": [
+        "bentrengrove",
+        "simona-anomis",
+        "vinishavathwani",
+        "android-devrel-github-bot",
+        "JoseAlcerreca"
+      ],
+      "llm_summary": "Android开发技能库与最佳实践"
+    },
+    {
+      "owner": "mlabonne",
+      "name": "llm-course",
+      "full_name": "mlabonne/llm-course",
+      "url": "https://github.com/mlabonne/llm-course",
+      "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "language": "Unknown",
+      "stars": 84082,
+      "forks": 9785,
+      "stars_today": 81,
+      "built_by": [
+        "Shrinija17",
+        "pitmonticone"
+      ],
+      "llm_summary": "LLM入门课程，含实战与路线图"
+    },
+    {
+      "owner": "Kruk2",
+      "name": "jasna",
+      "full_name": "Kruk2/jasna",
+      "url": "https://github.com/Kruk2/jasna",
+      "description": "Video restoration tool",
+      "language": "Python",
+      "stars": 2466,
+      "forks": 191,
+      "stars_today": 115,
+      "built_by": [
+        "helkaluin",
+        "ironicgitposting",
+        "claude",
+        "suphamster"
+      ],
+      "llm_summary": "智能视频质量修复与增强"
+    },
+    {
+      "owner": "Comfy-Org",
+      "name": "ComfyUI",
+      "full_name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "stars": 138691,
+      "forks": 16506,
+      "stars_today": 154,
+      "built_by": [
+        "comfyanonymous",
+        "rattus128",
+        "bigcat88",
+        "pythongosssss",
+        "comfyui-wiki"
+      ],
+      "llm_summary": "模块化AI图像生成，最快本地推理"
+    }
+  ]
+}
