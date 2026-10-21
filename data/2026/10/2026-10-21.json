@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-21",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars": 60846,
+      "forks": 18941,
+      "stars_today": 3861,
+      "built_by": [
+        "oscarbol09",
+        "rudycelekli",
+        "ayobamiseun",
+        "claude"
+      ],
+      "llm_summary": "本地AI求职助手，自动化简历与面试准备"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 34391,
+      "forks": 2155,
+      "stars_today": 1712,
+      "built_by": [
+        "CooperSheroy",
+        "literally-dan",
+        "kennysarnoski-jarvis"
+      ],
+      "llm_summary": "AI安全审计工具，自动生成可验证安全报告"
+    },
+    {
+      "owner": "stablyai",
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars": 99875,
+      "forks": 6329,
+      "stars_today": 1565,
+      "built_by": [
+        "AmethystLiang",
+        "brennanb2025",
+        "Jinwoo-H",
+        "orca-ide",
+        "nwparker"
+      ],
+      "llm_summary": "多代理协作平台，支持多种环境运行"
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 169874,
+      "forks": 9235,
+      "stars_today": 1208,
+      "built_by": [
+        "dhedhialy",
+        "ousamabenyounes",
+        "Lakshya77089",
+        "claude"
+      ],
+      "llm_summary": "AI代理优化器，模拟资深开发者思维"
+    },
+    {
+      "owner": "Comfy-Org",
+      "name": "ComfyUI",
+      "full_name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "stars": 140852,
+      "forks": 16669,
+      "stars_today": 1206,
+      "built_by": [
+        "rattus128",
+        "bigcat88",
+        "comfyui-wiki",
+        "pythongosssss",
+        "comfyanonymous"
+      ],
+      "llm_summary": "最强扩散模型GUI，图形界面极速推理"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 77898,
+      "forks": 9163,
+      "stars_today": 684,
+      "built_by": [
+        "proffesor-for-testing",
+        "rudycelekli",
+        "claude"
+      ],
+      "llm_summary": "智能代理框架，多群体协作与自适应学习"
+    },
+    {
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars": 130359,
+      "forks": 12546,
+      "stars_today": 802,
+      "built_by": [
+        "abhay-codes07",
+        "safishamsi",
+        "ayushcodes10",
+        "rajatnagda45",
+        "claude"
+      ],
+      "llm_summary": "代码库转知识图谱，智能查询与解析"
+    },
+    {
+      "owner": "anomalyco",
+      "name": "opencode",
+      "full_name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 219019,
+      "forks": 29217,
+      "stars_today": 1240,
+      "built_by": [
+        "adamdotdevin",
+        "kitlangton",
+        "opencode-agent",
+        "thdxr",
+        "rekram1-node"
+      ],
+      "llm_summary": "开源智能编码助手"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 162417,
+      "forks": 26233,
+      "stars_today": 562,
+      "built_by": [
+        "Hotragn",
+        "rudycelekli",
+        "epowelljr",
+        "claude"
+      ],
+      "llm_summary": "全栈AI代理团队，各领域专家协作"
+    },
+    {
+      "owner": "headroomlabs-ai",
+      "name": "headroom",
+      "full_name": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 76802,
+      "forks": 5961,
+      "stars_today": 549,
+      "built_by": [
+        "abhay-codes07",
+        "JerrettDavis",
+        "claude",
+        "chopratejas",
+        "gglucass"
+      ],
+      "llm_summary": "LLM输入压缩器，大幅减少token使用"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 30830,
+      "forks": 3464,
+      "stars_today": 267,
+      "built_by": [
+        "jordanecker-ant",
+        "github-actions",
+        "claude",
+        "bryan-anthropic",
+        "mattpic-ant"
+      ],
+      "llm_summary": "Claude协作知识工作插件库"
+    },
+    {
+      "owner": "wshobson",
+      "name": "agents",
+      "full_name": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "language": "Python",
+      "stars": 41286,
+      "forks": 4395,
+      "stars_today": 93,
+      "built_by": [
+        "jau123",
+        "web-flow",
+        "dependabot",
+        "claude"
+      ],
+      "llm_summary": "多平台AI代理插件市场"
+    },
+    {
+      "owner": "sickn33",
+      "name": "agentic-awesome-skills",
+      "full_name": "sickn33/agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "language": "Python",
+      "stars": 48133,
+      "forks": 7021,
+      "stars_today": 83,
+      "built_by": [
+        "WHOISABHISHEKADHIKARI",
+        "github-actions",
+        "sck000",
+        "claude"
+      ],
+      "llm_summary": "2600+技能的本地AI代理控制中心"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 42390,
+      "forks": 7016,
+      "stars_today": 733,
+      "built_by": [
+        "AnMakc",
+        "CharlesJ-ABu",
+        "randyy179",
+        "Luciferbobo"
+      ],
+      "llm_summary": "金融语言基础模型，市场分析利器"
+    },
+    {
+      "owner": "vllm-project",
+      "name": "vllm",
+      "full_name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "stars": 94475,
+      "forks": 23676,
+      "stars_today": 128,
+      "built_by": [
+        "mgoin",
+        "claude",
+        "hmellor",
+        "WoosukKwon",
+        "DarkLight1337"
+      ],
+      "llm_summary": "LLM高效推理与部署引擎"
+    }
+  ]
+}
