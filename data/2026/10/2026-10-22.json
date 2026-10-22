@@ -1,0 +1,228 @@
+{
+  "date": "2026-10-22",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 36713,
+      "forks": 2292,
+      "stars_today": 2012,
+      "built_by": [
+        "CooperSheroy",
+        "literally-dan",
+        "kennysarnoski-jarvis"
+      ],
+      "llm_summary": "多阶段安全审计技能，提供可验证结果"
+    },
+    {
+      "owner": "vllm-project",
+      "name": "vllm",
+      "full_name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "stars": 94916,
+      "forks": 23755,
+      "stars_today": 441,
+      "built_by": [
+        "claude",
+        "WoosukKwon",
+        "DarkLight1337",
+        "mgoin",
+        "hmellor"
+      ],
+      "llm_summary": "高吞吐量内存高效的LLM推理引擎"
+    },
+    {
+      "owner": "stablyai",
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars": 101437,
+      "forks": 6414,
+      "stars_today": 1541,
+      "built_by": [
+        "nwparker",
+        "AmethystLiang",
+        "Jinwoo-H",
+        "brennanb2025",
+        "orca-ide"
+      ],
+      "llm_summary": "多设备支持的编码代理运行平台"
+    },
+    {
+      "owner": "headroomlabs-ai",
+      "name": "headroom",
+      "full_name": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 77304,
+      "forks": 5999,
+      "stars_today": 474,
+      "built_by": [
+        "claude",
+        "gglucass",
+        "JerrettDavis",
+        "abhay-codes07",
+        "chopratejas"
+      ],
+      "llm_summary": "压缩LLM输入，大幅减少token使用"
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 171807,
+      "forks": 9351,
+      "stars_today": 2079,
+      "built_by": [
+        "ousamabenyounes",
+        "claude",
+        "Lakshya77089",
+        "dhedhialy"
+      ],
+      "llm_summary": "让AI像高级开发者一样思考，少写代码"
+    },
+    {
+      "owner": "Comfy-Org",
+      "name": "ComfyUI",
+      "full_name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "stars": 141585,
+      "forks": 16732,
+      "stars_today": 939,
+      "built_by": [
+        "comfyanonymous",
+        "pythongosssss",
+        "comfyui-wiki",
+        "bigcat88",
+        "rattus128"
+      ],
+      "llm_summary": "最强模块化扩散模型GUI，极速本地推理"
+    },
+    {
+      "owner": "supabase",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 113055,
+      "forks": 16946,
+      "stars_today": 504,
+      "built_by": [
+        "joshenlim",
+        "saltcod",
+        "MildTomato",
+        "kiwicopple",
+        "alaister"
+      ],
+      "llm_summary": "Postgres开发平台，构建全栈应用"
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": 59222,
+      "forks": 9665,
+      "stars_today": 112,
+      "built_by": [
+        "Weiko",
+        "charlesBochet",
+        "FelixMalfait",
+        "github-actions",
+        "bosiraphael"
+      ],
+      "llm_summary": "面向AI的Salesforce开源替代方案"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 42873,
+      "forks": 7074,
+      "stars_today": 575,
+      "built_by": [
+        "AnMakc",
+        "CharlesJ-ABu",
+        "randyy179",
+        "Luciferbobo"
+      ],
+      "llm_summary": "金融市场语言基础模型"
+    },
+    {
+      "owner": "strelov1",
+      "name": "freehire",
+      "full_name": "strelov1/freehire",
+      "url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "language": "Go",
+      "stars": 2452,
+      "forks": 248,
+      "stars_today": 360,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "gearsandcode",
+        "dependabot"
+      ],
+      "llm_summary": "求职者的开源职位搜索引擎"
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 12388,
+      "forks": 874,
+      "stars_today": 286,
+      "built_by": [
+        "djalmajr",
+        "claude",
+        "everton-dgn",
+        "viniciusdsandrade"
+      ],
+      "llm_summary": "代理编码长期记忆解决方案"
+    },
+    {
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars": 131752,
+      "forks": 12647,
+      "stars_today": 1433,
+      "built_by": [
+        "claude",
+        "rajatnagda45",
+        "ayushcodes10",
+        "safishamsi",
+        "abhay-codes07"
+      ],
+      "llm_summary": "代码库转可查询知识图谱，无需向量存储"
+    }
+  ]
+}
