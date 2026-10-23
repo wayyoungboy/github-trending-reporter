@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-23",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 41218,
+      "forks": 8317,
+      "stars_today": 287,
+      "built_by": [
+        "dstogov",
+        "weltling",
+        "nikic",
+        "cmb69",
+        "iliaal"
+      ],
+      "llm_summary": "PHP语言解释器源码，Web开发基础"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 31671,
+      "forks": 3536,
+      "stars_today": 303,
+      "built_by": [
+        "claude",
+        "bryan-anthropic",
+        "github-actions",
+        "mattpic-ant",
+        "jordanecker-ant"
+      ],
+      "llm_summary": "Claude知识工作插件，提升生产力工具"
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 173630,
+      "forks": 9447,
+      "stars_today": 1948,
+      "built_by": [
+        "ousamabenyounes",
+        "dhedhialy",
+        "claude",
+        "Lakshya77089"
+      ],
+      "llm_summary": "AI代码优化助手，减少编写工作量"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 39721,
+      "forks": 2479,
+      "stars_today": 2979,
+      "built_by": [
+        "kennysarnoski-jarvis",
+        "literally-dan",
+        "CooperSheroy"
+      ],
+      "llm_summary": "自动化安全审计技能，发现代码漏洞"
+    },
+    {
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars": 133057,
+      "forks": 12728,
+      "stars_today": 1408,
+      "built_by": [
+        "claude",
+        "abhay-codes07",
+        "ayushcodes10",
+        "rajatnagda45",
+        "safishamsi"
+      ],
+      "llm_summary": "代码库知识图谱化，智能查询理解"
+    },
+    {
+      "owner": "supabase",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 113522,
+      "forks": 17004,
+      "stars_today": 693,
+      "built_by": [
+        "MildTomato",
+        "joshenlim",
+        "saltcod",
+        "kiwicopple",
+        "alaister"
+      ],
+      "llm_summary": "Postgres数据库平台，全栈应用开发"
+    },
+    {
+      "owner": "fastapi",
+      "name": "fastapi",
+      "full_name": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "stars": 103803,
+      "forks": 10094,
+      "stars_today": 101,
+      "built_by": [
+        "YuriiMotov",
+        "github-actions",
+        "pre-commit-ci",
+        "tiangolo"
+      ],
+      "llm_summary": "高性能Python Web框架，快速开发部署"
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 43317,
+      "forks": 5397,
+      "stars_today": 177,
+      "built_by": [
+        "toanalien",
+        "edocltd",
+        "lzw-git-all",
+        "claude"
+      ],
+      "llm_summary": "Claude Code视觉指南，即用模板库"
+    },
+    {
+      "owner": "Meloong-Git",
+      "name": "PCL",
+      "full_name": "Meloong-Git/PCL",
+      "url": "https://github.com/Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "stars": 8732,
+      "forks": 1207,
+      "stars_today": 119,
+      "built_by": [
+        "RyogiMutsuki",
+        "LTCatt",
+        "allMagicNB",
+        "Pigeon0v0",
+        "wyc-26"
+      ],
+      "llm_summary": "Minecraft启动器，便捷游戏入口"
+    }
+  ]
+}
