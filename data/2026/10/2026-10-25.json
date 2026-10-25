@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-25",
+  "total_repos": 10,
+  "repositories": [
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 44716,
+      "forks": 2771,
+      "stars_today": 2264,
+      "built_by": [
+        "kennysarnoski-jarvis",
+        "CooperSheroy",
+        "literally-dan"
+      ],
+      "llm_summary": "多阶段安全审计技能，提供可验证结果"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "OpenShell",
+      "full_name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 19512,
+      "forks": 1933,
+      "stars_today": 896,
+      "built_by": [
+        "johntmyers",
+        "pimlock",
+        "elezar",
+        "drew",
+        "miyoungc"
+      ],
+      "llm_summary": "自主AI代理的安全私有运行时"
+    },
+    {
+      "owner": "aws",
+      "name": "agent-toolkit-for-aws",
+      "full_name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars": 3151,
+      "forks": 400,
+      "stars_today": 13,
+      "built_by": [
+        "arnewouters",
+        "leon1418",
+        "herosjourney",
+        "rshevchuk-git",
+        "anasstahr"
+      ],
+      "llm_summary": "AWS官方AI代理构建工具包"
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 32218,
+      "forks": 1653,
+      "stars_today": 455,
+      "built_by": [
+        "riccardogiorato",
+        "JaySmith502",
+        "claude",
+        "Luffixos"
+      ],
+      "llm_summary": "提升AI代码质量的设计技能"
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 44603,
+      "forks": 5496,
+      "stars_today": 392,
+      "built_by": [
+        "lzw-git-all",
+        "toanalien",
+        "edocltd",
+        "claude"
+      ],
+      "llm_summary": "Claude Code实用指南，含复制模板"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars": 86471,
+      "forks": 5157,
+      "stars_today": 619,
+      "built_by": [
+        "github-actions",
+        "abdulwahabone",
+        "claude",
+        "cursoragent"
+      ],
+      "llm_summary": "提升AI设计能力的设计语言"
+    },
+    {
+      "owner": "pollen-robotics",
+      "name": "microduck",
+      "full_name": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "stars": 11032,
+      "forks": 1415,
+      "stars_today": 319,
+      "built_by": [
+        "claude",
+        "apirrone",
+        "Drenayaz",
+        "pierre-rouanet",
+        "Nixxx19"
+      ],
+      "llm_summary": "小型双足鸭子机器人"
+    },
+    {
+      "owner": "google-gemini",
+      "name": "gemini-cli",
+      "full_name": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "language": "TypeScript",
+      "stars": 108098,
+      "forks": 14812,
+      "stars_today": 44,
+      "built_by": [
+        "scidomino",
+        "SandyTao520",
+        "jacob314",
+        "NTaylorMullen",
+        "abhipatel12"
+      ],
+      "llm_summary": "终端Gemini AI助手"
+    },
+    {
+      "owner": "jbiaojerry",
+      "name": "ebook-treasure-chest",
+      "full_name": "jbiaojerry/ebook-treasure-chest",
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "language": "Python",
+      "stars": 22676,
+      "forks": 3195,
+      "stars_today": 227,
+      "built_by": [
+        "github-actions"
+      ],
+      "llm_summary": "多平台电子书下载资源库"
+    },
+    {
+      "owner": "makecindy",
+      "name": "cindy",
+      "full_name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 4137,
+      "forks": 598,
+      "stars_today": 477,
+      "built_by": [
+        "claude",
+        "DavidShenXD",
+        "dashhuang",
+        "zqchris",
+        "MagicLizi"
+      ],
+      "llm_summary": "开箱即用的开源AI助手"
+    }
+  ]
+}
