@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-26",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "makecindy",
+      "name": "cindy",
+      "full_name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 4988,
+      "forks": 674,
+      "stars_today": 675,
+      "built_by": [
+        "claude",
+        "MagicLizi",
+        "DavidShenXD",
+        "dashhuang",
+        "zqchris"
+      ],
+      "llm_summary": "开源开箱即用的AI助手，想法即行动"
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 33992,
+      "forks": 1774,
+      "stars_today": 1317,
+      "built_by": [
+        "claude",
+        "JaySmith502",
+        "Luffixos",
+        "riccardogiorato"
+      ],
+      "llm_summary": "提升AI代码编辑器设计质量的专业工具"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 86990,
+      "forks": 9630,
+      "stars_today": 1592,
+      "built_by": [
+        "kevin9327",
+        "claude",
+        "velixio",
+        "jaketame"
+      ],
+      "llm_summary": "开源本地语音处理工具，支持646种语言"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars": 87823,
+      "forks": 5248,
+      "stars_today": 1092,
+      "built_by": [
+        "abdulwahabone",
+        "claude",
+        "cursoragent",
+        "github-actions"
+      ],
+      "llm_summary": "提升AI系统设计能力的专业设计语言"
+    },
+    {
+      "owner": "pollen-robotics",
+      "name": "microduck",
+      "full_name": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "stars": 11725,
+      "forks": 1491,
+      "stars_today": 647,
+      "built_by": [
+        "claude",
+        "Nixxx19",
+        "apirrone",
+        "pierre-rouanet",
+        "Drenayaz"
+      ],
+      "llm_summary": "小巧可爱的双足鸭形机器人"
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 114713,
+      "forks": 22132,
+      "stars_today": 381,
+      "built_by": [
+        "claude",
+        "luohy15",
+        "Yijia-Xiao",
+        "EdwardoSunny",
+        "CadeYu"
+      ],
+      "llm_summary": "多智能体LLM金融交易框架"
+    },
+    {
+      "owner": "Renhuai123",
+      "name": "ziwei-doushu",
+      "full_name": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "stars": 7707,
+      "forks": 1563,
+      "stars_today": 199,
+      "built_by": [
+        "sakura168899-debug",
+        "claude",
+        "Renhuai",
+        "dependabot"
+      ],
+      "llm_summary": "紫微斗数开源排盘引擎，完整算法体系"
+    },
+    {
+      "owner": "JetBrains",
+      "name": "thinkrail",
+      "full_name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": 1842,
+      "forks": 105,
+      "stars_today": 51,
+      "built_by": [
+        "danyaberezun",
+        "claude",
+        "SBOne-Kenobi",
+        "OLavrik",
+        "rsolmano"
+      ],
+      "llm_summary": "轻量级自适应IDE，π编程体验"
+    },
+    {
+      "owner": "coollabsio",
+      "name": "coolify",
+      "full_name": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "language": "PHP",
+      "stars": 64469,
+      "forks": 5794,
+      "stars_today": 152,
+      "built_by": [
+        "claude",
+        "ShadowArcanist",
+        "peaklabs-dev",
+        "github-actions",
+        "andrasbacsai"
+      ],
+      "llm_summary": "开源自托管PaaS，替代Vercel等平台"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 47050,
+      "forks": 2918,
+      "stars_today": 2878,
+      "built_by": [
+        "kennysarnoski-jarvis",
+        "literally-dan",
+        "CooperSheroy"
+      ],
+      "llm_summary": "多阶段安全审计代理，机器可读验证结果"
+    },
+    {
+      "owner": "AgriciDaniel",
+      "name": "claude-seo",
+      "full_name": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
+      "stars": 20990,
+      "forks": 2959,
+      "stars_today": 197,
+      "built_by": [
+        "codex",
+        "claude",
+        "Nordalux",
+        "dependabot"
+      ],
+      "llm_summary": "Claude Code全方位SEO助手，26项子技能"
+    }
+  ]
+}
