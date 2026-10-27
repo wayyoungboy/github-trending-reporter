@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-27",
+  "total_repos": 14,
+  "repositories": [
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 36635,
+      "forks": 1911,
+      "stars_today": 2244,
+      "built_by": [
+        "claude",
+        "riccardogiorato",
+        "Luffixos",
+        "JaySmith502"
+      ],
+      "llm_summary": "提升AI代码生成质量的CSS设计技能"
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 116271,
+      "forks": 22307,
+      "stars_today": 1395,
+      "built_by": [
+        "EdwardoSunny",
+        "Yijia-Xiao",
+        "CadeYu",
+        "claude",
+        "luohy15"
+      ],
+      "llm_summary": "多智能体LLM金融交易框架"
+    },
+    {
+      "owner": "JetBrains",
+      "name": "thinkrail",
+      "full_name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": 3044,
+      "forks": 166,
+      "stars_today": 1173,
+      "built_by": [
+        "rsolmano",
+        "SBOne-Kenobi",
+        "danyaberezun",
+        "OLavrik",
+        "claude"
+      ],
+      "llm_summary": "轻量级智能IDE，按需定制开发体验"
+    },
+    {
+      "owner": "makecindy",
+      "name": "cindy",
+      "full_name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 6640,
+      "forks": 804,
+      "stars_today": 1296,
+      "built_by": [
+        "DavidShenXD",
+        "zqchris",
+        "MagicLizi",
+        "claude",
+        "dashhuang"
+      ],
+      "llm_summary": "开箱即用的开源AI代理"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 289935,
+      "forks": 42966,
+      "stars_today": 896,
+      "built_by": [
+        "claude",
+        "haelyra",
+        "dependabot",
+        "montjeffrey"
+      ],
+      "llm_summary": "AI代理性能优化系统"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars": 89326,
+      "forks": 5316,
+      "stars_today": 1506,
+      "built_by": [
+        "github-actions",
+        "claude",
+        "abdulwahabone",
+        "cursoragent"
+      ],
+      "llm_summary": "提升AI设计能力的设计语言"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "SkillSpector",
+      "full_name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "language": "Python",
+      "stars": 22308,
+      "forks": 1944,
+      "stars_today": 214,
+      "built_by": [
+        "yashrajp22",
+        "keshprad",
+        "claude",
+        "rng1995",
+        "github-actions"
+      ],
+      "llm_summary": "AI代理技能安全漏洞扫描器"
+    },
+    {
+      "owner": "pollen-robotics",
+      "name": "microduck",
+      "full_name": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "stars": 12479,
+      "forks": 1552,
+      "stars_today": 843,
+      "built_by": [
+        "pierre-rouanet",
+        "Drenayaz",
+        "Nixxx19",
+        "claude",
+        "apirrone"
+      ],
+      "llm_summary": "小型双足鸭机器人"
+    },
+    {
+      "owner": "nightly-labs",
+      "name": "openbot",
+      "full_name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars": 1554,
+      "forks": 193,
+      "stars_today": 176,
+      "built_by": [
+        "nrb-dev",
+        "aniruddhaadak80",
+        "Sniezka1927",
+        "claude",
+        "NorbertBodziony"
+      ],
+      "llm_summary": "本地AI协作者桌面工作空间"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 103784,
+      "forks": 9207,
+      "stars_today": 746,
+      "built_by": [
+        "claude",
+        "ricardolaurito",
+        "LohseZSai",
+        "nyxst4ck"
+      ],
+      "llm_summary": "AI代理全网信息获取工具"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 89479,
+      "forks": 9866,
+      "stars_today": 2297,
+      "built_by": [
+        "kevin9327",
+        "claude",
+        "velixio",
+        "jaketame"
+      ],
+      "llm_summary": "开源本地语音克隆与设计工具"
+    },
+    {
+      "owner": "gitroomhq",
+      "name": "postiz-app",
+      "full_name": "gitroomhq/postiz-app",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "language": "TypeScript",
+      "stars": 38540,
+      "forks": 7461,
+      "stars_today": 188,
+      "built_by": [
+        "giladresisi",
+        "jamesread",
+        "nevo-david",
+        "egelhaus",
+        "claude"
+      ],
+      "llm_summary": "AI代理社交媒体调度工具"
+    },
+    {
+      "owner": "alchaincyf",
+      "name": "huashu-design",
+      "full_name": "alchaincyf/huashu-design",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+      "language": "HTML",
+      "stars": 26991,
+      "forks": 2975,
+      "stars_today": 251,
+      "built_by": [
+        "claude",
+        "Jiandong7"
+      ],
+      "llm_summary": "一句话生成多种设计方案的设计工具"
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 224750,
+      "forks": 22481,
+      "stars_today": 638,
+      "built_by": [
+        "szkocot",
+        "back1ply",
+        "forrestchang",
+        "herobrine19",
+        "claude"
+      ],
+      "llm_summary": "改进Claude Code行为的配置文件"
+    }
+  ]
+}
