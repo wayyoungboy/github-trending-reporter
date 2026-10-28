@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-28",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "elayadesign",
+      "name": "ai-design-skills",
+      "full_name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": "Unknown",
+      "stars": 9650,
+      "forks": 685,
+      "stars_today": 1395,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "AI设计技能提升指南"
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 39211,
+      "forks": 2047,
+      "stars_today": 2830,
+      "built_by": [
+        "riccardogiorato",
+        "Luffixos",
+        "JaySmith502",
+        "claude"
+      ],
+      "llm_summary": "防止AI垃圾代码的设计技能"
+    },
+    {
+      "owner": "nightly-labs",
+      "name": "openbot",
+      "full_name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars": 2555,
+      "forks": 258,
+      "stars_today": 777,
+      "built_by": [
+        "nrb-dev",
+        "Sniezka1927",
+        "claude",
+        "NorbertBodziony",
+        "aniruddhaadak80"
+      ],
+      "llm_summary": "本地优先的AI协作工作空间"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 306539,
+      "forks": 27285,
+      "stars_today": 617,
+      "built_by": [
+        "clkao",
+        "claude",
+        "arimu1",
+        "arittr"
+      ],
+      "llm_summary": "有效的代理技能开发框架"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars": 90746,
+      "forks": 5380,
+      "stars_today": 1449,
+      "built_by": [
+        "claude",
+        "cursoragent",
+        "abdulwahabone",
+        "github-actions"
+      ],
+      "llm_summary": "AI代码审查与优化工具"
+    },
+    {
+      "owner": "makecindy",
+      "name": "cindy",
+      "full_name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 7569,
+      "forks": 897,
+      "stars_today": 1465,
+      "built_by": [
+        "DavidShenXD",
+        "dashhuang",
+        "claude",
+        "MagicLizi",
+        "zqchris"
+      ],
+      "llm_summary": "开箱即用的开源AI助手"
+    },
+    {
+      "owner": "gitroomhq",
+      "name": "postiz-app",
+      "full_name": "gitroomhq/postiz-app",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "language": "TypeScript",
+      "stars": 39476,
+      "forks": 7524,
+      "stars_today": 951,
+      "built_by": [
+        "nevo-david",
+        "claude",
+        "giladresisi",
+        "egelhaus",
+        "jamesread"
+      ],
+      "llm_summary": "AI驱动的社交媒体调度工具"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 290991,
+      "forks": 43088,
+      "stars_today": 1165,
+      "built_by": [
+        "dependabot",
+        "claude",
+        "montjeffrey",
+        "haelyra"
+      ],
+      "llm_summary": "AI代理性能优化系统"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 46164,
+      "forks": 5782,
+      "stars_today": 1598,
+      "built_by": [
+        "evan188199-tech",
+        "github-actions",
+        "claude",
+        "pancacake",
+        "Pinkllow"
+      ],
+      "llm_summary": "终身个性化AI辅导平台"
+    },
+    {
+      "owner": "JetBrains",
+      "name": "thinkrail",
+      "full_name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": 4154,
+      "forks": 222,
+      "stars_today": 1204,
+      "built_by": [
+        "danyaberezun",
+        "claude",
+        "OLavrik",
+        "SBOne-Kenobi",
+        "rsolmano"
+      ],
+      "llm_summary": "轻量级自适应IDE开发工具"
+    },
+    {
+      "owner": "togg53192-cmd",
+      "name": "jailbreaks",
+      "full_name": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "Unknown",
+      "stars": 5736,
+      "forks": 847,
+      "stars_today": 902,
+      "built_by": [
+        "reblox01",
+        "metalim",
+        "raghavraut"
+      ],
+      "llm_summary": "AI模型突破限制集合"
+    }
+  ]
+}
