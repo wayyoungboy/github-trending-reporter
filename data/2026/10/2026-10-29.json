@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-29",
+  "total_repos": 14,
+  "repositories": [
+    {
+      "owner": "JetBrains",
+      "name": "thinkrail",
+      "full_name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": 5223,
+      "forks": 269,
+      "stars_today": 1068,
+      "built_by": [
+        "SBOne-Kenobi",
+        "rsolmano",
+        "OLavrik",
+        "claude",
+        "danyaberezun"
+      ],
+      "llm_summary": "轻量级IDE，智能适配工作方式"
+    },
+    {
+      "owner": "elayadesign",
+      "name": "ai-design-skills",
+      "full_name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": "Unknown",
+      "stars": 11291,
+      "forks": 817,
+      "stars_today": 2139,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "AI设计技能学习资源库"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 307556,
+      "forks": 27353,
+      "stars_today": 1095,
+      "built_by": [
+        "clkao",
+        "arittr",
+        "arimu1",
+        "claude"
+      ],
+      "llm_summary": "代理技能框架与开发方法论"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 48281,
+      "forks": 5982,
+      "stars_today": 2371,
+      "built_by": [
+        "Pinkllow",
+        "pancacake",
+        "evan188199-tech",
+        "github-actions",
+        "claude"
+      ],
+      "llm_summary": "终身个性化AI辅导系统"
+    },
+    {
+      "owner": "macro-inc",
+      "name": "macro",
+      "full_name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": 5488,
+      "forks": 523,
+      "stars_today": 117,
+      "built_by": [
+        "peterchinman",
+        "whutchinson98",
+        "gbirman",
+        "sedson",
+        "synoet"
+      ],
+      "llm_summary": "团队统一工作空间，集成AI记忆"
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 40893,
+      "forks": 2121,
+      "stars_today": 2110,
+      "built_by": [
+        "riccardogiorato",
+        "JaySmith502",
+        "claude",
+        "Luffixos"
+      ],
+      "llm_summary": "防止AI生成低质量代码的设计"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars": 93073,
+      "forks": 5492,
+      "stars_today": 1472,
+      "built_by": [
+        "cursoragent",
+        "abdulwahabone",
+        "claude",
+        "github-actions"
+      ],
+      "llm_summary": "AI代码质量设计与审查工具"
+    },
+    {
+      "owner": "makecindy",
+      "name": "cindy",
+      "full_name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 8198,
+      "forks": 959,
+      "stars_today": 728,
+      "built_by": [
+        "dashhuang",
+        "MagicLizi",
+        "DavidShenXD",
+        "zqchris",
+        "claude"
+      ],
+      "llm_summary": "开箱即用的开源AI代理"
+    },
+    {
+      "owner": "nightly-labs",
+      "name": "openbot",
+      "full_name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars": 3352,
+      "forks": 320,
+      "stars_today": 1054,
+      "built_by": [
+        "aniruddhaadak80",
+        "nrb-dev",
+        "Sniezka1927",
+        "NorbertBodziony",
+        "claude"
+      ],
+      "llm_summary": "本地优先的AI工作空间"
+    },
+    {
+      "owner": "togg53192-cmd",
+      "name": "jailbreaks",
+      "full_name": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "Unknown",
+      "stars": 7325,
+      "forks": 1048,
+      "stars_today": 1477,
+      "built_by": [
+        "reblox01",
+        "raghavraut",
+        "metalim"
+      ],
+      "llm_summary": "AI突破限制方法集合"
+    },
+    {
+      "owner": "hmjz100",
+      "name": "LinkSwift",
+      "full_name": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "language": "JavaScript",
+      "stars": 35175,
+      "forks": 2497,
+      "stars_today": 1616,
+      "built_by": [
+        "sherlocknieh",
+        "MisaLiu",
+        "Night-stars-1",
+        "DeepslateQAQ"
+      ],
+      "llm_summary": "多网盘下载地址获取工具"
+    },
+    {
+      "owner": "expo",
+      "name": "skills",
+      "full_name": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "Shell",
+      "stars": 3628,
+      "forks": 230,
+      "stars_today": 90,
+      "built_by": [
+        "gwdp",
+        "Kudo",
+        "EvanBacon",
+        "ide",
+        "claude"
+      ],
+      "llm_summary": "Expo项目AI技能集合"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 101167,
+      "forks": 13166,
+      "stars_today": 557,
+      "built_by": [
+        "proffesor-for-testing",
+        "claude",
+        "dependabot",
+        "aepod"
+      ],
+      "llm_summary": "WiFi信号转为空间智能监测"
+    },
+    {
+      "owner": "xiaolai",
+      "name": "the-craft-of-selfteaching",
+      "full_name": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "language": "Jupyter Notebook",
+      "stars": 18607,
+      "forks": 17899,
+      "stars_today": 148,
+      "built_by": [
+        "ljqbpm",
+        "HarryYC",
+        "wpeiran",
+        "towerzju"
+      ],
+      "llm_summary": "自我教学的艺术与方法"
+    }
+  ]
+}
