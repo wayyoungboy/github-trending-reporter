@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-30",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 50433,
+      "forks": 6209,
+      "stars_today": 1930,
+      "built_by": [
+        "Pinkllow",
+        "claude",
+        "pancacake",
+        "github-actions",
+        "evan188199-tech"
+      ],
+      "llm_summary": "个性化终身学习辅导系统"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 308698,
+      "forks": 27460,
+      "stars_today": 1034,
+      "built_by": [
+        "arimu1",
+        "arittr",
+        "claude",
+        "clkao"
+      ],
+      "llm_summary": "实用的代理技能开发框架"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars": 95635,
+      "forks": 5636,
+      "stars_today": 2870,
+      "built_by": [
+        "abdulwahabone",
+        "github-actions",
+        "claude",
+        "cursoragent"
+      ],
+      "llm_summary": "AI编程代理的设计语言"
+    },
+    {
+      "owner": "JetBrains",
+      "name": "thinkrail",
+      "full_name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": 6097,
+      "forks": 331,
+      "stars_today": 1117,
+      "built_by": [
+        "danyaberezun",
+        "claude",
+        "SBOne-Kenobi",
+        "rsolmano",
+        "OLavrik"
+      ],
+      "llm_summary": "轻量级智能定制化IDE"
+    },
+    {
+      "owner": "milind-soni",
+      "name": "OpenMausBot",
+      "full_name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 7589,
+      "forks": 1122,
+      "stars_today": 1199,
+      "built_by": [
+        "bradhallett",
+        "aivsomkar",
+        "robinsonnblack",
+        "claude"
+      ],
+      "llm_summary": "开源Grok机器人虚拟机替代品"
+    },
+    {
+      "owner": "nightly-labs",
+      "name": "openbot",
+      "full_name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars": 3956,
+      "forks": 365,
+      "stars_today": 709,
+      "built_by": [
+        "claude",
+        "Sniezka1927",
+        "aniruddhaadak80",
+        "NorbertBodziony",
+        "nrb-dev"
+      ],
+      "llm_summary": "本地优先的持久AI队友工作空间"
+    },
+    {
+      "owner": "elayadesign",
+      "name": "ai-design-skills",
+      "full_name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": "Unknown",
+      "stars": 12318,
+      "forks": 894,
+      "stars_today": 1187,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "AI设计技能全面学习资源"
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 104941,
+      "forks": 9253,
+      "stars_today": 336,
+      "built_by": [
+        "rudycelekli",
+        "rodboev",
+        "claude",
+        "cursoragent"
+      ],
+      "llm_summary": "代理跨会话持久上下文工具"
+    },
+    {
+      "owner": "CopilotKit",
+      "name": "OpenBot",
+      "full_name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stars": 8233,
+      "forks": 1050,
+      "stars_today": 247,
+      "built_by": [
+        "guidovizoso",
+        "claude",
+        "Ayush7614",
+        "kevin9327",
+        "davidmckayv"
+      ],
+      "llm_summary": "开源AI同事独立计算环境"
+    },
+    {
+      "owner": "togg53192-cmd",
+      "name": "jailbreaks",
+      "full_name": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "Unknown",
+      "stars": 9273,
+      "forks": 1293,
+      "stars_today": 1594,
+      "built_by": [
+        "raghavraut",
+        "reblox01",
+        "metalim"
+      ],
+      "llm_summary": "AI模型突破限制技术合集"
+    },
+    {
+      "owner": "Donchitos",
+      "name": "Claude-Code-Game-Studios",
+      "full_name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "stars": 29390,
+      "forks": 4061,
+      "stars_today": 353,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "Claude Code游戏开发工作室"
+    }
+  ]
+}
