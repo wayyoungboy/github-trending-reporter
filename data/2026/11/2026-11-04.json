@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-04",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 112084,
+      "forks": 9753,
+      "stars_today": 1139,
+      "built_by": [
+        "claude",
+        "cursoragent",
+        "rudycelekli",
+        "rodboev"
+      ],
+      "llm_summary": "AI代理跨会话持久化上下文管理"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "agent-desktop",
+      "full_name": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "stars": 13139,
+      "forks": 904,
+      "stars_today": 3791,
+      "built_by": [
+        "lahfir",
+        "dependabot",
+        "detail-app",
+        "github-actions",
+        "ctate"
+      ],
+      "llm_summary": "AI代理计算机操作命令行工具"
+    },
+    {
+      "owner": "max-sixty",
+      "name": "worktrunk",
+      "full_name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars": 10588,
+      "forks": 383,
+      "stars_today": 438,
+      "built_by": [
+        "claude",
+        "dependabot",
+        "github-actions",
+        "worktrunk-bot"
+      ],
+      "llm_summary": "并行AI代理Git工作流管理"
+    },
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "language": "C",
+      "stars": 47335,
+      "forks": 5469,
+      "stars_today": 802,
+      "built_by": [
+        "claude",
+        "ZacharyZcR",
+        "rudycelekli",
+        "monotophic"
+      ],
+      "llm_summary": "MoE模型分层推理高效引擎"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 311645,
+      "forks": 26189,
+      "stars_today": 1164,
+      "built_by": [
+        "claude",
+        "gabimoncha",
+        "github-actions"
+      ],
+      "llm_summary": "工程师实用技能集合工具"
+    },
+    {
+      "owner": "p-e-w",
+      "name": "heretic",
+      "full_name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "language": "Python",
+      "stars": 38904,
+      "forks": 4393,
+      "stars_today": 701,
+      "built_by": [
+        "spikymoth",
+        "dependabot",
+        "Vinay-Umrethe",
+        "anrp"
+      ],
+      "llm_summary": "语言模型无训练修改工具"
+    },
+    {
+      "owner": "spotify",
+      "name": "portal-ai-plugins",
+      "full_name": "spotify/portal-ai-plugins",
+      "url": "https://github.com/spotify/portal-ai-plugins",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 3079,
+      "forks": 239,
+      "stars_today": 91,
+      "built_by": [
+        "claude",
+        "javoire",
+        "sorantis",
+        "djamaile"
+      ],
+      "llm_summary": "Spotify AI插件系统"
+    },
+    {
+      "owner": "floci-io",
+      "name": "floci",
+      "full_name": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "language": "Java",
+      "stars": 28929,
+      "forks": 3221,
+      "stars_today": 482,
+      "built_by": [
+        "pgermosen",
+        "okinaka",
+        "hectorvent",
+        "AndreKurait",
+        "exoego"
+      ],
+      "llm_summary": "轻量级AWS本地模拟替代工具"
+    },
+    {
+      "owner": "Usagi-org",
+      "name": "ai-goofish-monitor",
+      "full_name": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "language": "Python",
+      "stars": 16661,
+      "forks": 2861,
+      "stars_today": 228,
+      "built_by": [
+        "claude",
+        "dingyufei615",
+        "ijodion",
+        "hurleychin"
+      ],
+      "llm_summary": "闲鱼商品AI智能监控系统"
+    },
+    {
+      "owner": "anomalyco",
+      "name": "hex",
+      "full_name": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "description": "Local voice dictation for mac, windows and linux",
+      "language": "Rust",
+      "stars": 4683,
+      "forks": 261,
+      "stars_today": 410,
+      "built_by": [
+        "vimtor",
+        "Hona",
+        "opencode-agent",
+        "thdxr",
+        "kitlangton"
+      ],
+      "llm_summary": "跨平台本地语音听写工具"
+    },
+    {
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "full_name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+      "language": "Python",
+      "stars": 95120,
+      "forks": 9970,
+      "stars_today": 1658,
+      "built_by": [
+        "codex",
+        "AbdullahY36",
+        "SulimanAbdulrazzaq",
+        "yetval"
+      ],
+      "llm_summary": "全能型网络爬虫框架"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 46579,
+      "forks": 7669,
+      "stars_today": 503,
+      "built_by": [
+        "CharlesJ-ABu",
+        "Luciferbobo",
+        "AnMakc",
+        "randyy179"
+      ],
+      "llm_summary": "金融市场语言基础模型"
+    },
+    {
+      "owner": "Donchitos",
+      "name": "Claude-Code-Game-Studios",
+      "full_name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "stars": 34791,
+      "forks": 4608,
+      "stars_today": 1182,
+      "built_by": [
+        "claude"
+      ],
+      "llm_summary": "Claude Code游戏开发工作室系统"
+    }
+  ]
+}
