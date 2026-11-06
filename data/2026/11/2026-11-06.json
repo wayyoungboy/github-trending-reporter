@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-06",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "NVIDIA",
+      "name": "auto-ontology",
+      "full_name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "stars": 7642,
+      "forks": 611,
+      "stars_today": 2679,
+      "built_by": [
+        "liavnave",
+        "DinaLaptii",
+        "liofnv",
+        "tomer-levin-nv",
+        "yuvalshkolar"
+      ],
+      "llm_summary": "基于图的语义推理框架，提升AI可解释性"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 315513,
+      "forks": 26415,
+      "stars_today": 2071,
+      "built_by": [
+        "github-actions",
+        "gabimoncha",
+        "claude"
+      ],
+      "llm_summary": "实用工程师技能集合，提升工作效率"
+    },
+    {
+      "owner": "garrytan",
+      "name": "gstack",
+      "full_name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars": 140052,
+      "forks": 20701,
+      "stars_today": 612,
+      "built_by": [
+        "szsunyuan",
+        "capy-ai",
+        "test22345",
+        "claude"
+      ],
+      "llm_summary": "23个AI辅助工具，覆盖全开发流程"
+    },
+    {
+      "owner": "Usagi-org",
+      "name": "ai-goofish-monitor",
+      "full_name": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "language": "Python",
+      "stars": 17781,
+      "forks": 2965,
+      "stars_today": 240,
+      "built_by": [
+        "hurleychin",
+        "dingyufei615",
+        "ijodion",
+        "claude"
+      ],
+      "llm_summary": "闲鱼商品智能监控系统，精准筛选心仪商品"
+    },
+    {
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "full_name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+      "language": "Python",
+      "stars": 98184,
+      "forks": 10284,
+      "stars_today": 1655,
+      "built_by": [
+        "yetval",
+        "SulimanAbdulrazzaq",
+        "codex",
+        "AbdullahY36"
+      ],
+      "llm_summary": "全能网页抓取框架，从单请求到大规模爬取"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "agent-desktop",
+      "full_name": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "stars": 17139,
+      "forks": 1213,
+      "stars_today": 2173,
+      "built_by": [
+        "detail-app",
+        "lahfir",
+        "dependabot",
+        "ctate",
+        "github-actions"
+      ],
+      "llm_summary": "AI代理的计算机控制命令行工具"
+    },
+    {
+      "owner": "max-sixty",
+      "name": "worktrunk",
+      "full_name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars": 11587,
+      "forks": 441,
+      "stars_today": 546,
+      "built_by": [
+        "worktrunk-bot",
+        "github-actions",
+        "dependabot",
+        "claude"
+      ],
+      "llm_summary": "Git工作树管理CLI，优化AI代理并行工作流"
+    },
+    {
+      "owner": "lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": 12424,
+      "forks": 1636,
+      "stars_today": 23,
+      "built_by": [
+        "t-mat",
+        "Cyan4973",
+        "felixhandte",
+        "dependabot",
+        "inikep"
+      ],
+      "llm_summary": "极速压缩算法，高效处理数据"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "full_name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 22452,
+      "forks": 1894,
+      "stars_today": 211,
+      "built_by": [
+        "wangauone",
+        "cloud-ix-copybara",
+        "helloeve",
+        "holtskinner",
+        "martinvarelaj"
+      ],
+      "llm_summary": "Google产品AI技能集合，增强智能交互"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "full_name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 46015,
+      "forks": 3150,
+      "stars_today": 150,
+      "built_by": [
+        "claude",
+        "lahfir",
+        "github-actions",
+        "Railly",
+        "ctate"
+      ],
+      "llm_summary": "AI代理浏览器自动化命令行工具"
+    },
+    {
+      "owner": "scenario-labs",
+      "name": "skills",
+      "full_name": "scenario-labs/skills",
+      "url": "https://github.com/scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "language": "Python",
+      "stars": 3163,
+      "forks": 276,
+      "stars_today": 667,
+      "built_by": [
+        "gh-actions-token-retriever-public",
+        "edemaistre",
+        "codex",
+        "claude",
+        "hervenivon"
+      ],
+      "llm_summary": "多模态AI内容生成，保持品牌一致性"
+    },
+    {
+      "owner": "ConardLi",
+      "name": "garden-skills",
+      "full_name": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "language": "JavaScript",
+      "stars": 14242,
+      "forks": 1654,
+      "stars_today": 175,
+      "built_by": [
+        "github-actions",
+        "cursoragent",
+        "eltociear"
+      ],
+      "llm_summary": "多领域AI技能集合，覆盖网页设计与创作"
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 56094,
+      "forks": 6314,
+      "stars_today": 223,
+      "built_by": [
+        "MSLDCherryPick",
+        "YaoyaoChang",
+        "pengzhiliang",
+        "Copilot",
+        "jsoref"
+      ],
+      "llm_summary": "微软开源前沿语音AI技术平台"
+    },
+    {
+      "owner": "floci-io",
+      "name": "floci",
+      "full_name": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "language": "Java",
+      "stars": 30519,
+      "forks": 3335,
+      "stars_today": 779,
+      "built_by": [
+        "exoego",
+        "pgermosen",
+        "okinaka",
+        "hectorvent",
+        "AndreKurait"
+      ],
+      "llm_summary": "轻量AWS本地模拟器，免费替代方案"
+    },
+    {
+      "owner": "JiaFeiMiao-K-Cat",
+      "name": "DiscImageStudio",
+      "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "description": "",
+      "language": "C#",
+      "stars": 7387,
+      "forks": 264,
+      "stars_today": 984,
+      "built_by": [
+        "Catho168",
+        "keremuysal",
+        "eltociear",
+        "claude"
+      ],
+      "llm_summary": "磁盘镜像处理工具，高效管理数据"
+    }
+  ]
+}
