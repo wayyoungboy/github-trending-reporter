@@ -1,0 +1,325 @@
+{
+  "date": "2026-11-07",
+  "total_repos": 17,
+  "repositories": [
+    {
+      "owner": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": 93731,
+      "forks": 11506,
+      "stars_today": 306,
+      "built_by": [
+        "as-cii",
+        "ConradIrwin",
+        "maxbrunsfeld",
+        "maxdeviant",
+        "nathansobo"
+      ],
+      "llm_summary": "极速多人协作代码编辑器"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "auto-ontology",
+      "full_name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "stars": 9199,
+      "forks": 733,
+      "stars_today": 2015,
+      "built_by": [
+        "liavnave",
+        "DinaLaptii",
+        "liofnv",
+        "tomer-levin-nv",
+        "yuvalshkolar"
+      ],
+      "llm_summary": "构建语义图推理层的AI框架"
+    },
+    {
+      "owner": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": 59042,
+      "forks": 23833,
+      "stars_today": 142,
+      "built_by": [
+        "kamipo",
+        "byroot",
+        "jeremy",
+        "tenderlove",
+        "rafaelfranca"
+      ],
+      "llm_summary": "高效Ruby Web开发框架"
+    },
+    {
+      "owner": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": 37904,
+      "forks": 3633,
+      "stars_today": 37,
+      "built_by": [
+        "guidocella",
+        "haasn",
+        "kasper93",
+        "Dudemanguy",
+        "pigoz"
+      ],
+      "llm_summary": "轻量级命令行媒体播放器"
+    },
+    {
+      "owner": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 121491,
+      "forks": 17369,
+      "stars_today": 192,
+      "built_by": [
+        "matthiaskrgr",
+        "RalfJung",
+        "matklad",
+        "GuillaumeGomez",
+        "bors"
+      ],
+      "llm_summary": "可靠高效的系统编程语言"
+    },
+    {
+      "owner": "react",
+      "name": "react",
+      "full_name": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 252280,
+      "forks": 51819,
+      "stars_today": 248,
+      "built_by": [
+        "sebmarkbage",
+        "sophiebits",
+        "acdlite",
+        "gaearon",
+        "zpao"
+      ],
+      "llm_summary": "构建Web与原生界面的库"
+    },
+    {
+      "owner": "angular",
+      "name": "angular",
+      "full_name": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "language": "TypeScript",
+      "stars": 101396,
+      "forks": 28912,
+      "stars_today": 135,
+      "built_by": [
+        "gkalpak",
+        "angular-robot",
+        "petebacondarwin",
+        "devversion",
+        "crisbeto"
+      ],
+      "llm_summary": "企业级Web应用开发框架"
+    },
+    {
+      "owner": "symfony",
+      "name": "symfony",
+      "full_name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 31450,
+      "forks": 9949,
+      "stars_today": 128,
+      "built_by": [
+        "nicolas-grekas",
+        "derrabus",
+        "fabpot",
+        "chalasr",
+        "xabbuh"
+      ],
+      "llm_summary": "灵活PHP Web开发框架"
+    },
+    {
+      "owner": "prometheus",
+      "name": "prometheus",
+      "full_name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 67213,
+      "forks": 10989,
+      "stars_today": 148,
+      "built_by": [
+        "juliusv",
+        "beorn7",
+        "dependabot",
+        "fabxc",
+        "bboreham"
+      ],
+      "llm_summary": "开源监控与时序数据库"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "full_name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 22884,
+      "forks": 1926,
+      "stars_today": 534,
+      "built_by": [
+        "holtskinner",
+        "helloeve",
+        "wangauone",
+        "martinvarelaj",
+        "cloud-ix-copybara"
+      ],
+      "llm_summary": "Google产品代理技能框架"
+    },
+    {
+      "owner": "microsoft",
+      "name": "vscode",
+      "full_name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "stars": 195053,
+      "forks": 44429,
+      "stars_today": 301,
+      "built_by": [
+        "joaomoreno",
+        "sandy081",
+        "jrieken",
+        "Tyriar",
+        "bpasero"
+      ],
+      "llm_summary": "轻量级多功能代码编辑器"
+    },
+    {
+      "owner": "nushell",
+      "name": "nushell",
+      "full_name": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "stars": 41001,
+      "forks": 2343,
+      "stars_today": 131,
+      "built_by": [
+        "fdncred",
+        "andrasio",
+        "dependabot",
+        "sholderbach",
+        "sophiajt"
+      ],
+      "llm_summary": "数据流导向的现代shell"
+    },
+    {
+      "owner": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 52626,
+      "forks": 10590,
+      "stars_today": 128,
+      "built_by": [
+        "ahrtr",
+        "serathius",
+        "yichengq",
+        "gyuho",
+        "xiang90"
+      ],
+      "llm_summary": "分布式系统的可靠键值存储"
+    },
+    {
+      "owner": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "stars": 31309,
+      "forks": 11580,
+      "stars_today": 26,
+      "built_by": [
+        "paulidale",
+        "snhenson",
+        "levitte",
+        "mattcaswell",
+        "dot-asm"
+      ],
+      "llm_summary": "通用TLS与加密工具库"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 316843,
+      "forks": 26510,
+      "stars_today": 2070,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "gabimoncha"
+      ],
+      "llm_summary": "工程师实用技能集"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 64257,
+      "forks": 4161,
+      "stars_today": 2548,
+      "built_by": [
+        "literally-dan",
+        "CooperSheroy",
+        "kennysarnoski-jarvis"
+      ],
+      "llm_summary": "多阶段安全审计代理技能"
+    },
+    {
+      "owner": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": 50722,
+      "forks": 2613,
+      "stars_today": 169,
+      "built_by": [
+        "charliermarsh",
+        "MichaReiser",
+        "renovate",
+        "AlexWaygood",
+        "sharkdp"
+      ],
+      "llm_summary": "极速Python代码检查工具"
+    }
+  ]
+}
