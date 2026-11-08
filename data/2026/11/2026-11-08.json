@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-08",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "full_name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 46919,
+      "forks": 3217,
+      "stars_today": 190,
+      "built_by": [
+        "Railly",
+        "ctate",
+        "claude",
+        "github-actions",
+        "lahfir"
+      ],
+      "llm_summary": "AI代理浏览器自动化命令行工具"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 65888,
+      "forks": 4281,
+      "stars_today": 2085,
+      "built_by": [
+        "literally-dan",
+        "CooperSheroy",
+        "kennysarnoski-jarvis"
+      ],
+      "llm_summary": "多阶段安全审计技能，提供可验证结果"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "full_name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 23470,
+      "forks": 1961,
+      "stars_today": 443,
+      "built_by": [
+        "cloud-ix-copybara",
+        "martinvarelaj",
+        "helloeve",
+        "wangauone",
+        "holtskinner"
+      ],
+      "llm_summary": "Google产品与技术的代理技能集合"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 317820,
+      "forks": 26588,
+      "stars_today": 1100,
+      "built_by": [
+        "github-actions",
+        "gabimoncha",
+        "claude"
+      ],
+      "llm_summary": "工程师实用代理技能，源自实践"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 188871,
+      "forks": 22261,
+      "stars_today": 390,
+      "built_by": [
+        "klazuka",
+        "cj-ant",
+        "claude",
+        "ericharmeling",
+        "rlancemartin"
+      ],
+      "llm_summary": "Anthropic代理技能公共仓库"
+    },
+    {
+      "owner": "meta",
+      "name": "astryx",
+      "full_name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 14647,
+      "forks": 1198,
+      "stars_today": 96,
+      "built_by": [
+        "cixzhang",
+        "rubyycheung",
+        "vjeux",
+        "josephfarina",
+        "github-actions"
+      ],
+      "llm_summary": "开源可定制代理就绪设计系统"
+    },
+    {
+      "owner": "prometheus",
+      "name": "prometheus",
+      "full_name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 67470,
+      "forks": 11007,
+      "stars_today": 322,
+      "built_by": [
+        "beorn7",
+        "fabxc",
+        "juliusv",
+        "bboreham",
+        "dependabot"
+      ],
+      "llm_summary": "Prometheus监控与时间序列数据库"
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 100756,
+      "forks": 11901,
+      "stars_today": 1766,
+      "built_by": [
+        "sdushantha",
+        "ppfeister",
+        "hoadlck",
+        "TheYahya",
+        "Czechball"
+      ],
+      "llm_summary": "跨社交网络用户名账户查找工具"
+    },
+    {
+      "owner": "milind-soni",
+      "name": "OpenMausBot",
+      "full_name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 17145,
+      "forks": 2421,
+      "stars_today": 1955,
+      "built_by": [
+        "bradhallett",
+        "robinsonnblack",
+        "aivsomkar",
+        "claude"
+      ],
+      "llm_summary": "开源Grok机器人替代，带虚拟机功能"
+    },
+    {
+      "owner": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": 51003,
+      "forks": 2633,
+      "stars_today": 350,
+      "built_by": [
+        "renovate",
+        "charliermarsh",
+        "sharkdp",
+        "MichaReiser",
+        "AlexWaygood"
+      ],
+      "llm_summary": "Rust编写的极速Python代码检查工具"
+    },
+    {
+      "owner": "tailwindlabs",
+      "name": "tailwindcss",
+      "full_name": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "stars": 98521,
+      "forks": 7112,
+      "stars_today": 122,
+      "built_by": [
+        "reinink",
+        "thecrypticace",
+        "RobinMalfait",
+        "adamwathan",
+        "depfu"
+      ],
+      "llm_summary": "实用优先CSS框架，加速UI开发"
+    },
+    {
+      "owner": "mbillow",
+      "name": "localthings",
+      "full_name": "mbillow/localthings",
+      "url": "https://github.com/mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "language": "Python",
+      "stars": 1082,
+      "forks": 113,
+      "stars_today": 186,
+      "built_by": [
+        "roweboat123",
+        "Metal-Eagle",
+        "perseus177",
+        "antiremy"
+      ],
+      "llm_summary": "本地网络控制三星家电，无需云端"
+    },
+    {
+      "owner": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": 94318,
+      "forks": 11557,
+      "stars_today": 1114,
+      "built_by": [
+        "ConradIrwin",
+        "maxbrunsfeld",
+        "nathansobo",
+        "maxdeviant",
+        "as-cii"
+      ],
+      "llm_summary": "高性能多人代码编辑器，思维速度编程"
+    },
+    {
+      "owner": "ranxianglei",
+      "name": "billion-context",
+      "full_name": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "stars": 4669,
+      "forks": 372,
+      "stars_today": 191,
+      "built_by": [
+        "z0d0dOr",
+        "YunzhouLi-hub",
+        "yanhuojiyusheng",
+        "github-actions"
+      ],
+      "llm_summary": "上下文压缩插件，长会话小窗口，省5倍token"
+    },
+    {
+      "owner": "dsx-ai-factory",
+      "name": "nvke",
+      "full_name": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "stars": 591,
+      "forks": 91,
+      "stars_today": 123,
+      "built_by": [
+        "dims",
+        "TerryHowe",
+        "jedimt",
+        "lia-campbell",
+        "danbudris"
+      ],
+      "llm_summary": "裸机GPU Kubernetes管理平台"
+    }
+  ]
+}
