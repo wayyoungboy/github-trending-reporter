@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-09",
+  "total_repos": 9,
+  "repositories": [
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 104235,
+      "forks": 12174,
+      "stars_today": 2373,
+      "built_by": [
+        "TheYahya",
+        "sdushantha",
+        "hoadlck",
+        "ppfeister",
+        "Czechball"
+      ],
+      "llm_summary": "跨平台社交账号搜索工具"
+    },
+    {
+      "owner": "dsx-ai-factory",
+      "name": "nvke",
+      "full_name": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "stars": 903,
+      "forks": 112,
+      "stars_today": 345,
+      "built_by": [
+        "dims",
+        "jedimt",
+        "danbudris",
+        "TerryHowe",
+        "lia-campbell"
+      ],
+      "llm_summary": "裸机GPU Kubernetes管理平台"
+    },
+    {
+      "owner": "milind-soni",
+      "name": "OpenMausBot",
+      "full_name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 18535,
+      "forks": 2566,
+      "stars_today": 1439,
+      "built_by": [
+        "aivsomkar",
+        "robinsonnblack",
+        "bradhallett",
+        "claude"
+      ],
+      "llm_summary": "带虚拟机的开源Grok机器人替代品"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-quickstarts",
+      "full_name": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars": 19519,
+      "forks": 3284,
+      "stars_today": 32,
+      "built_by": [
+        "claude",
+        "alexalbertt",
+        "cj-ant",
+        "x5a",
+        "zealoushacker"
+      ],
+      "llm_summary": "Claude API快速开发应用集合"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "full_name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 47771,
+      "forks": 3268,
+      "stars_today": 815,
+      "built_by": [
+        "ctate",
+        "claude",
+        "github-actions",
+        "Railly",
+        "lahfir"
+      ],
+      "llm_summary": "AI代理浏览器自动化CLI工具"
+    },
+    {
+      "owner": "meta",
+      "name": "astryx",
+      "full_name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 17233,
+      "forks": 1362,
+      "stars_today": 875,
+      "built_by": [
+        "rubyycheung",
+        "vjeux",
+        "github-actions",
+        "cixzhang",
+        "josephfarina"
+      ],
+      "llm_summary": "开源可定制代理就绪设计系统"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 189791,
+      "forks": 22361,
+      "stars_today": 792,
+      "built_by": [
+        "claude",
+        "cj-ant",
+        "ericharmeling",
+        "klazuka",
+        "rlancemartin"
+      ],
+      "llm_summary": "AI代理技能公共资源库"
+    },
+    {
+      "owner": "google-deepmind",
+      "name": "mujoco",
+      "full_name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": 16493,
+      "forks": 1957,
+      "stars_today": 41,
+      "built_by": [
+        "yuvaltassa",
+        "quagla",
+        "haroonq",
+        "saran-t",
+        "kbayes"
+      ],
+      "llm_summary": "多关节动力学接触物理模拟器"
+    },
+    {
+      "owner": "ranxianglei",
+      "name": "billion-context",
+      "full_name": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "stars": 5291,
+      "forks": 413,
+      "stars_today": 460,
+      "built_by": [
+        "YunzhouLi-hub",
+        "yanhuojiyusheng",
+        "z0d0dOr",
+        "github-actions"
+      ],
+      "llm_summary": "高效上下文压缩，小窗口大容量"
+    }
+  ]
+}
