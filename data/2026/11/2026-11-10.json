@@ -1,0 +1,211 @@
+{
+  "date": "2026-11-10",
+  "total_repos": 11,
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 191289,
+      "forks": 22463,
+      "stars_today": 1038,
+      "built_by": [
+        "rlancemartin",
+        "claude",
+        "klazuka",
+        "ericharmeling",
+        "cj-ant"
+      ],
+      "llm_summary": "AI代理技能开源库，助力智能应用开发"
+    },
+    {
+      "owner": "meta",
+      "name": "astryx",
+      "full_name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 20653,
+      "forks": 1568,
+      "stars_today": 3278,
+      "built_by": [
+        "josephfarina",
+        "rubyycheung",
+        "vjeux",
+        "cixzhang",
+        "github-actions"
+      ],
+      "llm_summary": "全可定制化代理就绪设计系统"
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 107569,
+      "forks": 12444,
+      "stars_today": 4267,
+      "built_by": [
+        "hoadlck",
+        "Czechball",
+        "ppfeister",
+        "TheYahya",
+        "sdushantha"
+      ],
+      "llm_summary": "跨平台社交媒体账户搜索引擎"
+    },
+    {
+      "owner": "google-deepmind",
+      "name": "mujoco",
+      "full_name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": 17018,
+      "forks": 2006,
+      "stars_today": 574,
+      "built_by": [
+        "kbayes",
+        "saran-t",
+        "haroonq",
+        "yuvaltassa",
+        "quagla"
+      ],
+      "llm_summary": "多关节接触动力学通用物理模拟器"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-quickstarts",
+      "full_name": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars": 20125,
+      "forks": 3322,
+      "stars_today": 551,
+      "built_by": [
+        "zealoushacker",
+        "x5a",
+        "claude",
+        "alexalbertt",
+        "cj-ant"
+      ],
+      "llm_summary": "Claude API快速应用开发示例集合"
+    },
+    {
+      "owner": "garrytan",
+      "name": "gbrain",
+      "full_name": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "language": "TypeScript",
+      "stars": 32269,
+      "forks": 4777,
+      "stars_today": 216,
+      "built_by": [
+        "claude",
+        "Masashi-Ono0611",
+        "capy-ai",
+        "time-attack"
+      ],
+      "llm_summary": "OpenClaw/Hermes智能代理大脑"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "full_name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 48652,
+      "forks": 3314,
+      "stars_today": 916,
+      "built_by": [
+        "claude",
+        "lahfir",
+        "Railly",
+        "github-actions",
+        "ctate"
+      ],
+      "llm_summary": "AI代理浏览器自动化命令行工具"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 103611,
+      "forks": 13420,
+      "stars_today": 172,
+      "built_by": [
+        "proffesor-for-testing",
+        "aepod",
+        "dependabot",
+        "claude"
+      ],
+      "llm_summary": "WiFi信号实时空间智能与生命监测"
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 69134,
+      "forks": 56454,
+      "stars_today": 506,
+      "built_by": [
+        "freesme",
+        "massif-01",
+        "Activer007",
+        "birdxs"
+      ],
+      "llm_summary": "LLM驱动的多市场股票智能分析系统"
+    },
+    {
+      "owner": "homeassistant-ai",
+      "name": "ha-mcp",
+      "full_name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "stars": 6124,
+      "forks": 299,
+      "stars_today": 31,
+      "built_by": [
+        "kingpanther13",
+        "julienld",
+        "dependabot",
+        "claude",
+        "github-actions"
+      ],
+      "llm_summary": "智能家居AI助手自动化配置工具"
+    },
+    {
+      "owner": "milind-soni",
+      "name": "OpenMausBot",
+      "full_name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 19984,
+      "forks": 2731,
+      "stars_today": 1587,
+      "built_by": [
+        "bradhallett",
+        "robinsonnblack",
+        "claude",
+        "aivsomkar"
+      ],
+      "llm_summary": "开源Grok机器人替代品，带虚拟机支持"
+    }
+  ]
+}
