@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-11",
+  "total_repos": 12,
+  "repositories": [
+    {
+      "owner": "meta",
+      "name": "astryx",
+      "full_name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 23264,
+      "forks": 1840,
+      "stars_today": 3108,
+      "built_by": [
+        "vjeux",
+        "rubyycheung",
+        "cixzhang",
+        "josephfarina",
+        "github-actions"
+      ],
+      "llm_summary": "开源可定制AI设计系统"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 192473,
+      "forks": 22661,
+      "stars_today": 1679,
+      "built_by": [
+        "rlancemartin",
+        "ericharmeling",
+        "cj-ant",
+        "klazuka",
+        "claude"
+      ],
+      "llm_summary": "AI代理技能公共仓库"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 115272,
+      "forks": 12104,
+      "stars_today": 465,
+      "built_by": [
+        "nucliweb",
+        "claude",
+        "rudycelekli",
+        "ayobamiseun"
+      ],
+      "llm_summary": "AI编程代理生产级技能"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-quickstarts",
+      "full_name": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars": 20564,
+      "forks": 3474,
+      "stars_today": 531,
+      "built_by": [
+        "cj-ant",
+        "alexalbertt",
+        "claude",
+        "zealoushacker",
+        "x5a"
+      ],
+      "llm_summary": "Claude API快速构建应用项目集"
+    },
+    {
+      "owner": "google-deepmind",
+      "name": "mujoco",
+      "full_name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": 17433,
+      "forks": 2148,
+      "stars_today": 456,
+      "built_by": [
+        "saran-t",
+        "quagla",
+        "kbayes",
+        "yuvaltassa",
+        "haroonq"
+      ],
+      "llm_summary": "多关节接触通用物理模拟器"
+    },
+    {
+      "owner": "we-promise",
+      "name": "sure",
+      "full_name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars": 12115,
+      "forks": 898,
+      "stars_today": 159,
+      "built_by": [
+        "jjmata",
+        "dependabot",
+        "Shpigford",
+        "claude",
+        "zachgoll"
+      ],
+      "llm_summary": "全民参与的个人理财应用"
+    },
+    {
+      "owner": "homeassistant-ai",
+      "name": "ha-mcp",
+      "full_name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "stars": 6759,
+      "forks": 435,
+      "stars_today": 790,
+      "built_by": [
+        "kingpanther13",
+        "dependabot",
+        "julienld",
+        "claude",
+        "github-actions"
+      ],
+      "llm_summary": "AI助手自动化智能家居系统"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "full_name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 49344,
+      "forks": 3454,
+      "stars_today": 780,
+      "built_by": [
+        "ctate",
+        "lahfir",
+        "Railly",
+        "claude",
+        "github-actions"
+      ],
+      "llm_summary": "AI代理浏览器自动化工具"
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 109204,
+      "forks": 12678,
+      "stars_today": 2393,
+      "built_by": [
+        "hoadlck",
+        "sdushantha",
+        "TheYahya",
+        "ppfeister",
+        "Czechball"
+      ],
+      "llm_summary": "跨平台社交媒体账户查找工具"
+    },
+    {
+      "owner": "tokio-rs",
+      "name": "topcoat",
+      "full_name": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "language": "Rust",
+      "stars": 6898,
+      "forks": 304,
+      "stars_today": 192,
+      "built_by": [
+        "pikaju",
+        "akoll",
+        "AmeinEskinder",
+        "carllerche",
+        "github-actions"
+      ],
+      "llm_summary": "全功能Web应用开发框架"
+    },
+    {
+      "owner": "ranxianglei",
+      "name": "billion-context",
+      "full_name": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "stars": 6418,
+      "forks": 534,
+      "stars_today": 375,
+      "built_by": [
+        "z0d0dOr",
+        "yanhuojiyusheng",
+        "YunzhouLi-hub",
+        "github-actions"
+      ],
+      "llm_summary": "超长会话上下文压缩插件"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 321086,
+      "forks": 26920,
+      "stars_today": 1225,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "gabimoncha"
+      ],
+      "llm_summary": "工程师实用AI代理技能集"
+    }
+  ]
+}
