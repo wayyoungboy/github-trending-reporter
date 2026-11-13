@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-13",
+  "total_repos": 13,
+  "repositories": [
+    {
+      "owner": "GoogleChrome",
+      "name": "modern-web-guidance-src",
+      "full_name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "language": "TypeScript",
+      "stars": 3360,
+      "forks": 213,
+      "stars_today": 739,
+      "built_by": [
+        "github-actions",
+        "micahjo7",
+        "rviscomi",
+        "paulirish",
+        "LeaVerou"
+      ],
+      "llm_summary": "助你掌握最新Web最佳实践"
+    },
+    {
+      "owner": "openai",
+      "name": "codex-security",
+      "full_name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+      "language": "TypeScript",
+      "stars": 12564,
+      "forks": 981,
+      "stars_today": 643,
+      "built_by": [
+        "mldangelo-oai",
+        "dependabot",
+        "codex",
+        "ianw-oai",
+        "kmbroai"
+      ],
+      "llm_summary": "Codex安全漏洞检测修复工具"
+    },
+    {
+      "owner": "nvm-sh",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars": 96038,
+      "forks": 10760,
+      "stars_today": 63,
+      "built_by": [
+        "lukechilds",
+        "creationix",
+        "koenpunt",
+        "ljharb",
+        "PeterDaveHello"
+      ],
+      "llm_summary": "Node.js版本管理利器"
+    },
+    {
+      "owner": "pookjw",
+      "name": "HermesEnabler",
+      "full_name": "pookjw/HermesEnabler",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "language": "Objective-C",
+      "stars": 1598,
+      "forks": 143,
+      "stars_today": 218,
+      "built_by": [
+        "metalnodeug",
+        "claude",
+        "SamZong233",
+        "dfrias"
+      ],
+      "llm_summary": "Apple Watch Hermès表盘解锁工具"
+    },
+    {
+      "owner": "we-promise",
+      "name": "sure",
+      "full_name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars": 14063,
+      "forks": 1058,
+      "stars_today": 967,
+      "built_by": [
+        "Shpigford",
+        "dependabot",
+        "jjmata",
+        "claude",
+        "zachgoll"
+      ],
+      "llm_summary": "全民共享的个人理财助手"
+    },
+    {
+      "owner": "QwenLM",
+      "name": "qwen-code",
+      "full_name": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "language": "TypeScript",
+      "stars": 29905,
+      "forks": 3403,
+      "stars_today": 151,
+      "built_by": [
+        "qwen-code-dev-bot",
+        "qwencoder",
+        "wenshao",
+        "tanzhenxin",
+        "yiliang114"
+      ],
+      "llm_summary": "终端内开源AI编程助手"
+    },
+    {
+      "owner": "ashhart",
+      "name": "TensorFold",
+      "full_name": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "language": "Zig",
+      "stars": 1989,
+      "forks": 394,
+      "stars_today": 54,
+      "built_by": [
+        "laudney",
+        "BlivionIaG",
+        "jschmied",
+        "BobClawblaw"
+      ],
+      "llm_summary": "跨平台LLM推理引擎"
+    },
+    {
+      "owner": "nodejs",
+      "name": "node",
+      "full_name": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars": 123620,
+      "forks": 38057,
+      "stars_today": 62,
+      "built_by": [
+        "Trott",
+        "bnoordhuis",
+        "isaacs",
+        "addaleax",
+        "ry"
+      ],
+      "llm_summary": "JavaScript运行时环境"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 116779,
+      "forks": 12214,
+      "stars_today": 816,
+      "built_by": [
+        "rudycelekli",
+        "ayobamiseun",
+        "claude",
+        "nucliweb"
+      ],
+      "llm_summary": "AI编码代理工程技能库"
+    },
+    {
+      "owner": "meta",
+      "name": "astryx",
+      "full_name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 26749,
+      "forks": 2073,
+      "stars_today": 1830,
+      "built_by": [
+        "github-actions",
+        "vjeux",
+        "josephfarina",
+        "rubyycheung",
+        "cixzhang"
+      ],
+      "llm_summary": "开源可定制设计系统"
+    },
+    {
+      "owner": "CopilotKit",
+      "name": "OpenBot",
+      "full_name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stars": 11733,
+      "forks": 1449,
+      "stars_today": 298,
+      "built_by": [
+        "guidovizoso",
+        "kevin9327",
+        "Ayush7614",
+        "davidmckayv",
+        "claude"
+      ],
+      "llm_summary": "拥有独立计算机的开源AI助手"
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars": 69441,
+      "forks": 10778,
+      "stars_today": 415,
+      "built_by": [
+        "Tanishq-1",
+        "dependabot",
+        "claude",
+        "cursoragent"
+      ],
+      "llm_summary": "免费使用多种AI模型和工具"
+    },
+    {
+      "owner": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": 134632,
+      "forks": 25515,
+      "stars_today": 176,
+      "built_by": [
+        "CISC",
+        "ngxson",
+        "slaren",
+        "JohannesGaessler",
+        "ggerganov"
+      ],
+      "llm_summary": "C++实现的LLM推理引擎"
+    }
+  ]
+}
