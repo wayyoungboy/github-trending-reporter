@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-18",
+  "total_repos": 15,
+  "repositories": [
+    {
+      "owner": "elementalsouls",
+      "name": "Claude-BugHunter",
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "language": "Python",
+      "stars": 9691,
+      "forks": 1388,
+      "stars_today": 1005,
+      "built_by": [
+        "injectifytest",
+        "rudycelekli",
+        "claude",
+        "github-actions"
+      ],
+      "llm_summary": "Claude漏洞挖掘红队技能包，覆盖24类漏洞"
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 69287,
+      "forks": 6162,
+      "stars_today": 696,
+      "built_by": [
+        "tmchow",
+        "dependabot",
+        "claude",
+        "iliaal"
+      ],
+      "llm_summary": "跨平台AI研究代理，自动汇总多平台热点信息"
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 53881,
+      "forks": 4438,
+      "stars_today": 763,
+      "built_by": [
+        "wu21-web",
+        "chethanuk",
+        "stay-foolish-forever",
+        "lizhengfeng101",
+        "Qiyuanqiii"
+      ],
+      "llm_summary": "阿里开源代码审查工具，结合LLM与安全规则集"
+    },
+    {
+      "owner": "Tencent",
+      "name": "LoopForge",
+      "full_name": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "language": "Go",
+      "stars": 3428,
+      "forks": 463,
+      "stars_today": 591,
+      "built_by": [
+        "cursoragent",
+        "Robert0622",
+        "claude",
+        "crispinhu27"
+      ],
+      "llm_summary": "腾讯开源编码代理工作流编排工具"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "language": "TypeScript",
+      "stars": 29179,
+      "forks": 2626,
+      "stars_today": 1774,
+      "built_by": [
+        "wzhudev",
+        "Dushusir",
+        "wpxp123456",
+        "DR-Univer",
+        "jikkai"
+      ],
+      "llm_summary": "AI办公SDK，构建专属智能办公系统"
+    },
+    {
+      "owner": "getarcaneapp",
+      "name": "arcane",
+      "full_name": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "language": "Go",
+      "stars": 9427,
+      "forks": 517,
+      "stars_today": 618,
+      "built_by": [
+        "cabaucom376",
+        "GiulioSavini",
+        "dependabot",
+        "getarcaneappbot",
+        "kmendell"
+      ],
+      "llm_summary": "现代简洁的Docker容器管理工具"
+    },
+    {
+      "owner": "google-labs-code",
+      "name": "stitch-skills",
+      "full_name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": 10179,
+      "forks": 1335,
+      "stars_today": 350,
+      "built_by": [
+        "davideast",
+        "meeChn",
+        "JLXIA",
+        "dalmaer",
+        "Emp1500"
+      ],
+      "llm_summary": "谷歌代理技能库，兼容多种编码助手"
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 16963,
+      "forks": 1837,
+      "stars_today": 201,
+      "built_by": [
+        "djiang-jq",
+        "ericzakariasson",
+        "poteto",
+        "minupalaniappan",
+        "cursoragent"
+      ],
+      "llm_summary": "Cursor编辑器官方插件与规范"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 319485,
+      "forks": 28485,
+      "stars_today": 1917,
+      "built_by": [
+        "clkao",
+        "arittr",
+        "arimu1",
+        "claude"
+      ],
+      "llm_summary": "高效代理技能框架与开发方法论"
+    },
+    {
+      "owner": "ag-ui-protocol",
+      "name": "ag-ui",
+      "full_name": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "language": "TypeScript",
+      "stars": 20112,
+      "forks": 2072,
+      "stars_today": 1445,
+      "built_by": [
+        "jpr5",
+        "ranst91",
+        "mme",
+        "claude",
+        "contextablemark"
+      ],
+      "llm_summary": "代理前端交互协议，无缝集成AI助手"
+    },
+    {
+      "owner": "backnotprop",
+      "name": "plannotator",
+      "full_name": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "language": "TypeScript",
+      "stars": 13149,
+      "forks": 1316,
+      "stars_today": 691,
+      "built_by": [
+        "uvw",
+        "leoreisdias",
+        "claude",
+        "utpalsinghdev"
+      ],
+      "llm_summary": "智能代理协作工作空间，一键反馈"
+    },
+    {
+      "owner": "sveltejs",
+      "name": "svelte",
+      "full_name": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "stars": 89656,
+      "forks": 6241,
+      "stars_today": 477,
+      "built_by": [
+        "Rich-Harris",
+        "trueadm",
+        "github-actions",
+        "Conduitry",
+        "dummdidumm"
+      ],
+      "llm_summary": "简洁高效的现代Web开发框架"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 305715,
+      "forks": 44995,
+      "stars_today": 883,
+      "built_by": [
+        "claude",
+        "L4XB",
+        "haelyra",
+        "montjeffrey"
+      ],
+      "llm_summary": "AI代理性能优化系统，提升开发效率"
+    },
+    {
+      "owner": "jingyaogong",
+      "name": "minimind",
+      "full_name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars": 66162,
+      "forks": 8682,
+      "stars_today": 192,
+      "built_by": [
+        "iomgaa-ycz",
+        "Linxiushen",
+        "readlnh",
+        "basil-k-aji-dev"
+      ],
+      "llm_summary": "2小时训练64M参数LLM的快速工具"
+    },
+    {
+      "owner": "google-research",
+      "name": "paper-orchestra",
+      "full_name": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "language": "Python",
+      "stars": 3282,
+      "forks": 431,
+      "stars_today": 1072,
+      "built_by": [
+        "obrienciaran",
+        "yiwen-song"
+      ],
+      "llm_summary": "谷歌多代理AI论文自动写作框架"
+    }
+  ]
+}
