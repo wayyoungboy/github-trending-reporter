@@ -1,0 +1,358 @@
+{
+  "date": "2026-11-19",
+  "total_repos": 19,
+  "repositories": [
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 17299,
+      "forks": 1911,
+      "stars_today": 314,
+      "built_by": [
+        "djiang-jq",
+        "minupalaniappan",
+        "cursoragent",
+        "poteto",
+        "ericzakariasson"
+      ],
+      "llm_summary": "Cursor插件规范与官方插件集合"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 59931,
+      "forks": 5440,
+      "stars_today": 389,
+      "built_by": [
+        "yuh-yang",
+        "omerarslan0",
+        "AiMiDi",
+        "claude",
+        "hito0512"
+      ],
+      "llm_summary": "让所有软件具备智能代理原生能力"
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 70193,
+      "forks": 6255,
+      "stars_today": 1059,
+      "built_by": [
+        "dependabot",
+        "tmchow",
+        "claude",
+        "iliaal"
+      ],
+      "llm_summary": "跨平台研究并生成主题总结的AI技能"
+    },
+    {
+      "owner": "getarcaneapp",
+      "name": "arcane",
+      "full_name": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "language": "Go",
+      "stars": 9895,
+      "forks": 568,
+      "stars_today": 547,
+      "built_by": [
+        "cabaucom376",
+        "getarcaneappbot",
+        "GiulioSavini",
+        "dependabot",
+        "kmendell"
+      ],
+      "llm_summary": "现代化Docker管理工具，人人可用"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "SkillEvaluator",
+      "full_name": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
+      "language": "Python",
+      "stars": 3830,
+      "forks": 524,
+      "stars_today": 312,
+      "built_by": [
+        "kweinmeister",
+        "rng1995",
+        "YMuskrat",
+        "claude",
+        "chrisknvidia"
+      ],
+      "llm_summary": "AI代理技能与插件的综合性评估框架"
+    },
+    {
+      "owner": "nvm-sh",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars": 96175,
+      "forks": 10781,
+      "stars_today": 237,
+      "built_by": [
+        "ljharb",
+        "lukechilds",
+        "creationix",
+        "PeterDaveHello",
+        "koenpunt"
+      ],
+      "llm_summary": "Node.js版本管理工具"
+    },
+    {
+      "owner": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": 92284,
+      "forks": 3924,
+      "stars_today": 258,
+      "built_by": [
+        "renovate",
+        "konstin",
+        "charliermarsh",
+        "zanieb",
+        "astral-automations-bot"
+      ],
+      "llm_summary": "超快Python包与项目管理工具"
+    },
+    {
+      "owner": "google-research",
+      "name": "paper-orchestra",
+      "full_name": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "language": "Python",
+      "stars": 4463,
+      "forks": 551,
+      "stars_today": 1524,
+      "built_by": [
+        "obrienciaran",
+        "yiwen-song"
+      ],
+      "llm_summary": "多代理框架自动化AI研究论文写作"
+    },
+    {
+      "owner": "google-labs-code",
+      "name": "stitch-skills",
+      "full_name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": 10470,
+      "forks": 1371,
+      "stars_today": 365,
+      "built_by": [
+        "meeChn",
+        "dalmaer",
+        "Emp1500",
+        "JLXIA",
+        "davideast"
+      ],
+      "llm_summary": "兼容多种编码代理的Agent技能库"
+    },
+    {
+      "owner": "sveltejs",
+      "name": "svelte",
+      "full_name": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "stars": 89663,
+      "forks": 6209,
+      "stars_today": 692,
+      "built_by": [
+        "Rich-Harris",
+        "trueadm",
+        "dummdidumm",
+        "github-actions",
+        "Conduitry"
+      ],
+      "llm_summary": "面向大众的Web开发框架"
+    },
+    {
+      "owner": "jquery",
+      "name": "jquery",
+      "full_name": "jquery/jquery",
+      "url": "https://github.com/jquery/jquery",
+      "description": "jQuery JavaScript Library",
+      "language": "JavaScript",
+      "stars": 60036,
+      "forks": 20709,
+      "stars_today": 266,
+      "built_by": [
+        "jeresig",
+        "mgol",
+        "timmywil",
+        "dmethvin",
+        "jzaefferer"
+      ],
+      "llm_summary": "简化JavaScript开发的库"
+    },
+    {
+      "owner": "appwrite",
+      "name": "appwrite",
+      "full_name": "appwrite/appwrite",
+      "url": "https://github.com/appwrite/appwrite",
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "language": "TypeScript",
+      "stars": 58278,
+      "forks": 5885,
+      "stars_today": 232,
+      "built_by": [
+        "abnegate",
+        "Meldiron",
+        "ChiragAgg5k",
+        "eldadfux",
+        "lohanidamodar"
+      ],
+      "llm_summary": "面向代理和开发者的开源云平台"
+    },
+    {
+      "owner": "openvinotoolkit",
+      "name": "openvino",
+      "full_name": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "stars": 11375,
+      "forks": 3604,
+      "stars_today": 24,
+      "built_by": [
+        "ilya-lavrenov",
+        "mvafin",
+        "rkazants",
+        "dependabot",
+        "ilyachur"
+      ],
+      "llm_summary": "优化和部署AI推理的开源工具包"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 321438,
+      "forks": 28568,
+      "stars_today": 822,
+      "built_by": [
+        "arittr",
+        "claude",
+        "arimu1",
+        "clkao"
+      ],
+      "llm_summary": "有效的智能代理技能框架和方法"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 306690,
+      "forks": 45150,
+      "stars_today": 1108,
+      "built_by": [
+        "haelyra",
+        "L4XB",
+        "claude",
+        "montjeffrey"
+      ],
+      "llm_summary": "代理性能优化系统，支持多种AI编码工具"
+    },
+    {
+      "owner": "DeanChensj",
+      "name": "jiangshan-map",
+      "full_name": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "language": "JavaScript",
+      "stars": 8115,
+      "forks": 994,
+      "stars_today": 218,
+      "built_by": [
+        "mathieuwang",
+        "claude",
+        "xcv58",
+        "zsc8917zsc"
+      ],
+      "llm_summary": "中国历史交互地图时间轴"
+    },
+    {
+      "owner": "n8n-io",
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": 211188,
+      "forks": 61575,
+      "stars_today": 325,
+      "built_by": [
+        "RicardoE105",
+        "janober",
+        "claude",
+        "netroy",
+        "ivov"
+      ],
+      "llm_summary": "具有原生AI能力的工作流自动化平台"
+    },
+    {
+      "owner": "solidjs",
+      "name": "solid",
+      "full_name": "solidjs/solid",
+      "url": "https://github.com/solidjs/solid",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "language": "TypeScript",
+      "stars": 36650,
+      "forks": 1186,
+      "stars_today": 40,
+      "built_by": [
+        "ryansolid",
+        "claude",
+        "cursoragent",
+        "brenelz"
+      ],
+      "llm_summary": "声明式高效的JavaScript UI库"
+    },
+    {
+      "owner": "punkpeye",
+      "name": "awesome-mcp-servers",
+      "full_name": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "language": "Unknown",
+      "stars": 98107,
+      "forks": 20368,
+      "stars_today": 53,
+      "built_by": [
+        "kukapay",
+        "claude",
+        "cursoragent",
+        "SecretiveShell"
+      ],
+      "llm_summary": "MCP服务器集合"
+    }
+  ]
+}
