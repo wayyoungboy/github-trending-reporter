@@ -1,0 +1,302 @@
+{
+  "date": "2026-11-26",
+  "total_repos": 16,
+  "repositories": [
+    {
+      "owner": "elementalsouls",
+      "name": "Claude-BugHunter",
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "language": "Python",
+      "stars": 23329,
+      "forks": 2390,
+      "stars_today": 1652,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "rudycelekli",
+        "injectifytest"
+      ],
+      "llm_summary": "Claude漏洞检测与红队测试专业工具"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 326803,
+      "forks": 28994,
+      "stars_today": 903,
+      "built_by": [
+        "claude",
+        "arittr",
+        "clkao",
+        "arimu1"
+      ],
+      "llm_summary": "有效的代理技能开发框架"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 65848,
+      "forks": 5992,
+      "stars_today": 1106,
+      "built_by": [
+        "claude",
+        "yuh-yang",
+        "omerarslan0",
+        "hito0512",
+        "AiMiDi"
+      ],
+      "llm_summary": "软件代理化转换核心工具"
+    },
+    {
+      "owner": "jingyaogong",
+      "name": "minimind",
+      "full_name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "language": "Python",
+      "stars": 71181,
+      "forks": 9239,
+      "stars_today": 826,
+      "built_by": [
+        "iomgaa-ycz",
+        "Linxiushen",
+        "readlnh",
+        "basil-k-aji-dev"
+      ],
+      "llm_summary": "两小时训练64M大模型神器"
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 19597,
+      "forks": 2117,
+      "stars_today": 416,
+      "built_by": [
+        "ericzakariasson",
+        "djiang-jq",
+        "minupalaniappan",
+        "cursoragent",
+        "poteto"
+      ],
+      "llm_summary": "Cursor编辑器官方插件库"
+    },
+    {
+      "owner": "firecrawl",
+      "name": "firecrawl",
+      "full_name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "language": "TypeScript",
+      "stars": 210273,
+      "forks": 11005,
+      "stars_today": 1135,
+      "built_by": [
+        "claude",
+        "rafaelsideguide",
+        "abimaelmartell",
+        "mogery",
+        "nickscamara"
+      ],
+      "llm_summary": "智能代理知识获取统一API"
+    },
+    {
+      "owner": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": 33413,
+      "forks": 8409,
+      "stars_today": 176,
+      "built_by": [
+        "pluknet",
+        "mdounin",
+        "VBart",
+        "vl-homutov",
+        "arut"
+      ],
+      "llm_summary": "高性能Web服务器官方源码"
+    },
+    {
+      "owner": "openvinotoolkit",
+      "name": "openvino",
+      "full_name": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "stars": 12696,
+      "forks": 3718,
+      "stars_today": 191,
+      "built_by": [
+        "mvafin",
+        "ilyachur",
+        "rkazants",
+        "dependabot",
+        "ilya-lavrenov"
+      ],
+      "llm_summary": "AI模型推理优化部署工具"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 73262,
+      "forks": 4872,
+      "stars_today": 1141,
+      "built_by": [
+        "claude",
+        "github-actions",
+        "mvanhorn",
+        "rudycelekli"
+      ],
+      "llm_summary": "多平台专业图表设计工具"
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 75272,
+      "forks": 6640,
+      "stars_today": 945,
+      "built_by": [
+        "claude",
+        "tmchow",
+        "dependabot",
+        "iliaal"
+      ],
+      "llm_summary": "多平台信息聚合分析技能"
+    },
+    {
+      "owner": "google-labs-code",
+      "name": "stitch-skills",
+      "full_name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": 13059,
+      "forks": 1544,
+      "stars_today": 355,
+      "built_by": [
+        "Emp1500",
+        "dalmaer",
+        "JLXIA",
+        "davideast",
+        "rudycelekli"
+      ],
+      "llm_summary": "多平台兼容的代理技能库"
+    },
+    {
+      "owner": "mjmirza",
+      "name": "app-store-compliance",
+      "full_name": "mjmirza/app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "language": "Shell",
+      "stars": 6616,
+      "forks": 435,
+      "stars_today": 858,
+      "built_by": [
+        "rudycelekli",
+        "harpreetkbadhan",
+        "google-labs-jules",
+        "omaralbeik"
+      ],
+      "llm_summary": "应用商店合规检查工具"
+    },
+    {
+      "owner": "Tracer-Cloud",
+      "name": "opensre",
+      "full_name": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "language": "Python",
+      "stars": 15600,
+      "forks": 2035,
+      "stars_today": 348,
+      "built_by": [
+        "YauhenBichel",
+        "davincios",
+        "cursoragent",
+        "VaibhavUpreti",
+        "muddlebee"
+      ],
+      "llm_summary": "CI/CD可靠性监控代理"
+    },
+    {
+      "owner": "toeverything",
+      "name": "AFFiNE",
+      "full_name": "toeverything/AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "language": "TypeScript",
+      "stars": 78617,
+      "forks": 5725,
+      "stars_today": 574,
+      "built_by": [
+        "pengx17",
+        "EYHN",
+        "JimmFly",
+        "darkskygit",
+        "renovate"
+      ],
+      "llm_summary": "隐私优先的全能知识平台"
+    },
+    {
+      "owner": "XiaoYouChR",
+      "name": "Ghost-Downloader-3",
+      "full_name": "XiaoYouChR/Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "language": "Python",
+      "stars": 18480,
+      "forks": 1110,
+      "stars_today": 951,
+      "built_by": [
+        "github-actions",
+        "i0ntempest",
+        "Alpha-Qian",
+        "LittleNightSong"
+      ],
+      "llm_summary": "全能多功能下载工具"
+    },
+    {
+      "owner": "zhouxiaoka",
+      "name": "autoclip",
+      "full_name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "language": "Python",
+      "stars": 16391,
+      "forks": 2346,
+      "stars_today": 880,
+      "built_by": [
+        "claude",
+        "YxYL6125",
+        "codex",
+        "cursoragent"
+      ],
+      "llm_summary": "AI视频自动剪辑重构工具"
+    }
+  ]
+}
